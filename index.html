@@ -27,6 +27,21 @@
       <article class="sidecard"><div class="eyebrow">DİPLOMASİ</div><h3>Müzakere masasında güç dengesi nasıl kurulur?</h3><div class="meta">Dış politika · 5 dk</div></article>
     </div>
   </section>
+  
+  <section id="canli-haberler">
+    <div class="sectionhead"><div><h2>Kaynaklardan son haberler</h2><p>RSS akışlarından düzenli olarak toplanır · Başlıklar kaynak sayfasına bağlanır</p></div><span class="demo">RSS AKIŞI</span></div>
+    <div class="filters" id="live-filters">
+      <button class="filter active" data-live-filter="Tümü">Tümü</button>
+      <button class="filter" data-live-filter="Türkiye">Türkiye</button>
+      <button class="filter" data-live-filter="Dünya">Dünya</button>
+      <button class="filter" data-live-filter="Savunma">Savunma</button>
+      <button class="filter" data-live-filter="Siyaset">Siyaset</button>
+    </div>
+    <div id="live-status" class="notice">Haber akışı yükleniyor. İlk kurulumda GitHub Actions'ın ilk çalışmasını bekle.</div>
+    <div class="grid" id="live-stories"></div>
+    <p class="notice">Başlıklar ve kısa özetler kaynaklardan gelir. Tam haber için kaynağın bağlantısını açın. RSS erişimi, kaynakların kullanım koşullarına tabidir.</p>
+  </section>
+
   <section id="haberler">
     <div class="sectionhead"><div><h2>Haber merkezi</h2><p>Askerî gelişmeler, siyaset ve bölgesel analizler</p></div><span class="demo">ÖRNEK İÇERİK</span></div>
     <div class="filters" id="filters"><button class="filter active" data-filter="Tümü">Tümü</button><button class="filter" data-filter="Askerî">Askerî</button><button class="filter" data-filter="Siyaset">Siyaset</button><button class="filter" data-filter="Jeopolitik">Jeopolitik</button><button class="filter" data-filter="Analiz">Analiz</button></div>
@@ -70,6 +85,53 @@ document.getElementById('search').addEventListener('input',update);
 document.querySelectorAll('[data-nav]').forEach(a=>a.addEventListener('click',()=>{active=a.dataset.nav;document.querySelectorAll('.filter').forEach(x=>x.classList.toggle('active',x.dataset.filter===active));update()}));
 const modal=document.getElementById('modal');document.querySelectorAll('[data-open]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();const i=Number(a.dataset.open);document.getElementById('modalTitle').textContent=items[i][0];document.getElementById('modalText').textContent=items[i][1];modal.classList.add('open')}));document.getElementById('close').addEventListener('click',()=>modal.classList.remove('open'));modal.addEventListener('click',e=>{if(e.target===modal)modal.classList.remove('open')});document.addEventListener('keydown',e=>{if(e.key==='Escape')modal.classList.remove('open')});
 document.getElementById('subscribe').addEventListener('submit',e=>{e.preventDefault();alert('Bu taslakta e-posta aboneliği etkin değil. Gerçek abonelik için bir servis bağlanmalı.');});
+
+// Live RSS-derived headlines are published by the scheduled GitHub Actions workflow to site/news.json.
+let liveItems = [];
+let liveFilter = "Tümü";
+async function loadLiveNews(){
+  const status = document.getElementById("live-status");
+  const host = document.getElementById("live-stories");
+  try {
+    const response = await fetch("./news.json?ts=" + Date.now(), {cache:"no-store"});
+    if (!response.ok) throw new Error("news.json bulunamadı");
+    const data = await response.json();
+    liveItems = Array.isArray(data.items) ? data.items : [];
+    status.textContent = liveItems.length
+      ? `Son güncelleme: ${data.updated_at || "bilinmiyor"} · ${liveItems.length} başlık`
+      : "Akış okundu ancak henüz haber bulunamadı.";
+    renderLiveNews();
+  } catch (e) {
+    status.textContent = "Otomatik haber akışı henüz hazır değil. GitHub deposunda Actions çalıştıktan ve news.json oluştuğunda haberler burada görünür.";
+  }
+}
+function renderLiveNews(){
+  const host = document.getElementById("live-stories");
+  host.innerHTML = "";
+  const list = liveItems.filter(item => liveFilter === "Tümü" || item.category === liveFilter).slice(0,18);
+  for (const item of list) {
+    const card = document.createElement("article");
+    card.className = "story";
+    const art = document.createElement("div");
+    art.className = "art " + (item.category === "Savunma" ? "red" : item.category === "Dünya" ? "blue" : "gold");
+    const symbol = document.createElement("span"); symbol.className = "symbol"; symbol.textContent = item.category === "Savunma" ? "✦" : item.category === "Dünya" ? "◎" : "◈"; art.appendChild(symbol);
+    const body = document.createElement("div"); body.className = "storybody";
+    const tag = document.createElement("div"); tag.className = "tag"; tag.textContent = `${item.category || "Gündem"} · ${item.source || "Kaynak"}`;
+    const title = document.createElement("h3"); title.textContent = item.title || "Başlıksız haber";
+    const desc = document.createElement("p"); desc.textContent = item.summary || "Ayrıntılar için kaynak haberini açın.";
+    const meta = document.createElement("div"); meta.className = "meta"; meta.style.marginBottom = "10px"; meta.textContent = item.published_at || "";
+    const link = document.createElement("a"); link.className = "read"; link.href = item.link || "#"; link.target = "_blank"; link.rel = "noopener noreferrer"; link.textContent = "KAYNAĞI OKU ↗";
+    body.append(tag,title,desc,meta,link); card.append(art,body); host.appendChild(card);
+  }
+  if (!list.length) host.innerHTML = '<p class="empty" style="display:block">Bu kategoride şu an haber yok.</p>';
+}
+document.querySelectorAll("[data-live-filter]").forEach(button => button.addEventListener("click", () => {
+  liveFilter = button.dataset.liveFilter;
+  document.querySelectorAll("[data-live-filter]").forEach(b => b.classList.toggle("active", b === button));
+  renderLiveNews();
+}));
+loadLiveNews();
+
 </script>
 </body>
 </html>
