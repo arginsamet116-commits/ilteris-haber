@@ -3,33 +3,207 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#101114">
-<title>İLTERİS | Askerî ve Siyasi Analiz</title>
+<meta name="theme-color" content="#0d0f12">
+<meta name="description" content="İLTERİS: askerî gelişmeler, siyaset, diplomasi ve jeopolitik gündem. Kaynak bağlantılarıyla güncel haber başlıkları ve editoryal analizler.">
+<title>İLTERİS | Askerî, Siyasi ve Jeopolitik Gündem</title>
 <style>
-:root{--bg:#0d0f12;--panel:#15181d;--panel2:#1c2027;--text:#f3f4f6;--muted:#a2a8b3;--red:#e63946;--line:#2b3038;--gold:#d8b36a}
-*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.55 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}a{color:inherit;text-decoration:none}button,input{font:inherit}.wrap{max-width:1180px;margin:auto;padding:0 20px}.topline{background:#08090b;color:#c5c8ce;font-size:12px;border-bottom:1px solid var(--line)}.topline .wrap{display:flex;justify-content:space-between;gap:12px;padding-top:8px;padding-bottom:8px}.masthead{padding:22px 0 18px;border-bottom:1px solid var(--line)}.brandrow{display:flex;align-items:center;justify-content:space-between;gap:18px}.brand{font-weight:950;letter-spacing:2px;font-size:32px;line-height:1}.brand span{color:var(--red)}.tagline{color:var(--muted);font-size:12px;letter-spacing:1.5px;margin-top:7px;text-transform:uppercase}.search{background:var(--panel);border:1px solid var(--line);color:var(--text);padding:10px 13px;border-radius:8px;width:min(280px,45vw)}nav{display:flex;gap:24px;overflow:auto;padding:15px 0 0;white-space:nowrap;font-size:13px;font-weight:750}nav a{color:#d5d8dd}nav a:hover{color:var(--red)}.breaking{background:var(--red);color:white;margin:18px 0;display:flex;align-items:center;gap:13px;padding:10px 14px;border-radius:4px;font-size:13px}.breaking b{font-size:11px;letter-spacing:1px;background:#101114;padding:4px 7px;border-radius:2px}.breaking span{overflow:hidden;text-overflow:ellipsis}.hero{display:grid;grid-template-columns:1.45fr 1fr;gap:16px;margin:18px 0 28px}.hero-main{min-height:350px;position:relative;overflow:hidden;border-radius:8px;background:linear-gradient(0deg,rgba(0,0,0,.94),rgba(0,0,0,.05)),radial-gradient(ellipse at 70% 25%,#52606c 0%,#222b34 27%,#11151a 65%);display:flex;align-items:end;padding:28px}.hero-main:before{content:"";position:absolute;inset:0;background:linear-gradient(125deg,transparent 30%,rgba(230,57,70,.18)),repeating-linear-gradient(145deg,transparent 0 40px,rgba(255,255,255,.025) 41px 42px)}.hero-content{position:relative;max-width:620px}.eyebrow{color:var(--red);font-weight:850;letter-spacing:1.5px;font-size:11px;text-transform:uppercase}.hero h1{font-size:clamp(28px,4vw,46px);line-height:1.08;margin:10px 0 12px;letter-spacing:-1px}.hero p{color:#d2d5db;max-width:580px;margin:0 0 15px}.meta{font-size:12px;color:var(--muted)}.hero-side{display:grid;gap:16px}.sidecard{background:linear-gradient(120deg,#232a33,#13161b);border:1px solid var(--line);border-radius:8px;padding:22px;display:flex;flex-direction:column;justify-content:end;min-height:165px;position:relative;overflow:hidden}.sidecard:after{content:"";position:absolute;right:-20px;top:-38px;width:160px;height:160px;border:1px solid #59616d;border-radius:50%;box-shadow:0 0 0 18px #ffffff05,0 0 0 40px #ffffff03}.sidecard>*{position:relative;z-index:1}.sidecard h3{font-size:21px;line-height:1.2;margin:8px 0}.sectionhead{display:flex;align-items:end;justify-content:space-between;gap:12px;margin:30px 0 15px}.sectionhead h2{font-size:23px;margin:0;letter-spacing:-.5px}.sectionhead p{margin:4px 0 0;color:var(--muted);font-size:13px}.filters{display:flex;gap:8px;flex-wrap:wrap;margin:15px 0}.filter{background:var(--panel);color:#d6d9df;border:1px solid var(--line);border-radius:30px;padding:8px 13px;cursor:pointer;font-size:12px;font-weight:750}.filter.active,.filter:hover{background:var(--red);border-color:var(--red);color:#fff}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.story{border:1px solid var(--line);border-radius:8px;background:var(--panel);overflow:hidden;transition:transform .18s,border-color .18s}.story:hover{transform:translateY(-3px);border-color:#59616d}.art{height:135px;background:linear-gradient(135deg,#303944,#111419);position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center}.art:before{content:"";position:absolute;width:180px;height:180px;border:1px solid #ffffff20;border-radius:50%;box-shadow:0 0 0 20px #ffffff05,0 0 0 45px #ffffff03}.art .symbol{font-size:44px;position:relative;filter:grayscale(.4)}.art.red{background:linear-gradient(135deg,#54252b,#171419)}.art.blue{background:linear-gradient(135deg,#263e51,#11151a)}.art.gold{background:linear-gradient(135deg,#53452e,#171715)}.storybody{padding:16px}.tag{font-size:10px;letter-spacing:1px;text-transform:uppercase;color:var(--red);font-weight:900}.story h3{font-size:18px;line-height:1.25;margin:8px 0}.story p{font-size:13px;color:#b8bec8;margin:0 0 13px}.read{color:#fff;font-size:12px;font-weight:800}.read:hover{color:var(--red)}.layout{display:grid;grid-template-columns:1.5fr .8fr;gap:18px;margin-top:32px}.panel{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:20px}.panel h2{margin:0 0 15px;font-size:20px}.timeline{border-left:2px solid #3c424c;padding-left:18px;display:grid;gap:17px}.event{position:relative}.event:before{content:"";position:absolute;left:-24px;top:6px;width:10px;height:10px;background:var(--red);border-radius:50%;box-shadow:0 0 0 4px #e6394620}.event time{font-size:11px;color:var(--gold);font-weight:800}.event h3{font-size:15px;margin:3px 0}.event p{font-size:12px;color:var(--muted);margin:0}.brief{padding:12px 0;border-bottom:1px solid var(--line)}.brief:last-child{border:0}.brief small{color:var(--red);font-weight:850}.brief h3{font-size:14px;margin:4px 0}.mapbox{height:190px;border-radius:6px;background:radial-gradient(ellipse at 50% 50%,#273640,#13171b 72%);position:relative;overflow:hidden;display:grid;place-items:center;text-align:center}.mapbox:before{content:"";position:absolute;inset:-30%;background:repeating-linear-gradient(30deg,transparent 0 34px,#ffffff10 35px 36px),repeating-linear-gradient(120deg,transparent 0 44px,#ffffff08 45px 46px);transform:rotate(-8deg)}.mapbox div{position:relative}.mapbox strong{font-size:22px;letter-spacing:2px}.mapbox p{font-size:12px;color:var(--muted);margin:4px}.notice{font-size:11px;color:#b9bec7;background:#101216;border:1px solid var(--line);padding:12px;border-radius:6px;margin-top:15px}.newsletter{margin:30px 0;background:linear-gradient(110deg,#3a171d,#18191e);border:1px solid #623039;padding:22px;border-radius:8px;display:flex;justify-content:space-between;align-items:center;gap:18px}.newsletter h2{margin:0 0 5px}.newsletter p{margin:0;color:#c4c7ce;font-size:13px}.newsletter form{display:flex;gap:8px}.newsletter input{min-width:0;width:210px;padding:10px;border-radius:5px;border:1px solid #49434a;background:#101114;color:white}.newsletter button,.btn{border:0;background:var(--red);color:#fff;font-weight:800;border-radius:5px;padding:10px 14px;cursor:pointer}.newsletter button:hover,.btn:hover{background:#c92e3a}footer{border-top:1px solid var(--line);padding:25px 0;color:var(--muted);font-size:12px}.footrow{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}.empty{display:none;color:var(--muted);padding:24px 0}.modal{position:fixed;inset:0;background:#000b;display:none;align-items:center;justify-content:center;padding:20px;z-index:5}.modal.open{display:flex}.modalbox{max-width:650px;width:100%;max-height:85vh;overflow:auto;background:#171a20;border:1px solid #414751;border-radius:10px;padding:24px}.modalbox h2{font-size:28px;line-height:1.15}.close{float:right;background:#2a2e36;color:white;border:0;border-radius:5px;padding:6px 10px;cursor:pointer}.demo{font-size:10px;background:#292e35;color:#cdd2da;padding:4px 7px;border-radius:3px;letter-spacing:.5px}
-@media(max-width:760px){.wrap{padding:0 14px}.topline .wrap{font-size:10px}.brand{font-size:27px}.tagline{font-size:9px}.search{width:42vw;padding:9px}.hero{grid-template-columns:1fr}.hero-main{min-height:330px;padding:21px}.hero-side{grid-template-columns:1fr 1fr}.sidecard{min-height:155px;padding:14px}.sidecard h3{font-size:17px}.grid{grid-template-columns:1fr 1fr;gap:10px}.art{height:110px}.storybody{padding:12px}.story h3{font-size:16px}.story p{font-size:12px}.layout{grid-template-columns:1fr}.newsletter{align-items:stretch;flex-direction:column}.newsletter form{width:100%}.newsletter input{flex:1;width:0}nav{gap:18px;font-size:12px}.sectionhead h2{font-size:21px}}
-@media(max-width:400px){.grid{grid-template-columns:1fr}.art{height:145px}.hero-side{grid-template-columns:1fr}.sidecard{min-height:130px}.search{width:38vw}}
+:root{color-scheme:dark;--bg:#0d0f12;--panel:#15181d;--panel2:#1c2027;--text:#f3f4f6;--muted:#a2a8b3;--red:#e63946;--line:#2b3038;--gold:#d8b36a}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:16px}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+a{color:inherit;text-decoration:none}
+button,input{font:inherit}
+button,a,input{-webkit-tap-highlight-color:transparent}
+button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+.wrap{max-width:1180px;margin:auto;padding:0 20px}
+.topline{background:#08090b;color:#c5c8ce;font-size:12px;border-bottom:1px solid var(--line)}
+.topline .wrap{display:flex;justify-content:space-between;gap:12px;padding-top:8px;padding-bottom:8px}
+.masthead{padding:22px 0 18px;border-bottom:1px solid var(--line)}
+.brandrow{display:flex;align-items:center;justify-content:space-between;gap:18px}
+.brand{font-weight:950;letter-spacing:2px;font-size:34px;line-height:1}
+.brand span{color:var(--red)}
+.tagline{color:var(--muted);font-size:12px;letter-spacing:1.5px;margin-top:7px;text-transform:uppercase}
+.search{background:var(--panel);border:1px solid var(--line);color:var(--text);padding:11px 13px;border-radius:8px;width:min(310px,45vw)}
+nav{display:flex;gap:24px;overflow-x:auto;padding:15px 0 0;white-space:nowrap;font-size:13px;font-weight:800}
+nav a{color:#d5d8dd}
+nav a:hover{color:var(--red)}
+.breaking{background:var(--red);color:white;margin:18px 0;display:flex;align-items:center;gap:13px;padding:12px 14px;border-radius:5px;font-size:14px}
+.breaking b{font-size:11px;letter-spacing:1px;background:#101114;padding:5px 8px;border-radius:3px;flex-shrink:0}
+.breaking span{min-width:0}
+.hero{display:grid;grid-template-columns:1.45fr 1fr;gap:16px;margin:18px 0 32px}
+.hero-main{min-height:350px;position:relative;overflow:hidden;border-radius:10px;background:linear-gradient(0deg,rgba(0,0,0,.94),rgba(0,0,0,.05)),radial-gradient(ellipse at 70% 25%,#52606c 0%,#222b34 27%,#11151a 65%);display:flex;align-items:end;padding:28px;border:1px solid var(--line)}
+.hero-main:before{content:"";position:absolute;inset:0;background:linear-gradient(125deg,transparent 30%,rgba(230,57,70,.18)),repeating-linear-gradient(145deg,transparent 0 40px,rgba(255,255,255,.025) 41px 42px)}
+.hero-content{position:relative;max-width:620px}
+.eyebrow{color:var(--red);font-weight:850;letter-spacing:1.5px;font-size:11px;text-transform:uppercase}
+.hero h1{font-size:clamp(28px,4vw,46px);line-height:1.08;margin:10px 0 12px;letter-spacing:-1px}
+.hero p{color:#d2d5db;max-width:580px;margin:0 0 15px}
+.meta{font-size:12px;color:var(--muted)}
+.hero-side{display:grid;gap:16px}
+.sidecard{background:linear-gradient(120deg,#232a33,#13161b);border:1px solid var(--line);border-radius:9px;padding:22px;display:flex;flex-direction:column;justify-content:end;min-height:165px;position:relative;overflow:hidden}
+.sidecard:after{content:"";position:absolute;right:-20px;top:-38px;width:160px;height:160px;border:1px solid #59616d;border-radius:50%;box-shadow:0 0 0 18px #ffffff05,0 0 0 40px #ffffff03}
+.sidecard>*{position:relative;z-index:1}
+.sidecard h3{font-size:21px;line-height:1.25;margin:8px 0}
+.section{margin:34px 0}
+.sectionhead{display:flex;align-items:end;justify-content:space-between;gap:12px;margin:30px 0 15px}
+.sectionhead h2{font-size:24px;margin:0;letter-spacing:-.5px}
+.sectionhead p{margin:4px 0 0;color:var(--muted);font-size:13px}
+.badge{font-size:10px;background:#292e35;color:#cdd2da;padding:5px 8px;border-radius:4px;letter-spacing:.5px;flex-shrink:0}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin:15px 0}
+.filter{background:var(--panel);color:#d6d9df;border:1px solid var(--line);border-radius:30px;padding:9px 15px;cursor:pointer;font-size:13px;font-weight:750}
+.filter.active,.filter:hover{background:var(--red);border-color:var(--red);color:#fff}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.story{border:1px solid var(--line);border-radius:9px;background:var(--panel);overflow:hidden;transition:transform .18s,border-color .18s;min-width:0}
+.story:hover{transform:translateY(-2px);border-color:#59616d}
+.art{height:135px;background:linear-gradient(135deg,#303944,#111419);position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center}
+.art:before{content:"";position:absolute;width:180px;height:180px;border:1px solid #ffffff20;border-radius:50%;box-shadow:0 0 0 20px #ffffff05,0 0 0 45px #ffffff03}
+.art .symbol{font-size:44px;position:relative;color:#eef0f4}
+.art.red{background:linear-gradient(135deg,#54252b,#171419)}
+.art.blue{background:linear-gradient(135deg,#263e51,#11151a)}
+.art.gold{background:linear-gradient(135deg,#53452e,#171715)}
+.storybody{padding:16px}
+.tag{font-size:10px;letter-spacing:1px;text-transform:uppercase;color:var(--red);font-weight:900}
+.story h3{font-size:18px;line-height:1.3;margin:8px 0}
+.story p{font-size:13px;color:#b8bec8;margin:0 0 13px}
+.read{display:inline-block;color:#fff;font-size:12px;font-weight:800;padding:4px 0}
+.read:hover{color:var(--red)}
+.notice{font-size:13px;color:#c0c5ce;background:#101216;border:1px solid var(--line);padding:13px 15px;border-radius:7px;margin:14px 0}
+.notice.error{border-color:#8b3b42}
+.empty{display:none;color:var(--muted);padding:24px 0}
+.layout{display:grid;grid-template-columns:1.5fr .8fr;gap:18px;margin-top:32px}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:20px;min-width:0}
+.panel h2{margin:0 0 15px;font-size:20px}
+.timeline{border-left:2px solid #3c424c;padding-left:18px;display:grid;gap:17px}
+.event{position:relative}
+.event:before{content:"";position:absolute;left:-24px;top:7px;width:10px;height:10px;background:var(--red);border-radius:50%;box-shadow:0 0 0 4px #e6394620}
+.event time{font-size:11px;color:var(--gold);font-weight:800}
+.event h3{font-size:15px;margin:3px 0}
+.event p{font-size:12px;color:var(--muted);margin:0}
+.mapbox{height:190px;border-radius:7px;background:radial-gradient(ellipse at 50% 50%,#273640,#13171b 72%);position:relative;overflow:hidden;display:grid;place-items:center;text-align:center}
+.mapbox:before{content:"";position:absolute;inset:-30%;background:repeating-linear-gradient(30deg,transparent 0 34px,#ffffff10 35px 36px),repeating-linear-gradient(120deg,transparent 0 44px,#ffffff08 45px 46px);transform:rotate(-8deg)}
+.mapbox div{position:relative}
+.mapbox strong{font-size:22px;letter-spacing:2px}
+.mapbox p{font-size:12px;color:var(--muted);margin:4px}
+.newsletter{margin:30px 0;background:linear-gradient(110deg,#3a171d,#18191e);border:1px solid #623039;padding:22px;border-radius:9px;display:flex;justify-content:space-between;align-items:center;gap:18px}
+.newsletter h2{margin:0 0 5px}
+.newsletter p{margin:0;color:#c4c7ce;font-size:13px}
+.newsletter form{display:flex;gap:8px}
+.newsletter input{min-width:0;width:210px;padding:10px;border-radius:5px;border:1px solid #49434a;background:#101114;color:white}
+.newsletter button,.btn{border:0;background:var(--red);color:#fff;font-weight:800;border-radius:5px;padding:10px 14px;cursor:pointer}
+.newsletter button:hover,.btn:hover{background:#c92e3a}
+footer{border-top:1px solid var(--line);padding:25px 0;color:var(--muted);font-size:12px}
+.footrow{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+.modal{position:fixed;inset:0;background:#000c;display:none;align-items:center;justify-content:center;padding:18px;z-index:5}
+.modal.open{display:flex}
+.modalbox{max-width:680px;width:100%;max-height:85vh;overflow:auto;background:#171a20;border:1px solid #414751;border-radius:10px;padding:24px}
+.modalbox h2{font-size:clamp(22px,4vw,30px);line-height:1.2}
+.modalbox p{color:#c5cad2;line-height:1.8}
+.close{float:right;background:#2a2e36;color:white;border:0;border-radius:5px;padding:7px 10px;cursor:pointer}
+.source{color:var(--gold);font-size:12px}
+.live-time{color:var(--muted);font-size:12px;margin-top:10px}
+.live-link{display:inline-block;margin-top:10px;font-weight:800;font-size:12px}
+.live-link:hover{color:var(--red)}
+@media(max-width:760px){
+.wrap{padding:0 14px}
+.topline .wrap{font-size:10px}
+.brand{font-size:28px}
+.tagline{font-size:9px;letter-spacing:1px}
+.search{width:43vw;padding:10px;font-size:13px}
+.hero{grid-template-columns:1fr}
+.hero-main{min-height:330px;padding:21px}
+.hero-side{grid-template-columns:1fr 1fr}
+.sidecard{min-height:155px;padding:14px}
+.sidecard h3{font-size:17px}
+.grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.art{height:110px}
+.storybody{padding:12px}
+.story h3{font-size:16px}
+.story p{font-size:12px}
+.layout{grid-template-columns:1fr}
+.newsletter{align-items:stretch;flex-direction:column}
+.newsletter form{width:100%}
+.newsletter input{flex:1;width:0}
+nav{gap:18px;font-size:12px}
+.sectionhead h2{font-size:21px}
+}
+@media(max-width:400px){
+.grid{grid-template-columns:1fr}
+.art{height:145px}
+.hero-side{grid-template-columns:1fr}
+.sidecard{min-height:130px}
+.search{width:38vw}
+.sectionhead{align-items:start}
+}
 </style>
 </head>
 <body>
-<div class="topline"><div class="wrap"><span>BAĞIMSIZ BAKIŞ · STRATEJİK GÜNDEM</span><span id="today">GÜNÜN DOSYASI</span></div></div>
-<header class="masthead"><div class="wrap">
-  <div class="brandrow"><div><a class="brand" href="#">İLTERİS<span>.</span></a><div class="tagline">Askerî · Siyasi · Jeopolitik Analiz</div></div><input id="search" class="search" type="search" placeholder="Haber veya konu ara…" aria-label="Haber ara"></div>
-  <nav aria-label="Ana menü"><a href="#sondakika">GÜNDEM</a><a href="#haberler" data-nav="Askerî">ASKERÎ</a><a href="#haberler" data-nav="Siyaset">SİYASET</a><a href="#haberler" data-nav="Jeopolitik">JEOPOLİTİK</a><a href="#analiz">ANALİZ</a><a href="#dosya">DOSYA</a></nav>
-</div></header>
-<main class="wrap">
-  <div class="breaking" id="sondakika"><b>EDİTÖRÜN SEÇİMİ</b><span>Güç dengeleri, savunma politikaları ve uluslararası ilişkiler için tek ekranda gündem.</span></div>
-  <section class="hero">
-    <article class="hero-main"><div class="hero-content"><div class="eyebrow">ÖNE ÇIKAN ANALİZ <span class="demo">DEMO İÇERİK</span></div><h1>Yeni dünya düzeninde güç nasıl şekilleniyor?</h1><p>Askerî kapasite, ittifaklar, enerji hatları ve diplomasi: uluslararası siyaseti anlamak için temel başlıklar.</p><div class="meta">ANALİZ DOSYASI · 6 DK OKUMA</div></div></article>
+<div class="topline">
+  <div class="wrap">
+    <span>BAĞIMSIZ BAKIŞ · STRATEJİK GÜNDEM</span>
+    <span id="today">GÜNÜN DOSYASI</span>
+  </div>
+</div>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="brandrow">
+      <div>
+        <a class="brand" href="#top" aria-label="İLTERİS ana sayfa">İLTERİS<span>.</span></a>
+        <div class="tagline">Askerî · Siyasi · Jeopolitik Analiz</div>
+      </div>
+      <input id="search" class="search" type="search" placeholder="Haber veya konu ara…" aria-label="Haber ara">
+    </div>
+
+    <nav aria-label="Ana menü">
+      <a href="#canli-haberler">GÜNDEM</a>
+      <a href="#canli-haberler" data-nav="Savunma">SAVUNMA</a>
+      <a href="#canli-haberler" data-nav="Siyaset">SİYASET</a>
+      <a href="#canli-haberler" data-nav="Dünya">DÜNYA</a>
+      <a href="#haberler">ANALİZ</a>
+      <a href="#dosya">DOSYA</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap" id="top">
+  <div class="breaking" id="sondakika">
+    <b>İLTERİS GÜNDEM</b>
+    <span>Askerî gelişmeler, dış politika ve jeopolitik gündem — kaynak bağlantılarıyla.</span>
+  </div>
+
+  <section class="hero" aria-label="Öne çıkan dosyalar">
+    <article class="hero-main">
+      <div class="hero-content">
+        <div class="eyebrow">ÖNE ÇIKAN ANALİZ <span class="badge">EDİTORYAL DOSYA</span></div>
+        <h1>Yeni dünya düzeninde güç nasıl şekilleniyor?</h1>
+        <p>Askerî kapasite, ittifaklar, enerji hatları ve diplomasi: uluslararası siyaseti anlamak için temel başlıklar.</p>
+        <div class="meta">ANALİZ DOSYASI · GENEL BAKIŞ</div>
+      </div>
+    </article>
+
     <div class="hero-side">
-      <article class="sidecard"><div class="eyebrow">SAVUNMA</div><h3>Modern orduların dönüşümü: teknoloji ve caydırıcılık</h3><div class="meta">Savunma politikaları · 4 dk</div></article>
-      <article class="sidecard"><div class="eyebrow">DİPLOMASİ</div><h3>Müzakere masasında güç dengesi nasıl kurulur?</h3><div class="meta">Dış politika · 5 dk</div></article>
+      <article class="sidecard">
+        <div class="eyebrow">SAVUNMA</div>
+        <h3>Modern orduların dönüşümü: teknoloji ve caydırıcılık</h3>
+        <div class="meta">Savunma politikaları · Analiz</div>
+      </article>
+
+      <article class="sidecard">
+        <div class="eyebrow">DİPLOMASİ</div>
+        <h3>Müzakere masasında güç dengesi nasıl kurulur?</h3>
+        <div class="meta">Dış politika · Analiz</div>
+      </article>
     </div>
   </section>
-  
-  <section id="canli-haberler">
-    <div class="sectionhead"><div><h2>Kaynaklardan son haberler</h2><p>RSS akışlarından düzenli olarak toplanır · Başlıklar kaynak sayfasına bağlanır</p></div><span class="demo">RSS AKIŞI</span></div>
+
+  <section class="section" id="canli-haberler">
+    <div class="sectionhead">
+      <div>
+        <h2>Kaynaklardan son haberler</h2>
+        <p>RSS kaynaklarından toplanan başlıklar. Tam haber için kaynağa gidin.</p>
+      </div>
+      <span class="badge">CANLI HABER AKIŞI</span>
+    </div>
+
     <div class="filters" id="live-filters">
       <button class="filter active" data-live-filter="Tümü">Tümü</button>
       <button class="filter" data-live-filter="Türkiye">Türkiye</button>
@@ -37,101 +211,521 @@
       <button class="filter" data-live-filter="Savunma">Savunma</button>
       <button class="filter" data-live-filter="Siyaset">Siyaset</button>
     </div>
-    <div id="live-status" class="notice">Haber akışı yükleniyor. İlk kurulumda GitHub Actions'ın ilk çalışmasını bekle.</div>
+
+    <div id="live-status" class="notice" role="status" aria-live="polite">Haberler yükleniyor…</div>
     <div class="grid" id="live-stories"></div>
-    <p class="notice">Başlıklar ve kısa özetler kaynaklardan gelir. Tam haber için kaynağın bağlantısını açın. RSS erişimi, kaynakların kullanım koşullarına tabidir.</p>
+
+    <p class="notice">Başlıklar ve kısa özetler kaynaklardan gelir. İçerik doğruluğu için haberin asıl kaynağını kontrol edin. RSS erişimi ve kullanım koşulları ilgili yayıncıya tabidir.</p>
   </section>
 
-  <section id="haberler">
-    <div class="sectionhead"><div><h2>Haber merkezi</h2><p>Askerî gelişmeler, siyaset ve bölgesel analizler</p></div><span class="demo">ÖRNEK İÇERİK</span></div>
-    <div class="filters" id="filters"><button class="filter active" data-filter="Tümü">Tümü</button><button class="filter" data-filter="Askerî">Askerî</button><button class="filter" data-filter="Siyaset">Siyaset</button><button class="filter" data-filter="Jeopolitik">Jeopolitik</button><button class="filter" data-filter="Analiz">Analiz</button></div>
+  <section class="section" id="haberler">
+    <div class="sectionhead">
+      <div>
+        <h2>Analiz ve dosyalar</h2>
+        <p>Kalıcı başvuru yazıları ve açıklayıcı dosyalar</p>
+      </div>
+      <span class="badge">EDİTORYAL İÇERİK</span>
+    </div>
+
+    <div class="filters" id="filters">
+      <button class="filter active" data-filter="Tümü">Tümü</button>
+      <button class="filter" data-filter="Askerî">Askerî</button>
+      <button class="filter" data-filter="Siyaset">Siyaset</button>
+      <button class="filter" data-filter="Jeopolitik">Jeopolitik</button>
+      <button class="filter" data-filter="Analiz">Analiz</button>
+    </div>
+
     <div class="grid" id="stories">
-      <article class="story" data-category="Askerî"><div class="art red"><span class="symbol">✦</span></div><div class="storybody"><div class="tag">ASKERÎ · ÖRNEK</div><h3>İnsansız sistemler savaş doktrinini nasıl değiştiriyor?</h3><p>Keşif, lojistik ve elektronik harp ekseninde yeni askerî eğilimlere genel bakış.</p><a class="read" href="#" data-open="0">ANALİZİ OKU ↗</a></div></article>
-      <article class="story" data-category="Siyaset"><div class="art blue"><span class="symbol">◈</span></div><div class="storybody"><div class="tag">SİYASET · ÖRNEK</div><h3>İttifaklar ve ulusal çıkar: devletler nasıl karar verir?</h3><p>Dış politikada güvenlik, ekonomi ve iç siyasetin kesiştiği noktalar.</p><a class="read" href="#" data-open="1">ANALİZİ OKU ↗</a></div></article>
-      <article class="story" data-category="Jeopolitik"><div class="art gold"><span class="symbol">⌖</span></div><div class="storybody"><div class="tag">JEOPOLİTİK · ÖRNEK</div><h3>Enerji koridorları neden stratejik önem taşıyor?</h3><p>Coğrafya, ticaret yolları ve enerji güvenliği arasındaki bağlantılar.</p><a class="read" href="#" data-open="2">ANALİZİ OKU ↗</a></div></article>
-      <article class="story" data-category="Askerî"><div class="art blue"><span class="symbol">⟐</span></div><div class="storybody"><div class="tag">SAVUNMA · ÖRNEK</div><h3>Hava savunma sistemleri: katmanlı koruma ne demek?</h3><p>Radar, önleme ve komuta-kontrol bileşenlerine giriş.</p><a class="read" href="#" data-open="3">DOSYAYI OKU ↗</a></div></article>
-      <article class="story" data-category="Analiz"><div class="art red"><span class="symbol">◎</span></div><div class="storybody"><div class="tag">STRATEJİ · ÖRNEK</div><h3>Caydırıcılık yalnızca askerî güçten mi ibaret?</h3><p>Ekonomi, diplomasi, teknoloji ve iletişimin stratejik rolü.</p><a class="read" href="#" data-open="4">ANALİZİ OKU ↗</a></div></article>
-      <article class="story" data-category="Siyaset"><div class="art gold"><span class="symbol">⌘</span></div><div class="storybody"><div class="tag">DİPLOMASİ · ÖRNEK</div><h3>Arka kanal diplomasisi ve kriz yönetimi</h3><p>Resmî görüşmelerin yanında yürütülen temasların işlevi.</p><a class="read" href="#" data-open="5">DOSYAYI OKU ↗</a></div></article>
-    </div><p class="empty" id="empty">Bu aramayla eşleşen içerik bulunamadı.</p>
+      <article class="story" data-category="Askerî">
+        <div class="art red"><span class="symbol">✦</span></div>
+        <div class="storybody">
+          <div class="tag">ASKERÎ · ANALİZ</div>
+          <h3>İnsansız sistemler savaş doktrinini nasıl değiştiriyor?</h3>
+          <p>Keşif, lojistik ve elektronik harp ekseninde yeni askerî eğilimlere genel bakış.</p>
+          <a class="read" href="#modal" data-open="0">ANALİZİ OKU ↗</a>
+        </div>
+      </article>
+
+      <article class="story" data-category="Siyaset">
+        <div class="art blue"><span class="symbol">◈</span></div>
+        <div class="storybody">
+          <div class="tag">SİYASET · ANALİZ</div>
+          <h3>İttifaklar ve ulusal çıkar: devletler nasıl karar verir?</h3>
+          <p>Dış politikada güvenlik, ekonomi ve iç siyasetin kesiştiği noktalar.</p>
+          <a class="read" href="#modal" data-open="1">ANALİZİ OKU ↗</a>
+        </div>
+      </article>
+
+      <article class="story" data-category="Jeopolitik">
+        <div class="art gold"><span class="symbol">⌖</span></div>
+        <div class="storybody">
+          <div class="tag">JEOPOLİTİK · ANALİZ</div>
+          <h3>Enerji koridorları neden stratejik önem taşıyor?</h3>
+          <p>Coğrafya, ticaret yolları ve enerji güvenliği arasındaki bağlantılar.</p>
+          <a class="read" href="#modal" data-open="2">ANALİZİ OKU ↗</a>
+        </div>
+      </article>
+
+      <article class="story" data-category="Askerî">
+        <div class="art blue"><span class="symbol">⟐</span></div>
+        <div class="storybody">
+          <div class="tag">SAVUNMA · ANALİZ</div>
+          <h3>Hava savunma sistemleri: katmanlı koruma ne demek?</h3>
+          <p>Radar, önleme ve komuta-kontrol bileşenlerine giriş.</p>
+          <a class="read" href="#modal" data-open="3">DOSYAYI OKU ↗</a>
+        </div>
+      </article>
+
+      <article class="story" data-category="Analiz">
+        <div class="art red"><span class="symbol">◎</span></div>
+        <div class="storybody">
+          <div class="tag">STRATEJİ · ANALİZ</div>
+          <h3>Caydırıcılık yalnızca askerî güçten mi ibaret?</h3>
+          <p>Ekonomi, diplomasi, teknoloji ve iletişimin stratejik rolü.</p>
+          <a class="read" href="#modal" data-open="4">ANALİZİ OKU ↗</a>
+        </div>
+      </article>
+
+      <article class="story" data-category="Siyaset">
+        <div class="art gold"><span class="symbol">⌘</span></div>
+        <div class="storybody">
+          <div class="tag">DİPLOMASİ · ANALİZ</div>
+          <h3>Arka kanal diplomasisi ve kriz yönetimi</h3>
+          <p>Resmî görüşmelerin yanında yürütülen temasların işlevi.</p>
+          <a class="read" href="#modal" data-open="5">DOSYAYI OKU ↗</a>
+        </div>
+      </article>
+    </div>
+
+    <p class="empty" id="empty">Bu aramayla eşleşen içerik bulunamadı.</p>
   </section>
+
   <section class="layout">
-    <div class="panel" id="analiz"><h2>Stratejik gündem</h2><div class="timeline">
-      <div class="event"><time>ANALİZ BAŞLIĞI · 01</time><h3>Güvenlik politikası ve bölgesel istikrar</h3><p>Bir krizi değerlendirirken tarafların hedefleri, kapasitesi ve diplomatik seçenekleri birlikte incelenir.</p></div>
-      <div class="event"><time>ANALİZ BAŞLIĞI · 02</time><h3>Askerî kapasiteyi doğru okumak</h3><p>Envanter verileri tek başına yeterli değildir; eğitim, lojistik, bakım ve komuta yapısı da belirleyicidir.</p></div>
-      <div class="event"><time>ANALİZ BAŞLIĞI · 03</time><h3>Bilgi savaşı ve açık kaynak araştırması</h3><p>Görüntülerin kaynağı, yayın tarihi ve bağımsız doğrulama süreçleri yanlış bilgi riskini azaltır.</p></div>
-    </div></div>
-    <aside class="panel" id="dosya"><h2>Harita odası</h2><div class="mapbox"><div><strong>STRATEJİK HARİTA</strong><p>Coğrafya · Güvenlik · Enerji</p></div></div><p style="font-size:13px;color:var(--muted)">Bölgesel gelişmeleri coğrafi bağlamıyla okumak için hazırlanan dosya alanı.</p><div class="notice">Bu taslakta canlı harita veya gerçek zamanlı haber akışı bağlı değildir.</div></aside>
+    <div class="panel" id="analiz">
+      <h2>Stratejik gündem</h2>
+      <div class="timeline">
+        <div class="event">
+          <time>ANALİZ BAŞLIĞI · 01</time>
+          <h3>Güvenlik politikası ve bölgesel istikrar</h3>
+          <p>Bir krizi değerlendirirken tarafların hedefleri, kapasitesi ve diplomatik seçenekleri birlikte incelenir.</p>
+        </div>
+
+        <div class="event">
+          <time>ANALİZ BAŞLIĞI · 02</time>
+          <h3>Askerî kapasiteyi doğru okumak</h3>
+          <p>Envanter verileri tek başına yeterli değildir; eğitim, lojistik, bakım ve komuta yapısı da belirleyicidir.</p>
+        </div>
+
+        <div class="event">
+          <time>ANALİZ BAŞLIĞI · 03</time>
+          <h3>Bilgi savaşı ve açık kaynak araştırması</h3>
+          <p>Görüntülerin kaynağı, yayın tarihi ve bağımsız doğrulama süreçleri yanlış bilgi riskini azaltır.</p>
+        </div>
+      </div>
+    </div>
+
+    <aside class="panel" id="dosya">
+      <h2>Harita odası</h2>
+      <div class="mapbox">
+        <div>
+          <strong>STRATEJİK HARİTA</strong>
+          <p>Coğrafya · Güvenlik · Enerji</p>
+        </div>
+      </div>
+      <p style="font-size:13px;color:var(--muted)">Bölgesel gelişmeleri coğrafi bağlamıyla okumak için hazırlanan dosya alanı.</p>
+      <div class="notice">Bu bölüm şimdilik görsel bir tasarımdır; canlı harita içermez.</div>
+    </aside>
   </section>
-  <section class="newsletter"><div><h2>Gündemi kaçırma.</h2><p>Bu demo form gerçek e-posta göndermez; abonelik entegrasyonu sonradan eklenebilir.</p></div><form id="subscribe"><input type="email" placeholder="E-posta adresin" aria-label="E-posta adresi" required><button type="submit">BİLGİ AL</button></form></section>
-  <div class="notice">Şeffaflık notu: İLTERİS, tasarım prototipidir. Kartlar örnek editoryal içeriktir; güncel haber veya doğrulanmış son dakika bilgisi değildir. Yayına almadan önce kaynak, tarih, yazar ve düzeltme politikası eklenmelidir.</div>
+
+  <section class="newsletter">
+    <div>
+      <h2>İLTERİS'i takip et</h2>
+      <p>Bu örnek form e-posta göndermez. Abonelik sistemi bağlanana kadar bilgi toplamaz.</p>
+    </div>
+    <form id="subscribe">
+      <input type="email" placeholder="E-posta adresin" aria-label="E-posta adresi" required>
+      <button type="submit">BİLGİ AL</button>
+    </form>
+  </section>
+
+  <div class="notice">Editoryal ilke: Haber başlıkları kaynaklarına bağlanır. Analiz kartları açıklayıcı içeriktir; güncel haber gibi sunulmamalıdır. Yayın öncesinde kaynak, tarih, yazar ve düzeltme politikası ekleyin.</div>
 </main>
-<footer><div class="wrap footrow"><div><strong style="color:#fff;letter-spacing:1.5px">İLTERİS<span style="color:var(--red)">.</span></strong><div>Askerî · Siyasi · Jeopolitik Analiz</div></div><div>Bağımsız düşün. Kaynağı kontrol et. Bağlamı kaçırma.</div><div>© <span id="year"></span> İLTERİS — Tasarım prototipi</div></div></footer>
-<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><div class="modalbox"><button class="close" id="close">Kapat ✕</button><div class="eyebrow">EDITORYAL DOSYA · ÖRNEK</div><h2 id="modalTitle"></h2><p id="modalText" style="color:#c5cad2;line-height:1.8"></p><div class="notice">Bu metin örnek içeriktir. Haber olarak yayımlamadan önce güncel kaynaklarla araştırılmalı ve editoryal kontrolden geçirilmelidir.</div></div></div>
+
+<footer>
+  <div class="wrap footrow">
+    <div>
+      <strong style="color:#fff;letter-spacing:1.5px">İLTERİS<span style="color:var(--red)">.</span></strong>
+      <div>Askerî · Siyasi · Jeopolitik Analiz</div>
+    </div>
+    <div>Bağımsız düşün. Kaynağı kontrol et. Bağlamı kaçırma.</div>
+    <div>© <span id="year"></span> İLTERİS</div>
+  </div>
+</footer>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+  <div class="modalbox">
+    <button class="close" id="close" type="button">Kapat ✕</button>
+    <div class="eyebrow">İLTERİS · AÇIKLAYICI DOSYA</div>
+    <h2 id="modalTitle"></h2>
+    <p id="modalText"></p>
+    <div class="notice">Bu bölüm açıklayıcı analizdir; güncel haber veya son dakika bilgisi değildir.</div>
+  </div>
+</div>
 <script>
-const items=[
-["İnsansız sistemler savaş doktrinini nasıl değiştiriyor?","İnsansız sistemler keşif ve gözetleme, lojistik destek ve bazı görevlerde riskin azaltılması gibi alanlarda orduların yaklaşımını etkiliyor. Etkileri yalnızca platformun kendisine değil; haberleşme, elektronik harp, eğitim, bakım ve komuta-kontrol altyapısına da bağlı. Tek bir teknoloji savaşın sonucunu tek başına belirlemez."],
-["İttifaklar ve ulusal çıkar: devletler nasıl karar verir?","Devletlerin ittifak tercihleri güvenlik kaygıları, ekonomik bağlar, iç politika ve uzun vadeli stratejik hedeflerin birleşimiyle şekillenir. İttifaklar ortak çıkarlar sunarken maliyetler ve yükümlülükler de doğurabilir. Bu nedenle açıklamalar kadar somut politika adımlarını da izlemek gerekir."],
-["Enerji koridorları neden stratejik önem taşıyor?","Enerji altyapısı ve ticaret koridorları arz güvenliği, fiyatlar ve bölgesel ilişkiler üzerinde etkili olabilir. Bir hattın önemi yalnızca haritadaki konumuna değil; kapasitesine, alternatif güzergâhlara, siyasi istikrara ve altyapı güvenliğine de bağlıdır."],
-["Hava savunma sistemleri: katmanlı koruma ne demek?","Katmanlı hava savunması farklı menzil ve görevlerdeki algılama, komuta-kontrol ve önleme sistemlerinin birlikte çalışması fikrine dayanır. Gerçek performans; sensör entegrasyonu, eğitim, mühimmat, coğrafya ve karşı tedbirler gibi çok sayıda etkene bağlıdır."],
-["Caydırıcılık yalnızca askerî güçten mi ibaret?","Caydırıcılık, olası bir saldırının maliyetini ve başarı ihtimalini karşı tarafın hesabına dahil etmeyi amaçlar. Askerî kapasite yanında ittifaklar, ekonomik dayanıklılık, diplomatik iletişim ve karar alma güvenilirliği de etkili olabilir."],
-["Arka kanal diplomasisi ve kriz yönetimi","Arka kanal diplomasisi, tarafların kamuoyu önünde pozisyon almadan önce mesaj iletmesine veya seçenekleri yoklamasına imkân verebilir. Bununla birlikte sonuç garantisi değildir; güven, yetki, doğrulama ve resmî süreçlerle bağlantı önemlidir."]
+"use strict";
+
+const analysisItems = [
+  [
+    "İnsansız sistemler savaş doktrinini nasıl değiştiriyor?",
+    "İnsansız sistemler keşif ve gözetleme, lojistik destek ve bazı görevlerde riskin azaltılması gibi alanlarda orduların yaklaşımını etkiliyor. Etkileri yalnızca platformun kendisine değil; haberleşme, elektronik harp, eğitim, bakım ve komuta-kontrol altyapısına da bağlı. Tek bir teknoloji savaşın sonucunu tek başına belirlemez."
+  ],
+  [
+    "İttifaklar ve ulusal çıkar: devletler nasıl karar verir?",
+    "Devletlerin ittifak tercihleri güvenlik kaygıları, ekonomik bağlar, iç politika ve uzun vadeli stratejik hedeflerin birleşimiyle şekillenir. İttifaklar ortak çıkarlar sunarken maliyetler ve yükümlülükler de doğurabilir. Bu nedenle açıklamalar kadar somut politika adımlarını da izlemek gerekir."
+  ],
+  [
+    "Enerji koridorları neden stratejik önem taşıyor?",
+    "Enerji altyapısı ve ticaret koridorları arz güvenliği, fiyatlar ve bölgesel ilişkiler üzerinde etkili olabilir. Bir hattın önemi yalnızca haritadaki konumuna değil; kapasitesine, alternatif güzergâhlara, siyasi istikrara ve altyapı güvenliğine de bağlıdır."
+  ],
+  [
+    "Hava savunma sistemleri: katmanlı koruma ne demek?",
+    "Katmanlı hava savunması farklı menzil ve görevlerdeki algılama, komuta-kontrol ve önleme sistemlerinin birlikte çalışması fikrine dayanır. Gerçek performans; sensör entegrasyonu, eğitim, mühimmat, coğrafya ve karşı tedbirler gibi çok sayıda etkene bağlıdır."
+  ],
+  [
+    "Caydırıcılık yalnızca askerî güçten mi ibaret?",
+    "Caydırıcılık, olası bir saldırının maliyetini ve başarı ihtimalini karşı tarafın hesabına dahil etmeyi amaçlar. Askerî kapasite yanında ittifaklar, ekonomik dayanıklılık, diplomatik iletişim ve karar alma güvenilirliği de etkili olabilir."
+  ],
+  [
+    "Arka kanal diplomasisi ve kriz yönetimi",
+    "Arka kanal diplomasisi, tarafların kamuoyu önünde pozisyon almadan önce mesaj iletmesine veya seçenekleri yoklamasına imkân verebilir. Bununla birlikte sonuç garantisi değildir; güven, yetki, doğrulama ve resmî süreçlerle bağlantı önemlidir."
+  ]
 ];
-document.getElementById('year').textContent=new Date().getFullYear();
-document.getElementById('today').textContent=new Intl.DateTimeFormat('tr-TR',{weekday:'long',day:'numeric',month:'long',year:'numeric'}).format(new Date()).toLocaleUpperCase('tr-TR');
-let active='Tümü';
-function update(){const q=document.getElementById('search').value.toLocaleLowerCase('tr-TR').trim();let shown=0;document.querySelectorAll('.story').forEach(s=>{const okcat=active==='Tümü'||s.dataset.category===active;const okq=s.innerText.toLocaleLowerCase('tr-TR').includes(q);s.style.display=okcat&&okq?'':'none';if(okcat&&okq)shown++});document.getElementById('empty').style.display=shown?'none':'block'}
-document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>{active=b.dataset.filter;document.querySelectorAll('.filter').forEach(x=>x.classList.toggle('active',x===b));update()}));
-document.getElementById('search').addEventListener('input',update);
-document.querySelectorAll('[data-nav]').forEach(a=>a.addEventListener('click',()=>{active=a.dataset.nav;document.querySelectorAll('.filter').forEach(x=>x.classList.toggle('active',x.dataset.filter===active));update()}));
-const modal=document.getElementById('modal');document.querySelectorAll('[data-open]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();const i=Number(a.dataset.open);document.getElementById('modalTitle').textContent=items[i][0];document.getElementById('modalText').textContent=items[i][1];modal.classList.add('open')}));document.getElementById('close').addEventListener('click',()=>modal.classList.remove('open'));modal.addEventListener('click',e=>{if(e.target===modal)modal.classList.remove('open')});document.addEventListener('keydown',e=>{if(e.key==='Escape')modal.classList.remove('open')});
-document.getElementById('subscribe').addEventListener('submit',e=>{e.preventDefault();alert('Bu taslakta e-posta aboneliği etkin değil. Gerçek abonelik için bir servis bağlanmalı.');});
 
-// Live RSS-derived headlines are published by the scheduled GitHub Actions workflow to site/news.json.
-let liveItems = [];
+const $ = id => document.getElementById(id);
+
+$("year").textContent = new Date().getFullYear();
+
+$("today").textContent =
+  new Intl.DateTimeFormat("tr-TR", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    year: "numeric"
+  })
+  .format(new Date())
+  .toLocaleUpperCase("tr-TR");
+
+let analysisFilter = "Tümü";
 let liveFilter = "Tümü";
-async function loadLiveNews(){
-  const status = document.getElementById("live-status");
-  const host = document.getElementById("live-stories");
-  try {
-    const response = await fetch("./news.json?ts=" + Date.now(), {cache:"no-store"});
-    if (!response.ok) throw new Error("news.json bulunamadı");
-    const data = await response.json();
-    liveItems = Array.isArray(data.items) ? data.items : [];
-    status.textContent = liveItems.length
-      ? `Son güncelleme: ${data.updated_at || "bilinmiyor"} · ${liveItems.length} başlık`
-      : "Akış okundu ancak henüz haber bulunamadı.";
-    renderLiveNews();
-  } catch (e) {
-    status.textContent = "Otomatik haber akışı henüz hazır değil. GitHub deposunda Actions çalıştıktan ve news.json oluştuğunda haberler burada görünür.";
-  }
-}
-function renderLiveNews(){
-  const host = document.getElementById("live-stories");
-  host.innerHTML = "";
-  const list = liveItems.filter(item => liveFilter === "Tümü" || item.category === liveFilter).slice(0,18);
-  for (const item of list) {
-    const card = document.createElement("article");
-    card.className = "story";
-    const art = document.createElement("div");
-    art.className = "art " + (item.category === "Savunma" ? "red" : item.category === "Dünya" ? "blue" : "gold");
-    const symbol = document.createElement("span"); symbol.className = "symbol"; symbol.textContent = item.category === "Savunma" ? "✦" : item.category === "Dünya" ? "◎" : "◈"; art.appendChild(symbol);
-    const body = document.createElement("div"); body.className = "storybody";
-    const tag = document.createElement("div"); tag.className = "tag"; tag.textContent = `${item.category || "Gündem"} · ${item.source || "Kaynak"}`;
-    const title = document.createElement("h3"); title.textContent = item.title || "Başlıksız haber";
-    const desc = document.createElement("p"); desc.textContent = item.summary || "Ayrıntılar için kaynak haberini açın.";
-    const meta = document.createElement("div"); meta.className = "meta"; meta.style.marginBottom = "10px"; meta.textContent = item.published_at || "";
-    const link = document.createElement("a"); link.className = "read"; link.href = item.link || "#"; link.target = "_blank"; link.rel = "noopener noreferrer"; link.textContent = "KAYNAĞI OKU ↗";
-    body.append(tag,title,desc,meta,link); card.append(art,body); host.appendChild(card);
-  }
-  if (!list.length) host.innerHTML = '<p class="empty" style="display:block">Bu kategoride şu an haber yok.</p>';
-}
-document.querySelectorAll("[data-live-filter]").forEach(button => button.addEventListener("click", () => {
-  liveFilter = button.dataset.liveFilter;
-  document.querySelectorAll("[data-live-filter]").forEach(b => b.classList.toggle("active", b === button));
-  renderLiveNews();
-}));
-loadLiveNews();
+let liveItems = [];
 
+function updateAnalysis() {
+  const q = $("search").value.toLocaleLowerCase("tr-TR").trim();
+  let shown = 0;
+
+  document.querySelectorAll("#stories .story").forEach(card => {
+    const categoryOk =
+      analysisFilter === "Tümü" ||
+      card.dataset.category === analysisFilter;
+
+    const queryOk =
+      card.innerText.toLocaleLowerCase("tr-TR").includes(q);
+
+    card.hidden = !(categoryOk && queryOk);
+
+    if (!card.hidden) shown++;
+  });
+
+  $("empty").style.display = shown ? "none" : "block";
+}
+
+document.querySelectorAll("#filters [data-filter]").forEach(button => {
+  button.addEventListener("click", () => {
+    analysisFilter = button.dataset.filter;
+
+    document.querySelectorAll("#filters [data-filter]").forEach(b => {
+      b.classList.toggle("active", b === button);
+    });
+
+    updateAnalysis();
+  });
+});
+
+$("search").addEventListener("input", updateAnalysis);
+
+function safeDate(value) {
+  if (!value) return "";
+
+  const date = new Date(value);
+
+  return Number.isNaN(date.getTime())
+    ? String(value)
+    : new Intl.DateTimeFormat("tr-TR", {
+        dateStyle: "medium",
+        timeStyle: "short",
+        timeZone: "Europe/Istanbul"
+      }).format(date);
+}
+
+function makeLiveCard(item, index) {
+  const article = document.createElement("article");
+  article.className = "story";
+
+  const art = document.createElement("div");
+  art.className = "art " + ["blue", "red", "gold"][index % 3];
+
+  const symbol = document.createElement("span");
+  symbol.className = "symbol";
+  symbol.textContent = ["◎", "✦", "◈"][index % 3];
+
+  art.append(symbol);
+
+  const body = document.createElement("div");
+  body.className = "storybody";
+
+  const tag = document.createElement("div");
+  tag.className = "tag";
+  tag.textContent =
+    (item.category || "Dünya") + " · " +
+    (item.source || "Kaynak");
+
+  const title = document.createElement("h3");
+  title.textContent = item.title || "Başlıksız haber";
+
+  const summary = document.createElement("p");
+  summary.textContent =
+    item.summary ||
+    "Kaynağın sayfasını açarak haberin ayrıntılarını okuyun.";
+
+  const date = document.createElement("div");
+  date.className = "live-time";
+  date.textContent = safeDate(item.published_at);
+
+  body.append(tag, title, summary, date);
+
+  if (item.link) {
+    try {
+      const url = new URL(item.link);
+
+      if (
+        url.protocol === "https:" ||
+        url.protocol === "http:"
+      ) {
+        const link = document.createElement("a");
+
+        link.className = "live-link";
+        link.href = url.href;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.textContent = "KAYNAĞI OKU ↗";
+
+        body.append(link);
+      }
+    } catch (e) {
+      // Geçersiz haber bağlantısı gösterilmez.
+    }
+  }
+
+  article.append(art, body);
+
+  return article;
+}
+
+function renderLive() {
+  const host = $("live-stories");
+
+  host.replaceChildren();
+
+  const filtered = liveItems.filter(item => {
+    const category = (item.category || "Dünya")
+      .toLocaleLowerCase("tr-TR");
+
+    const catOk =
+      liveFilter === "Tümü" ||
+      category === liveFilter.toLocaleLowerCase("tr-TR") ||
+      (liveFilter === "Türkiye" && category.includes("türkiye")) ||
+      (
+        liveFilter === "Savunma" &&
+        (
+          category.includes("savunma") ||
+          category.includes("askerî") ||
+          category.includes("askeri")
+        )
+      );
+
+    const q = $("search").value
+      .toLocaleLowerCase("tr-TR")
+      .trim();
+
+    const queryOk =
+      !q ||
+      [
+        item.title,
+        item.summary,
+        item.source,
+        item.category
+      ]
+      .join(" ")
+      .toLocaleLowerCase("tr-TR")
+      .includes(q);
+
+    return catOk && queryOk;
+  });
+
+  filtered.slice(0, 60).forEach((item, i) => {
+    host.append(makeLiveCard(item, i));
+  });
+
+  if (!filtered.length && liveItems.length) {
+    const empty = document.createElement("p");
+
+    empty.className = "notice";
+    empty.textContent = "Bu filtreyle eşleşen haber bulunamadı.";
+
+    host.append(empty);
+  }
+}
+
+document.querySelectorAll("#live-filters [data-live-filter]").forEach(button => {
+  button.addEventListener("click", () => {
+    liveFilter = button.dataset.liveFilter;
+
+    document.querySelectorAll("#live-filters [data-live-filter]").forEach(b => {
+      b.classList.toggle(
+        "active",
+        b.dataset.liveFilter === liveFilter
+      );
+    });
+
+    renderLive();
+  });
+});
+
+async function loadLiveNews() {
+  const status = $("live-status");
+
+  try {
+    const response = await fetch(
+      "./news.json?ts=" + Date.now(),
+      { cache: "no-store" }
+    );
+
+    if (!response.ok) {
+      throw new Error(
+        "news.json dosyası bulunamadı (" +
+        response.status +
+        ")"
+      );
+    }
+
+    const data = await response.json();
+
+    if (!data || !Array.isArray(data.items)) {
+      throw new Error(
+        "news.json içeriği beklenen biçimde değil."
+      );
+    }
+
+    liveItems = data.items.filter(
+      item => item && item.title && item.link
+    );
+
+    if (liveItems.length) {
+      status.className = "notice";
+
+      status.textContent =
+        "Son güncelleme: " +
+        (data.updated_at || "bilgi yok") +
+        " · " +
+        liveItems.length +
+        " haber";
+    } else {
+      status.className = "notice";
+
+      status.textContent =
+        "Haber akışı henüz boş. GitHub Actions çalıştıysa " +
+        "birkaç dakika sonra sayfayı yenileyin.";
+    }
+
+    renderLive();
+
+  } catch (error) {
+    status.className = "notice error";
+
+    status.textContent =
+      "Haber akışı şu anda yüklenemedi. Biraz sonra tekrar deneyin. " +
+      "(Detay: " + error.message + ")";
+
+    liveItems = [];
+
+    $("live-stories").replaceChildren();
+  }
+}
+
+document.querySelectorAll("[data-nav]").forEach(link => {
+  link.addEventListener("click", () => {
+    liveFilter = link.dataset.nav;
+
+    document.querySelectorAll(
+      "#live-filters [data-live-filter]"
+    ).forEach(b => {
+      b.classList.toggle(
+        "active",
+        b.dataset.liveFilter === liveFilter
+      );
+    });
+
+    renderLive();
+  });
+});
+
+document.querySelectorAll("[data-open]").forEach(link => {
+  link.addEventListener("click", event => {
+    event.preventDefault();
+
+    const item = analysisItems[Number(link.dataset.open)];
+
+    if (!item) return;
+
+    $("modalTitle").textContent = item[0];
+    $("modalText").textContent = item[1];
+
+    $("modal").classList.add("open");
+
+    $("close").focus();
+  });
+});
+
+function closeModal() {
+  $("modal").classList.remove("open");
+}
+
+$("close").addEventListener("click", closeModal);
+
+$("modal").addEventListener("click", event => {
+  if (event.target === $("modal")) {
+    closeModal();
+  }
+});
+
+document.addEventListener("keydown", event => {
+  if (event.key === "Escape") {
+    closeModal();
+  }
+});
+
+$("subscribe").addEventListener("submit", event => {
+  event.preventDefault();
+
+  alert(
+    "Bu form henüz bir e-posta servisine bağlı değil. " +
+    "E-posta adresiniz gönderilmedi."
+  );
+});
+
+$("search").addEventListener("input", renderLive);
+
+loadLiveNews();
 </script>
 </body>
 </html>
