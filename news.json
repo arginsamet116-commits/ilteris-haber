@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-17 20:07 UTC",
+  "updated_at": "2026-10-17 20:52 UTC",
   "items": [
+    {
+      "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
+      "summary": "Al Jazeera’s Rosie Rosie Birchard was harassed by protesters looting shops in Rennes, France.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-17 20:20 UTC"
+    },
+    {
+      "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
+      "summary": "Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-17 20:02 UTC"
+    },
     {
       "title": "At least 17 killed in stampede at religious gathering in India",
       "link": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
@@ -178,36 +194,12 @@
       "published_at": "2026-10-17 15:20 UTC"
     },
     {
-      "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
-      "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
-      "summary": "Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-17 14:57 UTC"
-    },
-    {
-      "title": "Why adults are going back to summer camp",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss",
-      "summary": "Loneliness and burnout are sending adults around the world back to bunk beds and bonfires.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-17 14:36 UTC"
-    },
-    {
       "title": "Pope discharged from hospital days after lung cancer surgery",
       "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
       "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
       "source": "BBC World",
       "category": "Dünya",
       "published_at": "2026-10-17 13:51 UTC"
-    },
-    {
-      "title": "Poland's Chief of General Staff Visits ASELSAN to Review Air Defense and Counter-Drone Systems - ssbulten.com.tr",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmJ1V3NtZGNxTkpLX3JHY0haVEF3UE9TUHpldXZBSnhlNlpObnR2UUkyc25aNk11M3pza3FXLXhScDM2M1U4a3RLVXBpUlNzM0R2aEVrdTdnTldTRGNORG90dzI0SE9sM1hyRWNfS0pQX0RNeng2cXNQOXVsQ2FqbDZTOER2NlI5Z1lNVVFuT2t6UzN1WDJXX3FjRHVCUHlfeG5mdE9zS2doRE56WTNtbWhNLWdEVG1ra08wOVJ4dXUxbVExSmFHWXNlZDlrU3dvNXJqVmVBbw?oc=5",
-      "summary": "Poland's Chief of General Staff Visits ASELSAN to Review Air Defense and Counter-Drone Systems ssbulten.com.tr",
-      "source": "Google News - Savunma",
-      "category": "Savunma",
-      "published_at": "2026-10-17 13:38 UTC"
     },
     {
       "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
@@ -370,22 +362,6 @@
       "published_at": "2026-10-16 23:07 UTC"
     },
     {
-      "title": "TUSAŞ Outlines 2035 Production Targets for Turkish Defense Systems - ssbulten.com.tr",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMllHMTNCZGVPT3BBODR1TjFFQ25ydE91OGtIejc2U1BvbmZxS2hPcW55TlBfaWhqam02TG1kT1c1X2oyaTBQdHljRGN1ODMyQzVoQXUzZ1FUS3hqdWNtSmRfYWdIMkdLWjgxQS0wd25WbnFlUXlCR3RJM0p3dGhtN2F4M2JYNVlwdVRVazdRbzVhWXp0bUhPWmJpdGQ0Wm1ZbWxnQjd4SGt1UmtxVnBPakMtWQ?oc=5",
-      "summary": "TUSAŞ Outlines 2035 Production Targets for Turkish Defense Systems ssbulten.com.tr",
-      "source": "Google News - Savunma",
-      "category": "Savunma",
-      "published_at": "2026-10-16 21:53 UTC"
-    },
-    {
-      "title": "Polish Chief of General Staff Visits ROKETSAN to Review TAYFUN Missile System - ssbulten.com.tr",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSHVBdENZZm9pb0l6WFNEV0IwblUxaGFWTGZDUkpqOVlORHNHV2M0c1R3T2RwSmxiREVFZVo0ZFZWVzZIbXdkM09jcWxuMy1aanoxZ2NXRW9SOVZ0N1I2RUtCX29PUXMwRUx5SlBiR2llY1RsQ1VYeUgyMnBFTVo3ZjRKV2JEZEU0LWFHRUhZQ2NUendYU3hnR3RoU19nblR6amlBSjVKY2FQYzVJR1hNN2Y1MjZwcHIyZlJ2azVmcWZ4UQ?oc=5",
-      "summary": "Polish Chief of General Staff Visits ROKETSAN to Review TAYFUN Missile System ssbulten.com.tr",
-      "source": "Google News - Savunma",
-      "category": "Savunma",
-      "published_at": "2026-10-16 19:53 UTC"
-    },
-    {
       "title": "What we learned from heated US midterm Senate debates",
       "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
       "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
@@ -466,20 +442,12 @@
       "published_at": "2026-10-16 09:57 UTC"
     },
     {
-      "title": "British Academic Announces New Turkey-Saudi Arabia-Pakistan Defense Partnership - ssbulten.com.tr",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXRoOW1wRFBTSVJjVWJULXA0RERlaEhrTmdHNmpiZUdtX3l1clA1cG9YRGZfTS12R1pEZjVCVzhKdm9rNHR3Rndnc2xwb2s4SlRtR0pYa1hOUDg4Tm0zZldSRUpPOHRDcnZDSjVuelJsWnlmV2VJY2NQc0YxRlFJaXlyMGctaUYwaVRzeV8zUnU1bi1OTnhFY0t6YjJKRThzcUFEdUJEeERIZ0NyX21mU0NCRE05YnpPYUd0UXZUWHZXd1BV?oc=5",
-      "summary": "British Academic Announces New Turkey-Saudi Arabia-Pakistan Defense Partnership ssbulten.com.tr",
-      "source": "Google News - Savunma",
-      "category": "Savunma",
-      "published_at": "2026-10-15 21:29 UTC"
-    },
-    {
-      "title": "Skunk Works and the Royal Netherlands Aerospace Centre Expand Strategic Collaboration - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ2wtNU4xdFItYjhvcTZGZXNiZUNidkpRWVdDS3BrRndQQVZQSlF6WUJ6bzk3MGZoTFREQ0ZpTUdYVUNGbU1WZ09paTZ2NW1XYU9fRGJsTENkUkt0ZDdEUWJnNWZJOTRaclYwWGFOYm9iZXhPOGtGdnU4ZWplYnZ2Nk5LOUE0R2ZhNGozaUl4MFBJUnBhSld1Q19xcTc0WTR5LVgxMEF1Vll6RnN1MXF5RnkzZ29haHhkYXpUbl8ybXh0WHFYU2NmT1dhN0RoN2NkRmpMTVVKS0RNaENfSWc?oc=5",
-      "summary": "Skunk Works and the Royal Netherlands Aerospace Centre Expand Strategic Collaboration TradingView",
-      "source": "Google News - Savunma",
-      "category": "Savunma",
-      "published_at": "2026-10-15 16:00 UTC"
+      "title": "Abone olmak için tıklayın",
+      "link": "https://www.whatsapp.com/channel/0029Vb5eTSkHFxP3rcjNq41i?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Türkçe'nin Türkiye ve dünyadaki gelişmelerle ilgili haberleri artık telefonunuzda",
+      "source": "BBC Türkçe",
+      "category": "Türkiye",
+      "published_at": "2024-04-15 11:20 UTC"
     }
   ]
 }
