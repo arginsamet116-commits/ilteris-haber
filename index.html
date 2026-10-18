@@ -1164,6 +1164,81 @@ $("subscribe").addEventListener("submit", event => {
 $("search").addEventListener("input", renderLive);
 
 loadLiveNews();
+  
+async function loadHistoryEvents() {
+  const status = document.getElementById("history-status");
+  const container = document.getElementById("history-stories");
+
+  if (!status || !container) return;
+
+  try {
+    const now = new Date();
+    const month = String(now.getMonth() + 1).padStart(2, "0");
+    const day = String(now.getDate()).padStart(2, "0");
+
+    const url =
+      `https://en.wikipedia.org/api/rest_v1/feed/onthisday/events/${month}/${day}`;
+
+    const response = await fetch(url);
+
+    if (!response.ok) {
+      throw new Error("Tarihî olaylar kaynağına ulaşılamadı.");
+    }
+
+    const data = await response.json();
+    const events = (data.events || []).slice(0, 9);
+
+    if (!events.length) {
+      status.textContent = "Bugün için tarihî olay bulunamadı.";
+      return;
+    }
+
+    container.replaceChildren();
+
+    events.forEach(event => {
+      const card = document.createElement("article");
+      card.className = "story";
+
+      const body = document.createElement("div");
+      body.className = "storybody";
+
+      const tag = document.createElement("div");
+      tag.className = "tag";
+      tag.textContent = "TARİHTE BUGÜN · " + event.year;
+
+      const title = document.createElement("h3");
+      title.textContent = event.text || "Tarihî olay";
+
+      const page = event.pages && event.pages[0];
+      const link = document.createElement("a");
+      link.className = "read";
+      link.textContent = "KAYNAĞI İNCELE ↗";
+      link.href = page?.content_urls?.desktop?.page
+        || "https://en.wikipedia.org/wiki/"
+          + encodeURIComponent(page?.title || "Main_Page");
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+
+      body.append(tag, title, link);
+      card.append(body);
+      container.append(card);
+    });
+
+    status.textContent =
+      `${now.toLocaleDateString("tr-TR", {
+        day: "numeric",
+        month: "long"
+      })} tarihinde yaşanan olaylar yüklendi.`;
+
+  } catch (error) {
+    status.textContent =
+      "Tarihî olaylar şu an yüklenemedi. Lütfen daha sonra tekrar deneyin.";
+    status.classList.add("error");
+  }
+}
+
+loadHistoryEvents();
+  
 </script>
 <script src="https://widgets.biquote.io/v1/loader.js" async></script>
 </body>
