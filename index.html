@@ -71,6 +71,18 @@ nav a:hover{color:var(--red)}
 .empty{display:none;color:var(--muted);padding:24px 0}
 .layout{display:grid;grid-template-columns:1.5fr .8fr;gap:18px;margin-top:32px}
 .panel{background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:20px;min-width:0}
+  /* STRATEJIK MERKEZ KARTLARI */
+#stratejik-durum .panel {
+  border-color: #34303a;
+  border-top: 2px solid #e63946;
+  background: linear-gradient(145deg, #191b21, #111317);
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+#stratejik-durum .panel:hover {
+  border-color: #e63946;
+  transform: translateY(-2px);
+}
 .panel h2{margin:0 0 15px;font-size:20px}
   
 /* PIYASA KARTLARI */
