@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-18 13:01 UTC",
+  "updated_at": "2026-10-18 13:53 UTC",
   "items": [
+    {
+      "title": "Was ancient India the world’s forgotten superpower?",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss",
+      "summary": "In Deja Vu’s latest episode, William Dalrymple explores ancient India’s global influence – and how it was overlooked.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 13:17 UTC"
+    },
+    {
+      "title": "Gaza families fear food shortages as Israel halts commercial shipments",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss",
+      "summary": "Residents report rising prices as the latest restrictions bite, leaving families unable to afford extra supplies.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 13:16 UTC"
+    },
+    {
+      "title": "Paris left reeling as student-led protests turn chaotic",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
+      "summary": "Some 1,800 people arrested and hundreds injured during nationwide demonstrations attended by hundreds of thousands.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 13:08 UTC"
+    },
+    {
+      "title": "Orionid meteor yağmuru: Ne zaman gerçekleşecek ve nasıl görebilirsiniz?",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f1c/live/1b496550-a053-11f0-b687-23a5afa8b42e.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cgq4d81wj99o?at_medium=RSS&at_campaign=rss",
+      "summary": "Gökyüzü geceleri dünyanın dört bir yanından izlenebilecek Orionid meteor yağmuru ile aydınlanacak. NASA \"yılın en güzel meteor yağmurlarından biri\" olarak tanımlıyor.",
+      "source": "BBC Türkçe",
+      "category": "Türkiye",
+      "published_at": "2026-10-18 13:06 UTC"
+    },
+    {
+      "title": "Spain’s ARACNE Drone-Defense System Scores First Direct Hit - Envanter Medya",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JdUNKY0c2Y29nQkpsbWR3Nkc3SVRNSVpXTHU0RFZrM1duYVh2QXRfb1RKeVUxd0hGT0lkMkt4Q2UxSzhuWmt3M25SekdSQXlXYWFvRl9UeU5aUEhCenJKUjh0VXdQTUFiNVMyS3lMWlZ3M1FSYWFj?oc=5",
+      "summary": "Spain’s ARACNE Drone-Defense System Scores First Direct Hit Envanter Medya",
+      "source": "Google News - Savunma",
+      "category": "Savunma",
+      "published_at": "2026-10-18 13:05 UTC"
+    },
     {
       "title": "İstanbul'da sel: Kayıp iki kişinin daha cesedine ulaşıldı",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8870/live/f5e193a0-cac7-11f1-bc2e-018d645d8d21.jpg",
@@ -234,33 +279,6 @@
       "source": "Al Jazeera",
       "category": "Dünya",
       "published_at": "2026-10-18 09:42 UTC"
-    },
-    {
-      "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
-      "image": "",
-      "link": "https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss",
-      "summary": "Sudanese are facing growing costs of medicine caused by the country's civil war.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-18 09:22 UTC"
-    },
-    {
-      "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
-      "summary": "Clashes between Yemeni forces and Houthis cause casualties on both sides as aid agencies warn of humanitarian crisis.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-18 09:16 UTC"
-    },
-    {
-      "title": "LIVE: Leeds United vs Manchester United – Premier League",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss",
-      "summary": "Follow updates, including team news, from our live text commentary stream as Bruno Fernandes, Marcus Rashford headline.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-18 09:16 UTC"
     },
     {
       "title": "Nordik dillerde neden 'lütfen' kelimesi bulunmuyor?",
@@ -497,15 +515,6 @@
       "published_at": "2026-10-16 18:11 UTC"
     },
     {
-      "title": "Türkiye ve Azerbaycan hangi konularda farklılaşıyor?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/86be/live/e70e7830-c95e-11f1-9081-f19b8af087ed.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c9ly087xjkp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "“Tek millet, iki devlet” ilkesiyle son 10 yılda ilişkilerini her alanda derinleştiren ve stratejik ortak seviyesine çıkartan Türkiye ve Azerbaycan, Bakü’nün ilk ve orta dereceli okullarda \"başörtüsü yasağı\" getirmesi ve Ankara’nın buna tepkisi nedeniyle gerildi. İki ülkenin farklı yaklaşım gösterdiği dış politika konul",
-      "source": "BBC Türkçe",
-      "category": "Türkiye",
-      "published_at": "2026-10-16 12:47 UTC"
-    },
-    {
       "title": "Halk TV'nin ardından: YouTube televizyonun yerini tutabilir mi?",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa2f/live/7400ec60-c945-11f1-9a39-31b474234113.png",
       "link": "https://www.bbc.com/turkce/articles/cr93zypzqyp8o?at_medium=RSS&at_campaign=rss",
@@ -531,15 +540,6 @@
       "source": "Google News - Savunma",
       "category": "Savunma",
       "published_at": "2026-10-15 16:00 UTC"
-    },
-    {
-      "title": "ASELSAN Engages Spain on Alternative Defense Solutions After Israel-Linked Contract Cancellations - ssbulten.com.tr",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU19TYkpTelNQN1k3cF9nejZrRDNGLUFrNUE3eldNSElCNVEyMEw3V0o5YkVoQnJrcHFHcEhyYW52N3Z0YjFFejZNZWl0eXJsLU1aWDlBRFNUVktwdmNmTU5DcWkxUXpRTDRLNzFMRV9IYk0ycFJKLXVqeVZScUFDTDk4Yy16WjZya2VtV0ZoRUtxTDBhRUVSYVd2M1pRblZSNmd3VC02TkpyWnkwQVM5elM5a0Z3MDF5czJFMEt1ZlBUalBET0tXZVhGQ0liMkoyaEw5U0RETFI0bWp3?oc=5",
-      "summary": "ASELSAN Engages Spain on Alternative Defense Solutions After Israel-Linked Contract Cancellations ssbulten.com.tr",
-      "source": "Google News - Savunma",
-      "category": "Savunma",
-      "published_at": "2026-10-15 15:34 UTC"
     }
   ]
 }
