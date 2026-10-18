@@ -593,7 +593,7 @@ L.tileLayer(
         return response.json();
       })
       .then(function (geoData) {
-        L.geoJSON(geoData, {
+        geoLayer = L.geoJSON(geoData, {
           style: function () {
             return {
               color: "#aeb5bf",
