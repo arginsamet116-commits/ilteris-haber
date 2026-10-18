@@ -104,13 +104,38 @@ for source, category, url in FEEDS:
 
             items.append({
                 "title": title[:240],
-                "image": next(
-    (el.get("url", "") for tag in (
-        "{http://search.yahoo.com/mrss/}content",
-        "{http://search.yahoo.com/mrss/}thumbnail"
-    ) for el in node.findall(tag) if el.get("url")),
-    ""
-),
+                                "image": (
+                    next(
+                        (
+                            el.get("url", "")
+                            for tag in (
+                                "{http://search.yahoo.com/mrss/}content",
+                                "{http://search.yahoo.com/mrss/}thumbnail",
+                                "enclosure"
+                            )
+                            for el in node.findall(tag)
+                            if el.get("url")
+                            or el.get("type", "").startswith("image/")
+                        ),
+                        ""
+                    )
+                    or next(
+                        (
+                            re.search(
+                                r'<img[^>]+src=["\']([^"\']+)["\']',
+                                node.findtext("description") or "",
+                                re.IGNORECASE
+                            ).group(1)
+                            for _ in [0]
+                            if re.search(
+                                r'<img[^>]+src=["\']([^"\']+)["\']',
+                                node.findtext("description") or "",
+                                re.IGNORECASE
+                            )
+                        ),
+                        ""
+                    )
+                ),
                 "link": link,
                 "summary": clean(
                     node.findtext("description")
