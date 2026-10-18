@@ -1,11 +1,29 @@
 {
-  "updated_at": "2026-10-18 04:26 UTC",
+  "updated_at": "2026-10-18 04:57 UTC",
   "items": [
     {
-      "title": "Deadly fire breaks out at Canada military base",
+      "title": "At least 19 dead in stampede at Kolkata Hindu festival",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
+      "summary": "A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 04:21 UTC"
+    },
+    {
+      "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
+      "image": "",
+      "link": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
+      "summary": "Joblessness, failing services and rising costs deepen hardship across the country.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 04:14 UTC"
+    },
+    {
+      "title": "Deaths confirmed in major fire at Canada military base",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b9/live/88b2a660-caa5-11f1-9f95-1db69c12ee59.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+      "summary": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister.",
       "source": "BBC World",
       "category": "Dünya",
       "published_at": "2026-10-18 04:00 UTC"
@@ -225,24 +243,6 @@
       "source": "BBC World",
       "category": "Dünya",
       "published_at": "2026-10-17 19:19 UTC"
-    },
-    {
-      "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
-      "summary": "Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-17 19:04 UTC"
-    },
-    {
-      "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
-      "summary": "US support at risk as Trump-Zelenskyy relations nosedive.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-17 19:03 UTC"
     },
     {
       "title": "İmamoğlu İBB davasındaki savunmasını dördüncü günde tamamladı",
