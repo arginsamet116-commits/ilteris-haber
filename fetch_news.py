@@ -104,6 +104,13 @@ for source, category, url in FEEDS:
 
             items.append({
                 "title": title[:240],
+                "image": next(
+    (el.get("url", "") for tag in (
+        "{http://search.yahoo.com/mrss/}content",
+        "{http://search.yahoo.com/mrss/}thumbnail"
+    ) for el in node.findall(tag) if el.get("url")),
+    ""
+),
                 "link": link,
                 "summary": clean(
                     node.findtext("description")
