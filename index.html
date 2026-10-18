@@ -844,7 +844,14 @@ function makeLiveCard(item, index) {
   symbol.textContent = ["◎", "✦", "◈"][index % 3];
 
   art.append(symbol);
-
+if (item.image) {
+  const img = document.createElement("img");
+  img.src = item.image;
+  img.alt = item.title || "Haber görseli";
+  img.loading = "lazy";
+  img.className = "news-cover";
+  art.replaceChildren(img);
+}
   const body = document.createElement("div");
   body.className = "storybody";
 
