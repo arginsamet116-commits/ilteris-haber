@@ -14,7 +14,21 @@ FEEDS = [
         "Türkiye",
         "https://feeds.bbci.co.uk/turkce/rss.xml"
     ),
-
+    (
+        "TRT Haber",
+        "Türkiye",
+        "https://www.trthaber.com/sondakika.rss"
+    ),
+    (
+        "DW Türkçe",
+        "Dünya",
+        "https://rss.dw.com/rdf/rss-tur-all"
+    ),
+    (
+        "Anadolu Ajansı",
+        "Dünya",
+        "https://www.aa.com.tr/tr/rss/default?cat=guncel"
+    ),
     # Dünya gündemi
     (
         "Al Jazeera",
