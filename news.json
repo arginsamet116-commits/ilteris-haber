@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-18 22:15 UTC",
+  "updated_at": "2026-10-18 22:50 UTC",
   "items": [
+    {
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-18 22:10 UTC"
+    },
+    {
+      "title": "Alberta independence referendum: Will separatists survive a loss?",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
+      "summary": "Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-18 21:53 UTC"
+    },
     {
       "title": "Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da Filistinlilerin 120 zeytin ağacına daha zarar verdi",
       "image": "",
@@ -122,7 +140,7 @@
       "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2040/live/43727360-cb12-11f1-a64c-550be9e3c66b.jpg",
       "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-      "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+      "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-18 21:00 UTC"
@@ -398,15 +416,6 @@
       "published_at": "2026-10-18 17:24 UTC"
     },
     {
-      "title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
-      "summary": "In Adigrat, a city close to the Eritrean border, residents recall recent drone strikes by Ethiopian forces",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-18 17:20 UTC"
-    },
-    {
       "title": "Rusya: Zelenskiy, Moskova ile müzakere istemiyor",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/rusya-zelenskiy-moskova-ile-muzakere-istemiyor/4092854",
@@ -473,7 +482,7 @@
       "title": "Altıncı Fon Kurulu Toplantısı gerçekleştirdi",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/altinci-fon-kurulu-toplantisi-gerceklestirdi-960475.html",
-      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında, Altıncı Fon Kurulu Toplantısı gerçekleştirdi. İletişim Başkanlığı'ndan yapılan açıklamada, önümüzdeki hafta, başta para piyasası fonlarında yer alanlar olmak üzere azami sayıda kişiye ödeme yapılmasının planlandığı belirtildi.",
+      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında, Altıncı Fon Kurulu Toplantısı gerçekleştirildi. İletişim Başkanlığı'ndan yapılan açıklamada, önümüzdeki hafta, başta para piyasası fonlarında yer alanlar olmak üzere azami sayıda kişiye ödeme yapılmasının planlandığı belirtildi.",
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-18 15:43 UTC"
@@ -639,6 +648,15 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-18 12:09 UTC"
+    },
+    {
+      "title": "Fon vurgununda Türkiye Sigorta’nın eski genel müdürü de kazancını iade etmiş: Daha önce Merkez Bankası Başkan Yardımcısıydı - Serbestiyet",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWHdlc0R0UnU4YmNERmtHMDdFaDV6NzV5NV9xM0VnSTFDTnpkVGFGWFFhbl96enRSNjY0dHljdnNCSTZ2RE5BTlROcWh3RHdfdDhJLXQ3YkhpUlNMRFRzR0tGeThQMFh5N2JBY2xyT1RTeDQzZERBWnJIVnVoQmJFeTNVYjZpSG1ZZHNLdm9jLXdIRTllbHl4dnNQXzNsNS1MNV9OLTBybV9waGNxWWUzU01hSlV4UFZHcDRoTXFpMVZfdkR3eGx5elU1bnpoUVZDeHBBNjVmbjgwNlhhYldtVEVFbjh5OVI0dEU0d3o3LUdadmd4?oc=5",
+      "summary": "Fon vurgununda Türkiye Sigorta’nın eski genel müdürü de kazancını iade etmiş: Daha önce Merkez Bankası Başkan Yardımcısıydı Serbestiyet",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-18 11:31 UTC"
     },
     {
       "title": "TSB'den sigorta ve BES'e ilişkin dezenformasyon açıklaması",
@@ -882,24 +900,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-17 08:27 UTC"
-    },
-    {
-      "title": "TradingView'de CNBC TV18 tarafından haberler, 2026-10-17 — cnbctv:7cac92fb5094b:0 - TradingView",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tZ3o2ZkxfSVdaTUZjSm1hdzVpbWo1d1lQTElVWFlrdUJpYWZMZXFWUFdEWjFJWWRFZDQxcnQ3ckEtb3l2d2p0ZmRiVEZUUy1raG8wQW5DV1psaDVPYW9fVFd1YjZ6QQ?oc=5",
-      "summary": "TradingView'de CNBC TV18 tarafından haberler, 2026-10-17 — cnbctv:7cac92fb5094b:0 TradingView",
-      "source": "Google News - Küresel Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-17 08:09 UTC"
-    },
-    {
-      "title": "Borsa İstanbul’da 10 yıllık dolar sınavı! Endeks 2016 seviyelerine döndü - Ekovitrin Haber",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3Fsc0F5R3FwUWhTc1k0YzREamtUZnJBMzV4cDdhUXpGVlRraWFUZWl5cDdtbUkwVlBJTXB0eVlzLU5YNnU0LVhmVy1JM2VyWTlYS1FmUHBFaVFUUlkxN2xFSUVmQlN0MVhfSGdQVkljLXZTZU9CeGlPRERmS3dHMWtDWGptV0Q4b1I3SVh3RXZBT2dyVGJldmVQcXE?oc=5",
-      "summary": "Borsa İstanbul’da 10 yıllık dolar sınavı! Endeks 2016 seviyelerine döndü Ekovitrin Haber",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-17 08:00 UTC"
     }
   ]
 }
