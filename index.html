@@ -72,6 +72,34 @@ nav a:hover{color:var(--red)}
 .layout{display:grid;grid-template-columns:1.5fr .8fr;gap:18px;margin-top:32px}
 .panel{background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:20px;min-width:0}
 .panel h2{margin:0 0 15px;font-size:20px}
+  
+/* PIYASA KARTLARI */
+#piyasalar [data-biquote-widget="pricecard"] {
+  background: #15181d;
+  color: #f3f4f6;
+  border: 1px solid #343a44;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#piyasalar [data-biquote-widget="pricecard"] iframe {
+  max-width: 100%;
+}
+
+#piyasalar .panel h3 {
+  color: #f3f4f6;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+#piyasalar .sectionhead {
+  margin-top: 20px;
+}
+
+#piyasalar .notice {
+  color: #c5cad2;
+}
+  
 .timeline{border-left:2px solid #3c424c;padding-left:18px;display:grid;gap:17px}
 .event{position:relative}
 .event:before{content:"";position:absolute;left:-24px;top:7px;width:10px;height:10px;background:var(--red);border-radius:50%;box-shadow:0 0 0 4px #e6394620}
