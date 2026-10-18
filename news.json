@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-18 17:17 UTC",
+  "updated_at": "2026-10-18 17:49 UTC",
   "items": [
+    {
+      "title": "İstanbul'da sel: Kayıp iki kişinin daha cenazesine ulaşıldı",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8870/live/f5e193a0-cac7-11f1-bc2e-018d645d8d21.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
+      "summary": "İstanbul'da etkili olan sağanak yağış sonrasında Ayazağa'da meydana gelen selde kaybolan bir kişinin daha naaşına ulaşıldı, iki kişi hala aranıyor. Pendik'te kaybolan iki kişiden birinin de cenazesine ulaşıldı. Böylelikle selde hayatını kaybedenlerin sayısı altıya yükseldi",
+      "source": "BBC Türkçe",
+      "category": "Türkiye",
+      "published_at": "2026-10-18 17:24 UTC"
+    },
+    {
+      "title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
+      "summary": "In Adigrat, a city close to the Eritrean border, residents recall recent drone strikes by Ethiopian forces",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 17:20 UTC"
+    },
     {
       "title": "Trump endorses Netanyahu in Israeli legislative elections",
       "image": "",
@@ -191,24 +209,6 @@
       "published_at": "2026-10-18 13:06 UTC"
     },
     {
-      "title": "Spain’s ARACNE Drone-Defense System Scores First Direct Hit - Envanter Medya",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JdUNKY0c2Y29nQkpsbWR3Nkc3SVRNSVpXTHU0RFZrM1duYVh2QXRfb1RKeVUxd0hGT0lkMkt4Q2UxSzhuWmt3M25SekdSQXlXYWFvRl9UeU5aUEhCenJKUjh0VXdQTUFiNVMyS3lMWlZ3M1FSYWFj?oc=5",
-      "summary": "Spain’s ARACNE Drone-Defense System Scores First Direct Hit Envanter Medya",
-      "source": "Google News - Savunma",
-      "category": "Savunma",
-      "published_at": "2026-10-18 13:05 UTC"
-    },
-    {
-      "title": "İstanbul'da sel: Kayıp iki kişinin daha cesedine ulaşıldı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8870/live/f5e193a0-cac7-11f1-bc2e-018d645d8d21.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
-      "summary": "İstanbul'da etkili olan sağanak yağış sonrasında Ayazağa'da meydana gelen selde kaybolan bir kişinin daha cesedine ulaşıldı, iki kişi hâlâ aranıyor. Pendik'te kaybolan iki kişiden birinin de cesedine ulaşıldı. Böylelikle selde hayatını kaybedenlerin sayısı altıya yükseldi",
-      "source": "BBC Türkçe",
-      "category": "Türkiye",
-      "published_at": "2026-10-18 12:55 UTC"
-    },
-    {
       "title": "Is FIFA scrapping its peace prize after awarding it to US President Trump?",
       "image": "",
       "link": "https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump?traffic_source=rss",
@@ -236,7 +236,7 @@
       "published_at": "2026-10-18 12:35 UTC"
     },
     {
-      "title": "Nottingham Forest vs Arsenal LIVE: Premier League",
+      "title": "Nottingham Forest 0-1 Arsenal LIVE: Premier League",
       "image": "",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/10/18/nottingham-forest-vs-arsenal-live-premier-league?traffic_source=rss",
       "summary": "Follow updates from the Premier League clash, including build-up, analysis and live text commentary of the game.",
@@ -261,15 +261,6 @@
       "source": "BBC World",
       "category": "Dünya",
       "published_at": "2026-10-18 12:16 UTC"
-    },
-    {
-      "title": "There’s a ‘New Middle East’, but not the one Israel planned",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
-      "summary": "Instead of redrawing the region, Israel's wars of expasion pushed the region to work together against it.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-18 12:07 UTC"
     },
     {
       "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
@@ -540,6 +531,15 @@
       "source": "Google News - Savunma",
       "category": "Savunma",
       "published_at": "2026-10-15 21:29 UTC"
+    },
+    {
+      "title": "Skunk Works and the Royal Netherlands Aerospace Centre Expand Strategic Collaboration - TradingView",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ2wtNU4xdFItYjhvcTZGZXNiZUNidkpRWVdDS3BrRndQQVZQSlF6WUJ6bzk3MGZoTFREQ0ZpTUdYVUNGbU1WZ09paTZ2NW1XYU9fRGJsTENkUkt0ZDdEUWJnNWZJOTRaclYwWGFOYm9iZXhPOGtGdnU4ZWplYnZ2Nk5LOUE0R2ZhNGozaUl4MFBJUnBhSld1Q19xcTc0WTR5LVgxMEF1Vll6RnN1MXF5RnkzZ29haHhkYXpUbl8ybXh0WHFYU2NmT1dhN0RoN2NkRmpMTVVKS0RNaENfSWc?oc=5",
+      "summary": "Skunk Works and the Royal Netherlands Aerospace Centre Expand Strategic Collaboration TradingView",
+      "source": "Google News - Savunma",
+      "category": "Savunma",
+      "published_at": "2026-10-15 16:00 UTC"
     }
   ]
 }
