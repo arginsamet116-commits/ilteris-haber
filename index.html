@@ -1053,10 +1053,18 @@ async function loadLiveNews() {
         "Haber akışı henüz boş. GitHub Actions çalıştıysa " +
         "birkaç dakika sonra sayfayı yenileyin.";
     }
+const breakingText = document.getElementById("breaking-text");
 
-    renderLive();
+if (breakingText && liveItems.length) {
+  breakingText.textContent = liveItems
+    .slice(0, 5)
+    .map(item => item.title)
+    .join(" • ");
+}
 
-  } catch (error) {
+renderLive();
+
+} catch (error) {
     status.className = "notice error";
 
     status.textContent =
