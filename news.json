@@ -1,11 +1,29 @@
 {
-  "updated_at": "2026-10-18 05:53 UTC",
+  "updated_at": "2026-10-18 06:20 UTC",
   "items": [
+    {
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287a/live/339305e0-ca4a-11f1-81dd-07b2258f847d.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "source": "BBC World",
+      "category": "Dünya",
+      "published_at": "2026-10-18 05:56 UTC"
+    },
+    {
+      "title": "Guatemalan former prosecutor shot dead at sports centre",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss",
+      "summary": "Guatemalan police say they arrested two men in connection with the killing of Juan Francisco Solorzano Foppa.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 05:53 UTC"
+    },
     {
       "title": "AI tool helps stranded protesters find their way home in the Indian capital",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss",
-      "summary": "A digital lifeline for people detained in New Delhi that connects them to volunteers ensuring safe journeys home.",
+      "summary": "A lifeline that connects people detained and dropped off at distant locations with volunteers who ensure a safe return.",
       "source": "Al Jazeera",
       "category": "Dünya",
       "published_at": "2026-10-18 05:37 UTC"
@@ -225,24 +243,6 @@
       "source": "BBC World",
       "category": "Dünya",
       "published_at": "2026-10-17 20:53 UTC"
-    },
-    {
-      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287a/live/339305e0-ca4a-11f1-81dd-07b2258f847d.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-      "source": "BBC World",
-      "category": "Dünya",
-      "published_at": "2026-10-17 20:52 UTC"
-    },
-    {
-      "title": "Ten killed in fire at beach resort in Bangladesh",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
-      "summary": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-17 20:50 UTC"
     },
     {
       "title": "At least 17 dead in crush at Hindu festival event in India",
