@@ -1055,13 +1055,15 @@ async function loadLiveNews() {
     }
 const breakingText = document.getElementById("breaking-text");
 
-if (breakingText && liveItems.length) {
-  breakingText.textContent = liveItems
-    .slice(0, 5)
-    .map(item => item.title)
-    .join(" • ");
-}
+if (breakingText) {
+  const turkishItems = liveItems.filter(item =>
+    item.source === "BBC Türkçe"
+  );
 
+  breakingText.textContent = turkishItems.length
+    ? turkishItems.slice(0, 5).map(item => item.title).join(" • ")
+    : "Türkçe haberler yükleniyor...";
+}
 renderLive();
 
 } catch (error) {
