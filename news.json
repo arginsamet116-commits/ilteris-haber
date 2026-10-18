@@ -1,8 +1,40 @@
 {
-  "updated_at": "2026-10-18 01:08 UTC",
+  "updated_at": "2026-10-18 01:56 UTC",
   "items": [
     {
-      "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+      "title": "Buildings burn as French protests go into the night",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
+      "summary": "Witnesses say masked protesters set fire to Limoges town hall, which officials say is now ‘largely lost’.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 01:30 UTC"
+    },
+    {
+      "title": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss",
+      "summary": "Saudi-led forces say they’ve struck multiple positions around the Yemeni city of Taiz to break the Houthi siege.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 01:12 UTC"
+    },
+    {
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "source": "BBC World",
+      "category": "Dünya",
+      "published_at": "2026-10-18 01:10 UTC"
+    },
+    {
+      "title": "Israeli settlers attack European diplomats in the occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
+      "summary": "Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 01:02 UTC"
+    },
+    {
+      "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
       "summary": "Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.",
       "source": "Al Jazeera",
@@ -122,14 +154,6 @@
       "published_at": "2026-10-17 19:26 UTC"
     },
     {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "source": "BBC World",
-      "category": "Dünya",
-      "published_at": "2026-10-17 19:19 UTC"
-    },
-    {
       "title": "At least 17 dead in crush at Hindu festival event in India",
       "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
       "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
@@ -186,36 +210,12 @@
       "published_at": "2026-10-17 17:37 UTC"
     },
     {
-      "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
-      "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
-      "summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-17 17:24 UTC"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
-      "summary": "After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-17 17:18 UTC"
-    },
-    {
       "title": "İmamoğlu İBB davasındaki savunmasını dördüncü günde tamamladı",
       "link": "https://www.bbc.com/turkce/articles/cmlyd2xp1jxwo?at_medium=RSS&at_campaign=rss",
       "summary": "Tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, 14 Ekim'de başladığı İBB davasındaki savunmasını dördüncü gününde tamamladı.",
       "source": "BBC Türkçe",
       "category": "Türkiye",
       "published_at": "2026-10-17 17:09 UTC"
-    },
-    {
-      "title": "Al Jazeera reports from Paris as protests turn violent",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
-      "summary": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-17 16:56 UTC"
     },
     {
       "title": "Paris'te ve Fransa genelinde protestocular polisle çatıştı",
