@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-18 03:22 UTC",
+  "updated_at": "2026-10-18 03:58 UTC",
   "items": [
+    {
+      "title": "Deadly fire breaks out at Canada military base",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ff0/live/8afbf6f0-caa1-11f1-b705-756408c76b36.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+      "source": "BBC World",
+      "category": "Dünya",
+      "published_at": "2026-10-18 03:23 UTC"
+    },
     {
       "title": "Search continues for 11 missing after boat sank off Mexico’s Baja coast",
       "image": "",
@@ -450,15 +459,6 @@
       "source": "BBC Türkçe",
       "category": "Türkiye",
       "published_at": "2026-10-16 23:29 UTC"
-    },
-    {
-      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f50/live/e57d8d50-c8c1-11f1-bdfb-e3788aeae9ec.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-      "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
-      "source": "BBC World",
-      "category": "Dünya",
-      "published_at": "2026-10-16 23:07 UTC"
     },
     {
       "title": "TUSAŞ Outlines 2035 Production Targets for Turkish Defense Systems - ssbulten.com.tr",
