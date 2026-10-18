@@ -1,6 +1,4 @@
-
 name: Refresh ILTERIS News
-
 on:
   workflow_dispatch:
   schedule:
@@ -12,9 +10,12 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,9 +30,7 @@ jobs:
           if [ -n "$(git status --porcelain news.json)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git pull --rebase origin main
             git add news.json
             git commit -m "Refresh ILTERIS news"
             git push
           fi
-          
