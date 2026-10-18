@@ -323,7 +323,6 @@ nav{gap:18px;font-size:12px}
         </div>
       </div>
     </div>
-    <aside class="panel" id="dosya">
       
 <aside class="panel" id="dosya">
   <h2>Dünya Haber Haritası</h2>
@@ -404,15 +403,13 @@ nav{gap:18px;font-size:12px}
       worldCopyJump: true
     }).setView([25, 10], 1.5);
 
-    L.tileLayer(
-      "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
-      {
-        attribution: "&copy; OpenStreetMap &copy; CARTO",
-        subdomains: "abcd",
-        maxZoom: 19
-      }
-    ).addTo(map);
-
+L.tileLayer(
+  "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  {
+    attribution: '&copy; OpenStreetMap katkıda bulunanlar',
+    maxZoom: 19
+  }
+).addTo(map);
     let allNews = [];
 
     const aliases = {
