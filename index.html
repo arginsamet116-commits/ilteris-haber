@@ -55,6 +55,14 @@ nav a:hover{color:var(--red)}
 .story{border:1px solid var(--line);border-radius:9px;background:var(--panel);overflow:hidden;transition:transform .18s,border-color .18s;min-width:0}
 .story:hover{transform:translateY(-2px);border-color:#59616d}
 .art{height:135px;background:linear-gradient(135deg,#303944,#111419);position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center}
+  .news-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  }
 .art:before{content:"";position:absolute;width:180px;height:180px;border:1px solid #ffffff20;border-radius:50%;box-shadow:0 0 0 20px #ffffff05,0 0 0 45px #ffffff03}
 .art .symbol{font-size:44px;position:relative;color:#eef0f4}
 .art.red{background:linear-gradient(135deg,#54252b,#171419)}
