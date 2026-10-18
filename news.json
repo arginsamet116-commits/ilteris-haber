@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-18 09:18 UTC",
+  "updated_at": "2026-10-18 09:53 UTC",
   "items": [
+    {
+      "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
+      "summary": "Top US diplomat says Ukraine has requested access to military-grade version of Starlink for strikes deep inside Russia.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 09:42 UTC"
+    },
+    {
+      "title": "Fransa'da protestolar: Bin 200'den fazla gözaltı, binalar ateşe verildi",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e74b/live/9f3e6fb0-cad5-11f1-9a39-31b474234113.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cw8rzp2e2v5xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fransa'da okullardaki zor koşulları ve hayat pahalılığını protesto etmek için Cumartesi günü düzenlenen gösteriler sırasında ülke genelinde şiddet olayları yaşandı",
+      "source": "BBC Türkçe",
+      "category": "Türkiye",
+      "published_at": "2026-10-18 09:22 UTC"
+    },
+    {
+      "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
+      "image": "",
+      "link": "https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss",
+      "summary": "Sudanese are facing growing costs of medicine caused by the country's civil war.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 09:22 UTC"
+    },
+    {
+      "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
+      "summary": "Clashes between Yemeni forces and Houthis cause casualties on both sides as aid agencies warn of humanitarian crisis.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 09:16 UTC"
+    },
+    {
+      "title": "LIVE: Leeds United vs Manchester United – Premier League",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss",
+      "summary": "Follow updates, including team news, from our live text commentary stream as Bruno Fernandes, Marcus Rashford headline.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 09:16 UTC"
+    },
     {
       "title": "Haaland’s record scoring spree helps Man City to seventh Premier League win",
       "image": "",
@@ -182,15 +227,6 @@
       "published_at": "2026-10-18 05:16 UTC"
     },
     {
-      "title": "Church makes sainthood case for 'WW1 hero' priest",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9889/live/84cf90b0-ca61-11f1-8a78-59dd7000461f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&at_campaign=rss",
-      "summary": "Fr Willie Doyle was killed during World War One while trying to help injured and dying soldiers.",
-      "source": "BBC World",
-      "category": "Dünya",
-      "published_at": "2026-10-18 05:15 UTC"
-    },
-    {
       "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a90/live/cf7329e0-ca0e-11f1-bc2e-018d645d8d21.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
@@ -225,42 +261,6 @@
       "source": "Al Jazeera",
       "category": "Dünya",
       "published_at": "2026-10-18 04:46 UTC"
-    },
-    {
-      "title": "At least 19 dead in stampede at Kolkata Hindu festival",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
-      "summary": "A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-18 04:21 UTC"
-    },
-    {
-      "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
-      "image": "",
-      "link": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
-      "summary": "Joblessness, failing services and rising costs deepen hardship across the country.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-18 04:14 UTC"
-    },
-    {
-      "title": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss",
-      "summary": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-18 03:44 UTC"
-    },
-    {
-      "title": "Search continues for 11 missing after boat sank off Mexico’s Baja coast",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss",
-      "summary": "Some of 16 survivors treated for suspected shark bites, US coastguard says.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-18 02:33 UTC"
     },
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -315,15 +315,6 @@
       "source": "BBC Türkçe",
       "category": "Türkiye",
       "published_at": "2026-10-17 17:09 UTC"
-    },
-    {
-      "title": "Paris'te ve Fransa genelinde protestocular polisle çatıştı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5ea5/live/869d9790-ca2d-11f1-a64c-550be9e3c66b.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cw8rzp2e2v5xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Bugün Fransa genelinde artan yakıt fiyatları, hayat pahalılığı ve kötüleşen kamu hizmetlerine karşı düzenlenen protestolara on binlerce kişi katılıyor.",
-      "source": "BBC Türkçe",
-      "category": "Türkiye",
-      "published_at": "2026-10-17 15:44 UTC"
     },
     {
       "title": "Pope discharged from hospital days after lung cancer surgery",
@@ -486,6 +477,15 @@
       "source": "Google News - Savunma",
       "category": "Savunma",
       "published_at": "2026-10-16 19:53 UTC"
+    },
+    {
+      "title": "What we learned from heated US midterm Senate debates",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7468/live/37bdc2e0-c991-11f1-adc3-01d8629f0470.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
+      "source": "BBC World",
+      "category": "Dünya",
+      "published_at": "2026-10-16 19:09 UTC"
     },
     {
       "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
