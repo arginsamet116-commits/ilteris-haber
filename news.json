@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-18 15:16 UTC",
+  "updated_at": "2026-10-18 15:51 UTC",
   "items": [
+    {
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "source": "BBC World",
+      "category": "Dünya",
+      "published_at": "2026-10-18 15:46 UTC"
+    },
+    {
+      "title": "Manchester United held at Leeds despite improved performance for Carrick",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss",
+      "summary": "Bryan Mbeumo's goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 15:28 UTC"
+    },
+    {
+      "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
+      "summary": "EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 15:10 UTC"
+    },
+    {
+      "title": "Tirana sees sixth day of violent protests as Albania’s PM refuses to resign",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
+      "summary": "Police crack down on hundreds of protesters in Albania's capital, using rubber bullets, water cannons and tear gas.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 15:08 UTC"
+    },
     {
       "title": "A timeline of West Bank attacks on Palestinians and foreign officials",
       "image": "",
@@ -192,9 +228,9 @@
     },
     {
       "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d285/live/4704a830-cacd-11f1-b5ff-6fb710f59c84.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/7d8c1210-cb06-11f1-93db-7509e20aa39a.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
       "source": "BBC World",
       "category": "Dünya",
       "published_at": "2026-10-18 12:07 UTC"
@@ -207,15 +243,6 @@
       "source": "Al Jazeera",
       "category": "Dünya",
       "published_at": "2026-10-18 12:00 UTC"
-    },
-    {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "source": "BBC World",
-      "category": "Dünya",
-      "published_at": "2026-10-18 11:57 UTC"
     },
     {
       "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
@@ -252,33 +279,6 @@
       "source": "Al Jazeera",
       "category": "Dünya",
       "published_at": "2026-10-18 10:48 UTC"
-    },
-    {
-      "title": "Palestinian karate champion Maryam Bsharat wins second world title",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/palestinian-karate-champion-maryam-bsharat-wins-second-world-title?traffic_source=rss",
-      "summary": "Palestinian athlete Maryam Bsharat won gold at the World Karate Championships in Poland.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-18 10:47 UTC"
-    },
-    {
-      "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-      "summary": "Zelenskyy says Russian attacks on Ukraine overnight kill two people, adding that Moscow continues to break energy ceasefire.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-18 10:34 UTC"
-    },
-    {
-      "title": "Russia’s war in Ukraine puts Europe on edge",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
-      "summary": "Poland’s FM addresses growing concerns that Russia’s war in Ukraine could spill over into neighbouring NATO countries.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-18 10:33 UTC"
     },
     {
       "title": "BBC muhabiri Manifest'in Londra konserini yazdı",
