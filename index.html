@@ -170,6 +170,83 @@ nav{gap:18px;font-size:12px}
     <span>Askerî gelişmeler, dış politika ve jeopolitik gündem — kaynak bağlantılarıyla.</span>
   </div>
 
+<!-- ILTERIS PIYASALAR -->
+<section class="section" id="piyasalar">
+  <div class="sectionhead">
+    <div>
+      <h2>Piyasalar</h2>
+      <p>Döviz · Altın · Kripto · Petrol · Dünya endeksleri</p>
+    </div>
+    <span class="badge">PİYASA TAKİBİ</span>
+  </div>
+
+  <div class="notice">
+    Fiyatlar üçüncü taraf veri sağlayıcısından gelir.
+    Piyasa kapalı olduğunda son bilinen fiyat gösterilebilir.
+    Veriler yatırım tavsiyesi değildir.
+  </div>
+
+  <div class="panel">
+    <h3>Canlı piyasa şeridi</h3>
+    <div data-biquote-widget="ticker"
+         data-symbols="USDTRY,EURUSD,XAUUSD,BTCUSD,USOIL,US500,DXY">
+    </div>
+  </div>
+
+  <div class="grid" style="margin-top:14px">
+    <article class="panel">
+      <h3>Dolar / TL</h3>
+      <div data-biquote-widget="pricecard" data-symbol="USDTRY"></div>
+    </article>
+
+    <article class="panel">
+      <h3>Euro / Dolar</h3>
+      <div data-biquote-widget="pricecard" data-symbol="EURUSD"></div>
+    </article>
+
+    <article class="panel">
+      <h3>Ons altın</h3>
+      <div data-biquote-widget="pricecard" data-symbol="XAUUSD"></div>
+    </article>
+
+    <article class="panel">
+      <h3>Bitcoin</h3>
+      <div data-biquote-widget="pricecard" data-symbol="BTCUSD"></div>
+    </article>
+
+    <article class="panel">
+      <h3>Petrol</h3>
+      <div data-biquote-widget="pricecard" data-symbol="USOIL"></div>
+    </article>
+
+    <article class="panel">
+      <h3>ABD endeksi</h3>
+      <div data-biquote-widget="pricecard" data-symbol="US500"></div>
+    </article>
+
+    <article class="panel">
+      <h3>Dolar endeksi</h3>
+      <div data-biquote-widget="pricecard" data-symbol="DXY"></div>
+    </article>
+
+    <article class="panel">
+      <h3>Borsa İstanbul · BIST 100</h3>
+      <p style="color:var(--muted);font-size:13px">
+        BIST 100 için doğrulanmış veri kaynağı henüz bağlanmadı.
+        Bu nedenle canlı fiyat gösterilmiyor.
+      </p>
+    </article>
+  </div>
+
+  <p style="font-size:12px;color:var(--muted);margin-top:12px">
+    Veri sağlayıcısı:
+    <a href="https://biquote.io/" target="_blank"
+       rel="noopener noreferrer" style="color:var(--gold)">Biquote</a>.
+    Endeks CFD fiyatları resmî borsa işlemleriyle aynı olmayabilir.
+  </p>
+</section>
+<!-- PIYASALAR SONU -->
+  
   <section class="hero" aria-label="Öne çıkan dosyalar">
     <article class="hero-main">
       <div class="hero-content">
@@ -942,5 +1019,6 @@ $("search").addEventListener("input", renderLive);
 
 loadLiveNews();
 </script>
+<script src="https://widgets.biquote.io/v1/loader.js" async></script>
 </body>
 </html>
