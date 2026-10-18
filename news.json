@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-18 11:50 UTC",
+  "updated_at": "2026-10-18 12:18 UTC",
   "items": [
+    {
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "source": "BBC World",
+      "category": "Dünya",
+      "published_at": "2026-10-18 12:16 UTC"
+    },
+    {
+      "title": "There’s a ‘New Middle East’, but not the one Israel planned",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
+      "summary": "Instead of redrawing the region, Israel's wars of expasion pushed the region to work together against it.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 12:07 UTC"
+    },
+    {
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d285/live/4704a830-cacd-11f1-b5ff-6fb710f59c84.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+      "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "source": "BBC World",
+      "category": "Dünya",
+      "published_at": "2026-10-18 12:07 UTC"
+    },
+    {
+      "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss",
+      "summary": "Akhlaghi's experience centres on ballistic missiles, aerospace technology and defence-industrial production.",
+      "source": "Al Jazeera",
+      "category": "Dünya",
+      "published_at": "2026-10-18 12:00 UTC"
+    },
+    {
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "source": "BBC World",
+      "category": "Dünya",
+      "published_at": "2026-10-18 11:57 UTC"
+    },
+    {
+      "title": "İstanbul'da sel: Ölü sayısı beşe yükseldi",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8870/live/f5e193a0-cac7-11f1-bc2e-018d645d8d21.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
+      "summary": "İstanbul'da etkili olan sağanak yağış sonrasında Ayazağa'da meydana gelen selde kaybolan bir kişinin daha cesedine ulaşıldı. Böylelikle kentte selde hayatını kaybedenlerin sayısı beşe yükseldi.",
+      "source": "BBC Türkçe",
+      "category": "Türkiye",
+      "published_at": "2026-10-18 11:50 UTC"
+    },
     {
       "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
       "image": "",
@@ -27,15 +81,6 @@
       "source": "Al Jazeera",
       "category": "Dünya",
       "published_at": "2026-10-18 11:11 UTC"
-    },
-    {
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d285/live/4704a830-cacd-11f1-b5ff-6fb710f59c84.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "source": "BBC World",
-      "category": "Dünya",
-      "published_at": "2026-10-18 10:53 UTC"
     },
     {
       "title": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
@@ -209,33 +254,6 @@
       "published_at": "2026-10-18 08:25 UTC"
     },
     {
-      "title": "İstanbul'da sel: Ayazağa'da üç, Pendik'te iki kişi kayıp",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8870/live/f5e193a0-cac7-11f1-bc2e-018d645d8d21.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
-      "summary": "İstanbul'un Anadolu Yakası'nda etkili olan yağmur nedeniyle Pendik'te iki kişi sel sularına kapılarak kayboldu. 14 Ekim'de etkili olan yağışta Ayazağa'da da üç kişi kaybolmuştu. Kaybolan beş kişinin arama kurtarma çalışmaları sürüyor",
-      "source": "BBC Türkçe",
-      "category": "Türkiye",
-      "published_at": "2026-10-18 08:24 UTC"
-    },
-    {
-      "title": "Photos: Protests across France spiral into looting, blazes and clashes",
-      "image": "",
-      "link": "https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss",
-      "summary": "Authorities report 1,200 arrests and 150 injured police officers as unrest erupts in multiple French cities.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-18 08:21 UTC"
-    },
-    {
-      "title": "There is no split in MAGA",
-      "image": "",
-      "link": "https://www.aljazeera.com/opinions/2026/10/18/there-is-no-split-in-maga?traffic_source=rss",
-      "summary": "But there is an attempt to redefine who the movement includes and what it stands for.",
-      "source": "Al Jazeera",
-      "category": "Dünya",
-      "published_at": "2026-10-18 08:14 UTC"
-    },
-    {
       "title": "Nordik dillerde neden 'lütfen' kelimesi bulunmuyor?",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d609/live/c3139240-c7af-11f1-a64c-550be9e3c66b.jpg",
       "link": "https://www.bbc.com/turkce/articles/cwn73x7zpr5yo?at_medium=RSS&at_campaign=rss",
@@ -288,15 +306,6 @@
       "source": "BBC World",
       "category": "Dünya",
       "published_at": "2026-10-18 01:10 UTC"
-    },
-    {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "source": "BBC World",
-      "category": "Dünya",
-      "published_at": "2026-10-17 23:52 UTC"
     },
     {
       "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
@@ -477,15 +486,6 @@
       "source": "Google News - Savunma",
       "category": "Savunma",
       "published_at": "2026-10-16 21:53 UTC"
-    },
-    {
-      "title": "What we learned from heated US midterm Senate debates",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7468/live/37bdc2e0-c991-11f1-adc3-01d8629f0470.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
-      "source": "BBC World",
-      "category": "Dünya",
-      "published_at": "2026-10-16 19:09 UTC"
     },
     {
       "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
