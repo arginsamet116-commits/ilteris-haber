@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-10-19 03:30 UTC",
+  "updated_at": "2026-10-19 04:26 UTC",
   "items": [
+    {
+      "title": "France's government under pressure after weekend of widespread violence",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68dd/live/22d4e480-cb6c-11f1-a4ab-0f7a37e66bc1.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 04:16 UTC"
+    },
+    {
+      "title": "Çin ekonomisi üçüncü çeyrekte yüzde 4,5 büyüdü",
+      "image": "https://geoim.bloomberght.com/l/2026/10/19/ver1792382192/3791756/jpg/320x180",
+      "link": "https://www.bloomberght.com/cin-ekonomisi-ucuncu-ceyrekte-yuzde-4-5-buyudu-3791756",
+      "summary": "Çin ekonomisi, teknoloji ürünlerine yönelik güçlü dış talebin derinleşen emlak krizi ve zayıf tüketici talebinin etkilerini büyük ölçüde dengelemesiyle üçüncü çeyrekte yıllık bazda yüzde 4,5 büyüdü.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-19 03:54 UTC"
+    },
+    {
+      "title": "ABD'nin BAE'deki büyükelçiliği vatandaşlarını Orta Doğu'daki güvenlik risklerine karşı uyardı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/abdnin-baedeki-buyukelciligi-vatandaslarini-orta-dogudaki-guvenlik-risklerine-karsi-uyardi/4092960",
+      "summary": "ABD'nin Birleşik Arap Emirlikleri'ndeki (BAE) büyükelçiliği, çatışmaların hızla yayılabileceği uyarısında bulunarak Orta Doğu'daki Amerikan vatandaşlarına daha dikkatli olmaları çağrısı yaptı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 03:52 UTC"
+    },
+    {
+      "title": "EPDK'den lisanssız elektrik üretimine ilişkin yeni düzenleme",
+      "image": "https://geoim.bloomberght.com/l/2026/10/19/ver1792381856/3791755/jpg/320x180",
+      "link": "https://www.bloomberght.com/epdkden-lisanssiz-elektrik-uretimine-iliskin-yeni-duzenleme-3791755",
+      "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK), lisanssız elektrik üretim tesislerinin acil durumlarda uzaktan kontrol edilmesi, talimatlara uyulmaması halinde uygulanacak yaptırımlar ve mahsuplaşma süreçlerine ilişkin düzenlemeleri değiştirdi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-19 03:50 UTC"
+    },
+    {
+      "title": "Batı Şeria'da Filistin topraklarını gasbeden İsraillilerin saldırısında 2 Filistinli yaralandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/bati-seriada-filistin-topraklarini-gasbeden-israillilerin-saldirisinda-2-filistinli-yaralandi/4092959",
+      "summary": "İşgal altındaki Batı Şeria'da Filistin topraklarını gasbeden İsraillilerin saldırısında 2 Filistinli yaralandı, İsrail ordusu da Filistinlilere ait bir araca ateş açarak çeşitli bölgelere baskınlar düzenledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 03:46 UTC"
+    },
+    {
+      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8068/live/34a82040-c956-11f1-8879-9d9deeb686e1.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 03:44 UTC"
+    },
+    {
+      "title": "‘It broke my heart’: Limoges residents reel after town hall fire",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss",
+      "summary": "Residents in Limoges, France, are expressing shock and anger after protests saw their 140-year-old town hall set ablaze.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 03:40 UTC"
+    },
+    {
+      "title": "Altın, petrol fiyatlarındaki gerilemeyle yükseldi",
+      "image": "https://geoim.bloomberght.com/l/2026/10/19/ver1792381024/3791754/jpg/320x180",
+      "link": "https://www.bloomberght.com/altin-petrol-fiyatlarindaki-gerilemeyle-yukseldi-3791754",
+      "summary": "Altın, petrol fiyatlarındaki düşüşün enflasyon baskılarını hafifletebileceği beklentisiyle haftaya yükselişle başladı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-19 03:36 UTC"
+    },
+    {
+      "title": "Petrol, Rusya'ya yönelik yaptırımların hafifletilmesiyle geriledi",
+      "image": "https://geoim.bloomberght.com/l/2026/10/19/ver1792380677/3791753/jpg/320x180",
+      "link": "https://www.bloomberght.com/petrol-rusyaya-yonelik-yaptirimlarin-hafifletilmesiyle-geriledi-3791753",
+      "summary": "Petrol, ABD Başkanı Donald Trump'ın Rusya'ya yönelik bazı yaptırım ve tarifeleri askıya alarak Rus yakıtı ihracatının artabileceği beklentisini güçlendirmesinin ardından pazartesi günü düştü.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-19 03:30 UTC"
+    },
+    {
+      "title": "Anthropic says it will commit 5% of shares to ‘public benefit’ fund",
+      "image": "",
+      "link": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund?traffic_source=rss",
+      "summary": "Claude creator says fund could be used for donations to NGOs and 'direct distributions to specific populations'.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 03:23 UTC"
+    },
+    {
+      "title": "Trump, Ukrayna'nın Rusya'daki dizel rafinerilerini hedef almasını eleştirdi",
+      "image": "https://geoim.bloomberght.com/l/2026/10/19/ver1792379803/3791752/jpg/320x180",
+      "link": "https://www.bloomberght.com/trump-ukrayna-nin-rusya-daki-dizel-rafinerilerini-hedef-almasini-elestirdi-3791752",
+      "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasındaki barış görüşmelerinde \"büyük ilerleme\" kaydedildiğini ileri sürerek, öte yandan Ukrayna Devlet Başkanı Vladimir Zelenskiy'i dünya dizel pazarlarına ciddi zarar veren Rusya'daki dizel rafinerilerini hedef almakla ve savaşı bitirmeyi istememekle eleştirdi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-19 03:15 UTC"
+    },
     {
       "title": "Ekonomi ve siyaset gündemi- 19 Ekim 2026",
       "image": "https://geoim.bloomberght.com/l/2026/10/19/ver1792379480/3791751/jpg/320x180",
@@ -8,6 +107,15 @@
       "summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-19 03:10 UTC"
+    },
+    {
+      "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
+      "summary": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-19 03:10 UTC"
     },
     {
@@ -182,15 +290,6 @@
       "published_at": "2026-10-18 22:41 UTC"
     },
     {
-      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185e/live/26c3d1c0-cb47-11f1-bc2e-018d645d8d21.jpg",
-      "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
-      "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-18 22:22 UTC"
-    },
-    {
       "title": "Alberta independence referendum: Will separatists survive a loss?",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
@@ -344,15 +443,6 @@
       "published_at": "2026-10-18 20:16 UTC"
     },
     {
-      "title": "What’s behind Europe’s youth protests?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
-      "summary": "What's behind Europe's youth protests?",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-18 20:05 UTC"
-    },
-    {
       "title": "Fransa Cumhurbaşkanı Macron, valilerin bazı gösterileri yasaklama kararı alabileceğini duyurdu",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/fransa-cumhurbaskani-macron-valilerin-bazi-gosterileri-yasaklama-karari-alabilecegini-duyurdu/4092910",
@@ -407,24 +497,6 @@
       "published_at": "2026-10-18 19:53 UTC"
     },
     {
-      "title": "RAMS Park ve Aslanvadi'de aşırı yağışların ardından inceleme yapıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/rams-park-ve-aslanvadide-asiri-yagislarin-ardindan-inceleme-yapildi/4092901",
-      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı İstanbul İl Müdürlüğü, aşırı yağışların ardından RAMS Park Stadyumu ve Aslanvadi Projesi şantiye alanında yapılan teknik incelemelerde herhangi bir olumsuzluğa rastlanmadığını bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-18 19:33 UTC"
-    },
-    {
-      "title": "India’s crackdown on cockroaches, critics and cameras",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
-      "summary": "A government at war with its critics - from young protesters to the media.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-18 19:31 UTC"
-    },
-    {
       "title": "Bakan Çiftçi: Devletmillet el ele, omuz omuza çalışıyoruz",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-devlet-millet-el-ele-omuz-omuza-calisiyoruz-960481.html",
@@ -432,15 +504,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-18 19:28 UTC"
-    },
-    {
-      "title": "How will Europe deal with youth-led protests?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss",
-      "summary": "Demonstrations are spreading across the continent.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-18 19:15 UTC"
     },
     {
       "title": "İçişleri Bakanı Çiftçi vefatının 5. yılında Özdemir Bayraktar'ı andı",
@@ -452,10 +515,10 @@
       "published_at": "2026-10-18 19:04 UTC"
     },
     {
-      "title": "Merkez Bankası faiz kararı ne zaman açıklanacak? TCMB 2026 2027 Merkez Bankası faiz toplantı takvimi - Habertürk",
+      "title": "Merkez Bankası faiz kararı ne zaman açıklanacak? TCMB 2026 2027 Merkez Bankası faiz toplantı tarihi takvimi! - Habertürk",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNekQ0T0VKQjBlbHFKV1Zpa0puUjJLMjNXd0F0VkZTV0wxaFJoZjBCQU5haG56SEktWi1ucG5VM0Y1TGxmbTJHYnVQQWRobklrTnh4aGMwU1loRWd4M3M2OEloNm0wTTcxcERYdm5aRjdTS3ZITTNDY1lIdkpMTFhPdkJZVGd6Vm1uYnNmRXFMVzcwNEtZZmpRQWdxSVhDa3pseXNMQlA2WnQ5Mld4anFmUkhfUS1jMmc4eFp4SGNDWVR6VTY1QTJNaFFZckp3eEdSUGFBRGtsWlZIOWRk?oc=5",
-      "summary": "Merkez Bankası faiz kararı ne zaman açıklanacak? TCMB 2026 2027 Merkez Bankası faiz toplantı takvimi Habertürk",
+      "summary": "Merkez Bankası faiz kararı ne zaman açıklanacak? TCMB 2026 2027 Merkez Bankası faiz toplantı tarihi takvimi! Habertürk",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-18 19:00 UTC"
@@ -531,15 +594,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-18 16:43 UTC"
-    },
-    {
-      "title": "Kremlin: Kiev'in saldırılarına cevabımızın sonuçlarını alıyoruz",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/kremlin-kievin-saldirilarina-cevabimizin-sonuclarini-aliyoruz/4092822",
-      "summary": "Kremlin Sözcüsü Dmitriy Peskov, Ukrayna'nın insansız hava araçlarıyla Rusya'nın St. Petersburg şehrine yönelik saldırısına sistematik cevap verdiklerini belirterek, Kiev'in saldırı kapasitesini azaltmayı amaçladıklarını ve sonuç aldıklarını söyledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-18 16:29 UTC"
     },
     {
       "title": "Elon Musk'ın Cumhuriyetçilere yaptığı milyonlarca dolarlık bağış ne anlatıyor?",
@@ -731,6 +785,15 @@
       "published_at": "2026-10-18 12:13 UTC"
     },
     {
+      "title": "Fon vurgununda Türkiye Sigorta’nın eski genel müdürü de kazancını iade etmiş: Daha önce Merkez Bankası Başkan Yardımcısıydı - Serbestiyet",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWHdlc0R0UnU4YmNERmtHMDdFaDV6NzV5NV9xM0VnSTFDTnpkVGFGWFFhbl96enRSNjY0dHljdnNCSTZ2RE5BTlROcWh3RHdfdDhJLXQ3YkhpUlNMRFRzR0tGeThQMFh5N2JBY2xyT1RTeDQzZERBWnJIVnVoQmJFeTNVYjZpSG1ZZHNLdm9jLXdIRTllbHl4dnNQXzNsNS1MNV9OLTBybV9waGNxWWUzU01hSlV4UFZHcDRoTXFpMVZfdkR3eGx5elU1bnpoUVZDeHBBNjVmbjgwNlhhYldtVEVFbjh5OVI0dEU0d3o3LUdadmd4?oc=5",
+      "summary": "Fon vurgununda Türkiye Sigorta’nın eski genel müdürü de kazancını iade etmiş: Daha önce Merkez Bankası Başkan Yardımcısıydı Serbestiyet",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-18 11:31 UTC"
+    },
+    {
       "title": "TSB'den sigorta ve BES'e ilişkin dezenformasyon açıklaması",
       "image": "https://geoim.bloomberght.com/l/2026/10/18/ver1792321983/3791743/jpg/320x180",
       "link": "https://www.bloomberght.com/sigortaya-guveni-zedelemek-ekonomik-dayanikliliga-zarar-verir-3791743",
@@ -767,15 +830,6 @@
       "published_at": "2026-10-18 10:19 UTC"
     },
     {
-      "title": "Karadeniz'de ticaret 'SOS' veriyor",
-      "image": "https://geoim.bloomberght.com/l/2026/10/18/ver1792310730/3791740/jpg/320x180",
-      "link": "https://www.bloomberght.com/karadenizde-ticaret-sos-veriyor-3791740",
-      "summary": "Rusya ile Ukrayna arasında devam eden savaş Karadeniz'deki ticaret gemilerine sıçradı. Can güvenliği gerekçesi ile bölgede gemi bulmak zorlaşırken başta tahıl olmak üzere Türkiye için pek çok ürünün navlun fiyatı artıyor.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-18 08:04 UTC"
-    },
-    {
       "title": "Siber Vatan Programı 2027 Başvurularında Son Gün 30 Ekim - Ajans Erzincan",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTjE2OUNObG9vdTZLSksyYW5iU0dWTUVIZURlV3REZUJKQUZGM202OTVmamREdElNUkVtM0xaZWs5bUc2ZnRlMnZ5RXlDU3N2bE41azZNcVgwWnRWZDVhNUw3V2lDd09NTTYwaUxnRU9CY0dDblRKY1ZpWURwSTZlbTB4YkI0YjlOenM1MHZmOA?oc=5",
@@ -803,15 +857,6 @@
       "published_at": "2026-10-18 07:07 UTC"
     },
     {
-      "title": "Mevzuata aykırı ilana 15,2 milyon lira ceza",
-      "image": "https://geoim.bloomberght.com/l/2026/10/18/ver1792307445/3791739/jpg/320x180",
-      "link": "https://www.bloomberght.com/mevzuata-aykiri-ilana-15-2-milyon-lira-ceza-3791739",
-      "summary": "Ticaret Bakanlığı, sosyal medyada mevzuata aykırı ilan veren toplam 152 emlak ve galeri işletmesine bugüne kadar 15,2 milyon lira idari para cezası uygulandığını duyurdu.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-18 07:06 UTC"
-    },
-    {
       "title": "BBC araştırması: İsrail ordusu yüzlerce iç soruşturmasının sonuçlarını kamuoyuna açıklamadı",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2cd5/live/6628d920-c7e4-11f1-a64c-550be9e3c66b.png",
       "link": "https://www.bbc.com/turkce/articles/cqdjv982nl4eo?at_medium=RSS&at_campaign=rss",
@@ -837,51 +882,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-18 07:00 UTC"
-    },
-    {
-      "title": "Beyaz Saray Sözcüsü görevinden ayrılıyor",
-      "image": "https://geoim.bloomberght.com/l/2026/10/18/ver1792306750/3791738/jpg/320x180",
-      "link": "https://www.bloomberght.com/beyaz-saray-sozcusu-gorevinden-ayriliyor-3791738",
-      "summary": "Hukuk diploması ve avukatlık belgesine ilişkin tartışmalar nedeniyle kısa süre önce başladığı görevinden ayrılmaya hazırlandığı teyit edilen Beyaz Saray Sözcüsü Katie Zacharia, ABD Başkanı Donald Trump için çalışmanın bir \"onur\" olduğu değerlendirmesinde bulundu.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-18 06:58 UTC"
-    },
-    {
-      "title": "Fransa'da gerginlik artıyor",
-      "image": "https://geoim.bloomberght.com/l/2026/10/18/ver1792305819/3791737/jpg/320x180",
-      "link": "https://www.bloomberght.com/fransa-da-gerginlik-artiyor-3791737",
-      "summary": "Fransa'da yaklaşık bir ay önce daha iyi eğitim koşulları için liselilerin başlattığı eylemler Sarı Yelekliler hareketini yeniden canlandırma çağrıları ve hayat pahalılığına karşı düzenlenen gösterilerle alevlendi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-18 06:42 UTC"
-    },
-    {
-      "title": "Araç sahipleri dikkat! 18 Ekim benzin, motorin ve LPG fiyatları açıklandı - Bursa TV",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWTRobFBHYzRYVFNhUnNOb28yaHY1U3ZPck1kbDF1REk5VjNGMWZQc25KUjR1TWFZZVBnNm80eURZYUxjaWRuUm80Z2ozT3lvalRDd3NCTGd3a0JDQk9kV0hyRkFWdk82eHNEY3VaaUdQeTdtSUw5LXBKTTFxbkxtOWNFcmZXWVpvcWVZLU5STGFCLXVGVllRTXhIbHgwZm8?oc=5",
-      "summary": "Araç sahipleri dikkat! 18 Ekim benzin, motorin ve LPG fiyatları açıklandı Bursa TV",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-18 05:38 UTC"
-    },
-    {
-      "title": "Trump: İran'da biraz daha uzun kalabiliriz",
-      "image": "https://geoim.bloomberght.com/l/2026/10/18/ver1792272163/3791736/jpg/320x180",
-      "link": "https://www.bloomberght.com/trump-iran-da-biraz-daha-uzun-kalabiliriz-3791736",
-      "summary": "ABD Başkanı Donald Trump, İran'a yönelik saldırılarda nükleer kapasitelerini ortadan kaldırdıklarını savunarak, \"Orada biraz daha uzun kalabiliriz\" dedi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-17 21:22 UTC"
-    },
-    {
-      "title": "Anti-government protesters battle with police in Albania",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-17 20:53 UTC"
     },
     {
       "title": "CARDONA PRO - OPEN DINAMICO 9:30 — CristopherCardonaTrader tarafından gösterge - TradingView",
