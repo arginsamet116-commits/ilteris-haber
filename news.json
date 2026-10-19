@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-10-19 19:10 UTC",
+  "updated_at": "2026-10-19 20:00 UTC",
   "items": [
+    {
+      "title": "Fransa'da Paris ve Nice'te sokağa çıkma yasakları",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d98/live/20d25f80-cbf5-11f1-bc2e-018d645d8d21.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cqm26kmrx4vro?at_medium=RSS&at_campaign=rss",
+      "summary": "Fransa Başbakanı Sébastien Lecornu, belediye başkanlarına \"gerekli gördükleri yerlerde\" sokağa çıkma yasağı uygulama yetkisi verdiğini açıkladı.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 19:43 UTC"
+    },
+    {
+      "title": "Netanyahu'dan Trump'a İran mesajı: Bitirmemiz gereken bir iş var",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/netanyahudan-trumpa-iran-mesaji-bitirmemiz-gereken-bir-is-var/4093902",
+      "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD Başkanı Donald Trump ile telefon görüşmesinde İran'a olası yeni saldırılara atıfla, \"Bitirmemiz gereken bir iş var.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 19:43 UTC"
+    },
+    {
+      "title": "ABD'nin bazı eyaletlerinde ara seçimler için erken oy kullanma işlemi başladı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/abdnin-bazi-eyaletlerinde-ara-secimler-icin-erken-oy-kullanma-islemi-basladi-960570.html",
+      "summary": "ABD'nin Teksas, South Carolina, Arkansas ve Alaska başta olmak üzere bazı eyaletlerinde 3 Kasım'daki Kongre ara seçimleri yaklaşırken erken oy kullanma süreci başladı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 19:42 UTC"
+    },
+    {
+      "title": "Trabzonspor, Thomas Reis yönetiminde durdurulamıyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-thomas-reis-yonetiminde-durdurulamiyor/4093898",
+      "summary": "Trendyol Süper Lig'de Beşiktaş'ı sahasında 2-0 mağlup eden Trabzonspor, teknik direktörü Thomas Reis yönetiminde durdurulamıyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 19:40 UTC"
+    },
+    {
+      "title": "BM: Gazze'de insanlar umutlarını yitirmeye ve unutuldukları hissine kapılmaya başlıyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/bm-gazzede-insanlar-umutlarini-yitirmeye-ve-unutulduklari-hissine-kapilmaya-basliyor-960569.html",
+      "summary": "BM Dünya Gıda Programı WFP İcra Direktör Yardımcısı Carl Skau, Gazze'de ateşkesin birinci yılını doldurduğu dönemde Filistinlilerin \"umutlarını yitirmeye başladıkları ve unutuldukları hissine kapıldıkları\" konusunda uyardı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 19:39 UTC"
+    },
+    {
+      "title": "Paris, Lyon, Lille ve Nice dahil Fransa'nın birçok kentinde kısmi sokağa çıkma yasağı ilan edildi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/paris-lyon-lille-ve-nice-dahil-fransanin-bircok-kentinde-kismi-sokaga-cikma-yasagi-ilan-edildi/4093887",
+      "summary": "Fransa Başbakanı Sebastien Lecornu, hafta sonu şiddet ve yağmalama sahnelerinin yaşandığı gösterilerin ardından valilere bu akşamdan itibaren ülkedeki bazı yerlerde kısmi sokağa çıkma yasağı uygulanması talimatını verdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 19:25 UTC"
+    },
+    {
+      "title": "Katar: Gazzede ateşkesin ikinci aşamasının uygulanması için çabalarımız sürüyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/katar-gazzede-ateskesin-ikinci-asamasinin-uygulanmasi-icin-cabalarimiz-suruyor-960567.html",
+      "summary": "Katar Uluslararası İşbirliğinden Sorumlu Devlet Bakanı Meryem bint Ali bin Nasır elMisned, Katar'ın Gazzede ateşkesin ikinci aşamasının uygulanması için ortaklarıyla birlikte çabalarının sürdüğünü açıkladı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 19:17 UTC"
+    },
+    {
+      "title": "Avrupa'da elektrikli araç satışları Eylül'de yüzde 70 arttı",
+      "image": "https://geoim.bloomberght.com/l/2026/10/19/ver1792437346/3791841/jpg/320x180",
+      "link": "https://www.bloomberght.com/avrupa-da-elektrikli-arac-satislari-eylul-de-yuzde-70-artti-3791841",
+      "summary": "Avrupa'da elektrikli araç satışları, Eylül ayında yıllık bazda yüzde 70,3 artarak 300 bin 202'ye ulaştı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-19 19:14 UTC"
+    },
+    {
+      "title": "Ticaret Bakanlığı ile otomotiv sektörü temsilcileri AB Sanayi Hızlandırma Yasa Taslağı'nı değerlendirdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-ile-otomotiv-sektoru-temsilcileri-ab-sanayi-hizlandirma-yasa-taslagini-degerlendirdi/4093881",
+      "summary": "Bakan Bolat, \"Türkiye otomotiv sanayisinin Sanayi Hızlandırma Yasası kapsamına tüm hükümleri itibarıyla dahil edilmesini sağlamak amacıyla girişimlerimizi sektörümüzle yakın işbirliği içerisinde kararlılıkla sürdürmeye devam edeceğiz.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 19:13 UTC"
+    },
+    {
+      "title": "Indian court extends detention of ‘Cockroach’ leaders",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
+      "summary": "The extension of the custody of the CJP activists comes amid a crackdown on near daily protests against the government.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 19:09 UTC"
+    },
+    {
+      "title": "İran’dan vatandaşlarına Fransa, Belçika ve İtalya’ya seyahat uyarısı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-dan-vatandaslarina-fransa-belcika-ve-italya-ya-seyahat-uyarisi/4093875",
+      "summary": "İran Dışişleri Bakanlığı, vatandaşlarına Fransa, Belçika ve İtalya’ya seyahat etme konusunda uyarıda bulundu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 19:07 UTC"
+    },
+    {
+      "title": "İran Cumhurbaşkanı Pezeşkiyan: Bölge ülkeleri ile temel hiçbir anlaşmazlığımız yok",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-cumhurbaskani-pezeskiyan-bolge-ulkeleri-ile-temel-hicbir-anlasmazligimiz-yok/4093873",
+      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, temaslarda bulunmak üzere Tahran’a gelen Rusya Dışişleri Bakanı Sergey Lavrov ile gerçekleştirdiği görüşmede, \"Bölge ülkeleri ile temel hiçbir anlaşmazlığımız yok.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-19 19:04 UTC"
+    },
     {
       "title": "Trabzonspor, sahasında Beşiktaş'ı yendi",
       "image": "",
@@ -27,15 +135,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-19 18:59 UTC"
-    },
-    {
-      "title": "Fransa'da Paris ve Nice'te sokağa çıkma yasakları",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4bb0/live/1d010cd0-cba0-11f1-a64c-550be9e3c66b.png",
-      "link": "https://www.bbc.com/turkce/articles/cqm26kmrx4vro?at_medium=RSS&at_campaign=rss",
-      "summary": "Fransa Başbakanı Sébastien Lecornu, belediye başkanlarına \"gerekli gördükleri yerlerde\" sokağa çıkma yasağı uygulama yetkisi verdiğini açıkladı.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 18:57 UTC"
     },
     {
       "title": "Derbide kazanan Trabzonspor",
@@ -173,15 +272,6 @@
       "published_at": "2026-10-19 18:03 UTC"
     },
     {
-      "title": "TDT Aksakallar Konseyi Başkanı Yıldırım: Küresel çocuk eğitim fonu kuralım",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/tdt-aksakallar-konseyi-baskani-yildirim-kuresel-cocuk-egitim-fonu-kuralim/4093828",
-      "summary": "TDT Aksakallar Konseyi Başkanı Yıldırım, orta ve düşük gelirli ülkelerin 2030 eğitim hedefleri için yıllık 100 milyar dolarlık kaynağa ihtiyaç duyduğunu belirterek milli geliri yüksek ülkelere küresel çocuk eğitim fonu kurulması çağrısında bulundu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 18:02 UTC"
-    },
-    {
       "title": "Ronaldo banned for 30 days, fined $285 by Portugal over spat with Jesus",
       "image": "",
       "link": "https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus?traffic_source=rss",
@@ -299,24 +389,6 @@
       "published_at": "2026-10-19 17:14 UTC"
     },
     {
-      "title": "Alaattin Aktaş: Merkez Bankası bu iki adımı atarsa işe yarayabilir - Ekonomim",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFRwdkhLem1nZElob1JiYkREa05sNEk1NzVkVXZvOWU3MS0yRWhUOWozLWFfTGdYbm12M2ZzOUI2Tno2SjhTUy1lUXhrMzNteV9DUUdlWVNwcXdMdnBpSGRaOVQydmZhUXc1Mi1VOWsydGdVT3ljYThib2pmenlUVDY2ZlBQWVo3QnNMRTM1UW01M1p0TFhpZEgtQTlTdmRIbjhDS2ZR0gGrAUFVX3lxTFBvdEVvclBOenFoeC1xMGFMdU9LSzJSRzlWVTlZcXRmYXRPOHZDVWRsWl90clJXSGRmd25Obi1aZ3poazBnamFCWkduaTRhR3NTSjRJTlkyZklJNmExMnJLSk91TFVISFc5RzlqSjE2TmNuRlBkTXBmYVdJWDRrUWlfUEhlMFd5ZFhJa2Zhay12cUNpM2xqbmc0WmpQamRLVHh2VENmNnloTFcxWQ?oc=5",
-      "summary": "Alaattin Aktaş: Merkez Bankası bu iki adımı atarsa işe yarayabilir Ekonomim",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-19 17:11 UTC"
-    },
-    {
-      "title": "Antalya Büyükşehir Belediyesi iştiraki ANSET'e yönelik soruşturmanın iddianamesi kabul edildi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/antalya-buyuksehir-belediyesi-istiraki-ansete-yonelik-sorusturmanin-iddianamesi-kabul-edildi/4093784",
-      "summary": "Antalya Büyükşehir Belediyesinin iştiraki ANSET’e yönelik soruşturmada aralarında Büyükşehir Belediye Başkanlığı görevinden uzaklaştırılan Muhittin Böcek ve eski genel sekreter Cansel Çevikkol Tuncer’in de bulunduğu 55 sanık hakkında dava açıldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 17:09 UTC"
-    },
-    {
       "title": "Merkez Bankası ekim ayı faiz oranı ne zaman açıklanacak? - birgun.net",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSTJfblFaeE5hWnFycEMzRVFvWTBfLTVYOFh2bDNUY0E4Zi1KRk9SUGdmM2lPcC1UREJlUVljVkdSNjI5clpSem1qeGpqcU9kcG14Z21EcFhiTmd2MVROYjZjT0hrT2R6Yjd2cGw3aVpOTTRwcm0zalF3Rks2M19ac09xc3U2d2J5N3ZjbG1WTjdUQ0NkVGc?oc=5",
@@ -344,10 +416,10 @@
       "published_at": "2026-10-19 17:03 UTC"
     },
     {
-      "title": "İstanbul'da kara para aklama soruşturmasında 15 şüpheliye tutuklama talebi",
+      "title": "İstanbul'da kara para aklama soruşturmasında 15 şüpheli tutuklandı",
       "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-kara-para-aklama-sorusturmasinda-15-supheliye-tutuklama-talebi-960558.html",
-      "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin soruşturma kapsamında gözaltına alınan 15 şüpheli, tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-kara-para-aklama-sorusturmasinda-15-supheli-tutuklandi-960558.html",
+      "summary": "Kara para aklama soruşturması kapsamında gözaltına alınan Mustafa Sarıgülün eski eşi Aylin Kotil, oğlu Ömer Sarıgül ve Murat Ağırelin de bulunduğu 17 şüpheliden 15'i tutuklandı. 2'si için ise adli kontrol tedbiri uygulandı.",
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-19 16:57 UTC"
@@ -362,24 +434,6 @@
       "published_at": "2026-10-19 16:55 UTC"
     },
     {
-      "title": "İstanbul'da kara para aklama soruşturmasında 15 şüpheliye tutuklama talebi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/istanbulda-kara-para-aklama-sorusturmasinda-15-supheliye-tutuklama-talebi/4093778",
-      "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin soruşturma kapsamında gözaltına alınan 15 şüpheli, tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 16:52 UTC"
-    },
-    {
-      "title": "Fransa'daki gösterilerde polis şiddeti iddialarına ilişkin 4 soruşturma açıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/fransadaki-gosterilerde-polis-siddeti-iddialarina-iliskin-4-sorusturma-acildi/4093768",
-      "summary": "Fransa'da hafta sonu düzenlenen gösterilerdeki polis şiddeti iddialarıyla ilgili 4 soruşturma başlatıldığı bildirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 16:45 UTC"
-    },
-    {
       "title": "TMSF, Tera Yatırım Teknoloji Holding'e kayyum olarak atandı",
       "image": "https://geoim.bloomberght.com/l/2026/10/19/ver1792428314/3791838/jpg/320x180",
       "link": "https://www.bloomberght.com/tmsf-tera-yatirim-teknoloji-holding-e-kayyum-olarak-atandi-3791838",
@@ -387,24 +441,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-19 16:44 UTC"
-    },
-    {
-      "title": "Türkiye'nin ev sahipliği yapacağı COP31, Roma'daki panelde kapsamlı ele alındı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-ev-sahipligi-yapacagi-cop31-romadaki-panelde-kapsamli-ele-alindi/4093764",
-      "summary": "Türkiye'nin kasım ayında Antalya'da ev sahipliği yapacağı Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31), Roma'daki panelde kapsamlı ele alındı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 16:44 UTC"
-    },
-    {
-      "title": "Trump'tan kadın sağlığı araştırmalarını güçlendirmeyi amaçlayan Başkanlık Kararnamesi'ne imza",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/trumptan-kadin-sagligi-arastirmalarini-guclendirmeyi-amaclayan-baskanlik-kararnamesine-imza/4093763",
-      "summary": "ABD Başkanı Donald Trump, eşi Melania Trump’ın öncülük ettiği ve kadın sağlığı konusunda federal araştırmaları güçlendirmeyi amaçlayan Başkanlık Kararnamesi'ni imzaladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 16:43 UTC"
     },
     {
       "title": "İran: Avrupa da ABD gibi yanlış hesaplamalarının bedelini ödüyor",
@@ -432,15 +468,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-19 16:36 UTC"
-    },
-    {
-      "title": "War on Iran backlash threatens Republican control of Congress",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss",
-      "summary": "Public opposition to the war on Iran could threaten Republican control of Congress.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 16:24 UTC"
     },
     {
       "title": "Sabancı Ailesi ve Holding yöneticilerinden 238 milyon TL'lik hisse alımı",
@@ -486,6 +513,15 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-19 16:05 UTC"
+    },
+    {
+      "title": "Alaattin Aktaş: Merkez Bankası bu iki adımı atarsa işe yarayabilir - Ekonomim",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFRwdkhLem1nZElob1JiYkREa05sNEk1NzVkVXZvOWU3MS0yRWhUOWozLWFfTGdYbm12M2ZzOUI2Tno2SjhTUy1lUXhrMzNteV9DUUdlWVNwcXdMdnBpSGRaOVQydmZhUXc1Mi1VOWsydGdVT3ljYThib2pmenlUVDY2ZlBQWVo3QnNMRTM1UW01M1p0TFhpZEgtQTlTdmRIbjhDS2ZR0gGrAUFVX3lxTFBvdEVvclBOenFoeC1xMGFMdU9LSzJSRzlWVTlZcXRmYXRPOHZDVWRsWl90clJXSGRmd25Obi1aZ3poazBnamFCWkduaTRhR3NTSjRJTlkyZklJNmExMnJLSk91TFVISFc5RzlqSjE2TmNuRlBkTXBmYVdJWDRrUWlfUEhlMFd5ZFhJa2Zhay12cUNpM2xqbmc0WmpQamRLVHh2VENmNnloTFcxWQ?oc=5",
+      "summary": "Alaattin Aktaş: Merkez Bankası bu iki adımı atarsa işe yarayabilir Ekonomim",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-19 16:02 UTC"
     },
     {
       "title": "ABD Yüksek Mahkemesi Google'ın patent itirazını reddetti",
@@ -596,24 +632,6 @@
       "published_at": "2026-10-19 14:37 UTC"
     },
     {
-      "title": "Bodrum'da gıda güvenliği denetimleri: 8 işletmeye kapatma cezası",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/bodrumda-gida-guvenligi-denetimleri-8-isletmeye-kapatma-cezasi-960553.html",
-      "summary": "Muğla'nın Bodrum ilçesinde belediye ekiplerince gerçekleştirilen denetimlerde, son kullanma tarihi geçmiş ürün sattığı belirlenen 8 işletmeye 3'er gün kapatma cezası uygulandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 14:35 UTC"
-    },
-    {
-      "title": "Hazine ve Maliye Bakan Yardımcısı Çelik emekliliğini sundu",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/hazine-ve-maliye-bakan-yardimcisi-celik-emekliligini-sundu-960552.html",
-      "summary": "Hazine ve Maliye Bakan Yardımcısı Osman Çelik, Bakan Şimşek'e bugünden geçerli olmak üzere emeklilik dilekçesini sundu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 14:33 UTC"
-    },
-    {
       "title": "SPK Başkanı Sütçü istifa etti",
       "image": "https://geoim.bloomberght.com/l/2026/10/19/ver1792420175/3791821/jpg/320x180",
       "link": "https://www.bloomberght.com/spk-baskani-sutcu-istifa-etti-3791821",
@@ -621,15 +639,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-19 14:29 UTC"
-    },
-    {
-      "title": "SPK Başkanı Sütçü istifasını sundu",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/spk-baskani-sutcu-istifasini-sundu-960551.html",
-      "summary": "Sermaye Piyasası Kurulu SPK Başkanı Mahmut Sütçü, sağlık sorunları nedeniyle istifasını sundu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 14:22 UTC"
     },
     {
       "title": "Ege Üniversitesi'ndeki köpeklerin toplatılmasında taraflar ne diyor?",
@@ -731,6 +740,15 @@
       "published_at": "2026-10-19 13:34 UTC"
     },
     {
+      "title": "İngiltere Merkez Bankası Barclays’i özel kredi kredileri nedeniyle soruşturuyor - Investing.com Türkiye",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWndtZ19WZC1CVzlZZGRhRk9BTzR2QlBvelc0TzFRMWJ5NF9NZXEyTHNiNjQtUEdEbWZta0tsaWd0cGpDOU9NaWkxUkpOWWswQ3BzQzBCQ04weDFvYVZ1ZnlaY0hWQVBRY1pBSHlXTDlnTjVNaFNTaWh5YXRLV0Vlek1vYzZWUE1NUWkwM3BidXVvSFUxREdGaTlXNGMzZUd2aGtYWEhLalJOSkNkTVZ6cmMzR1VEUTNJckE2UjgtblFUclMwT3F5a2F2dllfZw?oc=5",
+      "summary": "İngiltere Merkez Bankası Barclays’i özel kredi kredileri nedeniyle soruşturuyor Investing.com Türkiye",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-19 13:33 UTC"
+    },
+    {
       "title": "Almanya'da yedi yılda 500 bin istihdam kaybı",
       "image": "https://geoim.bloomberght.com/l/2026/10/19/ver1792416176/3791812/jpg/320x180",
       "link": "https://www.bloomberght.com/almanya-da-yedi-yilda-500-bin-istihdam-kaybi-3791812",
@@ -774,15 +792,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-19 13:02 UTC"
-    },
-    {
-      "title": "Makarnada 1 milyar euroluk birleşme görüşmesi",
-      "image": "https://geoim.bloomberght.com/l/2026/10/19/ver1792414542/3791809/jpg/320x180",
-      "link": "https://www.bloomberght.com/makarnada-1-milyar-euroluk-birlesme-gorusmesi-3791809",
-      "summary": "Fransız makarna üreticisi Panzani ile Portekizli Cerealis, birleşme stratejisi kapsamında görüşmelere başladı. Yıllık toplam 1 milyar euro ciroya sahip iki şirketin birleşmesi halinde grubun işletme değeri yaklaşık 1,8 milyar euro olacak.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-19 12:53 UTC"
     },
     {
       "title": "Merkez Bankası faiz kararı ne zaman? Beklentiler ne yönde? - Platin Dergisi",
@@ -891,15 +900,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-19 10:26 UTC"
-    },
-    {
-      "title": "Merkez Bankası faiz kararı ne olacak? İşte PPK öncesi masadaki tüm tahminler - Sabah",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWNodVhhNzBSUURIWU5YT2wzdWtBM3d0Z08wUHJfWjh2aE9lT2hFRUZkMjJqQVhtbUVOdmlxN05Mc2ROUnVMb0Q1blhlOEJHOU12OVNZel92X003d0pkaXUtV3pzWloycllDRFlOczVYeVFkUTlEWlJrNmYtMGk4RldhRjk1RUFKcUtHeHJ3MmFRb0pCQ1hSS016dGZPRnVkWHZ1dkJnR2lQN051M3c?oc=5",
-      "summary": "Merkez Bankası faiz kararı ne olacak? İşte PPK öncesi masadaki tüm tahminler Sabah",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-19 10:03 UTC"
     }
   ]
 }
