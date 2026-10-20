@@ -1,6 +1,159 @@
 {
-  "updated_at": "2026-10-20 18:30 UTC",
+  "updated_at": "2026-10-20 19:27 UTC",
   "items": [
+    {
+      "title": "İsrail'de aşırı sağ, seçim öncesi ilk kez oy kullanacak gençlerde yankı buluyor",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0ee0/live/1be7f440-cc67-11f1-b1a3-5bda642ff934.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c64g12jzej54o?at_medium=RSS&at_campaign=rss",
+      "summary": "İsrail'de önümüzdeki hafta yarım milyondan fazla genç oy kullanacak ve bu oylar önemli bir fark yaratabilir.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 19:17 UTC"
+    },
+    {
+      "title": "İtalya'da gösteriler sonrası kararname: Reşit olmayanlara gözaltı, Milano'ya 500 ek asker",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b9e/live/ad46cb30-ccb9-11f1-9a39-31b474234113.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cked35py829zo?at_medium=RSS&at_campaign=rss",
+      "summary": "İtalya'da başta Milano olmak üzere bazı kentlerde geçen hafta sonu hayat pahalılığına karşı yapılan gösterilerde yaşanan şiddet olaylarının ardından hükümet yeni bir kararnameyi kabul etti. Yeni tedbirler arasında 14-18 yaş arası çocukların da gözaltına alınması ve olası hasarların bedelini ailelerinin ödemesi de var.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 19:14 UTC"
+    },
+    {
+      "title": "Brezilya'da, Meta'ya devlet başkanı adaylarına eşit muameleyi belgelemesi için 24 saat süre",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/brezilyada-metaya-devlet-baskani-adaylarina-esit-muameleyi-belgelemesi-icin-24-saat-sure-960683.html",
+      "summary": "Brezilya Yüksek Seçim Mahkemesi TSE, Meta şirketinden, devlet başkanı seçiminin ikinci turunda yarışan adayların kampanyalarına eşit muamele edildiğini gösteren bilgi ve belgeleri 24 saat içinde sunmasını istedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 19:13 UTC"
+    },
+    {
+      "title": "Ankara'da belediye otobüsünün yaya üst geçidinin ayağına çarpması sonucu 24 kişi yaralandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/ankarada-belediye-otobusunun-yaya-ust-gecidinin-ayagina-carpmasi-sonucu-24-kisi-yaralandi/4095054",
+      "summary": "Ankara'nın Etimesgut ilçesinde belediye otobüsünün yaya üst geçidinin ayağına çarpması sonucu ilk belirlemelere göre 24 kişi yaralandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 19:04 UTC"
+    },
+    {
+      "title": "TBMM'de bütçe maratonu başlıyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/tbmmde-butce-maratonu-basliyor-960682.html",
+      "summary": "Türkiye Büyük Millet Meclisi'nde TBMM 'bütçe' mesaisi başlıyor. 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi, yarın Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın komisyonda yapacağı sunumla başlayacak. Bir ay sürecek komisyon görüşmelerinin ardından Aralık ayında Genel Kurul gündemine gelecek.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 18:57 UTC"
+    },
+    {
+      "title": "UK to deploy fighter jets to defend Saudi Arabia",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
+      "summary": "British Typhoon jets will carry out defensive missions to protect Saudi Arabia from escalating Houthi attacks.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 18:55 UTC"
+    },
+    {
+      "title": "Oxfam analysis finds Peru’s richest captured 42 percent of all new wealth",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/20/oxfam-analysis-finds-perus-richest-captured-42-percent-of-all-new-wealth?traffic_source=rss",
+      "summary": "Only 1.4 percent of all new wealth created between 2019 and 2025 went to the poorest 50 percent, report finds.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 18:53 UTC"
+    },
+    {
+      "title": "81 ile Drone Eğitim ve Üretim Merkezi Projesi'nde ilk adım atılıyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/81-ile-drone-egitim-ve-uretim-merkezi-projesinde-ilk-adim-atiliyor/4095036",
+      "summary": "SAHA İstanbul, 81 ile Drone Eğitim ve Üretim Merkezi Projesi'nin ilk adımı için 7 bölgedeki 7 şehirde çalışmalara başlıyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 18:50 UTC"
+    },
+    {
+      "title": "Fransa'da Paris ve bazı kentlerdeki kısmi sokağa çıkma yasağı uzatıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/fransada-paris-ve-bazi-kentlerdeki-kismi-sokaga-cikma-yasagi-uzatildi/4095031",
+      "summary": "Fransa'da şiddet olaylarına sahne olan sarı yeleklilerin eylemlerinin ardından Paris dahil farklı kentlerde kısmi sokağa çıkma yasağını uzatma kararları alındı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 18:46 UTC"
+    },
+    {
+      "title": "Can a humanitarian crisis in Gaza be averted?",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted?traffic_source=rss",
+      "summary": "The World Food Programme says it is forced to cut aid for thousands in the enclave.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 18:45 UTC"
+    },
+    {
+      "title": "Lula challenges Bolsonaro to release personal records before election",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/20/lula-challenges-bolsonaro-to-release-personal-records-before-election?traffic_source=rss",
+      "summary": "Brazil's left-wing president says he will release bank, tax, and phone records if right-wing rival will do the same.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 18:43 UTC"
+    },
+    {
+      "title": "Fenerbahçe, Şampiyonlar Ligi'nde Slavia Prag ile 2-2 berabere kaldı",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf2c/live/9e63c330-ccae-11f1-bc2e-018d645d8d21.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+      "summary": "Fenerbahçe, Şampiyonlar Ligi'nin üçüncü hafta maçında evinde bu akşam Çek Cumhuriyeti temsilcisi Slavia Prag'ı ağırlayacak.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 18:40 UTC"
+    },
+    {
+      "title": "Trump'ın Kanada'ya uyguladığı yüzde 50'lik tarifelere dava",
+      "image": "https://geoim.bloomberght.com/l/2026/10/20/ver1792521712/3792013/jpg/320x180",
+      "link": "https://www.bloomberght.com/trump-in-kanada-menseli-urunlere-uyguladigi-yuzde-50-lik-tarifelere-dava-3792013",
+      "summary": "ABD'de New Jersey merkezli gıda ithalatçısı Gellert Global Group, Trump yönetiminin Kanada menşeli bazı ürünlere uyguladığı yüzde 50 oranındaki ek gümrük vergilerinin hukuka aykırı olduğu gerekçesiyle dava açtı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-20 18:38 UTC"
+    },
+    {
+      "title": "Fenerbahçe'den UEFA Şampiyonlar Ligi'nde beraberlik",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/fenerbahceden-uefa-sampiyonlar-liginde-beraberlik-960681.html",
+      "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında Çekya'nın Slavia Prag takımını konuk eden Fenerbahçe, 90. dakikada yediği golle galibiyeti kaçırdı ve sahadan 22 beraberlikle ayrıldı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 18:38 UTC"
+    },
+    {
+      "title": "Fenerbahçe, galibiyeti son dakikada kaçırdı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-galibiyeti-son-dakikada-kacirdi/4095019",
+      "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında Çekya'nın Slavia Prag takımını konuk eden Fenerbahçe, 90. dakikada yediği golle galibiyeti kaçırdı ve sahadan 2-2 beraberlikle ayrıldı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 18:33 UTC"
+    },
+    {
+      "title": "Bakan Gürlek, Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları 4. Toplantısı'na katıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-turkiye-belcika-disisleri-adalet-ve-icisleri-bakanlari-4-toplantisina-katildi/4095014",
+      "summary": "Adalet Bakanı Akın Gürlek, \"Müttefik ülke Belçika'nın özellikle FETÖ'nün kendi ülkesindeki yapılanmasına karşı somut ve etkili tedbirler almasını bekliyoruz.\" ifadesini kullandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 18:29 UTC"
+    },
+    {
+      "title": "7 ilde bahis operasyonunda 22 tutuklama",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/7-ilde-bahis-operasyonunda-22-tutuklama-960680.html",
+      "summary": "Siirt merkezli 7 ilde düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 27 şüpheliden 22'si tutuklandı. Şüphelilerin banka ve kripto hesaplarında 20252026 yıllarında 1 milyar 498 milyon 377 bin 676 liralık işlem hacmi tespit edildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 18:23 UTC"
+    },
     {
       "title": "İzmir'de polisin şehit olduğu saldırıya ilişkin davada karar",
       "image": "",
@@ -9,6 +162,15 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-20 18:22 UTC"
+    },
+    {
+      "title": "Blackwall değerlemesini 2,2 milyar dolara çıkardı",
+      "image": "https://geoim.bloomberght.com/l/2026/10/20/ver1792520376/3792012/jpg/320x180",
+      "link": "https://www.bloomberght.com/blackwall-degerlemesini-2-2-milyar-dolara-cikardi-3792012",
+      "summary": "İnternet altyapı sağlayıcısı ve siber güvenlik şirketi Blackwall, 2,2 milyar dolarlık değerleme üzerinden 100 milyon dolar yatırım aldığını duyurdu. Blackwall Yönetim Kurulu Başkanı Roi Carthy, şirketin değerlemesinin, 2025 yılındaki bir önceki yatırım turuna kıyasla dört katına çıktığını açıkladı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-20 18:19 UTC"
     },
     {
       "title": "Trump'ın Kanada menşeli ürünlere uyguladığı yüzde 50'lik tarifelere karşı dava açıldı",
@@ -45,15 +207,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-20 17:54 UTC"
-    },
-    {
-      "title": "Fenerbahçe, Slavia Prag karşısında ilk yarıda 2-1 önde",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf2c/live/9e63c330-ccae-11f1-bc2e-018d645d8d21.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
-      "summary": "Fenerbahçe, Şampiyonlar Ligi'nin üçüncü hafta maçında evinde bu akşam Çek Cumhuriyeti temsilcisi Slavia Prag'ı ağırlayacak.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 17:50 UTC"
     },
     {
       "title": "Fransa'da savcılık, AP üyesi Hassan'ın 2 yıl siyasetten men edilmesini talep etti",
@@ -155,15 +308,6 @@
       "published_at": "2026-10-20 17:22 UTC"
     },
     {
-      "title": "Türkiye, Libya Temsilciler Meclisinin deniz yetki muhtırasını onaylamasını memnuniyetle karşıladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/turkiye-libya-temsilciler-meclisinin-deniz-yetki-muhtirasini-onaylamasini-memnuniyetle-karsiladi/4094973",
-      "summary": "Dışişleri Bakanlığı, Libya Temsilciler Meclisi tarafından Türkiye ile Libya arasındaki Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası'nın kabul edilmesini memnuniyetle karşıladıklarını bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 17:21 UTC"
-    },
-    {
       "title": "İsrail ordusu, \"Uzay Tugayı\" kurarak gözetleme ve saldırı kapasitesini genişleteceğini açıkladı",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-uzay-tugayi-kurarak-gozetleme-ve-saldiri-kapasitesini-genisletecegini-acikladi/4094971",
@@ -218,15 +362,6 @@
       "published_at": "2026-10-20 17:09 UTC"
     },
     {
-      "title": "İran Meclis Başkanı Kalibaf: ABD 7 şartı uygulamadıkça İran'ın güvenini kazanamaz",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaf-abd-7-sarti-uygulamadikca-iranin-guvenini-kazanamaz/4094964",
-      "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ülkesinin Hürmüz Boğazı’nın açılmasına ilişkin ABD tarafına sunduğu şartlar hakkında, “ABD 7 şartı uygulamadıkça İran'ın güvenini kazanamaz.” dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 17:03 UTC"
-    },
-    {
       "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f36/live/37d43d30-cc67-11f1-b1a3-5bda642ff934.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
@@ -263,15 +398,6 @@
       "published_at": "2026-10-20 16:56 UTC"
     },
     {
-      "title": "Hind Rajab’ın öldürülmesiyle bağlantılı İsrailli komutanın ABD'de tutuklanması çağrısı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/hind-rajab-in-oldurulmesiyle-baglantili-israilli-komutanin-abdde-tutuklanmasi-cagrisi/4094954",
-      "summary": "Hind Rajab Vakfı (HRF), 2024 yılında Gazze'de 5 yaşındaki Hind Rajab’ın öldürülmesiyle bağlantılı olduğunu iddia ettiği İsrailli bir komutanın tutuklanıp yargılanması için ABD Adalet Bakanlığına başvurdu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 16:55 UTC"
-    },
-    {
       "title": "Ben-Gvir mocks Gaza destruction in AI-generated video",
       "image": "",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ben-gvir-mocks-gaza-destruction-in-ai-generated-video?traffic_source=rss",
@@ -279,15 +405,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-20 16:51 UTC"
-    },
-    {
-      "title": "Libya'nın deniz yetki mutabakatını onaylaması, Türkiye'nin argümanlarını güçlendiriyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/libyanin-deniz-yetki-mutabakatini-onaylamasi-turkiyenin-argumanlarini-guclendiriyor/4094947",
-      "summary": "Uzmanlar, Libya Meclisinin Türkiye ile 2019'da imzalanan deniz yetki alanları mutabakatını onaylamasının, anlaşmaya itiraz eden ülkelerin gerekçelerini zayıflatıp Türkiye'nin Ege ve Doğu Akdeniz'deki hukuki tezlerini güçlendirdiğini belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 16:48 UTC"
     },
     {
       "title": "Prens Harry ailesiyle barışmak istediğini söyledi",
@@ -306,15 +423,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-20 16:45 UTC"
-    },
-    {
-      "title": "DMM, \"Azerbaycan'da Türk bayrağının indirilmeye çalışıldığı\" iddiasının dezenformasyon içerdiğini bildirdi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/dmm-azerbaycanda-turk-bayraginin-indirilmeye-calisildigi-iddiasinin-dezenformasyon-icerdigini-bildirdi/4094941",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Azerbaycan'da Türk bayrağının indirilmeye çalışıldığı\" yönündeki iddiaların dezenformasyon içerdiğini bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 16:44 UTC"
     },
     {
       "title": "NATO, Karadeniz'de gemilerin korunması için bölgeye ek unsurlar sevk edecek",
@@ -342,6 +450,15 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-20 16:33 UTC"
+    },
+    {
+      "title": "Bolu Belediyesi davasında Tanju Özcan'a yedi yıl hapis cezası",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb51/live/27060510-1704-11f1-bfbe-c7ba448da962.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cqlg9n5pwyqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Bolu Belediyesi'ne yönelik davadan tutuklu yargılanan Tanju Özcan, 7 yıl 3 ay 15 gün hapis cezasına çarptırıldı.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 16:29 UTC"
     },
     {
       "title": "TSX vadeli işlemleri, Kanada Merkez Bankası’nın faiz yolu değerlendirmesiyle geriledi - Investing.com Türkiye",
@@ -407,15 +524,6 @@
       "published_at": "2026-10-20 16:13 UTC"
     },
     {
-      "title": "DMM'den Azerbaycan'da Türk bayrağı indirilmeye çalışıldı iddialarına yalanlama",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/dmmden-azerbaycanda-turk-bayragi-indirilmeye-calisildi-iddialarina-yalanlama-960668.html",
-      "summary": "Dezenformasyonla Mücadele Merkezi DMM, Azerbaycan'da Türk bayrağının indirilmeye çalışıldığı yönündeki iddiaların dezenformasyon içerdiğini, görüntülerin eski tarihli olduğunu ve bayrağın indirilmesi gibi bir durumun yaşanmadığını açıkladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 16:11 UTC"
-    },
-    {
       "title": "Ultra işlenmiş gıdalar beyin damarlarına sessizce zarar veriyor",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/ultra-islenmis-gidalar-beyin-damarlarina-sessizce-zarar-veriyor-960669.html",
@@ -423,15 +531,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-20 16:08 UTC"
-    },
-    {
-      "title": "Gazze'de, soykırımcı İsrail saldırılarında 7 Filistinli hayatını kaybetti",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/gazzede-soykirimci-israil-saldirilarinda-7-filistinli-hayatini-kaybetti-960667.html",
-      "summary": "Soykırımcı İsrail ordusunun Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırıları sonucu aralarında kadın ve çocukların da bulunduğu 7 Filistinli yaşamını yitirdi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 16:06 UTC"
     },
     {
       "title": "Suspect arrested after historic town hall set alight - French media",
@@ -443,42 +542,6 @@
       "published_at": "2026-10-20 16:06 UTC"
     },
     {
-      "title": "Trump official claims record-breaking 300,000 visas were revoked",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/20/trump-official-claims-record-breaking-300000-visas-were-revoked?traffic_source=rss",
-      "summary": "The revocations targeted US visa holders who had allegedly broken the law, a spokesperson said.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 16:02 UTC"
-    },
-    {
-      "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
-      "summary": "Moscow pledges support to its sanctioned ally, but analysts say the war Iran wants to end has filled Russia’s coffers.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 16:01 UTC"
-    },
-    {
-      "title": "İletişim Başkanı Duran: TürkiyeLibya deniz yetki alanları mutabakatının onaylanması önemli bir adım",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-turkiye-libya-deniz-yetki-alanlari-mutabakatinin-onaylanmasi-onemli-bir-adim-960666.html",
-      "summary": "İletişim Başkanı Burhanettin Duran, Türkiye ile Libya arasında imzalanan deniz yetki alanları mutabakat muhtırasının onaylanmasına ilişkin, \"TürkiyeLibya ilişkileri ve Doğu Akdenizdeki gelişmeler açısından önemli ve memnuniyet verici bir adımdır\" açıklamasında bulundu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 16:00 UTC"
-    },
-    {
-      "title": "PSG vs Barcelona LIVE: Champions League",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/20/psg-vs-barcelona-live-champions-league?traffic_source=rss",
-      "summary": "Follow updates from the league-stage clash, including the build-up, analysis and live text commentary of the game.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 16:00 UTC"
-    },
-    {
       "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/040a/live/55e91860-cc9c-11f1-94e6-edd4c60b2e1d.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
@@ -486,15 +549,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-20 15:58 UTC"
-    },
-    {
-      "title": "‘You have to sacrifice’: Trump voters stay loyal as US midterms approach",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss",
-      "summary": "Rising economic pain confronting US voters has not translated into a loss of faith among Trump’s most loyal supporters.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 15:57 UTC"
     },
     {
       "title": "Türkiye'nin dahil olmak istediği 'Made in Europe' planı nedir?",
@@ -542,13 +596,13 @@
       "published_at": "2026-10-20 15:32 UTC"
     },
     {
-      "title": "BIST 100 endeksi günü yükselişle kapattı",
+      "title": "TCMB Merkez Bankası faiz kararı ne zaman açıklanacak? 2026 2027 Merkez Bankası faiz toplantı tarihi takvimi! - Habertürk",
       "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/bist-100-endeksi-gunu-yukselisle-kapatti-960665.html",
-      "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,22 değer kazanarak 11.797,70 puandan tamamladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 15:28 UTC"
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUmhmSUYwRjhrTlZFR0dNTF9kT2QyY3JGZkV0VEEweTF1NDl5bTVNMTFzSllodFJpLWN0WFk1dFRaSmJVbHdYWTJfQmNoRTJzdjVwNExia2w3U1ZDMi1GSEdsZE10WWNDQ0RGYnp6a0ZYeDFmUWt1aXBpV0t5cnllNTdPMVJjc1VVc0h0ejJ5aXJrczF1OEk2TlVBNVBjZUdnLTg3Tkd0d0wwYjlaSlhQdHhTLTRWYUVkLWd2T1lOa0pSNE1NVExvVDR2R3Fxck84anB4cUVZZHFvMWs?oc=5",
+      "summary": "TCMB Merkez Bankası faiz kararı ne zaman açıklanacak? 2026 2027 Merkez Bankası faiz toplantı tarihi takvimi! Habertürk",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-20 15:19 UTC"
     },
     {
       "title": "Hazine alacakları 255,6 milyar lira oldu",
@@ -596,6 +650,15 @@
       "published_at": "2026-10-20 14:31 UTC"
     },
     {
+      "title": "MERKEZ BANKASI FAİZ KARARI EKİM 2026: Ekim Ayı TCMB Faiz Kararı Ne Olacak? TCMB Ekim Toplantı Tarihi Belli Oldu - CNN Türk",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX3I5MHV4ODNCeUxRaW1hOEhVazFkVGlDazRzWHpRS19GWmxvZDlJQnJIYmlqVGktc0JfTHctUjNteTFQR2pKWndVbVhvOGNUUFB0LTd0YTdKZGl5eDJjdTRyX0gtWkxBT25XcHB3eDdyNGRlQWt5THd4cFBuQm9CU2RpR2FSTXMyMW4wLXZOdXRFejNINnRYNnZwQWN1RDA1ck44aGtzUGdZQnFaTjZveHlfV2pPaWRLZk1VU3hBdk1ILWwxX2tRcDVicUpIZVV1cWx6NjRlblR0VVZUWmdsSXlQVQ?oc=5",
+      "summary": "MERKEZ BANKASI FAİZ KARARI EKİM 2026: Ekim Ayı TCMB Faiz Kararı Ne Olacak? TCMB Ekim Toplantı Tarihi Belli Oldu CNN Türk",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-20 14:30 UTC"
+    },
+    {
       "title": "AB, Arktik bölgesi için yeni stratejisini açıkladı",
       "image": "https://geoim.bloomberght.com/l/2026/10/20/ver1792504868/3791993/jpg/320x180",
       "link": "https://www.bloomberght.com/ab-arktik-bolgesi-icin-yeni-stratejisini-acikladi-3791993",
@@ -614,24 +677,6 @@
       "published_at": "2026-10-20 13:55 UTC"
     },
     {
-      "title": "S&P Global Türkiye direktöründen TCMB beklentisi",
-      "image": "https://geoim.bloomberght.com/l/2026/10/20/ver1792505180/3791991/jpg/320x180",
-      "link": "https://www.bloomberght.com/s-p-global-turkiye-direktorunden-tcmb-beklentisi-3791991",
-      "summary": "S&P Global Ratings CEE ve Türkiye Direktörü Kareen Vartapetov Bloomberg HT'ye Türkiye ekonomisindeki görünüme ilişkin değerlendirmelerde bulundu.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-20 13:54 UTC"
-    },
-    {
-      "title": "A Milli Takım'da dört yıl Sergen Yalçın dönemi",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e5c/live/1d7ef4f0-cbd8-11f1-b139-f77a8b036d06.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c8wy9py4z5y4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Türkiye'de Vincenzo Montella'dan boşalan A Milli Takım teknik direktörlüğüne Sergen Yalçın getiriliyor. Elli üç yaşındaki çalıştırıcı, Kafa Spor'un YouTube kanalına yaptığı açıklamada gelişmeyi doğruladı.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 13:52 UTC"
-    },
-    {
       "title": "Yüz fotoğrafınız ne kadar hasta olduğunuzu gösterebilir mi?",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg",
       "link": "https://www.bbc.com/turkce/articles/cmjwe7y5wx5zo?at_medium=RSS&at_campaign=rss",
@@ -639,15 +684,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-20 13:41 UTC"
-    },
-    {
-      "title": "Bessent: ABD tahvil piyasası iyi performans gösterdi",
-      "image": "https://geoim.bloomberght.com/l/2026/10/20/ver1792503460/3791988/jpg/320x180",
-      "link": "https://www.bloomberght.com/bessent-abd-tahvil-piyasasi-iyi-performans-gosterdi-3791988",
-      "summary": "ABD Hazine Bakanı Scott Bessent, ABD tahvil piyasasının iyi performans gösterdiğini söyledi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-20 13:36 UTC"
     },
     {
       "title": "Kenya cult leader's children still being starved weeks before trial, son says",
@@ -666,6 +702,15 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-20 13:04 UTC"
+    },
+    {
+      "title": "Romanya merkez bankası oybirliğiyle faizi sabit tuttu - Investing.com Türkiye",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNU4yLXNhQlUyS190emVNZE4yNGVoOTJlSkluM3dfNDNJLWRfb3NWSkg5VTR4NXNqUUF5N1NJYnJPSXJ3YkpxaFdhNEQycW1NQ3k2LTJQOGJ2QzFaMmpuMU5NNnlLWkZGaVo1blcybmp6MXRkRlhoX1ZKRk9XUUtFTjFRblktRjhlSWtYRGpramRleWliMHViek05ek9DYmZGTTJFQ25ZX1JtV280?oc=5",
+      "summary": "Romanya merkez bankası oybirliğiyle faizi sabit tuttu Investing.com Türkiye",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-20 12:27 UTC"
     },
     {
       "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
@@ -749,13 +794,13 @@
       "published_at": "2026-10-20 10:26 UTC"
     },
     {
-      "title": "Bahçeli: 'Basın özgürlüğü suç işleme özgürlüğü değildir'",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b8e/live/407f4bc0-cc6a-11f1-baeb-8d65d4bcd7ab.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cjwy9nn0qg66o?at_medium=RSS&at_campaign=rss",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, TBMM'deki grup toplantısında \"Basın özgürlüğü suç işleme özgürlüğü değildir, olmamalıdır\" dedi. Bu çıkışa Yeni Parti Genel Başkanı Özgür Özel, partisinin grup toplantısında fon soruşturmalarını hatırlatarak yanıt verdi.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 10:18 UTC"
+      "title": "AITX projects monthly operating cash breakeven in Jan 2027; all-in cash breakeven in Q2 2027 - TradingView",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ2xTeTByQXBrZmtfN202aGU1ZEc5LURlckktWjlMVXNZZUFFMVRqVGcyc3I2UkxrWVdtLWFwYnpJTUZXVzlsaDRKR0JqUjg1VFhKb3lVQW1hbklFM0RxaG9NMVFsLXNqTFVyUzBpNkRCN3Q5UWhuVGVuU25aYVhFbHBwcFNQYXhLRTVBUXJ1Z0MtckZFZlFYRloxelNrTUlxZ0tNaE16Q2E2dUdfZ2V3c0lENXRndHNlYlZ0U2lzd2I4NnF3UzYtUFFzM0lfT2tCNUVtLWs2ZnVoaU0yZC1BWXJWWi1UQTA?oc=5",
+      "summary": "AITX projects monthly operating cash breakeven in Jan 2027; all-in cash breakeven in Q2 2027 TradingView",
+      "source": "Google News - Küresel Teknoloji",
+      "category": "Teknoloji ve Bilim",
+      "published_at": "2026-10-20 10:13 UTC"
     },
     {
       "title": "Arnavutluk'ta başbakanın istifasını isteyen protestocular yedinci günde de polisle çatıştı",
@@ -794,15 +839,6 @@
       "published_at": "2026-10-20 09:09 UTC"
     },
     {
-      "title": "Altın ve Petrol Fiyatlarında Son Durum: Merkez Bankası Faiz İndirimi Yapacak mı? - CNN Türk",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU1k4WFRLS29HZWJTWjhYSFJ5ZXRfdTRLa2Rhb0JnaU52emJtSDljQXNGbVZYYnJJb0ZkYnFPY0lvX2RwWjRrUk9DNFd4bWNBLUliTV84NnpMdDlpYy1Qa2pZeklJOTVLY2tMLW9BeVI4VE5SZnR5dzJpejNtdFg3UUI5alF0QzZaa0Q1RnhoS2FoQndlMFpHVDU4YldWUFpTc0loRHBiNlVzSFNLZWRwX2ZVY3plNm1UNzZacFhPVWhQYjhtcWxF?oc=5",
-      "summary": "Altın ve Petrol Fiyatlarında Son Durum: Merkez Bankası Faiz İndirimi Yapacak mı? CNN Türk",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-20 09:06 UTC"
-    },
-    {
       "title": "Why Israeli Gen Z voters are drawn to the far right",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee0/live/1be7f440-cc67-11f1-b1a3-5bda642ff934.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
@@ -839,15 +875,6 @@
       "published_at": "2026-10-20 07:52 UTC"
     },
     {
-      "title": "Siber Vatan'da yeni dönem! Yapay zekâ da programa dahil edildi - A Gazete",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzhIWHBnUmxkbGV5b0N5TXFEOGhESy13a2VrOFJnODVNTE1sTElzNktnb1hndmJXeUpzbThybFc0dm1zbDFxdXFlQ09YOGtjSGF2SVo4d1hUX2o5SG1UYmRjNkJ1ZmVxWjZLUTRLTURmTVdVTllMSnJBeUo4bzNZMjhlVEg1bXNpUGFwZzgxN3p4QXZlRnNjQ3VIU0NteGlrNExSWWdBVGI?oc=5",
-      "summary": "Siber Vatan'da yeni dönem! Yapay zekâ da programa dahil edildi A Gazete",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-20 07:41 UTC"
-    },
-    {
       "title": "MERKEZ BANKASI FAİZ KARARI 2026 SON DURUM! Merkez Bankası ekim ayı faiz kararı açıklandı mı, ne zaman belli olacak? - Yeni Şafak",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTDBzNHlCYm5DdTE3N0I2Y2dCU3FrR1Q0Q2VPcU5PNENWaVQyczJVclg0VFpQMUU3OF9aR1FNaWdkUWNkMlhDOEoybDdtNzROclcybmhLNGxlbEwzeTBKcWxsNmE3RHdwSzh2b3Zab1pmR1pHYXdxdmN0ejZ0MTVXR2dqMGpHdzRaanFfN2FMVGdtU29nWDNNT09KakQyNWxjVnh4c3ZZX3VmbGxVZ0VJVkVJekFRSmFOZU13X0VkU1MwTEJCSW5lTWJ6b0M4OWdQWUZYNzNUOWF5SzhLU1ZNeUloRmtGMnNncXVhN1ZoLWw?oc=5",
@@ -866,40 +893,13 @@
       "published_at": "2026-10-20 07:37 UTC"
     },
     {
-      "title": "TCMB ne yapar ya da yapmalı? - Ekonomi Gazetesi",
+      "title": "Siber Vatan Programı başvuruları başladı - Habertürk",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTldxZUgzXzlBNHNaWVczd2JoNnNRN21ld1B2TnRzRkt4WTVVeGVYNVNHRE9wU0pGMlV6Z3R2Qi1oUWtRejdOaThuRzdfSUxfV1praW83RUp3OTJ5NF9xNHl0RUxSOTBaTTJGMXhocXEyaTd5S3B6SVVKSVRacjdmUFB4aw?oc=5",
-      "summary": "TCMB ne yapar ya da yapmalı? Ekonomi Gazetesi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-20 07:14 UTC"
-    },
-    {
-      "title": "Siber Vatan Programı 2027 başvuruları başladı: Son tarih 30 Ekim - Bursa Saati Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHVpUzcwRERpQUIyQ2J2SXBZSEtFUzNFY0ZCQnpJVHcwSVVFMVVzVnBuS2JVcmljNlhkMHl2Q1liQVB5QklWRF81MVpWYWNITGRxeFppUWd4amR6dFprUFE4YTd4R0NCSkFQUjFpLVNOQkswakR4R090dlpGdXdkeFpNUVlXUGRHa2tNTkcwNlYxQXRIcEEtcg?oc=5",
-      "summary": "Siber Vatan Programı 2027 başvuruları başladı: Son tarih 30 Ekim Bursa Saati Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQXVYVnRTTnJRbW1IZUxMbWRqR1VfOVF3VTdFRHpJQ3FzQjY2eVBQYXRtNnVhdTN2WW9CU21EVGVmejhDemtoYWNJTVJydE9feXNxbFN0TjR3SXppQnFwRXR5Wm9uclNKMzE0T2thZmtiZUVNelpfMFFnVW1sZFJ4R0lhVGI1RHhuaHc?oc=5",
+      "summary": "Siber Vatan Programı başvuruları başladı Habertürk",
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-20 06:58 UTC"
-    },
-    {
-      "title": "Altın, borsa, Bitcoin... Beklenen yıllık getiriler belli oldu - Dünya Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXFxZGI2Z09UMmdyODNibGVnTzVZVnFKeExuOFdlSEVrYUJYVDgwQ25TeTc2cm85T2NfSmxhQnVNd1FNOEJER3gzRUoxSFlDaFpwajNWeTE2cUQ5Q1FtZXZ2aEFfd1VyZ0NIai1YMUNWUnE2cnV1anZ0OXhvQWxvbFpscTJuYjVqeUxWZE9UdGpRY2VoVVREb2FUX255aGlHUDBQZEk5dF9scU43X3NTR3dn?oc=5",
-      "summary": "Altın, borsa, Bitcoin... Beklenen yıllık getiriler belli oldu Dünya Gazetesi",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-20 06:51 UTC"
-    },
-    {
-      "title": "Bitcoin fiyatı için 10 yıllık tahmin: Borsa ve altını sollayabilir - İstanbul Ticaret Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbzA4MjhETVJybjA0X3J3VHpHQ1lzcVdlaUJMWHpZTF83Q1QySUY2bU9mcWM0YTlHQThCSDhwTmFzcGdldC13d2xSdHk5R3NBcFpJNUdGN1JDbGZLWmhiQjZKdDZrbi00d3JOYkpIMkRqZGZ4WV9XTHJtdFdaXy16ckk4STV5M1pNeTNRNEtJTUFhUllDSGcyVWV1ZXhsS1hlLXBJ?oc=5",
-      "summary": "Bitcoin fiyatı için 10 yıllık tahmin: Borsa ve altını sollayabilir İstanbul Ticaret Gazetesi",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-20 06:44 UTC"
+      "published_at": "2026-10-20 07:20 UTC"
     }
   ]
 }
