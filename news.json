@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-10-20 10:00 UTC",
+  "updated_at": "2026-10-20 10:30 UTC",
   "items": [
+    {
+      "title": "Yunanistan tasarruf için 187 kışlayı kapatmayı planlıyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/yunanistan-tasarruf-icin-187-kislayi-kapatmayi-planliyor/4094469",
+      "summary": "Kathimerini gazetesi, Yunanistan'ın tasarruf tedbirleri kapsamında 187 kışlayı kapatacağını ileri sürdü.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 10:24 UTC"
+    },
+    {
+      "title": "Bahçeli: 'Basın özgürlüğü suç işleme özgürlüğü değildir'",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b8e/live/407f4bc0-cc6a-11f1-baeb-8d65d4bcd7ab.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cjwy9nn0qg66o?at_medium=RSS&at_campaign=rss",
+      "summary": "MHP Genel Başkanı Devlet Bahçeli, TBMM'deki grup toplantısında \"Basın özgürlüğü suç işleme özgürlüğü değildir, olmamalıdır\" dedi. Bu çıkışa Yeni Parti Genel Başkanı Özgür Özel, partisinin grup toplantısında fon soruşturmalarını hatırlatarak yanıt verdi.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 10:18 UTC"
+    },
+    {
+      "title": "BM: Yemen'de yerinden edilenlerin sayısı 250 bini aştı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/bm-yemende-yerinden-edilenlerin-sayisi-250-bini-asti/4094461",
+      "summary": "BMMYK Sözcüsü Saltmarsh, çatışmaların tırmandığı Yemen'de yerinden edilenlerin sayısının 250 bini aştığını bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 10:16 UTC"
+    },
+    {
+      "title": "Trump’s approval ratings plummet: what that means for the US midterms",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss",
+      "summary": "Sitting presidents usually see a dip in approval ratings before midterms, but Trump's ratings are at a historic low.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 10:13 UTC"
+    },
+    {
+      "title": "Arnavutluk'ta başbakanın istifasını isteyen protestocular yedinci günde de polisle çatıştı",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3043/live/fc5422f0-cc6d-11f1-baeb-8d65d4bcd7ab.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cwr7yz0xvl4eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Arnavutluk'ta başbakanın istifasını isteyen göstericiler, hükümet binalarının ateşe verildiği protestoların yedinci gününde çevik kuvvet polisiyle çatıştı.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 10:11 UTC"
+    },
+    {
+      "title": "Avrupa'da doğal gaz fiyatları Aralık 2022'den bu yana en yüksek seviyeye ulaştı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-aralik-2022den-bu-yana-en-yuksek-seviyeye-ulasti/4094456",
+      "summary": "Avrupa'da doğal gaz fiyatları, megavat saat başına 89,74 avroya yükselerek Aralık 2022'den bu yana en yüksek seviyeye ulaştı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 10:11 UTC"
+    },
+    {
+      "title": "Kültepe'de 78 yıllık kazı tarihinde bir ilk",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/kultur-sanat/kultepede-78-yillik-kazi-tarihinde-bir-ilk-960635.html",
+      "summary": "Kayserideki KültepeKaniş Örenyerinde, 1948 yılında başlayan kazılarda ilk kez Helenistik Döneme ait mozaik döşemeli bir yapı ortaya çıkarıldı. Aynı alanda ilk kez belirlenen dört ayrı Helenistik kültür tabakası da Kültepenin daha az bilinen geçmişine ışık tutacak.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 10:06 UTC"
+    },
+    {
+      "title": "Türk bilim insanları 'TARLA'da ilk ışınlama deneyini gerçekleştirdi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/turk-bilim-insanlari-tarlada-ilk-isinlama-deneyini-gerceklestirdi-960636.html",
+      "summary": "Ankara Üniversitesinin AÜ öncülüğünde kurulan Türk Hızlandırıcı ve Işınım Laboratuvarında TARLA görev yapan bilim insanları tarafından ilk ışınlama deneyi başarıyla gerçekleştirildi. Çalışmanın uydu ve uzay teknolojileri, savunma sanayii, tıbbi araştırmalar gibi birçok alana katkı sağlaması öngörülüyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 10:03 UTC"
+    },
+    {
+      "title": "Dışlanan Araplar, İsrail’in kaderini belirleyebilir mi?",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/analiz/dislanan-araplar-israil-in-kaderini-belirleyebilir-mi/4094443",
+      "summary": "Arap vatandaşlar sandıkta belirleyici olabilecek kadar kalabalık lakin hükümet masasına oturacak kadar meşru görülmüyorlar. Bu seçimde de büyük ihtimalle iktidarı belirleyen siyasi güç olamayacaklar ama iktidar dengelerini bozma şansları var.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 10:01 UTC"
+    },
+    {
+      "title": "ABD, Yemen'e fiili müdahalede bulunabilir mi?",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/analiz/abd-yemene-fiili-mudahalede-bulunabilir-mi/4094427",
+      "summary": "Olası bir ABD askeri müdahalesi, Yemen'deki siyasi dengeleri köklü biçimde değiştirmekten ziyade Riyad'ı güvence altına alma ve siyasi mesaj verme işlevi görecektir.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 09:53 UTC"
+    },
+    {
+      "title": "Fitch: Türkiye dolar cinsi ESG ihraçlarında yüzde 11,7 pay aldı",
+      "image": "https://geoim.bloomberght.com/l/2026/10/20/ver1792489971/3791951/jpg/320x180",
+      "link": "https://www.bloomberght.com/fitch-turkiye-dolar-cinsi-esg-ihraclarinda-yuzde-11-7-pay-aldi-3791951",
+      "summary": "Türkiye, gelişmekte olan piyasaların dolar cinsinden Çevresel, Sosyal ve Yönetişim (ESG) ihraçlarında yüzde 11,7 pay aldı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-20 09:51 UTC"
+    },
+    {
+      "title": "Bakan Kacır: 8 Turcornumuzun 5'i kadın girişimciler tarafından kuruldu",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/bakan-kacir-8-turcornumuzun-5i-kadin-girisimciler-tarafindan-kuruldu-960633.html",
+      "summary": "Bakan Kacır, Türk kadınlarının bilim ve teknolojideki geniş birikiminin, yeteneklerinin ve üretme azminin Milli Teknoloji Hamlesi'ne güç kattığını belirterek, \"Girişimcilik ekosistemimizden çıkan, milyar dolar değerlemeyi aşan 8 teknoloji girişimimizin, Turcornumuzun 5'i kadın girişimciler tarafından kuruldu\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 09:48 UTC"
+    },
     {
       "title": "Türkiye'nin yenilenebilir enerji hamlesi yakıt maliyetlerini düşürüyor, enerji güvenliğini artırıyor",
       "image": "",
@@ -119,15 +227,6 @@
       "published_at": "2026-10-20 09:28 UTC"
     },
     {
-      "title": "MotoGP'de yarışan milli motosikletçi Toprak Razgatlıoğlu, sakatlık nedeniyle sezonu kapattı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/motogpde-yarisan-milli-motosikletci-toprak-razgatlioglu-sakatlik-nedeniyle-sezonu-kapatti/4094381",
-      "summary": "Endonezya Grand Prix'sinde geçirdiği kazada omzundan sakatlanan milli motosikletçi Toprak Razgatlıoğlu, 26 Ekim Pazartesi günü ameliyat edilecek ve MotoGP'de sezonun son 5 yarışında yer alamayacak.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 09:28 UTC"
-    },
-    {
       "title": "Mekke İttifakı Anlaşması Meclis'e sunuldu",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/mekke-ittifaki-anlasmasi-meclise-sunuldu-960631.html",
@@ -144,15 +243,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-20 09:26 UTC"
-    },
-    {
-      "title": "Milli tenisçi Zeynep Sönmez, Japonya Açık'ta ikinci tura yükseldi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/milli-tenisci-zeynep-sonmez-japonya-acikta-ikinci-tura-yukseldi/4094374",
-      "summary": "Milli sporcu Zeynep Sönmez, Japonya Açık Kadınlar Tenis Turnuvası'nın ilk turunda Avustralyalı rakibi Maya Joint'u 2-1 yenerek ikinci tura yükseldi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 09:25 UTC"
     },
     {
       "title": "Karadeniz'in su ürünleri ihracatı 9 ayda 322 milyon doları aştı",
@@ -173,15 +263,6 @@
       "published_at": "2026-10-20 09:24 UTC"
     },
     {
-      "title": "Rusya: Ukrayna konusunda Rusya, Çin ve ABD'nin üçlü toplantıya ilgisi var",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/rusya-ukrayna-konusunda-rusya-cin-ve-abdnin-uclu-toplantiya-ilgisi-var/4094371",
-      "summary": "Rusya Dışişleri Bakan Yardımcısı Rudenko, Ukrayna konusunda Rusya, ABD ve Çin'in üçlü bir toplantıya ilgi duyduğunu belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 09:23 UTC"
-    },
-    {
       "title": "Almanya yatırımcı güveninde Nisan'dan beri ilk kötüleşme",
       "image": "https://geoim.bloomberght.com/l/2026/10/20/ver1792488180/3791946/jpg/320x180",
       "link": "https://www.bloomberght.com/almanya-yatirimci-guveninde-nisandan-beri-ilk-kotulesme-3791946",
@@ -198,15 +279,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-20 09:17 UTC"
-    },
-    {
-      "title": "Batı Şeria'daki İsrail saldırıları, 20 Filistinli aileyi göçe zorladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/bati-seriadaki-israil-saldirilari-20-filistinli-aileyi-goce-zorladi/4094359",
-      "summary": "İsrail ordusunun ve Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'daki saldırıları nedeniyle Ürdün Vadisi'ndeki 20 Filistinli ailenin evlerini terk etmek zorunda kaldığı bildirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 09:14 UTC"
     },
     {
       "title": "İstanbul'da sel nedeniyle can kaybı 7'ye yükseldi",
@@ -308,15 +380,6 @@
       "published_at": "2026-10-20 08:46 UTC"
     },
     {
-      "title": "Üsküdar Belediye Başkan Vekilliğine AK Partili Sarıoğlu seçildi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/uskudar-belediye-baskan-vekilligine-ak-partili-sarioglu-secildi/4094324",
-      "summary": "Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin'in vefatı nedeniyle Belediye Meclisinde yapılan seçimin 3. turunda 24 oyun tamamını alan AK Parti'li Meclis Üyesi Muhammed Emin Sarıoğlu, Belediye Başkan Vekilliğine seçildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 08:45 UTC"
-    },
-    {
       "title": "Bakan Memişoğlu: Yerli ultrason cihazı üretim tesisimizi kuruyoruz",
       "image": "",
       "link": "https://www.trthaber.com/haber/saglik/bakan-memisoglu-yerli-ultrason-cihazi-uretim-tesisimizi-kuruyoruz-960624.html",
@@ -380,24 +443,6 @@
       "published_at": "2026-10-20 08:23 UTC"
     },
     {
-      "title": "Palamutta altın sezon: Ağlar dolup taşıyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/palamutta-altin-sezon-aglar-dolup-tasiyor-960619.html",
-      "summary": "Karadenizde son yılların en bereketli av sezonunu yaşayan balıkçılar, 1987den bu yana görülmemiş bir palamut bolluğuna şahitlik ediyor. Ağların palamutla dolup taştığı tezgahlarda fiyatlar düşerken, sektör temsilcileri bu tarihi bereketin kasım sonuna kadar sürmesini ve peşinden hamsi ile lüfer müjdesi getirmesini bekliyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 08:16 UTC"
-    },
-    {
-      "title": "Türk vişne mermerine uluslararası pazarda talep artıyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/turk-visne-mermerine-uluslararasi-pazarda-talep-artiyor-960620.html",
-      "summary": "Elazığ'ın Alacakaya ilçesinde üretilen vişne mermerinin ihracatı 2026'nın ilk 6 ayında geçen yılın aynı dönemine kıyasla yüzde 30 arttı. Kendine özgü rengiyle öne çıkan vişne mermeri, Çin başta olmak üzere uluslararası pazarlarda gördüğü taleple Türkiye'nin doğal taş ihracatında öne çıkan ürünler arasında bulunuyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 08:15 UTC"
-    },
-    {
       "title": "Kallas: AB, Karadeniz anlaşması için Türkiye ve Hindistan ile işbirliği yapıyor",
       "image": "https://geoim.bloomberght.com/l/2026/10/20/ver1792484192/3791890/jpg/320x180",
       "link": "https://www.bloomberght.com/kallas-ab-karadeniz-anlasmasi-icin-turkiye-ve-hindistan-ile-isbirligi-yapiyor-3791890",
@@ -405,15 +450,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-20 08:14 UTC"
-    },
-    {
-      "title": "Akılalmaz yöntemler sökmedi: Havalimanlarında zehir tacirlerine darbe",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/akilalmaz-yontemler-sokmedi-havalimanlarinda-zehir-tacirlerine-darbe-960618.html",
-      "summary": "İstanbuldaki havalimanlarında gümrük muhafaza ekiplerinin radarına takılan zehir tacirlerinin akılalmaz oyunları bozuldu. Midede taşıma yönteminden ananas püresine emdirmeye kadar türlü hilelere başvuran kaçakçılara yönelik yılbaşından bu yana düzenlenen 253 operasyonda, yaklaşık 9 ton uyuşturucu ele geçirildi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 08:11 UTC"
     },
     {
       "title": "France protests are ‘outburst of resentment’ against Macron",
@@ -605,15 +641,6 @@
       "published_at": "2026-10-20 06:53 UTC"
     },
     {
-      "title": "JPMorgan’dan Bitcoin tahmini: Altın ve borsa geride kalabilir - Coinkolik",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnQ3MTZCb18xODRiR1dBVnlabDEzd2ZfUThCdXdyMFNfOFZUMFBiNHFLSE81Rm1KTEJTNjdfUFFobF9tMGxKNFhNSmVRX19lbFQ2c2JVV0Y4MXVrRGlOZkFJaGRVNDUydXdidzc0ZHVmbzhnZkZia3FVWGJEVlBMNEQzd0x1RFY5b1cxZ1pxWQ?oc=5",
-      "summary": "JPMorgan’dan Bitcoin tahmini: Altın ve borsa geride kalabilir Coinkolik",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-20 06:50 UTC"
-    },
-    {
       "title": "Bitcoin fiyatı için 10 yıllık tahmin: Borsa ve altını sollayabilir - İstanbul Ticaret Gazetesi",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbzA4MjhETVJybjA0X3J3VHpHQ1lzcVdlaUJMWHpZTF83Q1QySUY2bU9mcWM0YTlHQThCSDhwTmFzcGdldC13d2xSdHk5R3NBcFpJNUdGN1JDbGZLWmhiQjZKdDZrbi00d3JOYkpIMkRqZGZ4WV9XTHJtdFdaXy16ckk4STV5M1pNeTNRNEtJTUFhUllDSGcyVWV1ZXhsS1hlLXBJ?oc=5",
@@ -675,15 +702,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-20 06:21 UTC"
-    },
-    {
-      "title": "Goldman Sachs, Sabancı'da payını artırdı",
-      "image": "https://geoim.bloomberght.com/l/2026/10/20/ver1792477255/3791869/jpg/320x180",
-      "link": "https://www.bloomberght.com/goldman-sachs-sabanci-da-payini-artirdi-3791869",
-      "summary": "Goldman Sachs Sabancı Holding paylarında yeni alım gerçekleştirdi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-20 06:20 UTC"
     },
     {
       "title": "Southeast Asia’s haze crisis will persist until polluters pay",
@@ -767,15 +785,6 @@
       "published_at": "2026-10-20 04:30 UTC"
     },
     {
-      "title": "Japan launches historic mission to bring back Mars moon samples",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
-      "summary": "Japan has launched a five-year uncrewed mission to collect samples from Phobos, one of Mars’ two moons.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 04:08 UTC"
-    },
-    {
       "title": "Çin Merkez Bankası gösterge kredi faiz oranları üst üste 17'nci ayda da değiştirilmedi - Foreks.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYkRGZXNwc05obUR1bGozbHZIbDJrcXFPNFhQbzlKMnlQazUtSzJGeDZYdTNBYzU0TUJMTzlTazFtY19pUHRPbzkzOTJ5WDQyeUpaUWhZazFJckZHeW5COWx2UC1FZHg5R2daZDlLNDhHRzdMckltZkd5MXJpckdtbkV4MTh3OHg1ZlRHM0RjM2dTdXVMVnFkcXdxc1ZVYnRzZXR5RjV5OGR3ZjIzM05taHdmVUl5NkhJNnBqbHlKcUVDLTNnMkRNNGViS1lPMk9xMF9SN1EtYzREM1d2dHpGZEowZE5Hd0JJVWFlWTFhM2dDaHVYT3FyLVNycw?oc=5",
@@ -839,6 +848,15 @@
       "published_at": "2026-10-19 21:06 UTC"
     },
     {
+      "title": "Merkez Bankası ekim ayı faiz kararı ne zaman, saat kaçta açıklanacak? Merkez Bankası faiz indirecek mi? İşte Ekim 2026 TCMB faiz beklentisi - Yeni Şafak",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPS0pCWlU1cDFReHNnTnVmZzFjeWRTMWhoZVN6UHFJQWFlVGRQZ1lOVHJESVA5RDF2V014c29JNWk0aktwSGYtamM4bG1TUnpMZElhQm1KblhWVHhjb3BGanBZZ2ZoczdPeHNsX0tCVDV2RUk4Z2l3QkN2eDhIcFhabDk1S0c5M25ETGJTTHFFckZkZXBNcUsyQkwxRVhld2dzb0ZlVXpHRjBtdlNNc3M4QVdrM3pDUUZQYlUxckhiLWtPX292TWwtNmRVbl9FWm1pNGdNUzkyYzdFMEVtZ1lUVEhfdTBLZjJtR1Nfbnd6akQ4Q3E3dUdvajZjUWwyU013NFp2Rzl5R2gtTXp1LWNCcg?oc=5",
+      "summary": "Merkez Bankası ekim ayı faiz kararı ne zaman, saat kaçta açıklanacak? Merkez Bankası faiz indirecek mi? İşte Ekim 2026 TCMB faiz beklentisi Yeni Şafak",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-19 21:03 UTC"
+    },
+    {
       "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766b/live/02caf1d0-cbc0-11f1-a64c-550be9e3c66b.jpg",
       "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
@@ -882,24 +900,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-19 17:18 UTC"
-    },
-    {
-      "title": "Kenya'da 'açlık tarikatı'nın lideri 191 cinayetten suçlu bulundu",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cqx297mxlj40o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenya'daki bir kıyamet günü tarikatının lideri Paul Mackenzie, biri dışında hepsi çocuk 191 kişiyi öldürmekten suçlu bulundu.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 16:55 UTC"
-    },
-    {
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3138/live/44562b50-cbd0-11f1-aba9-2bb2608f11d9.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 16:46 UTC"
     }
   ]
 }
