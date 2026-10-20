@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-20 04:59 UTC",
+  "updated_at": "2026-10-20 05:31 UTC",
   "items": [
+    {
+      "title": "NASA'nın minyatür insan beyinleri uzay istasyonuna ulaştı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/nasanin-minyatur-insan-beyinleri-uzay-istasyonuna-ulasti-960588.html",
+      "summary": "NASA'nın deney kapsamında Uluslararası Uzay İstasyonu'na gönderdiği minyatür insan beyni modelleri, mikro yerçekimi ve radyasyonun beyin hücreleri üzerindeki etkilerini incelemek için kullanılacak. Araştırmanın, uzay yolculuklarının yaşlanma ve nörolojik hastalıklarla ilişkisini anlamaya katkı sağlaması hedefleniyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 05:16 UTC"
+    },
+    {
+      "title": "ChatGPT şimdi de kripto para çaldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/chatgpt-simdi-de-kripto-para-caldi-960587.html",
+      "summary": "OpenAI, deneysel bir yapay zeka modelinin eğitim görevini tamamlamak için yetkisi olmadan kripto cüzdanlarından fon aldığını açıkladı. Şirket, olayın yapay zeka modellerinin kendi değerlendirmelerini hesap sahiplerinin izninin önüne koyabildiğini gösterdiğini belirtti.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 05:02 UTC"
+    },
+    {
+      "title": "Trump'ın destek açıklaması Netanyahu blokunda beklenen oy artışını sağlamadı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/trumpin-destek-aciklamasi-netanyahu-blokunda-beklenen-oy-artisini-saglamadi/4094025",
+      "summary": "İsrail'de 27 Ekim'deki meclis seçimine ilişkin yapılan son kamuoyu yoklaması, ABD Başkanı Donald Trump'ın Başbakan Binyamin Netanyahu’ya desteğini açıklamasının hükümet blokunun oylarında gözle görülür bir artışa neden olmadığını ortaya koydu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 04:58 UTC"
+    },
+    {
+      "title": "Beyaz Saray Sözcüsü Zacharia neden sadece 5 gün görevde kaldı?",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/beyaz-saray-sozcusu-zacharia-neden-sadece-5-gun-gorevde-kaldi-960586.html",
+      "summary": "Katie Zacharia'nın ilk basın toplantısındaki performansı ve hukuk geçmişine ilişkin çelişkili açıklamaları tartışma yarattı. ABD Başkanı Donald Trump'ın danışmanlarının da atamayı sorguladığı öne sürüldü.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 04:53 UTC"
+    },
+    {
+      "title": "US Supreme Court to hear case on race in school admissions",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss",
+      "summary": "A group of parents claims local admission policy boosts Black and Latino students while constraining Asian applicants.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 04:38 UTC"
+    },
     {
       "title": "Gazzedeki soykırım saldırıları aileleri yıllardır birbirinden koparıyor",
       "image": "",
@@ -137,6 +182,15 @@
       "published_at": "2026-10-20 03:13 UTC"
     },
     {
+      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f1e/live/5b9b0010-cc2f-11f1-aeea-f9fa95687445.png",
+      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 03:10 UTC"
+    },
+    {
       "title": "Ekonomi ve siyaset gündemi- 20 Ekim 2026",
       "image": "https://geoim.bloomberght.com/l/2026/10/20/ver1792465820/3791849/jpg/320x180",
       "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-20-ekim-2026-3791849",
@@ -153,6 +207,15 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-20 02:52 UTC"
+    },
+    {
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b732/live/2812da60-cc20-11f1-bc2e-018d645d8d21.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-20 02:45 UTC"
     },
     {
       "title": "Man claims arm broken in violent ICE arrest",
@@ -281,15 +344,6 @@
       "published_at": "2026-10-20 00:08 UTC"
     },
     {
-      "title": "Exiled critic of Rwandan president found beheaded in Uganda",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss",
-      "summary": "Ugandan police say a male body has been found in a village near Kampala, and his head has yet to be located.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-20 00:06 UTC"
-    },
-    {
       "title": "İsrail ordusu Suriye'nin Kuneytra kırsalında baskın düzenledi",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-suriyenin-kuneytra-kirsalinda-baskin-duzenledi/4093999",
@@ -353,15 +407,6 @@
       "published_at": "2026-10-19 23:24 UTC"
     },
     {
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg",
-      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 23:08 UTC"
-    },
-    {
       "title": "Borsa İstanbul’da fon krizi gölgesi: Endeksler dip seviyelerde, satış baskısı derinleşiyor - Türkiye İş Dünyası Haberleri",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHhPbUVjWGlDcGtDeDVfbGNWTGhfQVc4RHZ1eFNOU3I2LXJ3Y21TZ29hbXN1LUlHSG5FNFNVZHpPM21Cd3lSZF9odVhJdUJVQTZLYzN5RWlmcmI2c2FSeWQ2djFVYVV1ZUU4TXk3WGlhanpGblh2cjY3WkxEVmhuV3RqVG0yVEdfTXdKN25QU3VWU2w2S2ZCU2tJU2EwVlZUdmtCQWpxcFVvdDVGM2F1R0xza1RqazdQQ0hOVm9jeE1pZ3dt?oc=5",
@@ -416,7 +461,7 @@
       "published_at": "2026-10-19 21:21 UTC"
     },
     {
-      "title": "Hazine ve Maliye Bakan Yardımcılığına Kutluhan Taşkın atandı",
+      "title": "Hazine ve Maliye Bakan Yardımcılığı'na atama, SPK Başkanı Sütcü görevden alındı",
       "image": "https://geoim.bloomberght.com/l/2026/10/20/ver1792444543/3791847/jpg/320x180",
       "link": "https://www.bloomberght.com/hazine-ve-maliye-bakan-yardimciligina-kutluhan-taskin-atandi-3791847",
       "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla Resmi Gazete'de yayımlanan atama kararına göre, Strateji ve Bütçe Başkanlığı Başkan Yardımcısı Kutluhan Taşkın, Hazine ve Maliye Bakan Yardımcılığına atandı.",
@@ -533,15 +578,6 @@
       "published_at": "2026-10-19 20:56 UTC"
     },
     {
-      "title": "TMSF, Tera Yatırım Teknoloji Holding'e kayyum olarak atandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/tmsf-tera-yatirim-teknoloji-holdinge-kayyum-olarak-atandi-960573.html",
-      "summary": "Tasarruf Mevduatı Sigorta Fonu TMSF, Tera Yatırım Teknoloji Holding'e kayyum olarak atandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 20:51 UTC"
-    },
-    {
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd6e/live/09c582e0-cc13-11f1-b0fa-5b9abd1bf87b.png",
       "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
@@ -596,15 +632,6 @@
       "published_at": "2026-10-19 20:41 UTC"
     },
     {
-      "title": "Isparta'da kanyonda mahsur kalan 10 İHH gönüllüsü kurtarıldı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/ispartada-kanyonda-mahsur-kalan-10-ihh-gonullusu-kurtarildi-960572.html",
-      "summary": "Yazılı Kanyon mevkisinde mahsur kalan İHH gönüllü grubundan 10 kişi ekiplerin çalışması sonucu kurtarıldı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 20:38 UTC"
-    },
-    {
       "title": "Nscale ve Anthropic, 45 milyar dolarlık bilişim anlaşması için görüşüyor",
       "image": "https://geoim.bloomberght.com/l/2026/10/19/ver1792440795/3791844/jpg/320x180",
       "link": "https://www.bloomberght.com/nscale-ve-anthropic-45-milyar-dolarlik-bilisim-anlasmasi-icin-gorusuyor-3791844",
@@ -612,15 +639,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-19 20:10 UTC"
-    },
-    {
-      "title": "Muğla'da otel çalışanlarını taşıyan işçi servisi devrildi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/muglada-otel-calisanlarini-tasiyan-isci-servisi-devrildi-960571.html",
-      "summary": "Muğla'nın Marmaris ilçesinde otel personelini taşıyan servis midibüsünün devrildiği kazada 5 kişi yaralandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 20:05 UTC"
     },
     {
       "title": "Netanyahu'dan Trump'a İran mesajı: Bitirmemiz gereken bir iş var",
@@ -639,15 +657,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-19 19:40 UTC"
-    },
-    {
-      "title": "Paris, Lyon, Lille ve Nice dahil Fransa'nın birçok kentinde kısmi sokağa çıkma yasağı ilan edildi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/paris-lyon-lille-ve-nice-dahil-fransanin-bircok-kentinde-kismi-sokaga-cikma-yasagi-ilan-edildi/4093887",
-      "summary": "Fransa Başbakanı Sebastien Lecornu, hafta sonu şiddet ve yağmalama sahnelerinin yaşandığı gösterilerin ardından valilere bu akşamdan itibaren ülkedeki bazı yerlerde kısmi sokağa çıkma yasağı uygulanması talimatını verdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 19:25 UTC"
     },
     {
       "title": "Avrupa'da elektrikli araç satışları Eylül'de yüzde 70 arttı",
@@ -740,7 +749,7 @@
       "published_at": "2026-10-19 16:20 UTC"
     },
     {
-      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "title": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5592/live/e0f10480-cb2b-11f1-97d2-23d8daaba2e1.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
       "summary": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
@@ -891,15 +900,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-19 12:20 UTC"
-    },
-    {
-      "title": "Personal attacks fire up debate before Brazil's run-off vote",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389a/live/fbd9f9b0-cb98-11f1-93a7-b36f3083f4d3.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-19 11:41 UTC"
     }
   ]
 }
