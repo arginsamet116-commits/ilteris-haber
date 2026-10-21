@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 19:13 UTC",
+  "updated_at": "2026-10-21 19:58 UTC",
   "items": [
     {
       "title": "Meta fined $25bn for 'lies' over user data privacy",
@@ -8,7 +8,124 @@
       "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 19:11 UTC"
+      "published_at": "2026-10-21 19:54 UTC"
+    },
+    {
+      "title": "UEFA'dan Halil Umut Meler'e görev",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/uefadan-halil-umut-melere-gorev/4096457",
+      "summary": "FIFA kokartlı hakem Halil Umut Meler, UEFA Avrupa Ligi'nde yarın oynanacak Hoffenheim-Lyon maçında görev yapacak.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:45 UTC"
+    },
+    {
+      "title": "Dünya çapında PHP kaynaklı güvenlik açığının giderilmesi için çok sayıda internet sitesi erişime kapatıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/dunya-capinda-php-kaynakli-guvenlik-aciginin-giderilmesi-icin-cok-sayida-internet-sitesi-erisime-kapatildi/4096454",
+      "summary": "Bir programlama dili olan PHP'deki \"ciddi güvenlik açıklarına\" ilişkin haberlerin ardından dünya çapında hükümet siteleri de dahil olmak üzere çok sayıda internet sitesine tedbir amacıyla erişim kısmen ya da tamamen askıya alındı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:43 UTC"
+    },
+    {
+      "title": "Arnavutluk'ta öğrencilerin eğitim koşullarının iyileştirilmesi talebiyle düzenlediği protestolar sürüyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/arnavutlukta-ogrencilerin-egitim-kosullarinin-iyilestirilmesi-talebiyle-duzenledigi-protestolar-suruyor/4096448",
+      "summary": "Arnavutluk'un başkenti Tiran'da, üniversite öğrencilerinin eğitim koşullarının iyileştirilmesi talebiyle yaptığı gösteriler devam ediyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:37 UTC"
+    },
+    {
+      "title": "Meta'ya kullanıcı gizliliği ihlali nedeniyle 25 milyar dolar ceza",
+      "image": "https://geoim.bloomberght.com/l/2026/10/21/ver1792611395/3792143/jpg/320x180",
+      "link": "https://www.bloomberght.com/meta-ya-kullanici-gizliligi-ihlali-nedeniyle-25-milyar-dolar-ceza-3792143",
+      "summary": "ABD'nin New Mexico eyaletinde bir mahkeme, kullanıcıları gizlilik ve içerik denetimi politikaları konusunda yanılttığı gerekçesiyle Meta'nın 25 milyar dolar para cezası ödemesine hükmetti. Cambridge Analytica veri skandalıyla bağlantılı davada verilen karar, şirkete yönelik bugüne kadarki en yüksek para cezası oldu.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-21 19:35 UTC"
+    },
+    {
+      "title": "Kullanıcıları gizlilik konusunda yanılttığı için Meta'ya 25 milyar dolar ceza verildi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/kullanicilari-gizlilik-konusunda-yanilttigi-icin-metaya-25-milyar-dolar-ceza-verildi-960822.html",
+      "summary": "ABD'nin New Mexico eyaletinde bir mahkeme, kullanıcıları gizlilik ve içerik denetimi politikaları konusunda yanılttığı gerekçesiyle sosyal medya şirketi Meta'nın eyalete 25 milyar dolar ceza ödemesine hükmetti.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:34 UTC"
+    },
+    {
+      "title": "Panathinaikos Basketbol Kulübünden Yunanistan'daki şike ve rüşvet iddialarına ilişkin açıklama",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/panathinaikos-basketbol-kulubunden-yunanistandaki-sike-ve-rusvet-iddialarina-iliskin-aciklama/4096444",
+      "summary": "Panathinaikos Basketbol Kulübü, Yunanistan'da yaşanan şike ve rüşvet operasyonları sonrası sert bir açıklamada bulundu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:33 UTC"
+    },
+    {
+      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bc3/live/125ed250-cd83-11f1-9a39-31b474234113.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:29 UTC"
+    },
+    {
+      "title": "AA foto muhabiri Coşkun, Rusya'daki uluslararası fotoğraf yarışmasında \"Jüri Özel Ödülü\"nü aldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/kurumsal-haberler/aa-foto-muhabiri-coskun-rusyadaki-uluslararasi-fotograf-yarismasinda-juri-ozel-odulunu-aldi/4096433",
+      "summary": "Anadolu Ajansı (AA) foto muhabiri Şebnem Coşkun, 12. Uluslararası Andrey Stenin Basın Fotoğrafçılığı Yarışması'nda \"Jüri Özel Ödülü\"ne layık görüldü.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:26 UTC"
+    },
+    {
+      "title": "Suudi Arabistan: Şeybe petrol sahasını hedef alan saldırıda 2 kişi öldü",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/suudi-arabistan-seybe-petrol-sahasini-hedef-alan-saldirida-2-kisi-oldu-960821.html",
+      "summary": "Suudi Arabistan Enerji Bakanlığı: Şarkiyye bölgesindeki Şeybe petrol sahasını hedef alan saldırıda 2 kişi öldü, 2 kişi yaralandı",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:24 UTC"
+    },
+    {
+      "title": "India’s ‘Cockroach’ leaders free after a week in jail",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss",
+      "summary": "Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:17 UTC"
+    },
+    {
+      "title": "JP Morgan: Aracı kurum lisans iptali Türkiye'den çekilme anlamına gelmiyor",
+      "image": "https://geoim.bloomberght.com/l/2026/10/21/ver1792610244/3792142/jpg/320x180",
+      "link": "https://www.bloomberght.com/jp-morgan-araci-kurum-lisans-iptali-turkiye-den-cekilme-anlamina-gelmiyor-3792142",
+      "summary": "JP Morgan Menkul Değerler A.Ş., faaliyet izninin iptaline yönelik sürecin Türkiye'den çekilme anlamına gelmediğini açıkladı. Şirket, JP Morgan Chase grubunun Türkiye'deki bankacılık faaliyetlerinin kesintisiz devam edeceğini ve bu faaliyetlerin büyütülmesi için çalışmalar yürütüldüğünü bildirdi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-21 19:16 UTC"
+    },
+    {
+      "title": "Tunisia jails opposition politician for four years over social media posts",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
+      "summary": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:14 UTC"
+    },
+    {
+      "title": "Hollanda'da güvenlik açığı nedeniyle vatandaşlık hizmeti sunulan siteler erişime kapatıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/hollandada-guvenlik-acigi-nedeniyle-vatandaslik-hizmeti-sunulan-siteler-erisime-kapatildi/4096418",
+      "summary": "Hollanda'da, yaygın kullanılan PHP programlama dilinde tespit edilen kritik güvenlik açıkları nedeniyle vatandaşların devlet hizmetlerine eriştiği DigiD ve MijnOverheid gibi internet siteleri geçici olarak kapatıldı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:12 UTC"
     },
     {
       "title": "ABD'de mahkeme, kullanıcıları gizlilik konusunda yanılttığı için Meta'ya 25 milyar dolar ceza verdi",
@@ -74,6 +191,15 @@
       "published_at": "2026-10-21 18:58 UTC"
     },
     {
+      "title": "Emir Sarıgül hakkında tutuklama talebi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/emir-sarigul-hakkinda-tutuklama-talebi-960820.html",
+      "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül, tutuklama talebiyle hakimliğe sevk edildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 18:57 UTC"
+    },
+    {
       "title": "MERKEZ BANKASI FAİZ KARARI SON DAKİKA | Merkez Bankası faiz kararı belli oluyor... Ekim ayı Türkiye Cumhuriyet Merkez Bankası faiz kararı ne zaman... - Bigpara",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOeE4xajRqNU9seXNpc0xEQUJFSzBHSmdIUGcwYk5tSjd0b1lHakdiQVRNNHVMQW5wZ2ozY1lsTlNqbTdnOUc1ZUJHaUtjbDR4WDFHSUl0d3Ata1BqSGNteGw2Qm4zVmUtOVlBaUExb3NJRGc1NENuaHFlbmhaN21QRENHMFo0d1lDMmpXOS1idVg0MjdiVHJ6VHpZc1R0d0JkWjRyT0VXWjlzalVLMGUwT2I0Y0lFdzFQMEJ3YlFJbC1uQ0tvY2J5bVpnUXNEelVHSjFOOVJfNGJMenVOVkJiazQzYXZLTldXbHFoUW5XeXQzTUxzY0dXN1RRTHZkZGNFc3VEMTVKTG5SSXdROFhESnNxbmJlUW41cWc?oc=5",
@@ -99,6 +225,24 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-21 18:53 UTC"
+    },
+    {
+      "title": "MERKEZ BANKASI FAİZ KARARI NE OLACAK? EKİM 2026 TCMB faiz kararı ne zaman açıklanacak, faizler düşecek mi, sabit mi kalacak? - Habertürk",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcDNIM1RFRU1jcXBXbWpyMWNVNGhkU0k3eXR0V0hkQWk0RHVjVUVnQ01yTDM3aVRKS094Z1ZZVXdxc1htOW16eHRNMGNuUjNyNWVEOXlGaVV5REZXU2Z6aXZjZXU4VVVPemhUYzlFal9rQ1dfeGRIcHkwS2kwUHRzT21yT2Z0azlTR04tc2RSQzRDUmJ4UTlmR3ZfSGprSm9Va0xGUEJ4eVBja2RudVd6TndaN1czR2VBVDAwZ3UtRnRlemRxSnR4dUVlQ050WlEtZEN2MWRtNF9yV0VuS0g3Zy1UNHhmUUNGWDE1dg?oc=5",
+      "summary": "MERKEZ BANKASI FAİZ KARARI NE OLACAK? EKİM 2026 TCMB faiz kararı ne zaman açıklanacak, faizler düşecek mi, sabit mi kalacak? Habertürk",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-21 18:53 UTC"
+    },
+    {
+      "title": "JP Morgan Türkiye'deki bankacılık faaliyetlerini büyütmeyi planlıyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/jp-morgan-turkiyedeki-bankacilik-faaliyetlerini-buyutmeyi-planliyor/4096399",
+      "summary": "JPMorgan İstanbul Şubesi'nin yakın zamanda Türkiye'deki bankacılık faaliyetlerini büyütme kararı aldığı ve bu yöndeki çalışmaların ilgili yasal otoritelerle koordineli şekilde sürdürüldüğü bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 18:52 UTC"
     },
     {
       "title": "Farmers blocked from olive harvest in occ. West Bank, volunteers detained",
@@ -209,6 +353,15 @@
       "published_at": "2026-10-21 18:29 UTC"
     },
     {
+      "title": "ABD Başkan Yardımcısı Vance, Netanyahu'ya saldırmadığını ancak destek de vermediğini belirtti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-netanyahuya-saldirmadigini-ancak-destek-de-vermedigini-belirtti/4096372",
+      "summary": "ABD Başkan Yardımcısı JD Vance, yabancı ülke seçimlerine değil 3 Kasım'daki Kongre seçimlerine odaklandığını belirterek, \"Bibi Netanyahu'ya saldırmıyorum, Bibi Netanyahu'ya destek de vermiyorum.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 18:26 UTC"
+    },
+    {
       "title": "JP Morgan Türkiye'deki bankacılık faaliyetlerini büyütüyor",
       "image": "",
       "link": "https://www.trthaber.com/haber/ekonomi/jp-morgan-turkiyedeki-bankacilik-faaliyetlerini-buyutuyor-960817.html",
@@ -272,24 +425,6 @@
       "published_at": "2026-10-21 18:10 UTC"
     },
     {
-      "title": "Arap Koalisyonu: Suudi Arabistan'a yönelik 2 İHA saldırısı önlendi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistana-yonelik-2-iha-saldirisi-onlendi/4096359",
-      "summary": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap koalisyonu, Suudi Arabistan'ın doğu ve güney bölgelerinde 2 insansız hava aracının (İHA) engellenerek düşürüldüğünü duyurdu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 18:08 UTC"
-    },
-    {
-      "title": "BM: Yemen'de çatışmalar nedeniyle ağustos başından bu yana yaklaşık 260 bin kişi yerinden edildi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/bm-yemende-catismalar-nedeniyle-agustos-basindan-bu-yana-yaklasik-260-bin-kisi-yerinden-edildi/4096357",
-      "summary": "Birleşmiş Milletler (BM), Yemen'de devam eden çatışmalar nedeniyle ağustos başından bu yana yaklaşık 260 bin kişinin evlerini terk etmek zorunda kaldığını belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 18:07 UTC"
-    },
-    {
       "title": "Paris'te yarın planlanan öğrenci eylemi yasaklandı",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/pariste-yarin-planlanan-ogrenci-eylemi-yasaklandi-960815.html",
@@ -317,24 +452,6 @@
       "published_at": "2026-10-21 18:03 UTC"
     },
     {
-      "title": "Endonezya'da yangınlar nedeniyle 300 binden fazla akut solunum yolu enfeksiyonu vakası tespit edildi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/endonezyada-yanginlar-nedeniyle-300-binden-fazla-akut-solunum-yolu-enfeksiyonu-vakasi-tespit-edildi/4096347",
-      "summary": "Endonezya’da 7 eyalette devam eden orman yangınları nedeniyle 314 bin 124 akut solunum yolu enfeksiyonu vakasının tespit edildiği bildirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 18:01 UTC"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, Bulgaristan Başbakanı Radev ile telefonda görüştü",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bulgaristan-basbakani-radev-ile-telefonda-gorustu/4096345",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Bulgaristan Başbakanı Rumen Radev ile telefon görüşmesi gerçekleştirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 17:58 UTC"
-    },
-    {
       "title": "Cumhurbaşkanı Erdoğan, Bulgaristan Başbakanı Radev ile görüştü",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bulgaristan-basbakani-radev-ile-gorustu-960813.html",
@@ -342,24 +459,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 17:58 UTC"
-    },
-    {
-      "title": "ABD'de mortgage faizleri iki aydan uzun süre sonra ilk kez düştü",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/abdde-mortgage-faizleri-iki-aydan-uzun-sure-sonra-ilk-kez-dustu/4096339",
-      "summary": "ABD'de 30 yıl vadeli mortgage (konut kredisi) için ortalama faiz oranı geçen hafta yüzde 7,41'e inerken, iki aydan uzun bir sürenin ardından ilk kez düşüş kaydetti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 17:54 UTC"
-    },
-    {
-      "title": "Küresel yatırım ve teknoloji dünyası GO! GLOBAL Türkiye Zirvesi'nde buluşacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-yatirim-ve-teknoloji-dunyasi-go-global-turkiye-zirvesinde-bulusacak/4096336",
-      "summary": "GO! GLOBAL Türkiye Zirvesi, küresel teknoloji ve yatırım ekosisteminin önde gelen isimleri ile Türkiye'nin öncü girişimcileri ve AI yeteneklerini 22-24 Ekim'de İstanbul’da bir araya getirecek.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 17:50 UTC"
     },
     {
       "title": "Bakan Bayraktar: Türkiye ile Japonya'nın iş birliğini daha ileri taşıyacağız",
@@ -389,31 +488,13 @@
       "published_at": "2026-10-21 17:42 UTC"
     },
     {
-      "title": "Galatasaray, Lille'i mağlup etti",
+      "title": "Galatasaray, bu sezon Şampiyonlar Ligi'ndeki ilk galibiyetini Lille karşısında aldı",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/galatasaray-lillei-maglup-etti/4096332",
-      "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nde Lille'i 4-2 yendi.",
+      "link": "https://www.aa.com.tr/tr/spor/galatasaray-bu-sezon-sampiyonlar-ligindeki-ilk-galibiyetini-lille-karsisinda-aldi/4096332",
+      "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin üçüncü haftasında Fransa temsilcisi Lille'i 4-2 yenerek organizasyondaki ilk puanlarını kazandı.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 17:41 UTC"
-    },
-    {
-      "title": "Fransa'da sarı yeleklilerin eylemleri kapsamında 174 kişi tutuklandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/fransada-sari-yeleklilerin-eylemleri-kapsaminda-174-kisi-tutuklandi/4096329",
-      "summary": "Fransa Adalet Bakanı Gerald Darmanin, sarı yeleklilerin 17 Ekim'de şiddet olaylarına sahne olan eylemleri kapsamında 174 kişinin tutuklandığını bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 17:37 UTC"
-    },
-    {
-      "title": "AfD Eş Genel Başkanı Weidel, partisinin AB'yi \"yeniden inşa etmek\" istediğini söyledi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/afd-es-genel-baskani-weidel-partisinin-abyi-yeniden-insa-etmek-istedigini-soyledi/4096327",
-      "summary": "Almanya için Alternatif (AfD) Eş Genel Başkanı Alice Weidel, Avrupa Birliği'nin (AB) mevcut haliyle \"ciddi reforma\" ihtiyacı olduğunu belirterek, partisinin AB'yi \"yeniden inşa etmek\" istediğini söyledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 17:35 UTC"
     },
     {
       "title": "Borsa İstanbul’da 12 şirketten KAP açıklaması: Milyarlık anlaşmalar ve yeni yatırımlar - CNBC-e",
@@ -470,15 +551,6 @@
       "published_at": "2026-10-21 17:06 UTC"
     },
     {
-      "title": "MERKEZ BANKASI FAİZ KARARI NE OLACAK? EKİM 2026 TCMB faiz kararı ne zaman açıklanacak, faizler düşecek mi? - Habertürk",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcDNIM1RFRU1jcXBXbWpyMWNVNGhkU0k3eXR0V0hkQWk0RHVjVUVnQ01yTDM3aVRKS094Z1ZZVXdxc1htOW16eHRNMGNuUjNyNWVEOXlGaVV5REZXU2Z6aXZjZXU4VVVPemhUYzlFal9rQ1dfeGRIcHkwS2kwUHRzT21yT2Z0azlTR04tc2RSQzRDUmJ4UTlmR3ZfSGprSm9Va0xGUEJ4eVBja2RudVd6TndaN1czR2VBVDAwZ3UtRnRlemRxSnR4dUVlQ050WlEtZEN2MWRtNF9yV0VuS0g3Zy1UNHhmUUNGWDE1dg?oc=5",
-      "summary": "MERKEZ BANKASI FAİZ KARARI NE OLACAK? EKİM 2026 TCMB faiz kararı ne zaman açıklanacak, faizler düşecek mi? Habertürk",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-21 17:03 UTC"
-    },
-    {
       "title": "Family of prison officer killed by IRA receives state apology",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ef0/live/3613e220-cd70-11f1-bbdb-c39c91930f26.jpg",
       "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
@@ -515,15 +587,6 @@
       "published_at": "2026-10-21 16:48 UTC"
     },
     {
-      "title": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
-      "summary": "French President Emmanuel Macron made a surprise stop in Riyadh to meet Saudi Crown Prince during his ongoing Gulf tour.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 16:34 UTC"
-    },
-    {
       "title": "Borsa İstanbul’da 6 ayda 200 milyar dolar buhar oldu! - ParaMedya",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHZ0VHFIN0FYOWR1QTJkdHlEZ1hRSFFPS1NLUktDVHlBMGZva0x0UEY0S2RKVG5pNDdSYVY5cDlHX0U0RThOV0VtVVBCaENsaEJwWkJ5VGI3Nk44TEVSX3JJcjU3d1p6OWVsdWlFdE9KbTVDcW5LS1Q2bnJxTXhmM2VORjZPYnhNcVd5VDhNX1FaRS1yU1Bv0gGcAUFVX3lxTE9kb01TOVYxczdMSVJ2WDBMTUstdF84RUQ3TGMtLWQ4a2pYeExLaWV5OGZxOEtrSGllVWduSzU5T3huM0hoUnl5T0NZOGI4SFJKTUoxOEtLZ3VjZ1plcXUtNHY1ZGF3djJmZVA2TVJwZHpsY0lrblhnaUprbzdqcmNVTmxCR3lKSl9RdVZUMHVWWlhmWVk1dnR2WjNoZg?oc=5",
@@ -531,15 +594,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-21 16:28 UTC"
-    },
-    {
-      "title": "Bakan Bolat: Türkiye dünyanın 11'inci büyük ekonomisi konumuna ulaştı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-turkiye-dunyanin-11inci-buyuk-ekonomisi-konumuna-ulasti-960807.html",
-      "summary": "Ticaret Bakanı Ömer Bolat, Türkiye'nin dünyanın satın alma gücü paritesine göre 11'nci büyük ekonomisi konumuna ulaştığını ifade etti.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 16:26 UTC"
     },
     {
       "title": "İran: 'Bombaların anası' nükleer faaliyetlerimizi durduramaz",
@@ -569,24 +623,6 @@
       "published_at": "2026-10-21 16:07 UTC"
     },
     {
-      "title": "Zonguldak'ta bina çöktü: 1 kişi kurtarıldı, 1 kişi öldü",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/zonguldakta-bina-coktu-1-kisi-kurtarildi-1-kisi-oldu-960806.html",
-      "summary": "Zonguldak'ta çöken binanın enkazında kalan 1 kişi kurtarıldı, 1 kişi hayatını kaybetti.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 16:03 UTC"
-    },
-    {
-      "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
-      "summary": "Follow updates, with team news, from our live text commentary stream coverage as Mbappe and Bellingham headline.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 16:01 UTC"
-    },
-    {
       "title": "Bakan Gürlek: Fon soruşturmasında 'manipülatif işlem yapan 88 kişi tutuklandı'",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f73/live/8af4a810-6745-11f1-b4c1-47ccd10ce929.jpg",
       "link": "https://www.bbc.com/turkce/articles/c574pjl4l40no?at_medium=RSS&at_campaign=rss",
@@ -612,15 +648,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-21 15:48 UTC"
-    },
-    {
-      "title": "Bakan Gürlek: Haksız kazançla mücadelemiz sürecek",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-haksiz-kazancla-mucadelemiz-surecek-960805.html",
-      "summary": "Adalet Bakanı Akın Gürlek, \"Sermaye piyasalarındaki manipülatif işlemlere ilişkin yürütülen soruşturmalar kapsamında bugüne kadar 404 kişi hakkında adli işlem yapılmış; 88 şüpheli tutuklanmış, 26 şüpheli gözaltına alınmış, 195 kişi hakkında adli kontrol tedbiri uygulanmıştır\" açıklamasını yaptı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 15:46 UTC"
     },
     {
       "title": "Azerbaycan 31 Türk vatandaşını istenmeyen kişi ilan etti, Erdoğan Aliyev ile görüştü",
@@ -704,15 +731,6 @@
       "published_at": "2026-10-21 14:03 UTC"
     },
     {
-      "title": "Starbucks Çin'de alışverişsiz oturma dönemini kapatıyor",
-      "image": "https://geoim.bloomberght.com/l/2026/10/21/ver1792590418/3792115/jpg/320x180",
-      "link": "https://www.bloomberght.com/starbucks-cinde-alisverissiz-oturma-donemini-kapatiyor-3792115",
-      "summary": "Starbucks, Çin'deki kafelerinde oturmak isteyen müşterilere 22 Ekim'den itibaren alışveriş şartı getirecek.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-21 13:42 UTC"
-    },
-    {
       "title": "İngiltere Merkez Bankası: Faiz patikası enerji şoku tarafından şekillendiriliyor – ING - TradingView",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GSnVNNWR1cWFJRlUtT01CbmtjOEVmM0xxOTlvdHRHTDJ6cnVBOGJCQUdEZzVOeWNCQ3ljb0pHTDNMd25NY0dybDhiUy1FQzhlQWFXcVRsWGVHMFZpREdua1FvVXB5RmM1?oc=5",
@@ -722,15 +740,6 @@
       "published_at": "2026-10-21 13:41 UTC"
     },
     {
-      "title": "İngiltere kamu borcunda tarihi seviye",
-      "image": "https://geoim.bloomberght.com/l/2026/10/21/ver1792589636/3792112/jpg/320x180",
-      "link": "https://www.bloomberght.com/ingiltere-kamu-borcunda-tarihi-seviye-3792112",
-      "summary": "İngiltere'nin kamu borcunun Eylül'de ilk kez 3 trilyon sterlini aştığı öngörülüyor.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-21 13:33 UTC"
-    },
-    {
       "title": "Türkiye dahil dört ülkenin imzaladığı Bedir Mutabakat Zaptı'nın kapsamı ne?",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e22b/live/c46b7f10-cd6b-11f1-bbdb-c39c91930f26.jpg",
       "link": "https://www.bbc.com/turkce/articles/ck9qz1lyg1r1o?at_medium=RSS&at_campaign=rss",
@@ -738,15 +747,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 12:48 UTC"
-    },
-    {
-      "title": "Nigeria confirms Ebola case linked to East Africa",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ac/live/3b3288b0-cd3e-11f1-bc2e-018d645d8d21.png",
-      "link": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 12:39 UTC"
     },
     {
       "title": "Merkez Bankası faiz kararını açıklayacak, beklentiler ne yönde? - BBC",
