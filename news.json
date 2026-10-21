@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-21 21:59 UTC",
+  "updated_at": "2026-10-21 22:30 UTC",
   "items": [
+    {
+      "title": "Suudi Arabistan: Kral Fahd Uluslararası Havalimanı'na düzenlenen saldırıda 1 kişi öldü, 8 kişi yaralandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-kral-fahd-uluslararasi-havalimanina-duzenlenen-saldirida-1-kisi-oldu-8-kisi-yaralandi/4096567",
+      "summary": "Suudi Arabistan Sivil Havacılık Genel Otoritesi, Dammam'daki Kral Fahd Uluslararası Havalimanı'na düzenlenen saldırıda 1 kişinin öldüğünü, 8 kişinin yaralandığını açıkladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 22:22 UTC"
+    },
+    {
+      "title": "Meta'nın üçüncü çeyrek net kârı yıllık bazda yüzde 264 arttı",
+      "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792620514/3792153/jpg/320x180",
+      "link": "https://www.bloomberght.com/meta-nin-ucuncu-ceyrek-net-kri-yillik-bazda-yuzde-264-artti-3792153",
+      "summary": "Meta'nın 2026'nın üçüncü çeyreğinde net kârı yıllık bazda yüzde 264 artarak 9,9 milyar dolara, geliri ise yüzde 26 yükselişle 64,6 milyar dolara ulaştı. Şirketin finansal sonuçları piyasa beklentilerini aşarken, sosyal medya davalarına ilişkin anlaşma kapsamında 9,89 milyar dolarlık gider kaydedildi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-21 22:08 UTC"
+    },
+    {
+      "title": "Video shows Israeli settler assaulting Palestinian child",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
+      "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 22:03 UTC"
+    },
+    {
+      "title": "Kanada ve Ontario eyaleti, ABD tarifelerine karşı 8,7 milyar dolarlık paket açıkladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/kanada-ve-ontario-eyaleti-abd-tarifelerine-karsi-8-7-milyar-dolarlik-paket-acikladi/4096562",
+      "summary": "Kanada Başbakanı Mark Carney ile Ontario eyaletinin Başbakanı Doug Ford, ABD tarifelerinin yarattığı ekonomik belirsizliğe karşı Ontario'daki stratejik sektörleri ve çalışanları desteklemek amacıyla toplam 8,7 milyar dolarlık yatırımları duyurdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 22:02 UTC"
+    },
+    {
+      "title": "Macron, Netanyahu ve Trump'ı Fransa'daki eylemleri istismar etmekle suçladı",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b6f4/live/ad9474c0-cd63-11f1-9a39-31b474234113.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cwx287g6e702o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fransa cumhurbaşkanının yorumu, önümüzdeki haftalarda seçimlerle karşı karşıya olan Binyamin Netanyahu ve Donald Trump'a yönelik açık bir eleştiri niteliğinde.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 21:58 UTC"
+    },
     {
       "title": "\"İran'la savaşa girmek yaptığımız en iyi işlerden biri\"",
       "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792619468/3792152/jpg/320x180",
@@ -263,15 +308,6 @@
       "published_at": "2026-10-21 20:35 UTC"
     },
     {
-      "title": "Video shows Israeli settler assaulting Palestinian child",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss",
-      "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 20:34 UTC"
-    },
-    {
       "title": "Soykırımcı İsrail, Batı Şeria'da 12 saatte 23 saldırı gerçekleştirdi",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-bati-seriada-12-saatte-23-saldiri-gerceklestirdi-960825.html",
@@ -365,7 +401,7 @@
       "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b522/live/adcfbb20-cd86-11f1-a64c-550be9e3c66b.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia's President Putin does not feel under pressure right now to end the war.",
+      "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 19:58 UTC"
@@ -378,24 +414,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 19:57 UTC"
-    },
-    {
-      "title": "Katar Başbakan Yardımcısı: Bedir Mutabakatı, ülkelerimiz arasındaki savunma işbirliğine katkı sağlayacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/katar-basbakan-yardimcisi-bedir-mutabakati-ulkelerimiz-arasindaki-savunma-isbirligine-katki-saglayacak/4096461",
-      "summary": "Katar Başbakan Yardımcısı ve Savunma İşlerinden Sorumlu Devlet Bakanı Al Sani, Türkiye, Katar, Pakistan ve Endonezya arasında imzalanan Bedir Mutabakat Zaptı'nın, ülkeler arasındaki savunma işbirliğine önemli katkı sağlayacağını vurguladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 19:55 UTC"
-    },
-    {
-      "title": "Trump, Rusya-Ukrayna Savaşı'nda çözüme \"hiç olmadığı kadar yakın\" olduklarını belirtti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/trump-rusya-ukrayna-savasinda-cozume-hic-olmadigi-kadar-yakin-olduklarini-belirtti/4096462",
-      "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında anlaşmaya varılabilmesi için Rusya Devlet Başkanı Vladimir Putin ile görüşmelerin sürdüğünü kaydederek, çözüme \"daha önce hiç olmadığı kadar yakın\" olduklarını vurguladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 19:55 UTC"
     },
     {
       "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
@@ -641,15 +659,6 @@
       "published_at": "2026-10-21 18:05 UTC"
     },
     {
-      "title": "Borsa İstanbul’da 6 ayda 200 milyar dolar buhar oldu! - ParaMedya",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHZ0VHFIN0FYOWR1QTJkdHlEZ1hRSFFPS1NLUktDVHlBMGZva0x0UEY0S2RKVG5pNDdSYVY5cDlHX0U0RThOV0VtVVBCaENsaEJwWkJ5VGI3Nk44TEVSX3JJcjU3d1p6OWVsdWlFdE9KbTVDcW5LS1Q2bnJxTXhmM2VORjZPYnhNcVd5VDhNX1FaRS1yU1Bv0gGcAUFVX3lxTE9kb01TOVYxczdMSVJ2WDBMTUstdF84RUQ3TGMtLWQ4a2pYeExLaWV5OGZxOEtrSGllVWduSzU5T3huM0hoUnl5T0NZOGI4SFJKTUoxOEtLZ3VjZ1plcXUtNHY1ZGF3djJmZVA2TVJwZHpsY0lrblhnaUprbzdqcmNVTmxCR3lKSl9RdVZUMHVWWlhmWVk1dnR2WjNoZg?oc=5",
-      "summary": "Borsa İstanbul’da 6 ayda 200 milyar dolar buhar oldu! ParaMedya",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-21 17:33 UTC"
-    },
-    {
       "title": "Borsa İstanbul’da 12 şirketten KAP açıklaması: Milyarlık anlaşmalar ve yeni yatırımlar - CNBC-e",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTjZiU2ZsSXJlbUJZcklseGdVcXk0RkNWMXZFSHFFdmhhbzM5VmdBeVZoT1dMMHgtVUxPT0JzUFBYby1VdGJTNDMzVVZPQnBNSjlybmNDcngwYjhySmlIamhGSXFyeWNraEdNVjJFb1h4bmxVanJUVERVSmZhUjJBOUl4SEtrY0VuTkNxZml6aGNCY0J3ZTJOcHBVQXZFS1FqQnNDaU5lSnREbTNvTkVuWWF3MHZzMGNGbmpZ?oc=5",
@@ -695,15 +704,6 @@
       "published_at": "2026-10-21 16:48 UTC"
     },
     {
-      "title": "İran: 'Bombaların anası' nükleer faaliyetlerimizi durduramaz",
-      "image": "https://geoim.bloomberght.com/l/2026/10/21/ver1792599669/3792131/jpg/320x180",
-      "link": "https://www.bloomberght.com/iran-bombalarin-anasi-nukleer-faaliyetlerimizi-durduramaz-3792131",
-      "summary": "İran Devrim Muhafızları Ordusu Sözcüsü Hüseyin Muhibbi, ABD'nin ağır tahrip gücüne sahip bomba kullanmasının İran'ın nükleer faaliyetlerini durduramayacağını belirtti. Muhibbi, olası bir saldırının İran'ı teslim olmaya zorlayamayacağını ve Hürmüz Boğazı'nın yeniden açılmasını sağlayamayacağını savundu.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-21 16:20 UTC"
-    },
-    {
       "title": "Bakan Gürlek: Fon soruşturmasında 'manipülatif işlem yapan 88 kişi tutuklandı'",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f73/live/8af4a810-6745-11f1-b4c1-47ccd10ce929.jpg",
       "link": "https://www.bbc.com/turkce/articles/c574pjl4l40no?at_medium=RSS&at_campaign=rss",
@@ -711,6 +711,15 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 15:59 UTC"
+    },
+    {
+      "title": "Bitcoin, Ethereum, DeFi, Stocks. All in One Place - Paribu",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFAwUWQ4VXhya2VKRjJRQ1RDcXBaOERyM1BGU2xqcE01ZGFwb3ZnY3UtcHBBSkdDUlR5WmdjbXlB?oc=5",
+      "summary": "Bitcoin, Ethereum, DeFi, Stocks. All in One Place Paribu",
+      "source": "Google News - Küresel Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-21 15:49 UTC"
     },
     {
       "title": "Azerbaycan 31 Türk vatandaşını istenmeyen kişi ilan etti, Erdoğan Aliyev ile görüştü",
@@ -821,15 +830,6 @@
       "published_at": "2026-10-21 11:18 UTC"
     },
     {
-      "title": "Orionid meteor yağmuru bu gece en yoğun evresinde: Nasıl görebilirsiniz?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f1c/live/1b496550-a053-11f0-b687-23a5afa8b42e.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cgq4d81wj99o?at_medium=RSS&at_campaign=rss",
-      "summary": "Gökyüzü geceleri dünyanın dört bir yanından izlenebilecek Orionid meteor yağmuru ile aydınlanacak. NASA \"yılın en güzel meteor yağmurlarından biri\" olarak tanımlıyor.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 11:01 UTC"
-    },
-    {
       "title": "Erdoğan AKP tabanına seslendi: Bu camianın başını öne eğdirmeyeceğiz",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c72/live/96506b70-f6bd-11f0-b352-c18a700f188f.jpg",
       "link": "https://www.bbc.com/turkce/articles/cm5ynl39ve2xo?at_medium=RSS&at_campaign=rss",
@@ -846,15 +846,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-21 10:16 UTC"
-    },
-    {
-      "title": "Monero vadeli işlemleri kaldıraç ile yeniden ısınıyor, volatilite risklerini artırıyor - CoinDesk",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3RuNzdJWWpmRWFOQk9veW5ZazlHWkk3NDE2TnlnVTBrSEY1Q2xCeGR6MEdTdHpBSFppUFN1YmxaUDRzOWRpU3ZhVlF4Qll3T09tMVUxeVRpc3ZSWV9lTnJySHFkN1Bua0VrQ3VnU3dYYk40UjZzbzJEMFVTRy1VVGZJX0d6aldrRThSdGNtbWZwLWpySUhMLUZZYm5WSU14Z21ZMDF1MkpGbWYwTHFwb1BGQ2tIRzZDUHc?oc=5",
-      "summary": "Monero vadeli işlemleri kaldıraç ile yeniden ısınıyor, volatilite risklerini artırıyor CoinDesk",
-      "source": "Google News - Küresel Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-21 08:57 UTC"
     },
     {
       "title": "İngiltere'de enflasyon beklentinin üzerinde: Faiz artışı beklentisi güçleniyor - Euronews.com",
@@ -900,6 +891,15 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-21 08:05 UTC"
+    },
+    {
+      "title": "MB FAİZ KARARI... Merkez Bankası faiz kararı ne zaman açıklanacak? Faizler düşecek mi? - Dünya Gazetesi",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjJZaC1NcjJDMkMyZ1VUNWVsb05iY0lSQTY2MHcxb0pnNG1VRXo5aVI2NkVOR2I5aWRWc3BjU2FHcVV3N1paRGFMTkhhaUxvejFPZTZxZGtQMVkxYkExWG9SaXBtTll5ZGtTYzhFZldaMk5SUHZvUVFVOXRVUkFRaVVsZXlINzkwQnEya1MtSDhMQ25GbEd5bEhhVnEwUG9oelA0b1FjZWpXUXVnaG8zTXN1cHFBNXJRM1pacTJWZm9nN2s?oc=5",
+      "summary": "MB FAİZ KARARI... Merkez Bankası faiz kararı ne zaman açıklanacak? Faizler düşecek mi? Dünya Gazetesi",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-21 07:15 UTC"
     }
   ]
 }
