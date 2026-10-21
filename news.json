@@ -1,14 +1,50 @@
 {
-  "updated_at": "2026-10-21 22:30 UTC",
+  "updated_at": "2026-10-21 23:19 UTC",
   "items": [
     {
-      "title": "Suudi Arabistan: Kral Fahd Uluslararası Havalimanı'na düzenlenen saldırıda 1 kişi öldü, 8 kişi yaralandı",
+      "title": "Microsoft, Çin bağlantılı aktörün yapay zeka kullanarak yüzlerce kuruluşu hedef aldığını belirtti",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-kral-fahd-uluslararasi-havalimanina-duzenlenen-saldirida-1-kisi-oldu-8-kisi-yaralandi/4096567",
-      "summary": "Suudi Arabistan Sivil Havacılık Genel Otoritesi, Dammam'daki Kral Fahd Uluslararası Havalimanı'na düzenlenen saldırıda 1 kişinin öldüğünü, 8 kişinin yaralandığını açıkladı.",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/microsoft-cin-baglantili-aktorun-yapay-zeka-kullanarak-yuzlerce-kurulusu-hedef-aldigini-belirtti/4096573",
+      "summary": "ABD'li teknoloji şirketi Microsoft, Çin devletiyle bağlantılı bir siber aktörün yapay zeka destekli araçlar kullanarak dünya genelinde yüzlerce kuruluşu hedef aldığını bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 22:40 UTC"
+    },
+    {
+      "title": "Suudi Arabistan, Kral Fahd Havalimanı'na yeni saldırı düzenlendiğini duyurdu",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/suudi-arabistan-kral-fahd-havalimanina-yeni-saldiri-duzenlendigini-duyurdu-960830.html",
+      "summary": "Suudi Arabistan Sivil Havacılık Genel Otoritesi GACA, Dammam'daki Kral Fahd Uluslararası Havalimanı'na düzenlenen saldırıda 1 kişinin öldüğünü, 8 kişinin yaralandığını belirtti.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 22:24 UTC"
+    },
+    {
+      "title": "Suudi Arabistan'daki Kral Fahd Uluslararası Havalimanı'na yönelik saldırıda 1 kişi öldü, 8 kişi yaralandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistandaki-kral-fahd-uluslararasi-havalimanina-yonelik-saldirida-1-kisi-oldu-8-kisi-yaralandi/4096567",
+      "summary": "Suudi Arabistan Sivil Havacılık Genel Otoritesi (GACA), Dammam'daki Kral Fahd Uluslararası Havalimanı'na düzenlenen saldırıda 1 kişinin öldüğünü, 8 kişinin yaralandığını bildirdi.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 22:22 UTC"
+    },
+    {
+      "title": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
+      "summary": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 22:16 UTC"
+    },
+    {
+      "title": "Libya TM Başkanı Abdunnebi: Türkiye ile deniz yetki mutabakatı diğer ülkelerin çıkarlarına zarar vermiyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/libya-tm-baskani-abdunnebi-turkiye-ile-deniz-yetki-mutabakati-diger-ulkelerin-cikarlarina-zarar-vermiyor/4096564",
+      "summary": "Libya Temsilciler Meclisi Başkanı Abdunnebi, Türkiye-Libya deniz yetki alanları mutabakatının diğer ülkelerin çıkarlarına zarar vermediğini belirterek, \"Bu anlaşma egemenlik kararıdır ve Libya devletinin kendi çıkarlarını gözetme hakkı vardır.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 22:15 UTC"
     },
     {
       "title": "Meta'nın üçüncü çeyrek net kârı yıllık bazda yüzde 264 arttı",
@@ -122,7 +158,7 @@
       "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abac/live/5ed152f0-cd8f-11f1-b1e7-39558e114359.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+      "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 21:27 UTC"
@@ -362,24 +398,6 @@
       "published_at": "2026-10-21 20:14 UTC"
     },
     {
-      "title": "Türkiye ile İran arasında sınır güvenliği toplantısı yapıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-iran-arasinda-sinir-guvenligi-toplantisi-yapildi/4096476",
-      "summary": "Türkiye ile İran arasında, sınır güvenliğine ilişkin konuların ele alındığı Mutat Toplantı, İran'ın Maku kentinde gerçekleştirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 20:13 UTC"
-    },
-    {
-      "title": "İstanbul'da kara para aklama soruşturmasında gözaltına alınan Emir Sarıgül tutuklandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/istanbulda-kara-para-aklama-sorusturmasinda-gozaltina-alinan-emir-sarigul-tutuklandi/4096473",
-      "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül tutuklandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 20:10 UTC"
-    },
-    {
       "title": "Pope does not need further treatment after lung cancer surgery",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a09d/live/89f335e0-cd88-11f1-b1e7-39558e114359.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
@@ -477,15 +495,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 19:24 UTC"
-    },
-    {
-      "title": "India’s ‘Cockroach’ leaders free after a week in jail",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss",
-      "summary": "Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 19:17 UTC"
     },
     {
       "title": "JP Morgan: Aracı kurum lisans iptali Türkiye'den çekilme anlamına gelmiyor",
@@ -641,15 +650,6 @@
       "published_at": "2026-10-21 18:10 UTC"
     },
     {
-      "title": "Paris'te yarın planlanan öğrenci eylemi yasaklandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/pariste-yarin-planlanan-ogrenci-eylemi-yasaklandi-960815.html",
-      "summary": "Fransa'nın başkenti Paris'te yarın eğitim bütçesinin artırılması talebiyle düzenlenmesi planlanan öğrenci eyleminin yasaklandığı bildirildi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 18:06 UTC"
-    },
-    {
       "title": "Kritik güvenlik açıklarının ardından gözler PHP güncellemesinde",
       "image": "https://geoim.bloomberght.com/l/2026/10/21/ver1792605975/3792135/jpg/320x180",
       "link": "https://www.bloomberght.com/kritik-aciklar-sonrasi-internet-dunyasi-php-guncellemesine-odaklandi-3792135",
@@ -657,6 +657,15 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-21 18:05 UTC"
+    },
+    {
+      "title": "Borsa İstanbul’da 6 ayda 200 milyar dolar buhar oldu! - ParaMedya",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHZ0VHFIN0FYOWR1QTJkdHlEZ1hRSFFPS1NLUktDVHlBMGZva0x0UEY0S2RKVG5pNDdSYVY5cDlHX0U0RThOV0VtVVBCaENsaEJwWkJ5VGI3Nk44TEVSX3JJcjU3d1p6OWVsdWlFdE9KbTVDcW5LS1Q2bnJxTXhmM2VORjZPYnhNcVd5VDhNX1FaRS1yU1Bv0gGcAUFVX3lxTE9kb01TOVYxczdMSVJ2WDBMTUstdF84RUQ3TGMtLWQ4a2pYeExLaWV5OGZxOEtrSGllVWduSzU5T3huM0hoUnl5T0NZOGI4SFJKTUoxOEtLZ3VjZ1plcXUtNHY1ZGF3djJmZVA2TVJwZHpsY0lrblhnaUprbzdqcmNVTmxCR3lKSl9RdVZUMHVWWlhmWVk1dnR2WjNoZg?oc=5",
+      "summary": "Borsa İstanbul’da 6 ayda 200 milyar dolar buhar oldu! ParaMedya",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-21 17:33 UTC"
     },
     {
       "title": "Borsa İstanbul’da 12 şirketten KAP açıklaması: Milyarlık anlaşmalar ve yeni yatırımlar - CNBC-e",
@@ -711,15 +720,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 15:59 UTC"
-    },
-    {
-      "title": "Bitcoin, Ethereum, DeFi, Stocks. All in One Place - Paribu",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFAwUWQ4VXhya2VKRjJRQ1RDcXBaOERyM1BGU2xqcE01ZGFwb3ZnY3UtcHBBSkdDUlR5WmdjbXlB?oc=5",
-      "summary": "Bitcoin, Ethereum, DeFi, Stocks. All in One Place Paribu",
-      "source": "Google News - Küresel Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-21 15:49 UTC"
     },
     {
       "title": "Azerbaycan 31 Türk vatandaşını istenmeyen kişi ilan etti, Erdoğan Aliyev ile görüştü",
@@ -848,6 +848,15 @@
       "published_at": "2026-10-21 10:16 UTC"
     },
     {
+      "title": "Monero vadeli işlemleri kaldıraç ile yeniden ısınıyor, volatilite risklerini artırıyor - CoinDesk",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3RuNzdJWWpmRWFOQk9veW5ZazlHWkk3NDE2TnlnVTBrSEY1Q2xCeGR6MEdTdHpBSFppUFN1YmxaUDRzOWRpU3ZhVlF4Qll3T09tMVUxeVRpc3ZSWV9lTnJySHFkN1Bua0VrQ3VnU3dYYk40UjZzbzJEMFVTRy1VVGZJX0d6aldrRThSdGNtbWZwLWpySUhMLUZZYm5WSU14Z21ZMDF1MkpGbWYwTHFwb1BGQ2tIRzZDUHc?oc=5",
+      "summary": "Monero vadeli işlemleri kaldıraç ile yeniden ısınıyor, volatilite risklerini artırıyor CoinDesk",
+      "source": "Google News - Küresel Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-21 08:57 UTC"
+    },
+    {
       "title": "İngiltere'de enflasyon beklentinin üzerinde: Faiz artışı beklentisi güçleniyor - Euronews.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVRHX25IUFJIUDZRYXZ4bEg1SDlHaXhaTjNwYnFKNG50NmVCMHkyT0lwc3NCWnpHZ2s0VXlYN1QwcHQtSjJua1Z0TW9PSU9iQUpHTldza0VEQUdaZEJNdnB2aXNWRUpRMVBudzQ5bGJBeGJWRzBaOGZud2hxbEhUQnNGLTJXNHNDSkJ3YVUzVTFtTE5mUFdUYjZnczV3R1ZnY1N4R0lrVmZXdk9rMC1IZg?oc=5",
@@ -891,15 +900,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-21 08:05 UTC"
-    },
-    {
-      "title": "MB FAİZ KARARI... Merkez Bankası faiz kararı ne zaman açıklanacak? Faizler düşecek mi? - Dünya Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjJZaC1NcjJDMkMyZ1VUNWVsb05iY0lSQTY2MHcxb0pnNG1VRXo5aVI2NkVOR2I5aWRWc3BjU2FHcVV3N1paRGFMTkhhaUxvejFPZTZxZGtQMVkxYkExWG9SaXBtTll5ZGtTYzhFZldaMk5SUHZvUVFVOXRVUkFRaVVsZXlINzkwQnEya1MtSDhMQ25GbEd5bEhhVnEwUG9oelA0b1FjZWpXUXVnaG8zTXN1cHFBNXJRM1pacTJWZm9nN2s?oc=5",
-      "summary": "MB FAİZ KARARI... Merkez Bankası faiz kararı ne zaman açıklanacak? Faizler düşecek mi? Dünya Gazetesi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-21 07:15 UTC"
     }
   ]
 }
