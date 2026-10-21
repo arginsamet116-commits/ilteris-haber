@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-10-21 19:58 UTC",
+  "updated_at": "2026-10-21 20:27 UTC",
   "items": [
+    {
+      "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0463/live/f6cb33e0-cd86-11f1-b1e7-39558e114359.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 20:19 UTC"
+    },
+    {
+      "title": "İsrail askerleri ve Filistin topraklarını gasbeden İsrailliler Batı Şeria'da 12 saatte 23 saldırı gerçekleştirdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-ve-filistin-topraklarini-gasbeden-israilliler-bati-seriada-12-saatte-23-saldiri-gerceklestirdi/4096478",
+      "summary": "İsrail ordusu ile Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın 7 kentinde zeytin hasadı yapan çiftçilere, arazilerine ve dayanışma aktivistlerine 12 saatte 23 saldırı ve ihlal gerçekleştirdiği bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 20:17 UTC"
+    },
+    {
+      "title": "Siber Güvenlik Başkanlığından ulusal ölçekte uyarı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/siber-guvenlik-baskanligindan-ulusal-olcekte-uyari-960824.html",
+      "summary": "Siber Güvenlik Başkanlığı, dünya genelinde internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP yazılım altyapısında tespit edilen kritik güvenlik zafiyetlerine yönelik ulusal düzeyde önleyici güvenlik çalışmalarını devreye aldı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 20:15 UTC"
+    },
+    {
+      "title": "Trump: Rusya-Ukrayna savaşında çözüme hiç olmadığı kadar yakınız",
+      "image": "https://geoim.bloomberght.com/l/2026/10/21/ver1792613708/3792148/jpg/320x180",
+      "link": "https://www.bloomberght.com/trump-rusya-ukrayna-savasinda-cozume-hic-olmadigi-kadar-yakiniz-3792148",
+      "summary": "ABD Başkanı Donald Trump, Rusya-Ukrayna Savaşı'nı sona erdirmek amacıyla Rusya Devlet Başkanı Vladimir Putin ile görüşmelerin sürdüğünü belirterek, anlaşmaya daha önce hiç olmadığı kadar yakın olduklarını söyledi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-21 20:14 UTC"
+    },
+    {
+      "title": "Türkiye ile İran arasında sınır güvenliği toplantısı yapıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-iran-arasinda-sinir-guvenligi-toplantisi-yapildi/4096476",
+      "summary": "Türkiye ile İran arasında, sınır güvenliğine ilişkin konuların ele alındığı Mutat Toplantı, İran'ın Maku kentinde gerçekleştirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 20:13 UTC"
+    },
+    {
+      "title": "İstanbul'da kara para aklama soruşturmasında gözaltına alınan Emir Sarıgül tutuklandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/istanbulda-kara-para-aklama-sorusturmasinda-gozaltina-alinan-emir-sarigul-tutuklandi/4096473",
+      "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül tutuklandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 20:10 UTC"
+    },
+    {
+      "title": "Pope does not need further treatment after lung cancer surgery",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a09d/live/89f335e0-cd88-11f1-b1e7-39558e114359.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 20:09 UTC"
+    },
+    {
+      "title": "Tasfiye edilecek fonlarda bekleyen talimatlara ilişkin önerge kabul edildi",
+      "image": "https://geoim.bloomberght.com/l/2026/10/21/ver1792613254/3792147/jpg/320x180",
+      "link": "https://www.bloomberght.com/tasfiye-edilecek-fonlarda-bekleyen-talimatlara-iliskin-onerge-kabul-edildi-3792147",
+      "summary": "Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi'nde üçüncü değişiklik önergesi kabul edildi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-21 20:07 UTC"
+    },
+    {
+      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b522/live/adcfbb20-cd86-11f1-a64c-550be9e3c66b.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia's President Putin does not feel under pressure right now to end the war.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:58 UTC"
+    },
+    {
+      "title": "PHP'deki güvenlik açığı nedeniyle dünya çapında çok sayıda site kapatıldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/phpdeki-guvenlik-acigi-nedeniyle-dunya-capinda-cok-sayida-site-kapatildi-960823.html",
+      "summary": "Bir programlama dili olan PHP'deki \"ciddi güvenlik açıklarına\" ilişkin haberlerin ardından dünya çapında hükümet siteleri de dahil olmak üzere çok sayıda internet sitesine tedbir amacıyla erişim kısmen ya da tamamen askıya alındı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:57 UTC"
+    },
+    {
+      "title": "Katar Başbakan Yardımcısı: Bedir Mutabakatı, ülkelerimiz arasındaki savunma işbirliğine katkı sağlayacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/katar-basbakan-yardimcisi-bedir-mutabakati-ulkelerimiz-arasindaki-savunma-isbirligine-katki-saglayacak/4096461",
+      "summary": "Katar Başbakan Yardımcısı ve Savunma İşlerinden Sorumlu Devlet Bakanı Al Sani, Türkiye, Katar, Pakistan ve Endonezya arasında imzalanan Bedir Mutabakat Zaptı'nın, ülkeler arasındaki savunma işbirliğine önemli katkı sağlayacağını vurguladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:55 UTC"
+    },
+    {
+      "title": "Trump, Rusya-Ukrayna Savaşı'nda çözüme \"hiç olmadığı kadar yakın\" olduklarını belirtti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/trump-rusya-ukrayna-savasinda-cozume-hic-olmadigi-kadar-yakin-olduklarini-belirtti/4096462",
+      "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında anlaşmaya varılabilmesi için Rusya Devlet Başkanı Vladimir Putin ile görüşmelerin sürdüğünü kaydederek, çözüme \"daha önce hiç olmadığı kadar yakın\" olduklarını vurguladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:55 UTC"
+    },
     {
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6026/live/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg",
@@ -9,6 +117,15 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 19:54 UTC"
+    },
+    {
+      "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss",
+      "summary": "Havana says Washington is threatening countries with retaliation if they refuse to vote against condemning its embargo.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:51 UTC"
     },
     {
       "title": "UEFA'dan Halil Umut Meler'e görev",
@@ -29,6 +146,15 @@
       "published_at": "2026-10-21 19:43 UTC"
     },
     {
+      "title": "What happened to Australian politician Helen Haines?",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss",
+      "summary": "Australian Lawmaker Helen Haines has lost both legs after a car rammed into her.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:38 UTC"
+    },
+    {
       "title": "Arnavutluk'ta öğrencilerin eğitim koşullarının iyileştirilmesi talebiyle düzenlediği protestolar sürüyor",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/arnavutlukta-ogrencilerin-egitim-kosullarinin-iyilestirilmesi-talebiyle-duzenledigi-protestolar-suruyor/4096448",
@@ -36,6 +162,15 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 19:37 UTC"
+    },
+    {
+      "title": "Conservative Party suspends ex-candidate filmed in Al Jazeera investigation",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/21/conservative-party-suspends-ex-candidate-filmed-in-al-jazeera-investigation?traffic_source=rss",
+      "summary": "An undercover investigation by Al Jazeera, launched in 2021, infiltrated Turning Point UK.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-21 19:36 UTC"
     },
     {
       "title": "Meta'ya kullanıcı gizliliği ihlali nedeniyle 25 milyar dolar ceza",
@@ -191,19 +326,19 @@
       "published_at": "2026-10-21 18:58 UTC"
     },
     {
-      "title": "Emir Sarıgül hakkında tutuklama talebi",
+      "title": "İstanbul'da kara para soruşturmasında Sarıgül tutuklandı",
       "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/emir-sarigul-hakkinda-tutuklama-talebi-960820.html",
-      "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül, tutuklama talebiyle hakimliğe sevk edildi.",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-kara-para-sorusturmasinda-sarigul-tutuklandi-960820.html",
+      "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül tutuklandı.",
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 18:57 UTC"
     },
     {
-      "title": "MERKEZ BANKASI FAİZ KARARI SON DAKİKA | Merkez Bankası faiz kararı belli oluyor... Ekim ayı Türkiye Cumhuriyet Merkez Bankası faiz kararı ne zaman... - Bigpara",
+      "title": "MERKEZ BANKASI FAİZ KARARI SON DAKİKA | Merkez Bankası faiz kararı belli oluyor... Ekim ayı Türkiye Cumhuriyet Merkez Bankası faiz kararı ne zaman açıklanacak, saat kaçta? Gözler PPK Toplantısı kararında! - Bigpara",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOeE4xajRqNU9seXNpc0xEQUJFSzBHSmdIUGcwYk5tSjd0b1lHakdiQVRNNHVMQW5wZ2ozY1lsTlNqbTdnOUc1ZUJHaUtjbDR4WDFHSUl0d3Ata1BqSGNteGw2Qm4zVmUtOVlBaUExb3NJRGc1NENuaHFlbmhaN21QRENHMFo0d1lDMmpXOS1idVg0MjdiVHJ6VHpZc1R0d0JkWjRyT0VXWjlzalVLMGUwT2I0Y0lFdzFQMEJ3YlFJbC1uQ0tvY2J5bVpnUXNEelVHSjFOOVJfNGJMenVOVkJiazQzYXZLTldXbHFoUW5XeXQzTUxzY0dXN1RRTHZkZGNFc3VEMTVKTG5SSXdROFhESnNxbmJlUW41cWc?oc=5",
-      "summary": "MERKEZ BANKASI FAİZ KARARI SON DAKİKA | Merkez Bankası faiz kararı belli oluyor... Ekim ayı Türkiye Cumhuriyet Merkez Bankası faiz kararı ne zaman... Bigpara",
+      "summary": "MERKEZ BANKASI FAİZ KARARI SON DAKİKA | Merkez Bankası faiz kararı belli oluyor... Ekim ayı Türkiye Cumhuriyet Merkez Bankası faiz kararı ne zaman açıklanacak, saat kaçta? Gözler PPK Toplantısı kararında! Bigpara",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-21 18:55 UTC"
@@ -254,15 +389,6 @@
       "published_at": "2026-10-21 18:51 UTC"
     },
     {
-      "title": "Fransa'da telefon operatörü Orange'ın mobil ağında kesinti yaşanıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/fransada-telefon-operatoru-orangein-mobil-aginda-kesinti-yasaniyor/4096392",
-      "summary": "Fransa'da telefon operatörü Orange'ın mobil ağında kesinti yaşandığı bildirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 18:47 UTC"
-    },
-    {
       "title": "Thousands march for school funding in Greece",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/10/21/thousands-march-for-school-funding-in-greece?traffic_source=rss",
@@ -270,24 +396,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 18:45 UTC"
-    },
-    {
-      "title": "ABD, İran'ın gölge filosuna yönelik yeni yaptırımlar açıkladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abd-iranin-golge-filosuna-yonelik-yeni-yaptirimlar-acikladi/4096388",
-      "summary": "ABD Hazine Bakanlığı, İran'ın denizcilik faaliyetlerini destekledikleri gerekçesiyle bir hukuk bürosunu, bazı gemicilik şirketleri ile yük gemilerini yaptırım listesine aldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 18:43 UTC"
-    },
-    {
-      "title": "BM: Gazze'de süren İsrail saldırıları nedeniyle özellikle çocuklar \"ciddi risklerle\" karşı karşıya",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/bm-gazzede-suren-israil-saldirilari-nedeniyle-ozellikle-cocuklar-ciddi-risklerle-karsi-karsiya-/4096387",
-      "summary": "Birleşmiş Milletler (BM), Gazze'de İsrail'in devam eden ve sivil kayıplara yol açan saldırıları konusunda \"derin endişe\" duyduklarını belirterek, özellikle çocukların \"ciddi risklerle\" karşı karşıya olduğu uyarısında bulundu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 18:43 UTC"
     },
     {
       "title": "TAV'ın net kârı yıllık bazda yüzde 32 artışla 165 milyon euroya ulaştı",
@@ -470,15 +578,6 @@
       "published_at": "2026-10-21 17:48 UTC"
     },
     {
-      "title": "What’s behind protests in Portugal?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/whats-behind-protests-in-portugal-2?traffic_source=rss",
-      "summary": "What's behind protests in Portugal?",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 17:48 UTC"
-    },
-    {
       "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/808c/live/f0408560-cd64-11f1-bc2e-018d645d8d21.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
@@ -486,15 +585,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 17:42 UTC"
-    },
-    {
-      "title": "Galatasaray, bu sezon Şampiyonlar Ligi'ndeki ilk galibiyetini Lille karşısında aldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/galatasaray-bu-sezon-sampiyonlar-ligindeki-ilk-galibiyetini-lille-karsisinda-aldi/4096332",
-      "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin üçüncü haftasında Fransa temsilcisi Lille'i 4-2 yenerek organizasyondaki ilk puanlarını kazandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 17:41 UTC"
     },
     {
       "title": "Borsa İstanbul’da 12 şirketten KAP açıklaması: Milyarlık anlaşmalar ve yeni yatırımlar - CNBC-e",
@@ -533,24 +623,6 @@
       "published_at": "2026-10-21 17:17 UTC"
     },
     {
-      "title": "Hakemler dosyası soruşturması: Ferdi Karadoruk'a 8 yıla kadar hapis istemi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/hakemler-dosyasi-sorusturmasi-ferdi-karadoruka-8-yila-kadar-hapis-istemi-960809.html",
-      "summary": "İstanbul'da \"Hakemler dosyası\" olarak bilinen soruşturma kapsamında tutuklanan Türkiye Faal Futbol Hakemleri ve Gözlemcileri Derneği TFFHGD İstanbul Şubesi Başkanı Ferdi Karadoruk hakkında 8 yıla kadar hapis istemiyle iddianame düzenlendi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 17:08 UTC"
-    },
-    {
-      "title": "İran Devrim Muhafızları Sözcüsü: Bombaların anası nükleer faaliyetlerimizi durduramaz",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-sozcusu-bombalarin-anasi-nukleer-faaliyetlerimizi-durduramaz-960808.html",
-      "summary": "İran Devrim Muhafızları Ordu Sözcüsü Hüseyin Muhibbi, ABD'nin \"bombaların anası\" olarak bilinen bombayı kullanabileceğini ancak bunun İran'ın nükleer sanayi faaliyetlerini durdurmayacağını söyledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 17:06 UTC"
-    },
-    {
       "title": "Family of prison officer killed by IRA receives state apology",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ef0/live/3613e220-cd70-11f1-bbdb-c39c91930f26.jpg",
       "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
@@ -558,24 +630,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 16:58 UTC"
-    },
-    {
-      "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
-      "summary": "French president meets Mohammed bin Salman in Riyadh to discuss energy, security, and infrastructure.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 16:58 UTC"
-    },
-    {
-      "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss",
-      "summary": "‘I have nothing left.’ Small business owners in Paris say they are traumatised after rioters looted their shops.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 16:57 UTC"
     },
     {
       "title": "DETAY HABER | Altın mı, dolar mı, borsa mı? Yatırım araçlarında kazanç tablosu değişti - CNN Türk",
@@ -603,15 +657,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-21 16:20 UTC"
-    },
-    {
-      "title": "ABD Başkanı Trump, İran'da \"sembolik\" olarak hapishaneye atıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranda-sembolik-olarak-hapishaneye-atildi-/4096270",
-      "summary": "ABD Başkanı Donald Trump, İran'ın başkenti Tahran’da \"sembolik\" olarak hapishaneye atıldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 16:10 UTC"
     },
     {
       "title": "Bakan Gürlek'ten sermaye piyasalarındaki manipülatif işlemlere ilişkin açıklama",
@@ -686,15 +731,6 @@
       "published_at": "2026-10-21 14:47 UTC"
     },
     {
-      "title": "JP Morgan faaliyet izni iptali için SPK'ya başvuracak",
-      "image": "https://geoim.bloomberght.com/l/2026/10/21/ver1792593770/3792120/jpg/320x180",
-      "link": "https://www.bloomberght.com/jp-morgan-faaliyet-izni-iptali-icin-spk-ya-basvuracak-3792120",
-      "summary": "JP Morgan Menkul Değerler, faaliyet izninin iptal edilmesi talebiyle SPK'ya başvuruda bulunacak.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-21 14:33 UTC"
-    },
-    {
       "title": "GÖZLER FED'İN FAİZ KARARINA ÇEVRİLDİ! FED toplantısı ne zaman, faiz kararı hangi gün saat kaçta açıklanacak? Amerikan Merkez Bankası (FED) faiz beklentisi ne yönde? - Uzmanpara",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQUVuWTViSzlDbmxVeXJYZUpubFBlXzdDcXhheUxHMjY0TFdlbXQ5MUpRMnRObUY0WDMycm5IWTZ3alpQdGxjc2c1RVlsSEc1c1E1T25xZTVrT2tkejRxYWFkSkxKMC0xWDA1akZTNGltUUt5QVlUS3VQRWxSWHdjRUZLM25hT1p3UFpvZTlrNWpVTmdOT2hxOHNicTZMX1BpT1k3LV9VQUZxU3RVWk1CX2Zua2tjcnhLbWM3c0VWa1VUTEZndlYyeTBTcnJXZmZVeDdnQ0NCY205NGdsLW9TdkZkVnA0OXBMZlR1MU8wWGhIWVNjdUxSY0hvY0prVER5UTFKT2pxYlUxOTg?oc=5",
@@ -720,15 +756,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 14:04 UTC"
-    },
-    {
-      "title": "Fitch: Faiz artışları nedeniyle Türk bankalarının kâr marjları daraldı",
-      "image": "https://geoim.bloomberght.com/l/2026/10/21/ver1792591469/3792118/jpg/320x180",
-      "link": "https://www.bloomberght.com/fitch-faiz-artislari-nedeniyle-turk-bankalarinin-kr-marjlari-daraldi-3792118",
-      "summary": "Derecelendirme kuruluşu Fitch, faiz artışları nedeniyle Türk bankalarının kâr marjlarının daraldığını ve sorunlu kredilerin artmaya devam ettiğini belirtti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-21 14:03 UTC"
     },
     {
       "title": "İngiltere Merkez Bankası: Faiz patikası enerji şoku tarafından şekillendiriliyor – ING - TradingView",
@@ -783,6 +810,15 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 11:30 UTC"
+    },
+    {
+      "title": "30'dan fazla merkez bankası euro için harekete geçti - Dünya Gazetesi",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaXVGNHJRQUxadGpMeXA3ZnU5aU5Nd2NpT0s0M0hOUUlwMFdJZWRBSWZKY2E5TzhxZFhWRHVYY1B0cWdWdmhHYWlCVy1PbFJxcVl2S2dSSHhBYlhBZFotb0hnREcyV3ZaTFphcmt1VEYwWGNsWHR0V0JuYnVMb1NkVmhXcHIzZGNDRHBubUpjY0FoWjZjN1dYZ3o2QjlfOFh0WFRxOWxR?oc=5",
+      "summary": "30'dan fazla merkez bankası euro için harekete geçti Dünya Gazetesi",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-21 11:20 UTC"
     },
     {
       "title": "Kim Jong Un'un öldüğüne dair neden sürekli söylenti çıkıyor?",
@@ -864,42 +900,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-21 08:05 UTC"
-    },
-    {
-      "title": "Australian MP loses both legs after alleged car attack, husband says",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b5/live/2cbe53a0-cd29-11f1-a64c-550be9e3c66b.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 07:56 UTC"
-    },
-    {
-      "title": "MB FAİZ KARARI... Merkez Bankası faiz kararı ne zaman açıklanacak? Faizler düşecek mi? - Dünya Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjJZaC1NcjJDMkMyZ1VUNWVsb05iY0lSQTY2MHcxb0pnNG1VRXo5aVI2NkVOR2I5aWRWc3BjU2FHcVV3N1paRGFMTkhhaUxvejFPZTZxZGtQMVkxYkExWG9SaXBtTll5ZGtTYzhFZldaMk5SUHZvUVFVOXRVUkFRaVVsZXlINzkwQnEya1MtSDhMQ25GbEd5bEhhVnEwUG9oelA0b1FjZWpXUXVnaG8zTXN1cHFBNXJRM1pacTJWZm9nN2s?oc=5",
-      "summary": "MB FAİZ KARARI... Merkez Bankası faiz kararı ne zaman açıklanacak? Faizler düşecek mi? Dünya Gazetesi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-21 07:15 UTC"
-    },
-    {
-      "title": "Bitcoin, Ethereum, DeFi, Stocks. All in One Place - Paribu",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFAwUWQ4VXhya2VKRjJRQ1RDcXBaOERyM1BGU2xqcE01ZGFwb3ZnY3UtcHBBSkdDUlR5WmdjbXlB?oc=5",
-      "summary": "Bitcoin, Ethereum, DeFi, Stocks. All in One Place Paribu",
-      "source": "Google News - Küresel Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-21 07:00 UTC"
-    },
-    {
-      "title": "BM'nin 1,5 derece raporunda Türkiye ile ilgili hangi uyarılar var?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/33d2/live/7bf016f0-cd17-11f1-acea-8755f0f28c17.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cwg7xd7180e2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Birleşmiş Milletler 21 Ekim'de yayımladığı kritik uyarıda, 1,5 derece eşiğiyle ilgili acilen ve sert önlemler çağrısında bulundu. Birleşmiş Milletler Çevre Programı'nın (UNEP) Emissions Gap Report 2026 raporu, ülkelerin açıkladığı iklim hedefleri ile ülkelerin gerçekte neden olduğu sera gazı salımları arasında büyük bir uçurum olduğunu söylüyor.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 06:59 UTC"
     }
   ]
 }
