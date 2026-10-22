@@ -1,22 +1,283 @@
 {
-  "updated_at": "2026-10-22 08:30 UTC",
+  "updated_at": "2026-10-22 09:11 UTC",
   "items": [
     {
-      "title": "İsrail ordusu, Suriye'de BM güçlerinin devriyesini engelledi",
+      "title": "Şimşek: Türkiye'nin borçluluk düzeyinin düşük olması ekonomik şoklara karşı dayanıklılığını artırıyor",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-suriyede-bm-guclerinin-devriyesini-engelledi/4096815",
-      "summary": "Suriye'de sınır bölgelerinde işgalini sürdüren İsrail ordusu, Kuneytra kırsalında Birleşmiş Milletler Ateşkes Gözlem Gücü'nün (UNDOF) devriyesini engelledi.",
+      "link": "https://www.trthaber.com/haber/ekonomi/simsek-turkiyenin-borcluluk-duzeyinin-dusuk-olmasi-ekonomik-soklara-karsi-dayanikliligini-artiriyor-960876.html",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Dünya genelinde toplam borcun küresel hasılaya oranı yüzde 300'ü, gelişmekte olan piyasalarda ise yüzde 230'u aştı. Türkiye bu açıdan avantajlı bir konumda. Türkiye'nin borçluluk düzeyinin düşük olması ekonomik şoklara karşı dayanıklılığını artırıyor\" diye konuştu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 09:03 UTC"
+    },
+    {
+      "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyindeki beldelere topçu saldırıları düzenledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-topcu-saldirilari-duzenledi/4096883",
+      "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırılarını sürdürdü.",
       "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 09:00 UTC"
+    },
+    {
+      "title": "PHP, sunucuları tehdit eden iki kritik güvenlik açığını gidermek için güncelleme yayımladı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/php-sunuculari-tehdit-eden-iki-kritik-guvenlik-acigini-gidermek-icin-guncelleme-yayimladi-960875.html",
+      "summary": "İnternet sitelerinin geliştirilmesinde yaygın olarak kullanılan PHP programlama dilinde, sunucuların kontrolünün ele geçirilmesine neden olabilecek iki kritik güvenlik açığını gidermek üzere güncelleme yayımlandığı duyuruldu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 09:00 UTC"
+    },
+    {
+      "title": "Yaş meyve ve sebze ihracatının yüzde 21'i Batı Akdeniz'den",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/yas-meyve-ve-sebze-ihracatinin-yuzde-21i-bati-akdenizden-960874.html",
+      "summary": "Türkiye genelinde 9,5 ayda yapılan 3,3 milyar dolarlık yaş meyve ve sebze ihracatının yüzde 21'i, Batı Akdeniz İhracatçılar Birliğince BAİB gerçekleştirildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 09:00 UTC"
+    },
+    {
+      "title": "MSB: Deniz Yetki Alanları Muhtırası'nın onaylanmasını memnuniyetle karşılıyoruz",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/msb-deniz-yetki-alanlari-muhtirasinin-onaylanmasini-memnuniyetle-karsiliyoruz-960873.html",
+      "summary": "Milli Savunma Bakanlığı, \"Türkiye ile Libya arasında imzalanan ve yürürlükte bulunan Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırasının Libya Temsilciler Meclisi tarafından da onaylanmasını memnuniyetle karşılıyoruz. Söz konusu karar, iki ülke arasındaki stratejik iş birliğini güçlendirmektedir.\" açıklamasını yaptı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 09:00 UTC"
+    },
+    {
+      "title": "Türkiye'nin Çin'e su ürünleri ihracatı yaklaşık 3 katına çıktı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-cine-su-urunleri-ihracati-yaklasik-3-katina-cikti/4096879",
+      "summary": "Türkiye ile Çin arasında su ürünleri ihracatına yönelik geçen yıl imzalanan protokollerin ardından bu ülkeye dış satım yılın 9 ayında yaklaşık 3 katına çıkarak 18 milyon 7 bin dolara ulaştı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:56 UTC"
+    },
+    {
+      "title": "FAİZ KARARI 2026 NE ZAMAN? Merkez Bankası Faiz İndirimi Mi Gelir, Sabit Mi Kalır? Ekim Ayı TCMB Faiz Kararı İçin Kritik Gün! - CNN Türk",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPc2FNRVo2c285dGg4Rm1Ca0ljZGpZQU1UOVd0SDdiYl9pRXhlbWZlWUMzdWhNZ1pnN0pZZ2d2RndncDdGQXRHLW1XWmw4Z3VXUW5OVnpiQXFCY2dreTJfRjRGUGIybXNhODhjR0RmXzljWHQ2WldMLWxPVEVYQTd2SWZqc2pwakhhNGN5QndoX3dPdTRMd3M3djVuWk5odmpyWVVBMVpma20yV3lxRUZnUjNHMEFMcEc2SW1BX3NHRVpGVUZGcG9WdGR3OEhUTE1LZ18ya0RWSFowZzZYZXBmVkp0WmM0bmxwVUtKZVVybzR4ZmRwQjJFMjFIdjRQb05r?oc=5",
+      "summary": "FAİZ KARARI 2026 NE ZAMAN? Merkez Bankası Faiz İndirimi Mi Gelir, Sabit Mi Kalır? Ekim Ayı TCMB Faiz Kararı İçin Kritik Gün! CNN Türk",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-22 08:55 UTC"
+    },
+    {
+      "title": "Kayserispor'un deneyimli file bekçisi Gökhan Değirmenci, 7 maçta kalesini gole kapattı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/kayserisporun-deneyimli-file-bekcisi-gokhan-degirmenci-7-macta-kalesini-gole-kapatti/4096870",
+      "summary": "Trendyol 1. Lig'in lideri Metro Holding Kayserispor'un deneyimli file bekçisi Gökhan Değirmenci, ligde 90 dakika forma giydiği 11 maçın 7'sinde kalesinde gole izin vermedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:53 UTC"
+    },
+    {
+      "title": "Deniz salyangozu ihracatı 14 milyon doları aştı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/deniz-salyangozu-ihracati-14-milyon-dolari-asti-960871.html",
+      "summary": "Türkiye, deniz salyangozu ihracatından yılın 9 ayında 14 milyon 220 bin 783 dolar gelir elde etti. En fazla deniz salyangozu ihraç edilen ülkeler Güney Kore, Çin ve İspanya oldu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:53 UTC"
+    },
+    {
+      "title": "PHP, sunucuları tehdit eden iki kritik güvenlik açığını gidermek için güncelleme yayımladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/php-sunuculari-tehdit-eden-iki-kritik-guvenlik-acigini-gidermek-icin-guncelleme-yayimladi/4096863",
+      "summary": "İnternet sitelerinin geliştirilmesinde yaygın olarak kullanılan PHP programlama dilinde, sunucuların kontrolünün ele geçirilmesine neden olabilecek iki kritik güvenlik açığını gidermek üzere güncelleme yayımlandığı duyuruldu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:52 UTC"
+    },
+    {
+      "title": "Batı Şeria'da Avrupalı diplomatlar ve muhabire saldıran işgalci İsrailliler serbest kaldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/bati-seriada-avrupali-diplomatlar-ve-muhabire-saldiran-isgalci-israilliler-serbest-kaldi-960872.html",
+      "summary": "İşgal altındaki Batı Şeria'da Avrupalı diplomatların araçlarına saldırı ve ABD'li gazeteci Heidi Levine'nin yaralanmasıyla ilgili İsrail makamlarınca gözaltına alınan, Filistin topraklarını gasbeden 10 İsrailliden 9'u adli kontrol şartıyla serbest bırakıldı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:52 UTC"
+    },
+    {
+      "title": "Şimşek: Türkiye küresel borçluluk açısından avantajlı konumda",
+      "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792659166/3792192/jpg/320x180",
+      "link": "https://www.bloomberght.com/simsek-turkiye-kuresel-borcluluk-acisindan-avantajli-konumda-3792192",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, Türkiye'nin küresel borçluluk açısından avantajlı bir konumda olduğunu belirterek, \"Türkiye'nin toplam borçluluk düzeyinin düşük olması ekonomik şoklara karşı dayanıklılığını artırıyor. Düşük borçluluk sayesinde ekonomik şoklara yanıt verme ve makul bir büyümeyi sürdürme imkanı daha yüksek\" dedi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-22 08:51 UTC"
+    },
+    {
+      "title": "Katil İsrail'in Gazze'de bir okula düzenlediği saldırıda aynı aileden 4 kişi yaralandı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzede-bir-okula-duzenledigi-saldirida-ayni-aileden-4-kisi-yaralandi-960870.html",
+      "summary": "Katil İsrail ordusunun, Gazze Şeridi'nin güneyindeki Han Yunus kentinde yerinden edilen Filistinlilerin kaldığı bir okulu bombalaması sonucu aynı aileden 4 kişi yaralandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:51 UTC"
+    },
+    {
+      "title": "En çok kazandıran yatırım aracı belli oldu: Altın, dolar ve borsada durum - ekotürk",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSXFOTVVaZm9DZHhRZTJGMWFKZEltRW1DX0pqZzEwUVNISDgzOUxpWE0yajFyeWpQZ2NnVFR0Z2NvSFBEU0cxSnFJY2hHaDU2ZklXc09aM0dROWE1SUFWQldZUl9JTEE0ZC1NeXhEYkNGaElja3ZBTnNsTWFjT2RDZ3FleXAxSEdjWmpmM09Majl4U0dfZ002TlN5d0xSejZXTDdGaXFDUmJJSmJuRTctejBvdF9qTHNz?oc=5",
+      "summary": "En çok kazandıran yatırım aracı belli oldu: Altın, dolar ve borsada durum ekotürk",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-22 08:50 UTC"
+    },
+    {
+      "title": "Fransa'da ankete göre 2027 seçiminin ikinci turunda Le Pen'in karşısına Melenchon'un çıkma ihtimali yüksek",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/fransada-ankete-gore-2027-seciminin-ikinci-turunda-le-penin-karsisina-melenchonun-cikma-ihtimali-yuksek/4096853",
+      "summary": "Fransa’da yapılan ankete göre, 2027’de düzenlenecek cumhurbaşkanı seçiminin ikinci turunda, aşırı sağcı Marine Le Pen'in karşısına aşırı solcu aday Jean-Luc Melenchon'un çıkma ihtimali yüksek bulunuyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:46 UTC"
+    },
+    {
+      "title": "Türkiye'den küresel PHP açığına karşı hızlı önlem",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/turkiyeden-kuresel-php-acigina-karsi-hizli-onlem-960869.html",
+      "summary": "Dünya genelinde internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP altyapısında tespit edilen kritik güvenlik açıklarına karşı Türkiyede önleyici tedbirler hızla devreye alındı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:43 UTC"
+    },
+    {
+      "title": "Ukrayna Devlet Başkanı Zelenskiy, ülkesinin 12 bölgesine saldırılar düzenlendiğini belirtti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/ukrayna-devlet-baskani-zelenskiy-ulkesinin-12-bolgesine-saldirilar-duzenlendigini-belirtti/4096850",
+      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ülkesindeki 12 bölgenin Rus ordusu tarafından hedef alındığını bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:42 UTC"
+    },
+    {
+      "title": "Eski ABD Başkanı Clinton, Müslümanların inançları nedeniyle aşağılanmasından bıktığını söyledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/eski-abd-baskani-clinton-muslumanlarin-inanclari-nedeniyle-asagilanmasindan-biktigini-soyledi/4096845",
+      "summary": "Eski ABD Başkanı Bill Clinton, Müslümanların sırf Müslüman oldukları için aşağılanmasından bıktığını belirtti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:41 UTC"
+    },
+    {
+      "title": "Geleneksel Türk Okçuluk Bursalı Şüca Hava Koşusu Türkiye Şampiyonası yarın başlayacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/geleneksel-turk-okculuk-bursali-suca-hava-kosusu-turkiye-sampiyonasi-yarin-baslayacak/4096832",
+      "summary": "Geleneksel Türk Okçuluk Bursalı Şüca Hava Koşusu Türkiye Şampiyonası, 23-25 Ekim'de Bursa'da gerçekleştirilecek.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:34 UTC"
+    },
+    {
+      "title": "Çay kalbe iyi geliyor ama bir şartla",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/cay-kalbe-iyi-geliyor-ama-bir-sartla-960867.html",
+      "summary": "Yeni yayımlanan bir araştırma, çay tüketim alışkanlıkları ile kalp ve damar hastalıkları riski arasında ilişki bulunduğunu ortaya koydu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:34 UTC"
+    },
+    {
+      "title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss",
+      "summary": "Former US President Bill Clinton quoted the Quran during a speech in Florida condemning discrimination against Muslims.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:33 UTC"
+    },
+    {
+      "title": "Troya'da 160 yılı aşkın kazı tarihinde ilk müzik aleti bulundu",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/kultur/troyada-160-yili-askin-kazi-tarihinde-ilk-muzik-aleti-bulundu/4096826",
+      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Troya kazılarında yaklaşık 2 bin 800 yıllık kemik flüt ile 4 bin 500 yıllık insan biçimli bir idol başının gün ışığına çıkarıldığını duyurdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:32 UTC"
+    },
+    {
+      "title": "Kuzey Kore'den Güney Kore'ye en korkunç durumla karşılaşma uyarısı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/kuzey-koreden-guney-koreye-en-korkunc-durumla-karsilasma-uyarisi-960868.html",
+      "summary": "Kuzey Kore, \"iç işlerine müdahalesini sürdürmesi\" halinde Güney Kore'nin \"en korkunç ve en sıkıntılı durumla\" karşılaşacağını ve sınır bölgesindeki güvenlik önlemlerinin artırılacağı uyarısında bulundu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:31 UTC"
+    },
+    {
+      "title": "Meta'ya 25 milyar dolarlık ceza",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/metaya-25-milyar-dolarlik-ceza-960865.html",
+      "summary": "ABD'nin New Mexico eyaletinde bir mahkeme, Facebook'un çatı şirketi Meta'ya kullanıcıların kişisel verilerinin korunması konusunda yanıltıcı açıklamalar yaptığı gerekçesiyle 25 milyar dolar ceza verdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:31 UTC"
+    },
+    {
+      "title": "Üst solunum yolu vakaları arttı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/saglik/ust-solunum-yolu-vakalari-artti-960866.html",
+      "summary": "İstanbul'da sonbaharla birlikte üst solunum yolu enfeksiyonu başvuruları arttı. Son bir ayda 559 bin kişi bu şikayetlerle hastanelere gitti.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:28 UTC"
+    },
+    {
+      "title": "Trakya'daki barajların doluluk oranı geçen yıla göre önemli ölçüde arttı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/trakyadaki-barajlarin-doluluk-orani-gecen-yila-gore-onemli-olcude-artti/4096821",
+      "summary": "Trakya’da Edirne, Kırklareli ve Tekirdağ’da bulunan 14 barajın toplam su miktarı, geçen yılın ekim ayına göre 307 milyon 745 bin metreküp arttı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:27 UTC"
+    },
+    {
+      "title": "Gazze'de yakıt eksikliği hastanelerin jeneratörlerini durma ve bozulma noktasına getirdi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/gazzede-yakit-eksikligi-hastanelerin-jeneratorlerini-durma-ve-bozulma-noktasina-getirdi-960864.html",
+      "summary": "Soykırımcı İsrail'in saldırılarıyla büyük yıkıma uğrattığı Gazze Şeridi'nde hastanelerde hayati öneme sahip olan jeneratörler yakıtlarının tükenmesi nedeniyle durma ve kalıcı olarak bozulma noktasına geldi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:27 UTC"
+    },
+    {
+      "title": "Dünyanın en büyük varlık fonundan 3. çeyrekte zarar",
+      "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792657811/3792191/jpg/320x180",
+      "link": "https://www.bloomberght.com/dunyanin-en-buyuk-varlik-fonundan-3-ceyrekte-zarar-3792191",
+      "summary": "Norveç'in 2,3 trilyon dolarlık devlet varlık fonu, sabit getirili menkul kıymet yatırımlarının olumsuz etkisiyle üçüncü çeyrekte yüzde 0,5 değer kaybetti.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-22 08:26 UTC"
+    },
+    {
+      "title": "Yerli yazılım ve donanımlarla savaşan İHA geliştirdiler",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yerli-yazilim-ve-donanimlarla-savasan-iha-gelistirdiler/4096816",
+      "summary": "Gaziantep Üniversitesi öğrencileri, yerli yazılım ve donanımlarla geliştirdikleri, kamera görüntülerini yapay zeka destekli sistemle analiz ederek rakip insansız hava araçlarının (İHA) mesafesini ve büyüklüğünü belirleyebilen savaşan İHA tasarladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:23 UTC"
+    },
+    {
+      "title": "Beynin sırlarını çözen küçücük yosun Nobeli kazandırdı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/beynin-sirlarini-cozen-kucucuk-yosun-nobeli-kazandirdi-960863.html",
+      "summary": "Tek hücreli küçük bir yosun, insan beyninde anıların, duyguların ve davranışların nasıl oluştuğunu anlamaya katkı sağlayarak Nobel Fizyoloji veya Tıp Ödülü'ne layık görülen üç bilim insanının araştırmalarına ışık tuttu.",
+      "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-22 08:22 UTC"
     },
     {
-      "title": "Uçak yolculuğunu daha konforlu hale getiren Türk mühendislere uluslararası ödül",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ucak-yolculugunu-daha-konforlu-hale-getiren-turk-muhendislere-uluslararasi-odul/4096813",
-      "summary": "Havacılık sektöründe yolcu deneyimini iyileştirmeye yönelik geliştirilen otomasyon sistemi uluslararası ödül aldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
+      "title": "Barclays, yapay zeka hamlesi kapsamında 5 bin kişiyi işten çıkaracak",
+      "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792657570/3792190/jpg/320x180",
+      "link": "https://www.bloomberght.com/barclays-yapay-zeka-hamlesi-kapsaminda-5-bin-kisiyi-isten-cikaracak-3792190",
+      "summary": "Barclays, maliyetleri düşürmeye yönelik yapay zeka destekli hamlesi kapsamında 5 bin kişiyi işten çıkaracak, maliyetleri düşürmeye yönelik yapay zeka destekli hamlesi kapsamında 5 bin kişiyi işten çıkaracak.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
       "published_at": "2026-10-22 08:21 UTC"
     },
     {
@@ -38,6 +299,24 @@
       "published_at": "2026-10-22 08:18 UTC"
     },
     {
+      "title": "İklim değişikliği sivrisinek ve kene gibi vektörlerle bulaşan hastalıkların küresel haritasını şekillendiriyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/iklim-degisikligi-sivrisinek-ve-kene-gibi-vektorlerle-bulasan-hastaliklarin-kuresel-haritasini-sekillendiriyor/4096808",
+      "summary": "İklim değişikliğinin etkisiyle yükselen sıcaklıklar ve ve aşırı hava olayları sivrisinek, kene gibi hastalık taşıyan vektörlerin yaşam alanlarını değiştirirken vektör kaynaklı hastalıkların dünyadaki dağılımını da dönüştürüyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:16 UTC"
+    },
+    {
+      "title": "TOKİ 61 ilde 725 arsayı satışa çıkaracak",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/toki-61-ilde-725-arsayi-satisa-cikaracak-960862.html",
+      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Toplu Konut İdaresi Başkanlığı TOKİ, Ankara, İstanbul ve İzmir'in de aralarında bulunduğu 61 ildeki 725 arsayı 5 ve 6 Kasım'da açık artırma yöntemiyle satışa sunacak.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 08:16 UTC"
+    },
+    {
       "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8eb/live/0ca70d20-cdc2-11f1-ae0b-3f5d64e6a869.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
@@ -47,67 +326,31 @@
       "published_at": "2026-10-22 08:15 UTC"
     },
     {
-      "title": "TOKİ 61 ilde 725 arsayı satışa çıkaracak",
+      "title": "COP31'in logosunda Türk bayrağının kırmızısı ve Anadolu'nun izleri buluştu",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/toki-61-ilde-725-arsayi-satisa-cikaracak/4096805",
-      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Toplu Konut İdaresi Başkanlığı (TOKİ), Ankara, İstanbul ve İzmir'in de aralarında bulunduğu 61 ildeki 725 arsayı 5 ve 6 Kasım'da açık artırma yöntemiyle satışa sunacak.",
+      "link": "https://www.aa.com.tr/tr/gundem/cop31in-logosunda-turk-bayraginin-kirmizisi-ve-anadolunun-izleri-bulustu/4096800",
+      "summary": "Türkiye'nin ev sahipliğinde düzenlenecek COP31'in logosunda, Türk bayrağının kırmızısının yanı sıra Anadolu'nun geleneksel ebru ve çini sanatına, yeniden doğuşu simgeleyen lale motifine yer verildi.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 08:14 UTC"
+      "published_at": "2026-10-22 08:12 UTC"
     },
     {
-      "title": "Ebola salgınının yayılması Afrika'da alarmı artırdı",
+      "title": "İsrail saldırısında yaralanan Filistinli Sıla'nın yeniden yürüme umudu Türkiye'de yeşerdi",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/ebola-salgininin-yayilmasi-afrikada-alarmi-artirdi/4096806",
-      "summary": "Kongo Demokratik Cumhuriyeti'nde (KDC) ortaya çıkan ve komşu ülkelere yayılan Ebola salgını, Nijerya'da da ilk vakanın tespitiyle Afrika genelinde daha geniş bir coğrafyayı tehdit etmeye başladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 08:14 UTC"
-    },
-    {
-      "title": "Sanayide katma değerli üretime 2027'de 246,7 milyar liralık kaynak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/sanayide-katma-degerli-uretime-2027de-246-7-milyar-liralik-kaynak/4096801",
-      "summary": "Sanayinin geliştirilmesi, üretim ve yatırımların desteklenmesi için gelecek yıl 246,7 milyar lira ödenek kullanılması planlanırken bu doğrultuda imalat sanayisi ihracatının da 276 milyar dolara ulaştırılması öngörülüyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 08:13 UTC"
-    },
-    {
-      "title": "GÜNDER, COP31'de çatıların güneş enerjisi yatırımları için kiralanmasını önerecek",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/gunder-cop31de-catilarin-gunes-enerjisi-yatirimlari-icin-kiralanmasini-onerecek/4096798",
-      "summary": "Türkiye Güneş Enerjisi Birliği (GÜNDER), güneş enerjisi yatırımlarını hızlandırmak amacıyla konut, fabrika, otel ve apartman çatılarının lisanslı şirketlere kiralanmasını öngören modelini COP31'de duyurmaya hazırlanıyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 08:11 UTC"
-    },
-    {
-      "title": "Sel hasarlarında 5 günlük ihbar süresinin aşılması tazminat hakkını ortadan kaldırmıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/sel-hasarlarinda-5-gunluk-ihbar-suresinin-asilmasi-tazminat-hakkini-ortadan-kaldirmiyor/4096793",
-      "summary": "Kasko sigortasında sel hasarlarının 5 iş günü içinde bildirilmemesi sigortalının tazminat hakkını tek başına kaldırmazken, geç bildirim nedeniyle zararın artması halinde gecikmenin nedeni ve sigortalının kusuru dikkate alınarak tazminat azalabiliyor.",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-saldirisinda-yaralanan-filistinli-silanin-yeniden-yurume-umudu-turkiyede-yeserdi/4096791",
+      "summary": "İsrail'in Gazze Şeridi'ne düzenlediği saldırıda omurgasından yaralanan 6 yaşındaki Filistinli Sıla Ebu Kerim, Adana'da geçirdiği ameliyatın ardından yeniden yürüyebilmek için fizik tedavi görüyor.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-22 08:08 UTC"
     },
     {
-      "title": "Konut satışları eylülde zirveye ulaştı",
+      "title": "Türkiye'nin 2035 elektrik hedefi için talepte yıllık yüzde 8'i aşan büyüme öngörülüyor",
       "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/konut-satislari-eylulde-zirveye-ulasti-960861.html",
-      "summary": "Türkiye genelinde konut satışları eylülde 142 bin 390 ile yılın en yüksek seviyesine ulaştı. Sıfır konutların toplam satışlar içindeki payı yüzde 36,2'ye yükseldi.",
-      "source": "TRT Haber",
+      "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-2035-elektrik-hedefi-icin-talepte-yillik-yuzde-8i-asan-buyume-ongoruluyor/4096787",
+      "summary": "Elder Genel Sekreteri Erdoğan, Türkiye'nin 2035'e kadar nihai enerji tüketiminde elektriğin payını yüzde 35'e çıkarma hedefinin, elektrik talebinde yıllık ortalama yüzde 8 büyümeyi ve dağıtım altyapısında kapsamlı bir dönüşümü gerektirdiğini söyledi.",
+      "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 08:08 UTC"
-    },
-    {
-      "title": "Anayasa Mahkemesi Başkanlığı için seçim süreci başladı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/anayasa-mahkemesi-baskanligi-icin-secim-sureci-basladi-960859.html",
-      "summary": "Anayasa Mahkemesi AYM Başkanı Kadir Özkaya'nın görev süresinin 22 Aralık'ta dolacak olması nedeniyle yapılacak başkanlık seçimi için süreç bugün itibarıyla başladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 08:08 UTC"
+      "published_at": "2026-10-22 08:07 UTC"
     },
     {
       "title": "İngiltere'de ev sahibi olmak isteyenler için Çırağan'da özel buluşma",
@@ -119,51 +362,6 @@
       "published_at": "2026-10-22 08:06 UTC"
     },
     {
-      "title": "TİHEK'ten belediyelere engelli yaya geçidi cezası",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/tihekten-belediyelere-engelli-yaya-gecidi-cezasi/4096785",
-      "summary": "TİHEK, görme engelli bir kişinin işe gidiş ve dönüşlerinde kullandığı güzergahta erişilebilirlik koşullarının sağlanmaması nedeniyle Eskişehir Büyükşehir Belediyesi ile Tepebaşı Belediyesine 50'şer bin lira idari para cezası verdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 08:06 UTC"
-    },
-    {
-      "title": "Güçlü dolar ara seçimler öncesinde Trump'ın elini zayıflatabilir",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/guclu-dolar-ara-secimler-oncesinde-trumpin-elini-zayiflatabilir/4096783",
-      "summary": "ABD'deki ara seçimlere kısa bir süre kala, doların yüksek seviyelerde seyrederek Trump yönetiminin arzuladığının tam tersi yönde hareket etmesi, ABD Başkanı Donald Trump'ın işini zorlaştıran önemli konular arasında yer alıyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 08:06 UTC"
-    },
-    {
-      "title": "Türkiye, deniz ulaşımında üç katına çıkaracağı bütçeyle \"yelkenler fora\" diyecek",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-deniz-ulasiminda-uc-katina-cikaracagi-butceyle-yelkenler-fora-diyecek/4096778",
-      "summary": "Türkiye, bu yıl bütçesinde deniz yoluyla ulaşım için ayırdığı 6,8 milyar liralık payı gelecek yıl 18,1 milyar liraya çıkaracak.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 08:04 UTC"
-    },
-    {
-      "title": "Anayasa Mahkemesi Başkanlığı için seçim süreci başladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/anayasa-mahkemesi-baskanligi-icin-secim-sureci-basladi/4096776",
-      "summary": "Anayasa Mahkemesi (AYM) Başkanı Kadir Özkaya'nın görev süresinin 22 Aralık'ta dolacak olması nedeniyle yapılacak başkanlık seçimi için süreç bugün itibarıyla başladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 08:03 UTC"
-    },
-    {
-      "title": "Konut satışları eylülde yılın en yüksek seviyesine çıktı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/konut-satislari-eylulde-yilin-en-yuksek-seviyesine-cikti/4096774",
-      "summary": "Türkiye genelinde konut satışları eylülde 142 bin 390 ile yılın en yüksek seviyesine ulaşırken, sektör temsilcileri birinci el konut satışlarındaki artışın sektörün canlılığı açısından olumlu bir gelişme olduğunu belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 08:02 UTC"
-    },
-    {
       "title": "Can Russia broker a new US-Iran deal?",
       "image": "",
       "link": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss",
@@ -171,42 +369,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-22 08:00 UTC"
-    },
-    {
-      "title": "YÖK'ün Dijital Üniversite Platformu, 16 modülde ücretsiz eğitime başlıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/yokun-dijital-universite-platformu-16-modulde-ucretsiz-egitime-basliyor/4096762",
-      "summary": "Yükseköğretim Kurulu (YÖK) himayesinde hayata geçirilen Dijital Üniversite Platformu, yapay zekadan veri analizine, sürdürülebilir finanstan temiz enerji teknolojilerine uzanan 16 farklı modülde ücretsiz çevrim içi eğitim imkanı sunacak.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:55 UTC"
-    },
-    {
-      "title": "TAV Havalimanları bu yıl 89 milyon yolcuya hizmet verdi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/tav-havalimanlari-bu-yil-89-milyon-yolcuya-hizmet-verdi-960858.html",
-      "summary": "TAV Havalimanları, 2026 yılının 9 ayında işlettiği havalimanlarında dış hatlarda 59 milyon, iç hatlarda 30 milyon yolcu ağırladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:55 UTC"
-    },
-    {
-      "title": "İtalyan şirket, işgalci İsrail'in teleferik projesinden çekildi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/italyan-sirket-isgalci-israilin-teleferik-projesinden-cekildi-960857.html",
-      "summary": "İtalyan teleferik mühendislik danışmanlık şirketi ROPES, İsrail'in işgal altındaki Doğu Kudüs'te Filistinli aileleri zorla yerinden ederek hayata geçirmeyi planladığı tartışmalı teleferik projesinden çekildiğini açıkladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:55 UTC"
-    },
-    {
-      "title": "İstanbul'da 350 milyon liralık sahte parfüm operasyonu",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-350-milyon-liralik-sahte-parfum-operasyonu-960856.html",
-      "summary": "İstanbul Bayrampaşada sahte parfüm üretilen 2 adrese operasyon düzenlendi. Jandarmanın eş zamanlı operasyonunda dünyaca ünlü markalara ait 120 bin 115 adet sahte parfüm ele geçirildi. Ürünlerin piyasa değeri ise 350 milyon lira.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:54 UTC"
     },
     {
       "title": "Angel Reese shines again as Dream down Valkyries to lead WNBA Finals",
@@ -218,24 +380,6 @@
       "published_at": "2026-10-22 07:53 UTC"
     },
     {
-      "title": "Diyarbakır'da yasa dışı kenevir operasyonu: 48 bin 579 kök keneviri ve skunk imha edildi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/diyarbakirda-yasa-disi-kenevir-operasyonu-48-bin-579-kok-keneviri-ve-skunk-imha-edildi-960860.html",
-      "summary": "İçişleri Bakanlığı, Diyarbakır'da düzenlenen yasa dışı kenevir ekimine yönelik operasyonlarda 1,2 ton esrar elde edilebilecek 48 bin 579 kök keneviri ve skunk imha edildiğini duyurdu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:46 UTC"
-    },
-    {
-      "title": "Yerli turistler yılın ikinci çeyreğinde 155 milyar lira seyahat harcaması yaptı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/yerli-turistler-yilin-ikinci-ceyreginde-155-milyar-lira-seyahat-harcamasi-yapti-960854.html",
-      "summary": "Yerli turistlerin bu yılın NisanHaziran döneminde yurt içinde yaptığı seyahat harcamaları, geçen yılın aynı dönemine göre yüzde 32,6 artarak 154 milyar 998 milyon 4 bin lira oldu. Yakınları ziyaret amacıyla yapılan seyahatler yüzde 60,1 ile ilk sırada yer aldı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:39 UTC"
-    },
-    {
       "title": "Fon soruşturması: Eski başbakan danışmanı Ertan Aydın dahil 5 kişi gözaltına alındı",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2196/live/50f6db80-cdeb-11f1-97f7-a7674fb562de.jpg",
       "link": "https://www.bbc.com/turkce/articles/c574pjl4l40no?at_medium=RSS&at_campaign=rss",
@@ -245,49 +389,13 @@
       "published_at": "2026-10-22 07:38 UTC"
     },
     {
-      "title": "İstanbul Havalimanı'na 'dünyanın en bağlantılı havalimanı' ödülü",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/istanbul-havalimanina-dunyanin-en-baglantili-havalimani-odulu-960855.html",
-      "summary": "İstanbul Havalimanı, küresel havacılık veri ve analiz kuruluşu OAG'nin \"Megahubs 2026\" raporunda Londra Heathrow'u geride bırakarak \"dünyanın en bağlantılı havalimanı\" seçildi ve ödüle layık görüldü.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:36 UTC"
-    },
-    {
-      "title": "Alperen Şengün, NBA'de sezona \"double-double\" ile başladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/alperen-sengun-nbade-sezona-double-double-ile-basladi/4096739",
-      "summary": "Amerikan Basketbol Ligi'nde (NBA) Houston Rockets, milli basketbolcu Alperen Şengün'ün \"double-double\" yaptığı maçta Dallas Mavericks'i 128-110 yendi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:34 UTC"
-    },
-    {
-      "title": "Zonguldak'taki bina çökmesi soruşturmasında 3 kişi gözaltında",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/zonguldaktaki-bina-cokmesi-sorusturmasinda-3-kisi-gozaltinda-960851.html",
-      "summary": "Zonguldak'ta 1 kişinin hayatını kaybettiği, 1 kişinin yaralı kurtarıldığı bina çökmesine ilişkin soruşturmada kepçe operatörü, işveren ve mimar hakkında gözaltı kararı verildi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:32 UTC"
-    },
-    {
-      "title": "Alperen Şengün'den sezona 'doubledouble' başlangıç",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/spor/alperen-sengunden-sezona-double-double-baslangic-960853.html",
-      "summary": "NBA'de Houston Rockets, milli basketbolcu Alperen Şengün'ün \"doubledouble\" yaptığı maçta Dallas Mavericks'i 128110 yendi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:31 UTC"
-    },
-    {
       "title": "Gözler faiz kararında: İndirim bekleniyor - Medyascope",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzOVhweHJfM196dlJfLXZkdnVtUDl0d0d4QXpZRll4a04zbzFPOV9sUnR3eExRRDhsU1NJM1llVWMwS0pzNnZERUs4ckFfTjNwdjFnRXl3amdGOC1LU0Voa0tBZWlRc3NzVU5OMEU5dUptQ3dqbGpPYXFOVWh1azg?oc=5",
       "summary": "Gözler faiz kararında: İndirim bekleniyor Medyascope",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-22 07:28 UTC"
+      "published_at": "2026-10-22 07:27 UTC"
     },
     {
       "title": "Filipinler'den jumbo faiz artışı",
@@ -326,24 +434,6 @@
       "published_at": "2026-10-22 07:17 UTC"
     },
     {
-      "title": "Fenerbahçe Tarfin, Basketbol Avrupa Ligi'nde yarın Olympiakos'a konuk olacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-basketbol-avrupa-liginde-yarin-olympiakosa-konuk-olacak/4096714",
-      "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) 7. haftasında yarın Yunanistan'ın Olympiakos ekibiyle deplasmanda karşılaşacak.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:15 UTC"
-    },
-    {
-      "title": "Edirne'de polisten kaçan alkollü sürücüye 250 bin lira ceza",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/edirnede-polisten-kacan-alkollu-surucuye-250-bin-lira-ceza-960848.html",
-      "summary": "Edirne'nin Keşan ilçesinde \"dur\" ihtarına uymayan sürücü, polis ekiplerince durduruldu. İki kez alkollü araç kullanmaktan ehliyeti geri alınan sürücüye 250 bin lira ceza kesilirken, üzerinde tabanca ve 13 mermi bulundu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:10 UTC"
-    },
-    {
       "title": "Wrong national anthems played three times at Asian Para Games in Japan",
       "image": "",
       "link": "https://www.aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan?traffic_source=rss",
@@ -351,33 +441,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-22 07:10 UTC"
-    },
-    {
-      "title": "Troya'da 160 yılı aşkın kazı tarihinin ilk müzik aleti bulundu",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/kultur-sanat/troyada-160-yili-askin-kazi-tarihinin-ilk-muzik-aleti-bulundu-960852.html",
-      "summary": "Kültür ve Turizm Bakanlığının Geleceğe Miras Projesi kapsamında sürdürdüğü Troya kazılarında, yaklaşık 2 bin 800 yıllık kemik flüt ile 4 bin 500 yıllık insan biçimli idol başı bulundu. Flüt, 160 yılı aşkın Troya kazıları tarihinde ele geçirilen ilk ve tek müzik aleti olarak kayda geçti.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:08 UTC"
-    },
-    {
-      "title": "Marmara ve Kıyı Ege için kuvvetli yağış uyarısı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/marmara-ve-kiyi-ege-icin-kuvvetli-yagis-uyarisi-960849.html",
-      "summary": "Marmara ve Kıyı Ege'de yarın etkili olacak yağışların, Marmara'nın kuzeybatısında yerel olarak kuvvetli olacağı tahmin ediliyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:08 UTC"
-    },
-    {
-      "title": "Zonguldak'ta çöken binanın çevresindeki 7 bina tahliye edildi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/zonguldakta-coken-binanin-cevresindeki-7-bina-tahliye-edildi-960847.html",
-      "summary": "Zonguldak'ta 1 kişinin hayatını kaybettiği, 1 kişinin yaralı kurtarıldığı çöken binanın çevresindeki 7 bina tedbiren boşaltıldı. Binalardan tahliye edilen 30 kişi misafirhanelere ve yakınlarının yanına yerleştirildi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 07:04 UTC"
     },
     {
       "title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
@@ -396,15 +459,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-22 06:59 UTC"
-    },
-    {
-      "title": "MERKEZ BANKASI FAİZ KARARI 2026 | PPK faiz kararı ne zaman, saat kaçta? TCMB Ekim ayı faiz kararı için kritik gün! - CNN Türk",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPc2FNRVo2c285dGg4Rm1Ca0ljZGpZQU1UOVd0SDdiYl9pRXhlbWZlWUMzdWhNZ1pnN0pZZ2d2RndncDdGQXRHLW1XWmw4Z3VXUW5OVnpiQXFCY2dreTJfRjRGUGIybXNhODhjR0RmXzljWHQ2WldMLWxPVEVYQTd2SWZqc2pwakhhNGN5QndoX3dPdTRMd3M3djVuWk5odmpyWVVBMVpma20yV3lxRUZnUjNHMEFMcEc2SW1BX3NHRVpGVUZGcG9WdGR3OEhUTE1LZ18ya0RWSFowZzZYZXBmVkp0WmM0bmxwVUtKZVVybzR4ZmRwQjJFMjFIdjRQb05r?oc=5",
-      "summary": "MERKEZ BANKASI FAİZ KARARI 2026 | PPK faiz kararı ne zaman, saat kaçta? TCMB Ekim ayı faiz kararı için kritik gün! CNN Türk",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-22 06:55 UTC"
     },
     {
       "title": "Tüketici güveninde keskin düşüş",
@@ -434,15 +488,6 @@
       "published_at": "2026-10-22 06:47 UTC"
     },
     {
-      "title": "MERKEZ BANKASI FAİZ KARARI 2026 SON DAKİKA! Merkez Bankası faiz kararı ne zaman, saat kaçta açıklanacak? Faiz kararının altın fiyatlarına etkisi - Yeni Şafak",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVlM0UHNnTDY5TFBYbml3VXBiWVZNUlMyWWQ2cWVvWkV6OVdiWHg3NndhMThRc1ZYYkI2UmN1SlFCRnpwVDdlQnkzOUVlbXBxeFp2bG9ha214NEJPT0ZjaWJ2TUVobGxvUVluMzNNbGJudXNXZ2twb0EtNmlTOUpXU3JtZFIzWEJqa05pdExXYjQyR1VwNnY0MXVFajF1bTk2Zllzd0ZkdHFfN3lrUTRNSDhNMk9WU2RtbWdoelpHTVVxVHR5a0Q2SE9VN3BGaHhweFdkTl9qYmU2SzZpTmMzdlBYVXNSZlVTUDJaUFlLVWZsM1ZQU0tzNjVHUWMySzB5dEdBei1YMnltUXRocUszMjQyTzAtUlU?oc=5",
-      "summary": "MERKEZ BANKASI FAİZ KARARI 2026 SON DAKİKA! Merkez Bankası faiz kararı ne zaman, saat kaçta açıklanacak? Faiz kararının altın fiyatlarına etkisi Yeni Şafak",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-22 06:36 UTC"
-    },
-    {
       "title": "Dünya çapında kritik siber güvenlik açığı: 'Türkiye'de ulusal ölçekte tarama başlatıldı'",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
       "link": "https://www.bbc.com/turkce/articles/ckjrw0npep1xo?at_medium=RSS&at_campaign=rss",
@@ -450,15 +495,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-22 06:36 UTC"
-    },
-    {
-      "title": "Sosyal medya platformlarına ceza yağıyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/sosyal-medya-platformlarina-ceza-yagiyor-960850.html",
-      "summary": "Sosyal medya platformları çeşitli ihlaller nedeniyle yüklü miktarda cezalarla karşı karşıya kalıyor. Son olarak ABD'de Meta, tüketiciyi koruma yasalarını ihlal etmekten 25 milyar dolarlık cezaya çarptırıldı. Peki, yakın zaman içinde kesilen diğer cezaların sebepleri ve kapsamları neydi?",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 06:25 UTC"
     },
     {
       "title": "What is PHP and why did it spark a global cyber-security scramble?",
@@ -659,15 +695,6 @@
       "published_at": "2026-10-22 05:20 UTC"
     },
     {
-      "title": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat?traffic_source=rss",
-      "summary": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 05:00 UTC"
-    },
-    {
       "title": "Kore Merkez Bankası, art arda faiz artışlarının ardından oranı %3’te sabit tuttu - Investing.com Türkiye",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzhBdW9GVUFUYlp3Z3A0cWtkRTJfOGJvMWNsUkdRMWVVdU44NWI5Z2ZZR21nZ0tZcGRVMUhhTGJiQi1PS3l0ZEpjeE02MmRianlsRXlWYWtXWXZwazZDVHhOaXQyeEFYazdkc0ZzSGlrQ0dsaVdQd19ZdjVkcTN3ejJMZzliSUZrejBscE9HMmdLMHJ1QU9EdmgtZzB4XzQ?oc=5",
@@ -713,22 +740,13 @@
       "published_at": "2026-10-22 04:45 UTC"
     },
     {
-      "title": "Bakır, teknoloji hisselerindeki satışlarla geriledi",
-      "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792644222/3792159/jpg/320x180",
-      "link": "https://www.bloomberght.com/bakir-teknoloji-hisselerindeki-satislarla-geriledi-3792159",
-      "summary": "Bakır, yapay zeka hisselerindeki satışların küresel piyasalarda risk iştahını azaltmasıyla diğer sanayi metalleriyle birlikte geriledi.",
-      "source": "Bloomberg HT",
+      "title": "MERKEZ BANKASI FAİZ KARARI SON DAKİKA: TCMB Merkez Bankası toplantısı ne zaman, saat kaçta? Faiz kararı açıklandı mı? - Uzmanpara",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYjZ2czVCYWR1ajM2dkotMF91TWN4bU9wdTNEN1poQ1dKRDVIMzhXX0dvMjY2VVpiZTJOQk56VG1ScEpham5CeE15VXJzZkdkMTFrbXZub0gya29OWUg5OFRZTEo3QkFxMHkwSUFrOFc2MjNFeGQzNy16ajVnMGllVE5WLVlJUC1UX2cwdXBkamEtY2sxUzl6SmxmaENvYUNVWHFhT1FFNDhQU1k2b3pOWTZkNm5PTGlYWGxjTzBUMmpNY1ctZUxmZDRuZjJUWExObjBkejEyYl8zMFdBaVNJLUpMcnZGdm0yazEwSnM0eWFEX3FVLS1udw?oc=5",
+      "summary": "MERKEZ BANKASI FAİZ KARARI SON DAKİKA: TCMB Merkez Bankası toplantısı ne zaman, saat kaçta? Faiz kararı açıklandı mı? Uzmanpara",
+      "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-22 04:43 UTC"
-    },
-    {
-      "title": "Altın, yükselen petrol ve faiz endişeleriyle geriledi",
-      "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792643912/3792158/jpg/320x180",
-      "link": "https://www.bloomberght.com/altin-yukselen-petrol-ve-faiz-endiseleriyle-geriledi-3792158",
-      "summary": "Altın, yükselen petrol fiyatlarının enflasyon endişelerini artırması ve faizlerin daha uzun süre yüksek kalabileceği beklentisiyle perşembe günü yüzde 1'in üzerinde geriledi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-22 04:37 UTC"
+      "published_at": "2026-10-22 04:41 UTC"
     },
     {
       "title": "No order, no seat: Starbucks China rolls out new store policy",
@@ -747,15 +765,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-22 03:49 UTC"
-    },
-    {
-      "title": "Petrol, Suudi Arabistan'daki saldırılarla yükseldi",
-      "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792639811/3792157/jpg/320x180",
-      "link": "https://www.bloomberght.com/petrol-suudi-arabistandaki-saldirilarla-yukseldi-3792157",
-      "summary": "Petrol, Yemen'deki Husilerin Suudi Arabistan'a yönelik saldırılarını artırması ve ABD'nin ülkedeki bazı diplomatik temsilciliklerinden personel yakınlarının ayrılmasını istemesiyle perşembe günü yükseldi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-22 03:29 UTC"
     },
     {
       "title": "Güney Kore Merkez Bankası iki artışının ardından faizi yüzde 3'te tuttu - Foreks.com",
@@ -891,15 +900,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 19:07 UTC"
-    },
-    {
-      "title": "MERKEZ BANKASI FAİZ KARARI SON DAKİKA | Merkez Bankası faiz kararı bugün belli oluyor... Ekim ayı Türkiye Cumhuriyet Merkez Bankası faiz kararı ne zaman açıklanacak, saat kaçta? Gözler PPK Toplantısı kararında! - Bigpara",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOeE4xajRqNU9seXNpc0xEQUJFSzBHSmdIUGcwYk5tSjd0b1lHakdiQVRNNHVMQW5wZ2ozY1lsTlNqbTdnOUc1ZUJHaUtjbDR4WDFHSUl0d3Ata1BqSGNteGw2Qm4zVmUtOVlBaUExb3NJRGc1NENuaHFlbmhaN21QRENHMFo0d1lDMmpXOS1idVg0MjdiVHJ6VHpZc1R0d0JkWjRyT0VXWjlzalVLMGUwT2I0Y0lFdzFQMEJ3YlFJbC1uQ0tvY2J5bVpnUXNEelVHSjFOOVJfNGJMenVOVkJiazQzYXZLTldXbHFoUW5XeXQzTUxzY0dXN1RRTHZkZGNFc3VEMTVKTG5SSXdROFhESnNxbmJlUW41cWc?oc=5",
-      "summary": "MERKEZ BANKASI FAİZ KARARI SON DAKİKA | Merkez Bankası faiz kararı bugün belli oluyor... Ekim ayı Türkiye Cumhuriyet Merkez Bankası faiz kararı ne zaman açıklanacak, saat kaçta? Gözler PPK Toplantısı kararında! Bigpara",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-21 18:52 UTC"
     }
   ]
 }
