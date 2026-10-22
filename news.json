@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-22 02:02 UTC",
+  "updated_at": "2026-10-22 03:00 UTC",
   "items": [
+    {
+      "title": "Can Trump deport Congresswoman Ilhan Omar?",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
+      "summary": "Can Trump deport Congresswoman Ilhan Omar?",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 02:34 UTC"
+    },
+    {
+      "title": "Russia frees American Stephen Hubbard after 4 years behind bars",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss",
+      "summary": "Russia frees American Stephen Hubbard after 4 years behind bars",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 02:16 UTC"
+    },
+    {
+      "title": "Tigray resumes daily life amid fears of wider war",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
+      "summary": "Mekelle’s reopening offers little relief as instability and economic hardship persist.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 02:08 UTC"
+    },
+    {
+      "title": "What is the FDLR, and why does its anti-Tutsi ideology endure?",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-fdlr-and-why-does-its-anti-tutsi-ideology-endure?traffic_source=rss",
+      "summary": "Four former FDLR officers reveal how its anti-Tutsi ideology took root and endured in Africa.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 02:02 UTC"
+    },
+    {
+      "title": "ABD'den Suudi Arabistan için tahliye kararı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/abdden-suudi-arabistan-icin-tahliye-karari-960833.html",
+      "summary": "Amerika Birleşik Devletleri, artan güvenlik riskleri nedeniyle Suudi Arabistan'daki acil durum dışı diplomatik personel ve ailelerine ülkeden ayrılma talimatı verdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 02:01 UTC"
+    },
+    {
+      "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+      "summary": "Qatari and French leaders stress need to restore freedom of navigation in Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 01:45 UTC"
+    },
     {
       "title": "Kore Merkez Bankası faizi %3’te tuttu, won güçlendi - Investing.com Türkiye",
       "image": "",
@@ -9,15 +63,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-22 01:31 UTC"
-    },
-    {
-      "title": "Çin Merkez Bankası PBOC, USD/CNY referans kurunu önceki 6,7192 seviyesine kıyasla 6,7195 olarak belirledi - TradingView",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XcEFKaG96Y3pIZDBhVzBmb2dDd2VneDg3TUNtdURBUnozQUVOekd3TkJucFR2ZGd4V0hfSjRMSEVJN3dMY2N2OUFxcV9fbzBEekszY0tuM2xrZTVWWWlsS2Rjc2xXN0tk?oc=5",
-      "summary": "Çin Merkez Bankası PBOC, USD/CNY referans kurunu önceki 6,7192 seviyesine kıyasla 6,7195 olarak belirledi TradingView",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-22 01:15 UTC"
     },
     {
       "title": "Colombian president purges National Museum of works promoting ‘communism’",
@@ -29,13 +74,22 @@
       "published_at": "2026-10-22 01:09 UTC"
     },
     {
-      "title": "Brother of George W Bush endorses Democratic Senate candidate in Texas",
+      "title": "George W Bush’s brother backs Democrat James Talarico in Texas Senate race",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss",
       "summary": "Neil Bush says that he voted for Democrat James Talarico due to reservations about Republican candidate Ken Paxton.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-22 01:01 UTC"
+    },
+    {
+      "title": "Balıkesir'de tıra çarpan motosiklet sürücüsü hayatını kaybetti",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/balikesirde-tira-carpan-motosiklet-surucusu-hayatini-kaybetti-960832.html",
+      "summary": "Balıkesir'in Bandırma ilçesinde, park halindeki tıra çarpan motosiklet sürücüsü yaşamını yitirdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 00:29 UTC"
     },
     {
       "title": "BM Özel Raportörü Betancur: Dünyada 82 milyondan fazla kişi ülke içinde yerinden edildi",
@@ -92,7 +146,7 @@
       "published_at": "2026-10-22 00:08 UTC"
     },
     {
-      "title": "ABD ve İsrail'in ABD ara seçimleri sonrası İran'a yeni saldırı planladığı iddia edildi",
+      "title": "ABD ve İsrail'in, ABD ara seçimleri sonrası İran'a yeni saldırı planladığı iddia edildi",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/abd-ve-israilin-abd-ara-secimleri-sonrasi-irana-yeni-saldiri-planladigi-iddia-edildi-960831.html",
       "summary": "ABD ve İsrail'in ABD ara seçimlerinin ardından İran'a yönelik yeni saldırılar için \"somut planlar hazırladığı\" öne sürüldü.",
@@ -209,15 +263,6 @@
       "published_at": "2026-10-21 22:22 UTC"
     },
     {
-      "title": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
-      "summary": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 22:16 UTC"
-    },
-    {
       "title": "Libya TM Başkanı Abdunnebi: Türkiye ile deniz yetki mutabakatı diğer ülkelerin çıkarlarına zarar vermiyor",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/libya-tm-baskani-abdunnebi-turkiye-ile-deniz-yetki-mutabakati-diger-ulkelerin-cikarlarina-zarar-vermiyor/4096564",
@@ -234,15 +279,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-21 22:08 UTC"
-    },
-    {
-      "title": "Video shows Israeli settler assaulting Palestinian child",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
-      "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 22:03 UTC"
     },
     {
       "title": "Kanada ve Ontario eyaleti, ABD tarifelerine karşı 8,7 milyar dolarlık paket açıkladı",
@@ -272,15 +308,6 @@
       "published_at": "2026-10-21 21:50 UTC"
     },
     {
-      "title": "Man United captain Fernandes slams Carrick’s tactics after Como hammering",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/21/man-united-captain-fernandes-slams-carricks-tactics-after-como-hammering?traffic_source=rss",
-      "summary": "Manchester United winless run continues with 4-1 Champions League humbling in Como, and Bruno Fernandes slams tactics.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 21:50 UTC"
-    },
-    {
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6026/live/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
@@ -290,15 +317,6 @@
       "published_at": "2026-10-21 21:49 UTC"
     },
     {
-      "title": "Tehran displays mock installation of Trump behind bars",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_tehran-displays-mock-installation-of-trump-211026?traffic_source=rss",
-      "summary": "An Iranian performer in Tehran’s busy Tajrish Square has impersonated US President Donald Trump behind bars.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 21:43 UTC"
-    },
-    {
       "title": "Meta'nın geliri üçüncü çeyrekte arttı",
       "image": "",
       "link": "https://www.aa.com.tr/tr/ekonomi/metanin-geliri-ucuncu-ceyrekte-artti/4096555",
@@ -306,15 +324,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-21 21:42 UTC"
-    },
-    {
-      "title": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss",
-      "summary": "Kylian Mbappe and Yan Diomande score stunners as Real beat Leipzig to make it three from three in the Champions League.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 21:36 UTC"
     },
     {
       "title": "Trump, İran'la savaşın yaptığı en iyi işlerden biri olduğunu savundu",
@@ -569,6 +578,15 @@
       "published_at": "2026-10-21 19:24 UTC"
     },
     {
+      "title": "PHP, Sınırdaki Yapay Zekâ Modellerinin Bulduğu İki Kritik Uzaktan Kod Yürütme Açığını Yamayla Giderdi - Unite.AI",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd1hfakg4WEhVOEEtMTJzQWNrbU4xb2NQX2s5aUE5YzVINzZiRmxqLXF6TXRtYXVpS2tXa3lIc3RrMkUtb092dy1sZE8xVk82VmNaTXE5cXBYbW5TZkp5ZDdHbnY2STctSWVmbXczT25Odm5xYmRwZXB2TS1DSHRxOXVaVlY1ZkM5c2lkUHRnUVF5ZEk?oc=5",
+      "summary": "PHP, Sınırdaki Yapay Zekâ Modellerinin Bulduğu İki Kritik Uzaktan Kod Yürütme Açığını Yamayla Giderdi Unite.AI",
+      "source": "Google News - Teknoloji",
+      "category": "Teknoloji ve Bilim",
+      "published_at": "2026-10-21 19:17 UTC"
+    },
+    {
       "title": "JP Morgan: Aracı kurum lisans iptali Türkiye'den çekilme anlamına gelmiyor",
       "image": "https://geoim.bloomberght.com/l/2026/10/21/ver1792610244/3792142/jpg/320x180",
       "link": "https://www.bloomberght.com/jp-morgan-araci-kurum-lisans-iptali-turkiye-den-cekilme-anlamina-gelmiyor-3792142",
@@ -650,15 +668,6 @@
       "published_at": "2026-10-21 18:38 UTC"
     },
     {
-      "title": "Galatasaray Fransa'dan 3 puanla dönüyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/galatasaray-fransadan-3-puanla-donuyor-960818.html",
-      "summary": "UEFA Şampiyonlar Liginin 3üncü haftasında Galatasaray, deplasmanda konuk olduğu Fransa ekibi Lillei 42 mağlup etti.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 18:37 UTC"
-    },
-    {
       "title": "Galatasaray Lille deplasmanından galibiyetle dönüyor",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4581/live/4bcbc400-cd7c-11f1-a428-3f9d1bf6cc8b.jpg",
       "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
@@ -675,15 +684,6 @@
       "source": "Google News - Uluslararası Savunma",
       "category": "Savunma",
       "published_at": "2026-10-21 18:29 UTC"
-    },
-    {
-      "title": "JP Morgan Türkiye'deki bankacılık faaliyetlerini büyütüyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/jp-morgan-turkiyedeki-bankacilik-faaliyetlerini-buyutuyor-960817.html",
-      "summary": "JP Morgan İstanbul Şubesi, Türkiye'deki bankacılık faaliyetlerini büyütme kararını KAP'a bildirdi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 18:25 UTC"
     },
     {
       "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
@@ -839,22 +839,31 @@
       "published_at": "2026-10-21 12:05 UTC"
     },
     {
-      "title": "Merkez Bankası faiz kararı için geri sayım! TCMB ekim ayı kararı saat kaçta açıklanacak? - Sabah",
+      "title": "Merkez Bankası Finansal Hesaplar Raporu'nu açıkladı - Bloomberght",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU1M4dU5ZZ0dIajFzdDZGUmgzZUJMWW4xQk9vN09HME5hVEpTWXRZMG9kb0FUQnFtQktTZXFMUWVlb3lHLWR4MU9MT2Z0WXZXU3AzaGx3bmMtNW5hbWZUeFVkVGl0VGwxWjN3SlRGUzEyNkgwRmZzMFNEdWdCTTdYSzdURWEzMmUtZnhkaWFHTm8?oc=5",
+      "summary": "Merkez Bankası Finansal Hesaplar Raporu'nu açıkladı Bloomberght",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-21 12:05 UTC"
+    },
+    {
+      "title": "Merkez Bankası faiz kararı ne zaman, saat kaçta açıklanacak? Gözler TCMB'nin ekim ayı toplantısında! - Sabah",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTWJibkJkN0pzNUUxVE4tZ2UwYVoxdTVnUlJXUHNiV3VJdnlfMkxCalV2SHdValN1Mm1MeW5hTExLZlh0bi1IdldRQ2YwNmRUanlpVmVNZHZRaXFoMDY5cUhFRkZGZFhVMDNYYTZnQXU4MVdES2lmZFlHQVdyOXBRWTAtdTJkTzRDYmxfTzFFRlR3X3pXdV9qb3ZGV0VOcHJMUUpxNGdHQlFRTE9lOWNfWjctSFJvdzROYm1OSm1SMXBkc2t2WXRxaU85c01XZTZQLXZR0gHWAUFVX3lxTE5uSjlLVGhLM1dWa2hLYklBYkhLdGFmZU85ZXFKOVp5Zmt3RkFveUlDcURWT1dvLTE0NjB2aGhJdUNFeFM0SjZCandkZ0tHNVZ2cmhDTm9NSmh2UC1WdXlnNVZVSkNHMktwalctNW9WQ05ER0NSNVZKZVQwQVFWWFFnUEtTMmo3SENHb1NHX1JDSVFTUHo0X3B3dFk0NUd2bjZnTE9LUlBhVFowSmxLaEJpbjBIY0wyRHNLRnZBUjQ3Mm9oTVdLaS1ocVJLMjQ0NE91bEp2dGc?oc=5",
-      "summary": "Merkez Bankası faiz kararı için geri sayım! TCMB ekim ayı kararı saat kaçta açıklanacak? Sabah",
+      "summary": "Merkez Bankası faiz kararı ne zaman, saat kaçta açıklanacak? Gözler TCMB'nin ekim ayı toplantısında! Sabah",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-21 11:34 UTC"
     },
     {
-      "title": "30'dan fazla merkez bankası euro için harekete geçti - Dünya Gazetesi",
+      "title": "US Stock Market Crash Could Trigger Bitcoin Price Fall Toward $63,000 - TradingView",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaXVGNHJRQUxadGpMeXA3ZnU5aU5Nd2NpT0s0M0hOUUlwMFdJZWRBSWZKY2E5TzhxZFhWRHVYY1B0cWdWdmhHYWlCVy1PbFJxcVl2S2dSSHhBYlhBZFotb0hnREcyV3ZaTFphcmt1VEYwWGNsWHR0V0JuYnVMb1NkVmhXcHIzZGNDRHBubUpjY0FoWjZjN1dYZ3o2QjlfOFh0WFRxOWxR?oc=5",
-      "summary": "30'dan fazla merkez bankası euro için harekete geçti Dünya Gazetesi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-21 11:20 UTC"
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbmdzSVZnMm5yTzhicGJoYnFoNHRPd1pYVDV6SS16Rm9lQUVhaHZqZDRNZ0cyNUpHVWdhbWJVT29FSmV3WFYtcDBNRlVkbkx5Z0MzWEx1a3gxYWpsNlkxNkRaU0pWRDRoOGNBSks4bDdVbXdfd01UT1hXcDExYUd1dVZQRTNoeTZzWlFMN2VqRDZWZ2pEWnZ1azRMYVFydjFPY0dxOXFIMm1iODNsNHhPSkl6NnFxZ3k3ek5FZzk1QXo2WlpkUlE?oc=5",
+      "summary": "US Stock Market Crash Could Trigger Bitcoin Price Fall Toward $63,000 TradingView",
+      "source": "Google News - Küresel Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-21 11:30 UTC"
     },
     {
       "title": "Kim Jong Un'un öldüğüne dair neden sürekli söylenti çıkıyor?",
@@ -891,15 +900,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-21 08:54 UTC"
-    },
-    {
-      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-21 08:42 UTC"
     }
   ]
 }
