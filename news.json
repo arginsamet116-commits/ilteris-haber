@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-10-23 17:56 UTC",
+  "updated_at": "2026-10-23 18:26 UTC",
   "items": [
+    {
+      "title": "Batı Şeria'daki saldırıda iki İsrail askeri öldü, Netanyahu'dan abluka kararı",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a9fb/live/aba20b90-cecc-11f1-93e1-3b657b665bcf.png",
+      "link": "https://www.bbc.com/turkce/articles/cwr5yz384gl3o?at_medium=RSS&at_campaign=rss",
+      "summary": "İsrail işgali altındaki Batı Şeria'da Cuma günü bir kontrol noktasında düzenlenen silahlı saldırıda iki İsrail askeri öldürüldü. İsrail ordusu saldırıda üç İsraillinin de yaralandığını duyurdu",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 18:23 UTC"
+    },
+    {
+      "title": "Borsa İstanbul’un 2002-2026 karnesi: TL ve dolar bazında değer - N24",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmhjRVRlMkVnME1nUXZzczI3ekNJcDIxQXhyZy1SS09iemkxRnZnNkhOTC1yelBoeENURXVjemdaV2JYbWM1bTVOQ0pVZDZqOThJdGNLRS1aMENUXzFRa2Y0VWtsRmJ4cmc3c2s1SE9uaTJqR004X0RIbk0zR3UtVlp1VDlFUjBxQkxoSGlnNUM?oc=5",
+      "summary": "Borsa İstanbul’un 2002-2026 karnesi: TL ve dolar bazında değer N24",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 18:12 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, Türkiye'ye gelen bazı ülkelerin dışişleri bakanlarını kabul etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkiyeye-gelen-bazi-ulkelerin-disisleri-bakanlarini-kabul-etti/4098978",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İtalya'nın da katıldığı R4+E3 Dışişleri Bakanları Toplantısı için İstanbul'a gelen bazı ülkelerin dışişleri bakanlarını kabul etti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 18:11 UTC"
+    },
+    {
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 18:10 UTC"
+    },
+    {
+      "title": "Zonguldak'ta çöken binayla ilgili gözaltına alınan 5 şüpheliden 3'ü tutuklandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binayla-ilgili-gozaltina-alinan-5-supheliden-3u-tutuklandi/4098972",
+      "summary": "Zonguldak'ta 1 kişinin hayatını kaybettiği, 1 kişinin yaralı kurtarıldığı binanın çökmesiyle ilgili gözaltına alınan 5 zanlıdan 3'ü tutuklandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 18:04 UTC"
+    },
+    {
+      "title": "Çukurova Belediye Başkanı Kozay görevinden uzaklaştırıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cukurova-belediye-baskani-kozay-gorevinden-uzaklastirildi/4098968",
+      "summary": "İçişleri Bakanlığı, Çukurova Belediye Başkanı Emrah Kozay'ın görevinden uzaklaştırıldığını bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 18:02 UTC"
+    },
+    {
+      "title": "Trump administration sues to block possible Democratic win in Alaska",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss",
+      "summary": "The lawsuit raises concerns the US administration may be looking to meddle in some of this midterm cycle’s races.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 17:57 UTC"
+    },
+    {
+      "title": "Çocuklar umreyi yaşlarına uygun etkinliklerle keşfediyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cocuklar-umreyi-yaslarina-uygun-etkinliklerle-kesfediyor/4098964",
+      "summary": "Aileleriyle umreye giden çocuklar, özel rehberler eşliğinde kutsal toprakları ziyaret ederek İslam tarihindeki önemli olaylar ile umre ibadetini yaş ve gelişim düzeylerine uygun, sade ve anlaşılır dille öğreniyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 17:55 UTC"
+    },
     {
       "title": "Yapay zekayla tıbbi teşhise ilişkin yeni araştırmanın sonuçları açıklandı",
       "image": "",
@@ -18,6 +90,33 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 17:50 UTC"
+    },
+    {
+      "title": "Many feared trapped after multistorey building collapses in Kenya",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss",
+      "summary": "Officials say building in Nairobi's Eastleigh area had no occupation certificate, but ground floor was in use.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 17:49 UTC"
+    },
+    {
+      "title": "Trump: Ukrayna'nın internet sorunu çözülmezse Musk ile görüşeceğim",
+      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792777751/3792446/jpg/320x180",
+      "link": "https://www.bloomberght.com/trump-ukrayna-nin-internet-sorunu-cozulmezse-musk-ile-gorusecegim-3792446",
+      "summary": "ABD Başkanı Donald Trump, Ukrayna ordusunun Starshield uydu internet hizmetine erişiminde yaşanan sorunun çözüldüğünü duyduğunu, ancak devam etmesi halinde SpaceX CEO'su Elon Musk ile görüşeceğini açıkladı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 17:48 UTC"
+    },
+    {
+      "title": "Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/yamal-mbappe-in-el-clasico-spotlight-as-40-cameras-dedicated-to-coverage?traffic_source=rss",
+      "summary": "The coverage includes ultra-high-definition filming, slow-motion replays, and individual player tracking techniques.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 17:47 UTC"
     },
     {
       "title": "Bayern coach Kompany taken to hospital after collapsing during training",
@@ -236,15 +335,6 @@
       "published_at": "2026-10-23 16:37 UTC"
     },
     {
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 16:33 UTC"
-    },
-    {
       "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
@@ -326,15 +416,6 @@
       "published_at": "2026-10-23 16:07 UTC"
     },
     {
-      "title": "MSB, Hava-Hava Silah ve Taktikler Kursu'nun tamamlandığını bildirdi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/msb-hava-hava-silah-ve-taktikler-kursunun-tamamlandigini-bildirdi/4098867",
-      "summary": "Milli Savunma Bakanlığı, 3'üncü Ana Jet Üs Silah Taktikler Okul Komutanlığı'nda düzenlenen Hava-Hava Silah ve Taktikler Kursu'nun başarıyla tamamlandığını bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 16:04 UTC"
-    },
-    {
       "title": "Trumptan rakibine \"cihatçı\" suçlaması",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/trumptan-rakibine-cihatci-suclamasi-961018.html",
@@ -342,24 +423,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 16:04 UTC"
-    },
-    {
-      "title": "Fransa Dışişleri Bakanı Barrot, barış için çalışmak isteyen ülkelerin İstanbul'da buluştuğunu söyledi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/fransa-disisleri-bakani-barrot-baris-icin-calismak-isteyen-ulkelerin-istanbulda-bulustugunu-soyledi/4098866",
-      "summary": "Fransa Dışişleri Bakanı Jean-Noel Barrot, İstanbul'da barış ve istikrarın sağlanması için birlikte hareket etmeye karar veren 8 ülkenin bir araya geldiğini belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 16:02 UTC"
-    },
-    {
-      "title": "Dışişleri Bakanı Fidan mevkidaşlarıyla ikili görüşmeler gerçekleştirdi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-mevkidaslariyla-ikili-gorusmeler-gerceklestirdi/4098860",
-      "summary": "Dışişleri Bakanı Hakan Fidan, R4+E3 toplantısı marjında İstanbul'da mevkidaşlarıyla bir araya geldi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 16:01 UTC"
     },
     {
       "title": "Kazak müzisyen Dimash Qudaibergen Ankara'da sahne alacak",
@@ -378,15 +441,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 15:51 UTC"
-    },
-    {
-      "title": "Bu hafta yatırım araçlarının performansı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4098852",
-      "summary": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda ortalama yüzde 5,16, altının gram fiyatı yüzde 4,18 değer kaybederken, dolar/TL yüzde 0,36 ve avro/TL yüzde 0,03 değer kazandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 15:50 UTC"
     },
     {
       "title": "First Ladyden özel ateşkes anlaşması",
@@ -434,15 +488,6 @@
       "published_at": "2026-10-23 15:32 UTC"
     },
     {
-      "title": "Batı Şeria'daki saldırıda iki İsrail askeri öldü, Netanyahu'dan abluka kararı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a9fb/live/aba20b90-cecc-11f1-93e1-3b657b665bcf.png",
-      "link": "https://www.bbc.com/turkce/articles/cwr5yz384gl3o?at_medium=RSS&at_campaign=rss",
-      "summary": "İsrail işgali altındaki Batı Şeria'da Cuma günü bir kontrol noktasında düzenlenen silahlı saldırıda iki İsrail askeri öldürüldü. İsrail ordusu saldırıda üç İsraillinin de yaralandığını duyurdu",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 15:30 UTC"
-    },
-    {
       "title": "Oil spill washes up on UAE beaches after tanker strike",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6926/live/c5f26d10-cef3-11f1-93e1-3b657b665bcf.png",
       "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
@@ -488,15 +533,6 @@
       "published_at": "2026-10-23 15:07 UTC"
     },
     {
-      "title": "Carrick accepts blame for Man United slump, but ‘confident’ of a turnaround",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/carrick-accepts-blame-for-man-united-slump-confident-he-can-turn-things?traffic_source=rss",
-      "summary": "Manchester United make worst start to a season in 40 years, but Michael Carrick 'confident' ahead of Bournemouth game.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 15:04 UTC"
-    },
-    {
       "title": "Bakan Fidan: İran'a yapılacak askeri müdahale hiçbir şekilde çözüm değil",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-irana-yapilacak-askeri-mudahale-hicbir-sekilde-cozum-degil-961013.html",
@@ -513,15 +549,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 14:58 UTC"
-    },
-    {
-      "title": "What to know as Brazil prepares for tense presidential run-off",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss",
-      "summary": "Polls show leftist incumbent Lula closing gap on right-wing rival Flavio Bolsonaro ahead of second round of voting.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 14:56 UTC"
     },
     {
       "title": "'96 yaşındayım ve 15 milyon takipçim var'",
@@ -567,15 +594,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 14:18 UTC"
-    },
-    {
-      "title": "Conte dismisses reports of Man United takeover with Carrick’s job uncertain",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss",
-      "summary": "Ex-Chelsea boss Antonio Conte denies Manchester United link, says reports he demanded full control of club 'unfounded'.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 14:16 UTC"
     },
     {
       "title": "Bakan Kurum: Antalya'da bu büyük dönüşüme liderlik edeceğiz",
@@ -668,15 +686,6 @@
       "published_at": "2026-10-23 12:54 UTC"
     },
     {
-      "title": "Merkez Bankası'nın yıl sonu faiz indirimini bilmişti: Dev banka yıl sonu dolar tahminini açıkladı - birgun.net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbklxNkMxVUd0TG15bUFWcWxaeEw5dmhMVF81TXZrZGR4bG1Oc1p3NWRVOVRwVmt5TmVOSkZCcTJfcjZUVmZtTXNucUlCR3ZBY044UXhuSmNlRVBMaUNpMkJGZVBTdVktXzhRdHhTc3h1a0pmUXE4OFR3Szl0ZUxhVFpSOXh4M1d6NmNJLW1hd2pMbVkzdXVmZDBKZ1AtS2kxb0MydktqZmh1aEU3Nlo4bnJUYk95Uy13bU9hOFdncFFoYXFORk5NRFA4QVY?oc=5",
-      "summary": "Merkez Bankası'nın yıl sonu faiz indirimini bilmişti: Dev banka yıl sonu dolar tahminini açıkladı birgun.net",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-23 12:46 UTC"
-    },
-    {
       "title": "Bolat: Made in Europe konusunda Slovakya Türkiye'yi destekliyor",
       "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792758738/3792421/jpg/320x180",
       "link": "https://www.bloomberght.com/bolat-made-in-europe-konusunda-slovakya-turkiye-yi-destekliyor-3792421",
@@ -695,30 +704,12 @@
       "published_at": "2026-10-23 12:24 UTC"
     },
     {
-      "title": "Ürdün'de bir kilisede düzenlenen silahlı saldırıda 7 kişi öldü, 27 kişi yaralandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/urdunde-bir-kilisede-duzenlenen-silahli-saldirida-7-kisi-oldu-27-kisi-yaralandi/4098545",
-      "summary": "Ürdün'ün Kerek kentinde bir kilisede düzenlenen silahlı saldırıda 7 kişinin hayatını kaybettiği, 27 kişinin yaralandığı bildirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 12:17 UTC"
-    },
-    {
       "title": "Denmark to ban mink farming in government U-turn",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/ed7c2b60-cebb-11f1-ae9c-0303957c36f8.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
       "summary": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 12:17 UTC"
-    },
-    {
-      "title": "Borsa İstanbul’un 2002-2026 karnesi: TL ve dolar bazında değer - N24",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmhjRVRlMkVnME1nUXZzczI3ekNJcDIxQXhyZy1SS09iemkxRnZnNkhOTC1yelBoeENURXVjemdaV2JYbWM1bTVOQ0pVZDZqOThJdGNLRS1aMENUXzFRa2Y0VWtsRmJ4cmc3c2s1SE9uaTJqR004X0RIbk0zR3UtVlp1VDlFUjBxQkxoSGlnNUM?oc=5",
-      "summary": "Borsa İstanbul’un 2002-2026 karnesi: TL ve dolar bazında değer N24",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
       "published_at": "2026-10-23 12:17 UTC"
     },
     {
@@ -731,15 +722,6 @@
       "published_at": "2026-10-23 12:04 UTC"
     },
     {
-      "title": "Apple'ın ilk katlanabilir telefonu iPhone Duo sınırlı stokla satışa sunuldu",
-      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792756616/3792411/jpg/320x180",
-      "link": "https://www.bloomberght.com/apple-in-ilk-katlanabilir-telefonu-iphone-duo-sinirli-stokla-satisa-sunuldu-3792411",
-      "summary": "Apple'ın Cuma günü sınırlı stokla satışa sunulan katlanabilir iPhone Duo modeline yönelik güçlü bir talep oldu.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-23 11:49 UTC"
-    },
-    {
       "title": "Rusya Merkez Bankası enflasyon endişeleri nedeniyle faizi %14’te tuttu - Investing.com Türkiye",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeXA0Mi1GVGVJRWZaTU9LTDYtRWhEWXZBR0UyXzZwNmRZMFpZNlJ2U3VKX1JlekpFNFgtcG9XQ3JySHdSSWNOT3diamdKRk4yMWFXMkJFV3Vla1lYT0plakVWZ3VTSkdLRldBbURBTm9jYkNPUjZxaWNlSlNxSG1oal9yYUZVUkhSUWkzMkNnUnFPRUpzU1NpalBOSU4tWF9GOTZIbWdxRDltYmtiRTJoempST0lsZ1NNWHphcl9kZk4?oc=5",
@@ -747,6 +729,15 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-23 11:08 UTC"
+    },
+    {
+      "title": "Rusya Merkez Bankası faizi yüzde 14'te tuttu: İndirimlere enflasyon freni - Dünya Gazetesi",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDNCUDZ5MlZHM3A5OUlENWZMRGl1cWpoRm56ZnRXNXdqZlh6Ry1IOW1Fb3VWNzM4M1RURlBucElBeHp1UjJvUm5hZ3lCWmJKdnQtYkJneml5emc0ZFBjZFc3M1o0SnVMX1lyUjFpY0VBNEZPYnRKck81Vk01eFBMNDZKMjNTTExYODViX3lZYVpTTy1TZHd2YUJJMm8?oc=5",
+      "summary": "Rusya Merkez Bankası faizi yüzde 14'te tuttu: İndirimlere enflasyon freni Dünya Gazetesi",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 11:01 UTC"
     },
     {
       "title": "Piyasa özeti: BIST 100 %0,86 geriledi, dolar 49,74 lira ve gram altın 6.398 lira - Mynet Finans",
@@ -830,6 +821,15 @@
       "published_at": "2026-10-23 08:45 UTC"
     },
     {
+      "title": "İsrail vatandaşı Filistinliler, 27 Ekim seçimlerinde sandığa gitmek ile boykot etmek arasında kaldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-vatandasi-filistinliler-27-ekim-secimlerinde-sandiga-gitmek-ile-boykot-etmek-arasinda-kaldi/4098106",
+      "summary": "İsrail vatandaşı Filistinliler, 27 Ekim'deki seçimlerde aşırı sağcı hükümeti gönderip baskıları azaltmak için sandığa gitmekle, seçimlerin Filistinliler için bir şey değiştirmeyeceği düşüncesiyle boykot etmek arasında kaldı​​​​​​​.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 08:02 UTC"
+    },
+    {
       "title": "Brezilya seçimlerinde yapay zeka ile yaratılan kadınlar üzerinden para kazananlar",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e16/live/e4ed0cb0-ce1d-11f1-bc2e-018d645d8d21.png",
       "link": "https://www.bbc.com/turkce/articles/cq74pjp8dd7xo?at_medium=RSS&at_campaign=rss",
@@ -866,6 +866,15 @@
       "published_at": "2026-10-23 06:13 UTC"
     },
     {
+      "title": "Borsa İstanbul Şirket Haberleri (23 Ekim) - Borsa Gundem",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wSGRpcTFQMnNsMm1zNTBLSGdWYXA1SXJvdGZYNFh1cWlVelpYUXdKUVlEcXlPV242ckJZRGN5Ui0wbjRZbGlrVHhJZ3FWUlJONGtvVzEwUHlxWjlzOTJ1MWdTdzA2a2wxODRueVFWeHhibEpkWXNlUlMyNTU?oc=5",
+      "summary": "Borsa İstanbul Şirket Haberleri (23 Ekim) Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 06:08 UTC"
+    },
+    {
       "title": "Altın fiyatları aşağı yönlü! Gram altın güne hangi seviyede başladı? - Bursa TV",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTkJBb3JkZEJSdXJzYjRZdW9BSUlxdV9Db0V0TWJ3TDhZUy11MHVSeXMweTRKMkNaTHVRQWxYSkRVb2dvT0p3RXM3MTFXNHM2WW5mYzFxZjgwX0JGSjZoYmVfNEIyaDFGRzFwVVZfLWx4Ul9CVU53RTNielVCZGVCanlqYVNxVW9DSWxIbGszZnJRbzJQaUkyMQ?oc=5",
@@ -891,15 +900,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-23 05:05 UTC"
-    },
-    {
-      "title": "Petrolde kritik seviye aşıldı",
-      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792726396/3792331/jpg/320x180",
-      "link": "https://www.bloomberght.com/petrolde-kritik-seviye-asildi-3792331",
-      "summary": "Petrol, Suudi Arabistan'a yönelik Husilerin saldırılarının enerji arzında yeni kesintilere yol açabileceği endişesiyle önceki seansta yüzde 4 yükselerek beş ayın zirvesine ulaşmasının ardından cuma günü de yükselişini sürdürdü.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-23 03:32 UTC"
     }
   ]
 }
