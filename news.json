@@ -1,12 +1,84 @@
 {
-  "updated_at": "2026-10-23 21:28 UTC",
+  "updated_at": "2026-10-23 22:01 UTC",
   "items": [
+    {
+      "title": "İngiltere Başbakanı Burnham'dan konserve gıda ve şişe suyu depolama tavsiyesi",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8aa3/live/61a30b40-cf29-11f1-89f6-f5ef8a187796.png",
+      "link": "https://www.bbc.com/turkce/articles/c8qlnk9l271vo?at_medium=RSS&at_campaign=rss",
+      "summary": "İngiltere Başbakanı Andy Burnham, acil durumlara hazırlıklı olmak amacıyla halka konserve gıda ve şişe suyu stoklamalarını tavsiye etti.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 21:48 UTC"
+    },
+    {
+      "title": "Trump: İran'a Belki küçük bir Destansı Öfke Operasyonu daha yaparız",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/trump-irana-belki-kucuk-bir-destansi-ofke-operasyonu-daha-yapariz-961043.html",
+      "summary": "ABD Başkanı Donald Trump, İran'ın anlaşmaya yanaşmaması durumunda \"küçük bir Destansı Öfke Operasyonu daha\" düzenleyebileceklerini belirtti.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 21:39 UTC"
+    },
+    {
+      "title": "Trump: İran'a belki küçük bir Destansı Öfke Operasyonu daha yaparız",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/trump-irana-belki-kucuk-bir-destansi-ofke-operasyonu-daha-yapariz/4099126",
+      "summary": "ABD Başkanı Donald Trump, İran'ın anlaşmaya yanaşmaması durumunda \"küçük bir Destansı Öfke Operasyonu daha\" düzenleyebileceklerini belirtti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 21:37 UTC"
+    },
+    {
+      "title": "ABD'den Kanada'ya uygulanan yüzde 50'lik tarifelerde değişiklik",
+      "image": "https://geoim.bloomberght.com/l/2026/10/24/ver1792791315/3792454/jpg/320x180",
+      "link": "https://www.bloomberght.com/abd-den-kanada-ya-uygulanan-yuzde-50-lik-tarifelerde-degisiklik-3792454",
+      "summary": "ABD yönetimi, Kanada'dan ithal edilen bazı ürünlere uygulanan yüzde 50 oranındaki ek gümrük vergilerinin kapsamını 30 Ekim itibarıyla değiştireceğini açıkladı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 21:34 UTC"
+    },
+    {
+      "title": "Sermaye piyasası işlemleri soruşturmalarında 2 kişinin mal varlıkları üzerindeki tedbir kaldırıldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/sermaye-piyasasi-islemleri-sorusturmalarinda-2-kisinin-mal-varliklari-uzerindeki-tedbir-kaldirildi-961042.html",
+      "summary": "İstanbul'da sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında yapılan incelemeler doğrultusunda, Enver Geçgel ve Feridun Geçgel'in mal varlıkları üzerindeki tedbir kararının kaldırılmasına karar verildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 21:27 UTC"
+    },
+    {
+      "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
+      "summary": "At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 21:27 UTC"
+    },
+    {
+      "title": "AK Parti Genel Sekreteri İnan: İstanbul merkezli, rüşvet merkezli değil, İzmir merkezli siyaset yapın",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/ak-parti-genel-sekreteri-inan-istanbul-merkezli-rusvet-merkezli-degil-izmir-merkezli-siyaset-yapin-961041.html",
+      "summary": "AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan, İzmir'de yürütecekleri çalışmalara ilişkin, \"25 senenin bütün meselelerini 2,5 seneye nasıl sığdırdığımızı, bu 2,5 sene içerisinde nasıl bir çözüm iradesi ortaya koyduğumuzu hep beraber göreceğiz\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 21:18 UTC"
+    },
     {
       "title": "Avrupa Konseyi Görünürlük Haftası vesilesiyle resepsiyon düzenlendi",
       "image": "",
       "link": "https://www.aa.com.tr/tr/gundem/avrupa-konseyi-gorunurluk-haftasi-vesilesiyle-resepsiyon-duzenlendi/4099113",
       "summary": "Avrupa Konseyi Ankara Program Ofisi, Avrupa Konseyinin Türkiye'de yürüttüğü işbirliği projelerini, bu projelerde gerçekleştirilen faaliyetleri ve elde edilen kazanımları paylaşmayı amaçlayan Görünürlük Haftası kapsamında resepsiyon düzenledi.",
       "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 21:16 UTC"
+    },
+    {
+      "title": "Çankırı'da otomobil uçuruma yuvarlandı: 4 ölü, 1 yaralı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/cankirida-otomobil-ucuruma-yuvarlandi-4-olu-1-yarali-961040.html",
+      "summary": "Çankırı'nın Bayramören ilçesinde uçuruma yuvarlanan otomobildeki 4 kişi hayatını kaybetti, 1 kişi yaralandı.",
+      "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 21:16 UTC"
     },
@@ -45,15 +117,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 20:58 UTC"
-    },
-    {
-      "title": "AB ve birçok ülke Ürdün'de yapılan saldırıyı kınadı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/ab-ve-bircok-ulke-urdunde-yapilan-saldiriyi-kinadi-961038.html",
-      "summary": "Ürdün'ün Kerek kentinde bir kilisede 7 kişinin hayatını kaybettiği, 27 kişinin yaralandığı saldırı dünyanın birçok yerinde kınandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 20:57 UTC"
     },
     {
       "title": "Trump: İran'a karşı yeni bir askeri operasyon olabilir",
@@ -434,15 +497,6 @@
       "published_at": "2026-10-23 18:23 UTC"
     },
     {
-      "title": "Manisa'da akü fabrikasında yangın",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/manisada-aku-fabrikasinda-yangin-961026.html",
-      "summary": "Manisa'nın Yunusemre ilçesindeki bir akü fabrikasında çıkan yangın, kısmen kontrol altına alındı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 18:22 UTC"
-    },
-    {
       "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss",
@@ -506,6 +560,15 @@
       "published_at": "2026-10-23 18:02 UTC"
     },
     {
+      "title": "Altın, borsa, fonlarda kaybeden kaybedene... Sınırlı kazandıranlar ise sayılı kaldı - Ekonomim",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3FsVlBCRWNnd2g1b2RMTGxEejRGNlVDdVE0QXBPTEY1S0x3LUtyX2E2dG5HamlEUzlwWFhYRnNycEVOa3lxM2ZyNjJCSjktc1VtZnFtTjd6aEx5V0FiT3A4aUptd1FzQ0c5T2FlY1BZWlpwVkNWVktobU9mY0ZqTjhZNFlFNkdEajluQ2pLa1hPZVZVVzR4Z3pDSGRUTW1pQUpSajlRUGJLVHBaNHdPMUZERXFqQjE5OTdMQmU3VW13eFFIRkhaeS12dkRxdVFSSzJz0gHYAUFVX3lxTE0wZTVpLWVJRHotY1paMGxNUWREVnVjZ09wUmExdml0NkZ6X0xaZXVkRjBmRExVbzZMWFVrMEhiV1RoQ21MdHowQjQyekFjQ2E4aXVabm5QM251Znpnem5zSm1yWGNYbm5valhUMTdPcXMxR016cTgtUGlGLWVZWW43VElxaGtMOWhoYjREbmdjMEE5eFBSZUhDRnMyWmd5LXB5cjRTRFY5dW0wZUJ1T2JkQnlDN09xSUg4WU9FVXBDbHFxRDkyYWF1TEpvQkFieTN0U09kcWVJNA?oc=5",
+      "summary": "Altın, borsa, fonlarda kaybeden kaybedene... Sınırlı kazandıranlar ise sayılı kaldı Ekonomim",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 17:58 UTC"
+    },
+    {
       "title": "Trump administration sues to block possible Democratic win in Alaska",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss",
@@ -513,24 +576,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 17:57 UTC"
-    },
-    {
-      "title": "Çocuklar umreyi yaşlarına uygun etkinliklerle keşfediyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cocuklar-umreyi-yaslarina-uygun-etkinliklerle-kesfediyor/4098964",
-      "summary": "Aileleriyle umreye giden çocuklar, özel rehberler eşliğinde kutsal toprakları ziyaret ederek İslam tarihindeki önemli olaylar ile umre ibadetini yaş ve gelişim düzeylerine uygun, sade ve anlaşılır dille öğreniyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 17:55 UTC"
-    },
-    {
-      "title": "Yapay zekayla tıbbi teşhise ilişkin yeni araştırmanın sonuçları açıklandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/yapay-zekayla-tibbi-teshise-iliskin-yeni-arastirmanin-sonuclari-aciklandi-961025.html",
-      "summary": "Microsoft'un yapay zeka destekli teşhis sisteminin, geçmiş tıbbi vakalar üzerinde yapılan testlerde hekimlerden 2,3 kat daha yüksek tanı doğruluğuna ulaştığı belirtildi",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 17:51 UTC"
     },
     {
       "title": "Several people missing after multistorey building collapses in Kenya",
@@ -551,15 +596,6 @@
       "published_at": "2026-10-23 17:48 UTC"
     },
     {
-      "title": "Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/yamal-mbappe-in-el-clasico-spotlight-as-40-cameras-dedicated-to-coverage?traffic_source=rss",
-      "summary": "The coverage includes ultra-high-definition filming, slow-motion replays, and individual player tracking techniques.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 17:47 UTC"
-    },
-    {
       "title": "Meta, şikayetlerin ardından ticari şartlarını erteledi",
       "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792776955/3792445/jpg/320x180",
       "link": "https://www.bloomberght.com/meta-sikayetlerin-ardindan-ticari-sartlari-erteledi-3792445",
@@ -567,15 +603,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-23 17:35 UTC"
-    },
-    {
-      "title": "İran lideri Hamaney'in danışmanı: İran düşmanın zayıf noktalarını tanıyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/iran-lideri-hamaneyin-danismani-iran-dusmanin-zayif-noktalarini-taniyor-961024.html",
-      "summary": "İran lideri Mücteba Hamaneyin danışmanı Muhammed Muhbir, petrol ve enerji alanlarına atıfta bulunarak, \"İran düşmanın zayıf noktalarını tanıyor.\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 17:34 UTC"
     },
     {
       "title": "Nvidia CEO'su Huang: Kazakistan küresel yapay zeka merkezi olabilir",
@@ -623,6 +650,24 @@
       "published_at": "2026-10-23 15:49 UTC"
     },
     {
+      "title": "Piyasalarda haftanın son günü: Hangi yatırım aracı geriledi? - Manşet Haber",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ21BTEFLYjlhT01yOVB3QWd0WUtQX1pzN0IzVEFTZnpGVnRZNndYdXpOVnN4WGhOQlNvMkNjUDdzbVAwX2xfcGRpeklfNkV2d1VfbmdiN3NKUXpTR29oWHdIMVlfUTBFSi16WHQ3TnNxRDc3bExZLW9nT0ZqN3lWbFJoWmMyQThUdkprdVA4VHAzRkpu?oc=5",
+      "summary": "Piyasalarda haftanın son günü: Hangi yatırım aracı geriledi? Manşet Haber",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 15:45 UTC"
+    },
+    {
+      "title": "Piyasalarda Gün Sonu: Borsa, Altın ve Dövizde Son Durum - Ekonomi Dünya",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbW9HaFV2MHZTN082OENmYldXb1dybTRnQS1jbkJmMDlYczdxNkFtTEtZWW0wZWxIR3F2bEpfRXVkbWoydW5hNWdtelM5Z2pPNnhSekNsU1V6WW5JYzkxLURwVzc4S1V1WHdXQkp2UjYxWHFSSENMb09fUVdxa0I5ZHVtaEFQX1p1UmtiR2ROZlVmNnc?oc=5",
+      "summary": "Piyasalarda Gün Sonu: Borsa, Altın ve Dövizde Son Durum Ekonomi Dünya",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 15:38 UTC"
+    },
+    {
       "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd8/live/36f17b50-cef9-11f1-accf-3309656ad0bb.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
@@ -648,15 +693,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 15:30 UTC"
-    },
-    {
-      "title": "Japonya'da siber güvenlik alarmı",
-      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792769083/3792438/jpg/320x180",
-      "link": "https://www.bloomberght.com/japonya-da-siber-guvenlik-alarmi-3792438",
-      "summary": "Japonya Başbakanı Takaiçi Sanae, kişisel verileri hedef alan siber saldırıların ardından kamu kurumlarında güvenlik önlemlerinin artırılacağını açıkladı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-23 15:23 UTC"
     },
     {
       "title": "Borsa İstanbul ve VİOP haftayı düşüşle tamamladı - Borsa Gundem",
@@ -864,42 +900,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-10-23 07:04 UTC"
-    },
-    {
-      "title": "Borsa İstanbul Düşüşte, Dolar Yükselişte: Güncel Piyasa Durumu - Finans Hattı",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb2Q3dTBJdjVDemdfcjRwYXhja0JjZFFoYmk2bU5qZ2gzcDBwUE5LLUFQenZGVS16ZTltM3AteUVrZS1CcmFTc0ltVDRFZUZBNlUtc0VsdUdCY0VUVlpUb3NGTE5rOWN4V3lTaEZBeERGQ2x5cUQ2RjZfM3NsSlg3TTRpdUs?oc=5",
-      "summary": "Borsa İstanbul Düşüşte, Dolar Yükselişte: Güncel Piyasa Durumu Finans Hattı",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-23 06:52 UTC"
-    },
-    {
-      "title": "Almanya'daki iltica başvurularında 'rüşvetle soruşturma' iddiası",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9120/live/b5d32fa0-cea8-11f1-bbfb-357cf921a5e9.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cmdx3rdpxke1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Haftalık Die Zeit gazetesinin haberine göre suç örgütleri, Almanya'ya iltica etmek isteyenler için Türkiye'de bazı savcılara rüşvet vererek \"Cumhurbaşkanı Erdoğan'a hakaret\" suçlamasıyla ceza soruşturması açtırıyor. Berlin'de dikkatler \"suç örgütleriyle işbirliği yaptıkları\" iddia edilen savcılara çevrildi.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 06:13 UTC"
-    },
-    {
-      "title": "Altın fiyatları aşağı yönlü! Gram altın güne hangi seviyede başladı? - Bursa TV",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTkJBb3JkZEJSdXJzYjRZdW9BSUlxdV9Db0V0TWJ3TDhZUy11MHVSeXMweTRKMkNaTHVRQWxYSkRVb2dvT0p3RXM3MTFXNHM2WW5mYzFxZjgwX0JGSjZoYmVfNEIyaDFGRzFwVVZfLWx4Ul9CVU53RTNielVCZGVCanlqYVNxVW9DSWxIbGszZnJRbzJQaUkyMQ?oc=5",
-      "summary": "Altın fiyatları aşağı yönlü! Gram altın güne hangi seviyede başladı? Bursa TV",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-23 06:00 UTC"
-    },
-    {
-      "title": "Merkez Bankası’nın faiz indiriminde yolun sonuna mı gelindi? - Ekonomi Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSGtOZmY5RmVGNkYybVhYbTFIeXJQOExnaWJiTHNzLVZVdzhqcGVvbXBobWZKbE5OZ3VaWll1bkFfaWZWdUt0ZkNwTy0wSkZCLTlxS0VDR2pqZGtMdWZQOU5CRVFsTXVQWHU1YnJUVjN6Z0FKeVY4S3hzUFdQN01hSUR1RkZ0dnU4UURmOVFXRTN6djFDeVB0dDRzczQyaFpUclhUYlpnaGNkZXFt?oc=5",
-      "summary": "Merkez Bankası’nın faiz indiriminde yolun sonuna mı gelindi? Ekonomi Gazetesi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-23 05:05 UTC"
     }
   ]
 }
