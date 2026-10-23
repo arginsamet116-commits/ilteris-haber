@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-10-23 10:58 UTC",
+  "updated_at": "2026-10-23 11:30 UTC",
   "items": [
+    {
+      "title": "DSÖ, ilk kez bir insanda görülen Shamonda virüsünü araştırıyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/dso-ilk-kez-bir-insanda-gorulen-shamonda-virusunu-arastiriyor-960998.html",
+      "summary": "Dünya Sağlık Örgütü DSÖ Sözcüsü Christian Lindmeier, Fransa'da bugüne kadar hayvanlarda görülen Shamonda virüsünün ilk kez bulaştığı kişinin ölmesi üzerine araştırmaları sürdürdüklerini, halk sağlığına yönelik potansiyel riskler hakkında veri toplayan Fransız yetkililerle iletişim halinde olduklarını bildirdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 11:13 UTC"
+    },
+    {
+      "title": "At least one dead and four injured in Paris suburb shooting",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The French prime minister says an individual is in police custody after a \"serious event\" in Trappes.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 11:09 UTC"
+    },
+    {
+      "title": "France tightens security in anticipation of weekend protests",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/23/france-tightens-security-in-anticipation-of-weekend-protests?traffic_source=rss",
+      "summary": "Gatherings banned and curfews extended as cities lock down in an effort to avert further unrest.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 11:05 UTC"
+    },
+    {
+      "title": "IEA Başkanı Birol, enerji krizinin 2027'de de devam edeceği görüşünde",
+      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792753624/3792403/jpg/320x180",
+      "link": "https://www.bloomberght.com/iea-baskani-birol-enerji-krizinin-2027-de-de-devam-edecegi-gorusunde-3792403",
+      "summary": "Uluslararası Enerji Ajansı (IEA) Başkanı Fatih Birol, 2027'de enerji krizinin normalize olacağı konusunda iyimser olmadığını dile getirdi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 11:02 UTC"
+    },
+    {
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 11:01 UTC"
+    },
+    {
+      "title": "Rusya Merkez Bankası politika faizini sabit tuttu - Uzmanpara",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMVllQkRFME5menpGYi1HX0EzXzFCSXZCdGI3MHdwUm1wbDVBMGU2cVp1U09DbG1hMHdQVmtsWnk4RjUyTlFOeldaUE1kUmFWTUlwN3hUWDR2bUZKRU5TQklzSnFLY3RLeWQxcS1iWlU0bkNKdEdLbkR2VmxWZUxjMnU4ZVpzN0xmWDJ6ODJpR29sUThKMUI0MG95c0ZNeDdsTi1v?oc=5",
+      "summary": "Rusya Merkez Bankası politika faizini sabit tuttu Uzmanpara",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 11:00 UTC"
+    },
+    {
+      "title": "Dağ ceylanlarının yaşam alanını izinsiz süren kişiye 699 bin lira ceza",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/dag-ceylanlarinin-yasam-alanini-izinsiz-suren-kisiye-699-bin-lira-ceza-960997.html",
+      "summary": "Hatay'ın Kırıkhan ilçesinde, nesli tehlike altında bulunan dağ ceylanlarının yaşam alanında izinsiz toprak sürdüğü tespit edilen kişiye 699 bin 245 lira idari para cezası uygulandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 11:00 UTC"
+    },
+    {
+      "title": "Panathinaikos Başantrenörü Obradovic, Yunan basketbolundaki skandala temkinli yaklaştı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/panathinaikos-basantrenoru-obradovic-yunan-basketbolundaki-skandala-temkinli-yaklasti/4098429",
+      "summary": "Yunanistan Basketbol Ligi takımlarından Panathinaikos'un başantrenörü Zeljko Obradovic, Yunan basketbolundaki şike ve rüşvet skandalıyla ilgili yorum yapmaktan kaçındı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 10:55 UTC"
+    },
+    {
+      "title": "Küresel ham çelik üretimi eylülde azaldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/kuresel-ham-celik-uretimi-eylulde-azaldi-960996.html",
+      "summary": "Küresel ham çelik üretimi eylülde geçen yılın aynı ayına göre yüzde 0,2 azalarak 142,4 milyon ton oldu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 10:55 UTC"
+    },
     {
       "title": "İsrail'de seçim hesabı: Eisenkot'un birinci çıkması muhalefetin çoğunluğa ulaşmasını riske atar mı?",
       "image": "",
@@ -29,6 +110,15 @@
       "published_at": "2026-10-23 10:49 UTC"
     },
     {
+      "title": "Rusya politika faizini yüzde 14'te sabit bıraktı",
+      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792752596/3792402/jpg/320x180",
+      "link": "https://www.bloomberght.com/rusya-politika-faizini-yuzde-14-te-sabit-birakti-3792402",
+      "summary": "Bankadan yapılan açıklamada, ekonominin yılın ikinci yarısında ılımlı büyümesini sürdürdüğü, fiyat baskısının ve enflasyon beklentilerinin yüksek seyretmeye devam ettiği belirtildi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 10:48 UTC"
+    },
+    {
       "title": "Kanada, Türkiye'den askeri kabiliyet satın alma ve savunma sanayi ortaklığı seçeneklerine açık",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/kanada-turkiyeden-askeri-kabiliyet-satin-alma-ve-savunma-sanayi-ortakligi-seceneklerine-acik/4098419",
@@ -54,6 +144,15 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 10:46 UTC"
+    },
+    {
+      "title": "GO! GLOBAL Türkiye Zirvesi'nde \"Girişimlerin büyüme ve ölçeklenme stratejileri\" konuşuldu",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/go-global-turkiye-zirvesinde-girisimlerin-buyume-ve-olceklenme-stratejileri-konusuldu/4098409",
+      "summary": "Küresel teknoloji ve yatırım ekosisteminin önde gelen isimleri ile Türkiye'nin öncü girişimcileri ve AI yeteneklerini İstanbul'da bir araya getiren GO! GLOBAL Türkiye Zirvesi'nde \"girişimlerin büyüme ve ölçeklenme stratejileri\" konuşuldu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 10:45 UTC"
     },
     {
       "title": "Rusya Merkez Bankası enflasyon endişeleri nedeniyle faizi %14’te tuttu - Investing.com Türkiye",
@@ -122,10 +221,19 @@
       "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a095/live/c39c9a30-cec7-11f1-b9e0-e5f0da03dc7f.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
+      "summary": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 10:26 UTC"
+    },
+    {
+      "title": "Dışişleri Bakanı Fidan, İngiliz, Fransız ve Pakistanlı mevkidaşlarıyla İstanbul'da görüştü",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-ingiliz-fransiz-ve-pakistanli-mevkidaslariyla-istanbulda-gorustu/4098381",
+      "summary": "Dışişleri Bakanı Hakan Fidan, İngiltere Dışişleri Bakanı Ed Miliband, Fransa Dışişleri Bakanı Jean-Noel Barrot ve Pakistan Dışişleri Bakanı Muhammed İshak Dar ile İstanbul'da ayrı ayrı bir araya geldi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 10:23 UTC"
     },
     {
       "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
@@ -182,6 +290,15 @@
       "published_at": "2026-10-23 10:14 UTC"
     },
     {
+      "title": "Ticaret Bakanı Bolat: Slovakya ile 5 milyar dolarlık ticaret hedefine gelecek yıl ulaşırız",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-slovakya-ile-5-milyar-dolarlik-ticaret-hedefine-gelecek-yil-ulasiriz/4098360",
+      "summary": "Ticaret Bakanı Ömer Bolat, \"Türkiye ile Slovakya arasındaki 5 milyar dolarlık ticaret hacmi hedefine gelecek yıl ulaşırız.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 10:12 UTC"
+    },
+    {
       "title": "IEA Başkanı Birol COP31'de elektrifikasyon taahhütnamesi hedeflendiğini belirtti",
       "image": "",
       "link": "https://www.aa.com.tr/tr/ekonomi/iea-baskani-birol-cop31de-elektrifikasyon-taahhutnamesi-hedeflendigini-belirtti/4098359",
@@ -198,6 +315,15 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 10:05 UTC"
+    },
+    {
+      "title": "Van'da depremlerin ardından yapı stoku güçlendirildi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/vanda-depremlerin-ardindan-yapi-stoku-guclendirildi/4098346",
+      "summary": "Van'da 2011'de meydana gelen depremlerin ardından Toplu Konut İdaresi Başkanlığınca (TOKİ) deprem yönetmeliğine uygun konutlar, okullar ve kamu binaları inşa edilerek kentteki yapı stoku güçlendirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 10:01 UTC"
     },
     {
       "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
@@ -263,33 +389,6 @@
       "published_at": "2026-10-23 09:40 UTC"
     },
     {
-      "title": "BM: Sudan'da çatışmaların başlamasından bu yana Çad'a kaçanların sayısı 1 milyona yaklaştı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/bm-sudanda-catismalarin-baslamasindan-bu-yana-cada-kacanlarin-sayisi-1-milyona-yaklasti/4098313",
-      "summary": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği (BMMYK) Sözcüsü Babar Baloch, Sudan'da Nisan 2023'te çatışmaların başlamasından bu yana Çad'a kaçanların sayısının 1 milyona yaklaştığını bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 09:39 UTC"
-    },
-    {
-      "title": "Seçimler yaklaşırken anketlerde Netanyahu bloğu erimeye devam ediyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/secimler-yaklasirken-anketlerde-netanyahu-blogu-erimeye-devam-ediyor/4098312",
-      "summary": "İsrail'deki Maariv gazetesinin kamuoyu araştırmasına göre, Başbakan Binyamin Netanyahu önderliğindeki blok, 27 Ekim’de yapılacak seçimlerde 3 milletvekili daha kaybederek mecliste 48 sandalyeye geriledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 09:39 UTC"
-    },
-    {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 09:36 UTC"
-    },
-    {
       "title": "Türk Eximbank ile EDC arasında mutabakat zaptı",
       "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792747968/3792399/jpg/320x180",
       "link": "https://www.bloomberght.com/turk-eximbank-ile-edc-arasinda-mutabakat-zapti-3792399",
@@ -342,15 +441,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 09:21 UTC"
-    },
-    {
-      "title": "ABD'de Cumhuriyetçi genç seçmenlerin İsrail'e yönelik olumsuz görüşleri artıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abdde-cumhuriyetci-genc-secmenlerin-israile-yonelik-olumsuz-gorusleri-artiyor/4098278",
-      "summary": "ABD'de yapılan anket, Cumhuriyetçi Parti'nin genç seçmenlerinin İsrail hükümeti ve halkına yönelik olumsuz görüşlerinin, ileri yaştaki Cumhuriyetçilere kıyasla belirgin şekilde yüksek olduğunu ortaya koydu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 09:19 UTC"
     },
     {
       "title": "ARGE merkezi sayısı 1365'e yükseldi",
@@ -452,15 +542,6 @@
       "published_at": "2026-10-23 08:50 UTC"
     },
     {
-      "title": "Kuzey Kore'nin, Güney Kore sınırına 960 bin mayın döşediği iddia edildi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/kuzey-korenin-guney-kore-sinirina-960-bin-mayin-dosedigi-iddia-edildi-960982.html",
-      "summary": "Kuzey Korenin, 2024'ten bu yana Koreler arası sınır boyunca tahmini 960 bin kara mayını döşediği ileri sürüldü.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 08:49 UTC"
-    },
-    {
       "title": "Yerli turistler aile ziyaretleri için 115,4 milyar lira harcadı",
       "image": "",
       "link": "https://www.trthaber.com/haber/ekonomi/yerli-turistler-aile-ziyaretleri-icin-1154-milyar-lira-harcadi-960983.html",
@@ -477,15 +558,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 08:47 UTC"
-    },
-    {
-      "title": "ABD'nin BM Temsilcisi Waltz, İran ile uzun süreli çatışmaya hazır olduklarını belirtti",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/abdnin-bm-temsilcisi-waltz-iran-ile-uzun-sureli-catismaya-hazir-olduklarini-belirtti-960981.html",
-      "summary": "ABD'nin Birleşmiş Milletler BM Daimi Temsilcisi Mike Waltz, İran'a yönelik saldırıların, ablukanın ve ekonomik yaptırımların Tahran yönetimini taviz vermeye zorlamasını umduklarını ancak uzun süreli çatışmaya da hazırlıklı olduklarını vurguladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 08:46 UTC"
     },
     {
       "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
@@ -540,33 +612,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 08:35 UTC"
-    },
-    {
-      "title": "Gaziantep Gençlikspor, lige galibiyetle başlamak istiyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/gaziantep-genclikspor-lige-galibiyetle-baslamak-istiyor-/4098193",
-      "summary": "SMS Grup Efeler Ligi'nde yeni sezonun sahasındaki ilk maçında Fenerbahçe Medicana'yı konuk edecek Gaziantep Gençlikspor, güçlü rakibi karşısında galibiyet hedefliyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 08:21 UTC"
-    },
-    {
-      "title": "Merinos Voleybol, yenilmezlik serisini sürdürmenin peşinde",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/merinos-voleybol-yenilmezlik-serisini-surdurmenin-pesinde/4098192",
-      "summary": "Arabica Coffee House Kadınlar 1. Ligi B Grubu'nda sezona \"4'te 4\" ile başlayan Merinos Voleybol, Nilüfer Belediyespor'u da yenerek namağlup liderliğini korumayı hedefliyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 08:21 UTC"
-    },
-    {
-      "title": "BES'te katılımcı sayısının 19 milyona ulaşması hedefleniyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/beste-katilimci-sayisinin-19-milyona-ulasmasi-hedefleniyor-960980.html",
-      "summary": "Bireysel Emeklilik Sistemi'nde BES katılımcı sayısının yıl sonunda 18 milyon 400 bine, 2027'de de 19 milyona ulaşması hedefleniyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 08:21 UTC"
     },
     {
       "title": "Euro Bölgesi'nde iş faaliyetleri Fransa etkisiyle yavaşladı",
@@ -650,15 +695,6 @@
       "published_at": "2026-10-23 07:42 UTC"
     },
     {
-      "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss",
-      "summary": "With emergency stocks at multidecade lows, analysts say the world may have only a month or two if Hormuz shuts again.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 07:37 UTC"
-    },
-    {
       "title": "Brezilya seçimlerinde yapay zeka ile yaratılan kadınlar üzerinden para kazananlar",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e16/live/e4ed0cb0-ce1d-11f1-bc2e-018d645d8d21.png",
       "link": "https://www.bbc.com/turkce/articles/cq74pjp8dd7xo?at_medium=RSS&at_campaign=rss",
@@ -666,33 +702,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 07:36 UTC"
-    },
-    {
-      "title": "BIST 100 kritik seviyenin altını gördü",
-      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792740668/3792374/jpg/320x180",
-      "link": "https://www.bloomberght.com/bist-100-kritik-seviyenin-altini-gordu-3792374",
-      "summary": "BIST 10 endeksi 5 Aralık 2025'ten bu yana ilk kez 11 bin puanın altını test etti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-23 07:30 UTC"
-    },
-    {
-      "title": "Merkez Bankası: Hanehalkının fiyat artışı beklentisinde yakıt ve enerji ile gıda ilk sırada - Anka Haber",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUmt6QjE2bzVpdEg0MmZhRTd0YmpWOHltOFdMZXp6bktEWUN6WTlPaWItaUxYeDUxU3dIU25OaHZqY1dIUEZNT0Q1XzI4eGtYSUFheUFrOFJhYjRYY2haOWEtQTRFVWE5VnpZOFBfUEtIbDBRa01Ga0FNQkk5bDRYdW1pbkI3b3JRNjU2c0NzS19BU2ZpSnJpTEtsQk16VExqbUdxMWFaTThaVmR6ZGpHYnpWVVozLUNCdWQ1Tk5KLWU3Sk5LNHc?oc=5",
-      "summary": "Merkez Bankası: Hanehalkının fiyat artışı beklentisinde yakıt ve enerji ile gıda ilk sırada Anka Haber",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-23 07:26 UTC"
-    },
-    {
-      "title": "BBVA Research: TL getirilerindeki avantaj daralıyor",
-      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792740166/3792369/jpg/320x180",
-      "link": "https://www.bloomberght.com/bbva-research-tl-getirilerindeki-avantaj-daraliyor-3792369",
-      "summary": "BBVA Research, küresel faizlerin yüksek kalması durumunda Türk lirası varlıklara sahip olma avantajının daralabileceği ve yatırımcıların dolarizasyona yönelim riskine karşı dikkatli olmaları gerektiği uyarısında bulundu.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-23 07:22 UTC"
     },
     {
       "title": "Merkez Bankası'nın faiz kararının ardından 16 kurumdan yeni tahmin - Dünya Gazetesi",
@@ -767,6 +776,15 @@
       "published_at": "2026-10-23 05:16 UTC"
     },
     {
+      "title": "Merkez Bankası’nın faiz indiriminde yolun sonuna mı gelindi? - Ekonomi Gazetesi",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSGtOZmY5RmVGNkYybVhYbTFIeXJQOExnaWJiTHNzLVZVdzhqcGVvbXBobWZKbE5OZ3VaWll1bkFfaWZWdUt0ZkNwTy0wSkZCLTlxS0VDR2pqZGtMdWZQOU5CRVFsTXVQWHU1YnJUVjN6Z0FKeVY4S3hzUFdQN01hSUR1RkZ0dnU4UURmOVFXRTN6djFDeVB0dDRzczQyaFpUclhUYlpnaGNkZXFt?oc=5",
+      "summary": "Merkez Bankası’nın faiz indiriminde yolun sonuna mı gelindi? Ekonomi Gazetesi",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 05:05 UTC"
+    },
+    {
       "title": "Trump ordered to answer questions under oath in BBC lawsuit",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf5/live/f171dec0-ce3b-11f1-a86f-f78305ec9987.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
@@ -801,15 +819,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-10-22 20:58 UTC"
-    },
-    {
-      "title": "Watch: 'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4afd/live/9cabf440-cd62-11f1-9a39-31b474234113.jpg",
-      "link": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Madeline Halpert spoke to city tourists, residents and horse carriage workers about the industry and their opinion on the ban.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 20:48 UTC"
     },
     {
       "title": "'Alihan Kuriş' soruşturmasında 19 kişi daha tutuklandı",
@@ -873,15 +882,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-22 16:49 UTC"
-    },
-    {
-      "title": "Yapay Zekâ Destekli Hacker Grubu 400’den Fazla Finans Kuruluşunu Hedef Aldı - R10.net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTHdlR19QUTRIeGxURzhpeWRXN0VyVVBhUjV4bmoyRGwzWGI4a3I3WGVPUmQ0dWRNVTBsaUhjdmlTSmhzYzllcjN1MVFuUGo1WjhGYnh6WE8xR0ZnN01fSjNETGJTb2lHeTk5WmRqNTc1TUM0RjNwWDFjQWdQa1RXY3BVRnlJbkxNS0x1SXFfREVQX2ZfZGtSYTNMQUpjN1hjRVdWelV3?oc=5",
-      "summary": "Yapay Zekâ Destekli Hacker Grubu 400’den Fazla Finans Kuruluşunu Hedef Aldı R10.net",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-22 16:25 UTC"
     },
     {
       "title": "Crowd of 50 beats foreigner to death in South Africa",
