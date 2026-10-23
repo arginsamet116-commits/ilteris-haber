@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-10-23 04:01 UTC",
+  "updated_at": "2026-10-23 05:00 UTC",
   "items": [
+    {
+      "title": "Altın, yüksek petrol fiyatlarıyla haftalık sert düşüşe hazırlanıyor",
+      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792730730/3792333/jpg/320x180",
+      "link": "https://www.bloomberght.com/altin-yuksek-petrol-fiyatlariyla-haftalik-sert-dususe-hazirlaniyor-3792333",
+      "summary": "Altın fiyatları, yüksek petrol fiyatlarının faizlerin uzun süre yüksek kalacağı beklentisini güçlendirmesi ve yatırımcıların gelecek haftaki ABD Merkez Bankası (Fed) toplantısına odaklanmasıyla cuma günü geriledi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 04:44 UTC"
+    },
+    {
+      "title": "Çin Hanedanlığı'nın devasa heykel ordusunda çarpıcı parmak izi keşfi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/cin-hanedanliginin-devasa-heykel-ordusunda-carpici-parmak-izi-kesfi-960963.html",
+      "summary": "Çin'deki Terakota Ordusu heykelleri üzerinde yapılan parmak izi analizi, üretimde yalnızca yetişkin erkeklerin değil, kadınların ve 15 yaş altı çocukların da çalışmış olabileceğini ortaya koydu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 04:35 UTC"
+    },
+    {
+      "title": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
+      "image": "",
+      "link": "https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss",
+      "summary": "Karachi's last two African elephants remain in captivity. Their sisters are already dead. Will they survive?",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 04:27 UTC"
+    },
+    {
+      "title": "ABD Başkanı Trump, petrol kapasitesini artırmak için Savunma Üretim Yasası'nı devreye aldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-petrol-kapasitesini-artirmak-icin-savunma-uretim-yasasini-devreye-aldi-960962.html",
+      "summary": "ABD Başkanı Donald Trump, ülkenin savunma kabiliyetini güçlendirmek ve yurt içi petrol üretim, rafinasyon ve lojistik kapasitesini artırmak amacıyla Savunma Üretim Yasası'nı devreye soktu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 04:14 UTC"
+    },
+    {
+      "title": "İşgalci İsrail, Batı Şeriada zeytin hasadına yardım eden 11 yabancı aktivisti alıkoydu",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-bati-seriada-zeytin-hasadina-yardim-eden-11-yabanci-aktivisti-alikoydu-960961.html",
+      "summary": "İşgalci İsrail askerlerinin ve Filistin topraklarını gasbeden İsraillilerin zeytin hasadını engellediği işgal altındaki Batı Şeria'da, Filistinlilere yardımcı olan 11 yabancı uyruklu aktivistin alıkonulduğu bildirildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 04:11 UTC"
+    },
+    {
+      "title": "Arap Koalisyonu: Suudi Arabistanda dün 11 İHA ve bir balistik füze önlendi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-suudi-arabistanda-dun-11-iha-ve-bir-balistik-fuze-onlendi-960960.html",
+      "summary": "Yemen'de Suudi Arabistan öncülüğündeki Arap Koalisyonu, dün, Suudi Arabistanın çeşitli bölgelerinde 11 insansız hava aracı İHA ile bir balistik füzeyi engelleyerek düşürdüğünü duyurdu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 04:09 UTC"
+    },
+    {
+      "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
+      "summary": "Israeli pogroms on Palestinian farmers and their lands during the olive harvest season intensify.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 04:09 UTC"
+    },
+    {
+      "title": "Avrupa'da bu yaz aşırı sıcakların 50 binden fazla can kaybına yol açtığı tahmin ediliyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/avrupada-bu-yaz-asiri-sicaklarin-50-binden-fazla-can-kaybina-yol-actigi-tahmin-ediliyor-960959.html",
+      "summary": "Avrupa'da bu yaz yaşanan kavurucu sıcaklarda kentsel bölgelerde 50 binden fazla kişinin hayatını kaybettiği tahmin edilirken, bu ölümlerin üçte ikisinin iklim değişikliğinin etkileri nedeniyle gerçekleştiği belirlendi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 04:05 UTC"
+    },
+    {
+      "title": "Avrupa'da bu yaz aşırı sıcakların 50 binden fazla can kaybına yol açtığı tahmin ediliyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/avrupada-bu-yaz-asiri-sicaklarin-50-binden-fazla-can-kaybina-yol-actigi-tahmin-ediliyor/4097920",
+      "summary": "Avrupa'da bu yaz yaşanan kavurucu sıcaklarda kentsel bölgelerde 50 binden fazla kişinin hayatını kaybettiği tahmin edilirken, bu ölümlerin üçte ikisinin iklim değişikliğinin etkileri nedeniyle gerçekleştiği belirlendi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 04:00 UTC"
+    },
     {
       "title": "Japonya'da çekirdek enflasyon yılın zirvesine çıktı",
       "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792726836/3792332/jpg/320x180",
@@ -299,15 +380,6 @@
       "published_at": "2026-10-22 22:56 UTC"
     },
     {
-      "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss",
-      "summary": "Dispute over raising flag of Somali Regional State devolves into fighting between regional forces.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 22:52 UTC"
-    },
-    {
       "title": "Kızılhaç: Sudan'da hava saldırıları, sivillere verilen zararda endişe verici bir artışa yol açtı",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/kizilhac-sudanda-hava-saldirilari-sivillere-verilen-zararda-endise-verici-bir-artisa-yol-acti/4097896",
@@ -342,15 +414,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-22 22:27 UTC"
-    },
-    {
-      "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
-      "summary": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 22:25 UTC"
     },
     {
       "title": "İstanbul'da üst solunum yolu vakaları sonbaharla birlikte artıyor",
@@ -452,15 +515,6 @@
       "published_at": "2026-10-22 21:24 UTC"
     },
     {
-      "title": "İngiltere'den olası krizlere karşı hazırlık çağrısı: Üç günlük stok ve nakit para uyarısı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/ingiltereden-olasi-krizlere-karsi-hazirlik-cagrisi-uc-gunluk-stok-ve-nakit-para-uyarisi-960948.html",
-      "summary": "İngiltere'de başlatılan yeni bir kamuoyu kampanyası, hanelerin olası bir ulusal kriz durumuna karşı hazırlıklı olmasını isterken; vatandaşlara üç günlük su ve gıda stoğu yapmaları, elektronik ödeme sistemlerinin çökme ihtimaline karşı nakit bulundurmaları tavsiye edildi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 21:19 UTC"
-    },
-    {
       "title": "Resmi Gazete'de bugün (23.10.2026)",
       "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792703908/3792325/jpg/320x180",
       "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-23102026-3792325",
@@ -486,15 +540,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-22 21:11 UTC"
-    },
-    {
-      "title": "Endonezya'daki yangınlar 333 bin kişide solunum yolu enfeksiyonuna yol açtı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/endonezyadaki-yanginlar-333-bin-kiside-solunum-yolu-enfeksiyonuna-yol-acti-960947.html",
-      "summary": "Endonezya'da aylardır süren orman yangınları nedeniyle 333 binden fazla akut solunum yolu enfeksiyonu vakası kayıtlara geçti.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 21:07 UTC"
     },
     {
       "title": "Endonezya'da orman yangınları nedeniyle 333 binden fazla kişide akut solunum yolu enfeksiyonu saptandı",
@@ -524,24 +569,6 @@
       "published_at": "2026-10-22 21:04 UTC"
     },
     {
-      "title": "UEFA Konferans Ligi'nin ikinci haftası, 18 maçla tamamlandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/uefa-konferans-liginin-ikinci-haftasi-18-macla-tamamlandi/4097856",
-      "summary": "Avrupa futbolunun kulüp düzeyindeki üç numaralı turnuvasının lig aşamasında, 18 karşılaşma oynandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 21:01 UTC"
-    },
-    {
-      "title": "Van Gogh'un Yıldızlı Gece tablosundaki yüzyıllık sır çözüldü",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/van-goghun-yildizli-gece-tablosundaki-yuzyillik-sir-cozuldu-960946.html",
-      "summary": "Vincent van Goghun ünlü tablosu Yıldızlı Gece'deki gökyüzü diziliminin, sanatçının 1889 yılının temmuz ayında gözlemlediği gerçek şafak vakti gökyüzüyle birebir uyuştuğu ortaya çıktı. Bu keşif, tablonun yapım tarihine ve sanatçının çalışma sürecine ilişkin bilinen tarihleri yeniden tartışmaya açıyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 21:01 UTC"
-    },
-    {
       "title": "Siber tehdit endişesi güvenlik şirketlerinin hisselerine alım getirdi - ekotürk",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk1OcmFlM1pPNTVXSXJPT0p6T2Jzak5nVmtkbmJRVDlnQjFSV2VhZkFQYThkdExSNktnR1pLSERZcF9oNC1yU1JBeXdZcko5ekJLdE9xckc3RUFKSF9IcG9teUZRSGFmdURTc0U0RUp1RzY5a1NMZm1adW51UzBldHg3MnBIVmljRU85Yl9JVVdsWFd6UmI1STIwVE8wQXY2N0ZpRkFR?oc=5",
@@ -551,15 +578,6 @@
       "published_at": "2026-10-22 20:58 UTC"
     },
     {
-      "title": "Beşiktaş Crystal Palace ile berabere kaldı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/besiktas-crystal-palace-ile-berabere-kaldi-960945.html",
-      "summary": "Beşiktaş, UEFA Avrupa Ligi'nde Crystal Palace ile 22 berabere kaldı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 20:57 UTC"
-    },
-    {
       "title": "Trump'tan konut maliyetlerini düşürmeye yönelik kararname",
       "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792702084/3792323/jpg/320x180",
       "link": "https://www.bloomberght.com/trump-tan-konut-maliyetlerini-dusurmeye-yonelik-kararname-3792323",
@@ -567,15 +585,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-22 20:46 UTC"
-    },
-    {
-      "title": "Rusya Devlet Başkanı Putin: Ukrayna ile anlaşmaya hazırız",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/rusya-devlet-baskani-putin-ukrayna-ile-anlasmaya-haziriz-960944.html",
-      "summary": "Rusya Devlet Başkanı Vladimir Putin, Ukrayna ile anlaşmak için hazır olduklarını belirterek, ateşkes değil barış anlaşması ve her iki ülkenin güvenliğinin sağlanmasını istediklerini söyledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 20:44 UTC"
     },
     {
       "title": "'Alihan Kuriş' soruşturmasında 19 kişi daha tutuklandı",
@@ -632,15 +641,6 @@
       "published_at": "2026-10-22 19:25 UTC"
     },
     {
-      "title": "Türkiye Merkez Bankası faiz oranını %37’den %36’ya indirdi - Investing.com Türkiye",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2ZRX1cwOFR1S1pLUHdSdXpnbmxJbUlpZ2NHUV8zVXBMMGVYcTVuTjhaVWtvalhmeHNmZDc1Ui1ncjljWHNsWU9SdHNkRUxBZ0FEbWhhcWJkUkVsaGRtS0hBeHpDQTRXY0JXTHdnUUZTRUJKcGNpZlNpTXJQVWVrY3plMEIwTFhNUnpIeU5lT3RrMGtJd2N0dUh6RXkySmU4OVNSb081NnNDSXM?oc=5",
-      "summary": "Türkiye Merkez Bankası faiz oranını %37’den %36’ya indirdi Investing.com Türkiye",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-22 19:18 UTC"
-    },
-    {
       "title": "ABD'de rekor yakıt fiyatları yük taşımacılığını demiryollarına kaydırıyor",
       "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792694616/3792317/jpg/320x180",
       "link": "https://www.bloomberght.com/abd-de-rekor-yakit-fiyatlari-yuk-tasimaciligini-demiryollarina-kaydiriyor-3792317",
@@ -657,15 +657,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-22 18:26 UTC"
-    },
-    {
-      "title": "İran: Savaşın ABD'ye hiçbir faydası olmayacak",
-      "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792692980/3792316/jpg/320x180",
-      "link": "https://www.bloomberght.com/iran-savasin-abd-ye-hicbir-faydasi-olmayacak-3792316",
-      "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD ile olası bir savaşın Washington yönetimine fayda sağlamayacağını, aksine ağır ekonomik ve askeri sonuçlar doğuracağını savundu.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-22 18:15 UTC"
     },
     {
       "title": "Malatya'daki üniversite öğrencilerine siber güvenlik fırsatı - Saray Medya",
@@ -900,6 +891,15 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-22 11:14 UTC"
+    },
+    {
+      "title": "TCMB faiz kararını açıkladı: Ocaktan bu yana ilk faiz indirimi - Euronews.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREpJeldOVDlRbkdBUy1GRU0xNllFTk16bmJ5ME9IREN1YzlpblJ6T0FZR3pqaENLem5Ud2duT0EyeTEtbk0zYW0yUUtFTWJCMTduM1lJWDhZXzd6QW9kd0FwQmxON2VxS2xuYWJEWVlxdjJVMGF6Q05UZW9pdWcxTkpxME1aQk5CVTFRQjQ5dVUwNkNYSXhKLVY2eFY?oc=5",
+      "summary": "TCMB faiz kararını açıkladı: Ocaktan bu yana ilk faiz indirimi Euronews.com",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-22 11:12 UTC"
     }
   ]
 }
