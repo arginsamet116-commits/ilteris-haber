@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-10-23 15:06 UTC",
+  "updated_at": "2026-10-23 16:05 UTC",
   "items": [
+    {
+      "title": "Dışişleri Bakanı Fidan, İtalya Başbakan Yardımcısı ve Dışişleri Bakanı Tajani ile görüştü",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-italya-basbakan-yardimcisi-ve-disisleri-bakani-tajani-ile-gorustu/4098860",
+      "summary": "Dışişleri Bakanı Hakan Fidan, İstanbul'da İtalya Başbakan Yardımcısı ve Dışişleri Bakanı Antonio Tajani ile bir araya geldi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 16:01 UTC"
+    },
+    {
+      "title": "Bu hafta yatırım araçlarının performansı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4098852",
+      "summary": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda ortalama yüzde 5,16, altının gram fiyatı yüzde 4,18 değer kaybederken, dolar/TL yüzde 0,36 ve avro/TL yüzde 0,03 değer kazandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:50 UTC"
+    },
+    {
+      "title": "Generali, Almanya'da 800 kişiyi işten çıkaracak",
+      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792770640/3792441/jpg/320x180",
+      "link": "https://www.bloomberght.com/generali-almanya-da-800-kisiyi-isten-cikaracak-3792441",
+      "summary": "İtalyan sigorta şirketi Generali'nin Almanya iştiraki, yeniden yapılandırma kapsamında 2030 yılı sonuna kadar 800 çalışanını işten çıkaracağını açıkladı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 15:49 UTC"
+    },
+    {
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:48 UTC"
+    },
+    {
+      "title": "Piyasalarda Gün Sonu: Borsa, Altın ve Dövizde Son Durum - Ekonomi Dünya",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbW9HaFV2MHZTN082OENmYldXb1dybTRnQS1jbkJmMDlYczdxNkFtTEtZWW0wZWxIR3F2bEpfRXVkbWoydW5hNWdtelM5Z2pPNnhSekNsU1V6WW5JYzkxLURwVzc4S1V1WHdXQkp2UjYxWHFSSENMb09fUVdxa0I5ZHVtaEFQX1p1UmtiR2ROZlVmNnc?oc=5",
+      "summary": "Piyasalarda Gün Sonu: Borsa, Altın ve Dövizde Son Durum Ekonomi Dünya",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 15:38 UTC"
+    },
+    {
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd8/live/36f17b50-cef9-11f1-accf-3309656ad0bb.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:37 UTC"
+    },
+    {
+      "title": "Borsa günü düşüşle tamamladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4098833",
+      "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,92 değer kaybederek 11.116,99 puandan tamamladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:36 UTC"
+    },
+    {
+      "title": "ABD'de tüketici güveni yukarı yönlü revize edildi",
+      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792769609/3792440/jpg/320x180",
+      "link": "https://www.bloomberght.com/abd-de-tuketici-guveni-yukari-yonlu-revize-edildi-3792440",
+      "summary": "ABD'de Michigan Üniversitesi tüketici güven endeksi, Ekim ayına ilişkin nihai verilerde 46,3'ten 48'e yukarı yönlü revize edildi. Endeks, aylık bazda sınırlı gerileyerek son 5 ayın en düşük seviyesine inerken, kısa ve uzun vadeli enflasyon beklentileri üst üste ikinci ayda yükseldi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 15:32 UTC"
+    },
+    {
+      "title": "Bakan Bayraktar, Slovakya ile enerji alanında mutabakat zaptı imzalandığını bildirdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-slovakya-ile-enerji-alaninda-mutabakat-zapti-imzalandigini-bildirdi/4098828",
+      "summary": "Bakan Bayraktar, Türkiye ile Slovakya arasında doğal gaz ticareti, yenilenebilir enerji, enerji verimliliği, nükleer enerji ve kritik mineraller alanlarındaki işbirliği potansiyelinin değerlendirilmesi amacıyla mutabakat zaptı imzalandığını bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:32 UTC"
+    },
+    {
+      "title": "Batı Şeria'daki saldırıda iki İsrail askeri öldü, Netanyahu'dan abluka kararı",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a9fb/live/aba20b90-cecc-11f1-93e1-3b657b665bcf.png",
+      "link": "https://www.bbc.com/turkce/articles/cwr5yz384gl3o?at_medium=RSS&at_campaign=rss",
+      "summary": "İsrail işgali altındaki Batı Şeria'da Cuma günü bir kontrol noktasında düzenlenen silahlı saldırıda iki İsrail askeri öldürüldü. İsrail ordusu saldırıda üç İsraillinin de yaralandığını duyurdu",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:30 UTC"
+    },
+    {
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6926/live/c5f26d10-cef3-11f1-93e1-3b657b665bcf.png",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:30 UTC"
+    },
+    {
+      "title": "BM Sudan'da sivilleri hedef alan hava saldırılarını şiddetle kınadı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/bm-sudanda-sivilleri-hedef-alan-hava-saldirilarini-siddetle-kinadi-961014.html",
+      "summary": "Birleşmiş Milletler BM İnsan Hakları Yüksek Komiseri Volker Türk, Sudan'da bu ay artış gösteren ve sivilleri hedef alan ölümcül hava saldırılarını şiddetle kınadı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:26 UTC"
+    },
+    {
+      "title": "Japonya'da siber güvenlik alarmı",
+      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792769083/3792438/jpg/320x180",
+      "link": "https://www.bloomberght.com/japonya-da-siber-guvenlik-alarmi-3792438",
+      "summary": "Japonya Başbakanı Takaiçi Sanae, kişisel verileri hedef alan siber saldırıların ardından kamu kurumlarında güvenlik önlemlerinin artırılacağını açıkladı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 15:23 UTC"
+    },
+    {
+      "title": "Fransa'da olası Sarı Yelekliler eylemlerine karşı yarın 70 bin polis ve jandarma görev yapacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/fransada-olasi-sari-yelekliler-eylemlerine-karsi-yarin-70-bin-polis-ve-jandarma-gorev-yapacak/4098815",
+      "summary": "Fransa'da 17 Ekim'deki Sarı Yelekliler eylemlerinin ardından kısmi sokağa çıkma yasağı dahil tedbirler artırılırken, eylem yasağına rağmen 24 Ekim’de de Sarı Yeleklilerin sokağa inmesine karşı 70 bin polis ve jandarmanın görev yapacağı bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:15 UTC"
+    },
     {
       "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg",
@@ -8,7 +134,88 @@
       "summary": "Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 15:00 UTC"
+      "published_at": "2026-10-23 15:15 UTC"
+    },
+    {
+      "title": "DMM'den 1 Kasım'da yürürlüğe girecek \"sosyal medya yaş doğrulaması düzenlemesi\"ne ilişkin uyarı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/dmmden-1-kasimda-yururluge-girecek-sosyal-medya-yas-dogrulamasi-duzenlemesine-iliskin-uyari/4098811",
+      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM) 1 Kasım'da yürürlüğe girecek düzenleme kapsamında sosyal medya yaş doğrulamasının yalnızca e-Devlet'ten alınacak \"yaş doğrulama belirteci\" ile yapılacağını bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:11 UTC"
+    },
+    {
+      "title": "Borsa İstanbul ve VİOP haftayı düşüşle tamamladı - Borsa Gundem",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcExTNnc1aHFWMzRGb0VkX0VOQThYaDJVWDVXVWMwU3RaNk0xR1JCemh6WWd4d3VvT2VCVlgtTXdtU1NPeHFzdWJmbnpLX3llVldYTTFoVkw3cFU4Ql9KS3QzWGdDMzFsa3lUWm0xR1RVYXA1M2FRTzNFNloxTEJ1bjQ1NjFGR1JS?oc=5",
+      "summary": "Borsa İstanbul ve VİOP haftayı düşüşle tamamladı Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 15:10 UTC"
+    },
+    {
+      "title": "TUSAŞ şehitleri terör saldırısının ikinci yılında anıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/tusas-sehitleri-teror-saldirisinin-ikinci-yilinda-anildi/4098809",
+      "summary": "Türk Havacılık ve Uzay Sanayii (TUSAŞ) Kahramankazan tesislerine yönelik terör saldırısının şehitleri, saldırının ikinci yılında anıldı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:09 UTC"
+    },
+    {
+      "title": "Ürdün'de kiliseye silahlı saldırı: En az 6 kişi öldü, 28 yaralı var",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70a1/live/ca7b6d10-cef2-11f1-b441-2b33b063138f.png",
+      "link": "https://www.bbc.com/turkce/articles/cm5ynqg6qe3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ürdün'de bir kiliseye düzenlenen silahlı saldırıda altı kişi öldü, 28 kişi yaralandı",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:07 UTC"
+    },
+    {
+      "title": "Carrick accepts blame for Man United slump, but ‘confident’ of a turnaround",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/carrick-accepts-blame-for-man-united-slump-confident-he-can-turn-things?traffic_source=rss",
+      "summary": "Manchester United make worst start to a season in 40 years, but Michael Carrick 'confident' ahead of Bournemouth game.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:04 UTC"
+    },
+    {
+      "title": "ABD: Melania Trump, Ukrayna'nın Oleşki şehriyle sınırlı özel ateşkes sağladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/abd-melania-trump-ukraynanin-oleski-sehriyle-sinirli-ozel-ateskes-sagladi/4098802",
+      "summary": "ABD Başkanı Donald Trump'ın eşi Melania Trump'ın Rusya ile savaşan Ukrayna'nın Herson bölgesinde iki ateş arasında kalan Oleşki şehri için özel bir ateşkes sağladığı bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:02 UTC"
+    },
+    {
+      "title": "Bakan Fidan: İran'a yapılacak askeri müdahale hiçbir şekilde çözüm değil",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-irana-yapilacak-askeri-mudahale-hicbir-sekilde-cozum-degil-961013.html",
+      "summary": "Dışişleri Bakanı Hakan Fidan, R4 ve R4E3 toplantılarına katılan ülkelerin özellikle İran'a yönelik yeniden yapılacak bir saldırının bölgedeki savaş ve çatışmayı tekrar yaygınlaştırmaya yol açacağı konusunda hemfikir olduğunu belirtti. Fidan, \"İran'a yapılacak askeri müdahale hiçbir şekilde çözüm değil. Bunu hiç kimse şu anda onaylamıyor\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 15:01 UTC"
+    },
+    {
+      "title": "US justice department investigating Corey Lewandowski over DHS role",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c866/live/bcbfcae0-cee3-11f1-bdca-23c64447299f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 14:58 UTC"
+    },
+    {
+      "title": "What to know as Brazil prepares for tense presidential run-off",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss",
+      "summary": "Polls show leftist incumbent Lula closing gap on right-wing rival Flavio Bolsonaro ahead of second round of voting.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 14:56 UTC"
     },
     {
       "title": "Filistin topraklarını gasbeden İsraillilerin Batı Şeria'daki saldırısında biri çocuk 3 Filistinli yaralandı",
@@ -29,10 +236,10 @@
       "published_at": "2026-10-23 14:53 UTC"
     },
     {
-      "title": "Bakan Fidan: İran'a yapılacak askeri müdahale hiçbir şekilde çözüm değil",
+      "title": "Bakan Fidan: İran'a yeni bir saldırının bölgedeki savaşı yaygınlaştıracağı konusunda hemfikiriz",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-irana-yapilacak-askeri-mudahale-hicbir-sekilde-cozum-degil/4098755",
-      "summary": "",
+      "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-irana-yeni-bir-saldirinin-bolgedeki-savasi-yayginlastiracagi-konusunda-hemfikiriz/4098755",
+      "summary": "Dışişleri Bakanı Hakan Fidan, R4 ve R4+E3 toplantılarına katılan ülkelerin özellikle İran'a yönelik yeniden yapılacak bir saldırının bölgedeki savaş ve çatışmayı tekrar yaygınlaştırmaya yol açacağı konusunda hemfikir olduğunu belirtti.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 14:50 UTC"
@@ -45,24 +252,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 14:48 UTC"
-    },
-    {
-      "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 14:48 UTC"
-    },
-    {
-      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a095/live/c39c9a30-cec7-11f1-b9e0-e5f0da03dc7f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 14:45 UTC"
     },
     {
       "title": "MHP Genel Başkanı Bahçeli'den MYK-MDK ve Milletvekilleri Ortak Toplantısı'na ilişkin açıklama",
@@ -92,31 +281,13 @@
       "published_at": "2026-10-23 14:39 UTC"
     },
     {
-      "title": "GO! GLOBAL Türkiye Zirvesi'nin ikinci günü sona erdi",
+      "title": "Nail Olpak: Dijital Teknolojiler İş Konseyi bütün iş konseylerinin içerisinde en aktiflerinden birisi",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/go-global-turkiye-zirvesinin-ikinci-gunu-sona-erdi/4098730",
-      "summary": "Küresel teknoloji ve yatırım ekosisteminin önde gelen isimleri ile Türkiye'nin öncü girişimcileri ve AI yeteneklerini İstanbul'da bir araya getiren GO! GLOBAL Türkiye Zirvesi'nin ikinci günü sona erdi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/nail-olpak-dijital-teknolojiler-is-konseyi-butun-is-konseylerinin-icerisinde-en-aktiflerinden-birisi/4098728",
+      "summary": "Dış Ekonomik İlişkiler Kurulu (DEİK) Başkanı Nail Olpak, Dijital Teknolojiler İş Konseyi'nin DEİK'teki bütün iş konseylerinin içerisinde en aktiflerinden biri olduğunu belirtti.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 14:34 UTC"
-    },
-    {
-      "title": "Türkiye, enerji alanında uluslararası uzmanları Antalya'da buluşturacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-enerji-alaninda-uluslararasi-uzmanlari-antalyada-bulusturacak/4098720",
-      "summary": "Uluslararası Enerji Ekonomisi Birliği (IAEE) tarafından düzenlenecek IAEE COP 2026 Sempozyumu, 11-14 Kasım'da Antalya'da gerçekleştirilecek.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 14:27 UTC"
-    },
-    {
-      "title": "Cumhurbaşkanı Yardımcısı Yılmaz \"Macar Devrimi ve Bağımsızlık Savaşı\" anma programlarına katıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-macar-devrimi-ve-bagimsizlik-savasi-anma-programlarina-katildi/4098715",
-      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Cumhurbaşkanı Recep Tayyip Erdoğan'ı temsilen, Macar Devrimi ve Bağımsızlık Savaşı'nın 70. yıl dönümü dolayısıyla Macaristan'ın başkenti Budapeşte'de düzenlenen resmi anma programlarına katıldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 14:20 UTC"
+      "published_at": "2026-10-23 14:32 UTC"
     },
     {
       "title": "DMM'den sosyal medyada yaş doğrulama tuzağına karşı uyarı",
@@ -191,24 +362,6 @@
       "published_at": "2026-10-23 13:58 UTC"
     },
     {
-      "title": "BM: Kuşatma altındaki Taiz kentine erişimin kesilmesi, temel ihtiyaçların ulaştırılmasını etkiliyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/bm-kusatma-altindaki-taiz-kentine-erisimin-kesilmesi-temel-ihtiyaclarin-ulastirilmasini-etkiliyor/4098678",
-      "summary": "UNOCHA Sözcüsü Laerke, Yemen'in, Husilerin kuşatması altındaki Taiz kentine erişim yollarının kapanmasının buraya ulaşan yakıt, gıda ve diğer temel ihtiyaç maddelerinin miktarının ciddi oranda düşmesine neden olduğunu bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 13:58 UTC"
-    },
-    {
-      "title": "İsrail'in Filistinli esirlere ABD yapımı elektroşok silahlarla işkence yaptığı ortaya çıktı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/israilin-filistinli-esirlere-abd-yapimi-elektrosok-silahlarla-iskence-yaptigi-ortaya-cikti/4098675",
-      "summary": "İngiliz \"The Guardian\" gazetesinin ortak araştırmasında, İsrail'in gözaltında tuttuğu Filistinlilere işkence yapmak amacıyla ABD merkezli \"Axon Enterprise\" şirketinin ürettiği elektroşok silahlarını kullandığı ortaya kondu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 13:55 UTC"
-    },
-    {
       "title": "Moskova'daki 4 havalimanında İHA tehdidi nedeniyle uçuşlar geçici olarak durduruldu",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/moskovadaki-4-havalimaninda-iha-tehdidi-nedeniyle-ucuslar-gecici-olarak-durduruldu-961009.html",
@@ -272,49 +425,13 @@
       "published_at": "2026-10-23 13:35 UTC"
     },
     {
-      "title": "60 saniyede bugün (23 Ekim 2026)",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-23-ekim-2026/4098648",
-      "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 13:32 UTC"
-    },
-    {
-      "title": "Gunmen open fire at church in Jordan, killing several people",
+      "title": "At least seven killed after gunmen open fire at church in Jordan",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
       "summary": "Survivors say two masked men began shooting as dozens attended a funeral procession.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 13:32 UTC"
-    },
-    {
-      "title": "TÜSEB İDEA'dan 1400 kilometre uzaktaki hastaya robotik cerrahi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/tuseb-ideadan-1400-kilometre-uzaktaki-hastaya-robotik-cerrahi/4098646",
-      "summary": "TÜSEB İstanbul Deneysel Araştırma Geliştirme ve Eğitim Merkezi'nden telecerrahi uygulamasıyla, ilk kez bir laboratuvar ile hastane arasında bağlantı kurularak 1400 kilometre uzaktaki hastaya robotik cerrahi işlemi uygulandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 13:31 UTC"
-    },
-    {
-      "title": "60 saniyede ekonomide bugün (23 Ekim 2026)",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-23-ekim-2026/4098642",
-      "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 13:28 UTC"
-    },
-    {
-      "title": "Ticaret Bakanı Bolat: Türkiye ile ABD arasındaki dış ticaret hacmi yüzde 13 arttı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-turkiye-ile-abd-arasindaki-dis-ticaret-hacmi-yuzde-13-artti/4098638",
-      "summary": "Ticaret Bakanı Ömer Bolat, Türkiye ile ABD arasındaki dış ticaret hacminin 2025'te bir önceki yıla göre yüzde 13 artarak 38,5 milyar dolar seviyesinde gerçekleşti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 13:25 UTC"
     },
     {
       "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
@@ -380,15 +497,6 @@
       "published_at": "2026-10-23 13:15 UTC"
     },
     {
-      "title": "Arçelik, 200 milyon avroluk yatırımla Manisa'da çamaşır makinesi işletmesini açtı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/arcelik-200-milyon-avroluk-yatirimla-manisada-camasir-makinesi-isletmesini-acti/4098621",
-      "summary": "Koç Topluluğu'na bağlı Arçelik'in yaklaşık 200 milyon avro yatırımla devreye aldığı Manisa Çamaşır Makinesi İşletmesi'nin resmi açılışı gerçekleştirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 13:15 UTC"
-    },
-    {
       "title": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
       "image": "",
       "link": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss",
@@ -425,30 +533,12 @@
       "published_at": "2026-10-23 13:00 UTC"
     },
     {
-      "title": "Qatar Moto GP to go ahead despite regional tensions",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss",
-      "summary": "Qatar GP goes ahead despite Saudi Arabia scrapping events in region after deadly strike on Riyadh airport.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 13:00 UTC"
-    },
-    {
       "title": "Avrupa Merkez Bankası için koltuk yarışında favori belli oldu",
       "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792760720/3792426/jpg/320x180",
       "link": "https://www.bloomberght.com/avrupa-merkez-bankasi-icin-koltuk-yarisinda-favori-belli-oldu-3792426",
       "summary": "Ekonomistler arasında yapılan bir ankete göre, Avrupa Merkez Bankası'nda Christine Lagarde'ın yerini alması muhtemel isimler arasında Pablo Hernandez de Cos öne çıkıyor.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-23 12:55 UTC"
-    },
-    {
-      "title": "Greece joins push to ban social media for minors",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/23/greece-joins-push-to-ban-social-media-for-minors?traffic_source=rss",
-      "summary": "A growing number of countries are tightening rules governing children's online activity amid fears of addiction.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 12:55 UTC"
     },
     {
@@ -468,6 +558,15 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 12:51 UTC"
+    },
+    {
+      "title": "Merkez Bankası'nın yıl sonu faiz indirimini bilmişti: Dev banka yıl sonu dolar tahminini açıkladı - birgun.net",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbklxNkMxVUd0TG15bUFWcWxaeEw5dmhMVF81TXZrZGR4bG1Oc1p3NWRVOVRwVmt5TmVOSkZCcTJfcjZUVmZtTXNucUlCR3ZBY044UXhuSmNlRVBMaUNpMkJGZVBTdVktXzhRdHhTc3h1a0pmUXE4OFR3Szl0ZUxhVFpSOXh4M1d6NmNJLW1hd2pMbVkzdXVmZDBKZ1AtS2kxb0MydktqZmh1aEU3Nlo4bnJUYk95Uy13bU9hOFdncFFoYXFORk5NRFA4QVY?oc=5",
+      "summary": "Merkez Bankası'nın yıl sonu faiz indirimini bilmişti: Dev banka yıl sonu dolar tahminini açıkladı birgun.net",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 12:46 UTC"
     },
     {
       "title": "Bolat: Made in Europe konusunda Slovakya Türkiye'yi destekliyor",
@@ -506,6 +605,15 @@
       "published_at": "2026-10-23 12:24 UTC"
     },
     {
+      "title": "Ürdün'de bir kilisede düzenlenen silahlı saldırıda 7 kişi öldü, 27 kişi yaralandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/urdunde-bir-kilisede-duzenlenen-silahli-saldirida-7-kisi-oldu-27-kisi-yaralandi/4098545",
+      "summary": "Ürdün'ün Kerek kentinde bir kilisede düzenlenen silahlı saldırıda 7 kişinin hayatını kaybettiği, 27 kişinin yaralandığı bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 12:17 UTC"
+    },
+    {
       "title": "Denmark to ban mink farming in government U-turn",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/ed7c2b60-cebb-11f1-ae9c-0303957c36f8.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
@@ -542,13 +650,13 @@
       "published_at": "2026-10-23 12:04 UTC"
     },
     {
-      "title": "Brüksel'de esnaf yağma endişesiyle mağazaların vitrinlerini ahşap panellerle kapatıyor",
+      "title": "Zeytin hasadı yapan Filistinli Emir tüm baskılara rağmen topraklarını terk etmeyeceğini Türkçe anlattı",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/brukselde-esnaf-yagma-endisesiyle-magazalarin-vitrinlerini-ahsap-panellerle-kapatiyor/4098524",
-      "summary": "Belçika'nın başkenti Brüksel'de esnaf, yarın kent merkezinde düzenlenmesi beklenen gösteri öncesinde yağma ihtimaline karşı mağazaların vitrinlerini ahşap panellerle kapatarak güvenlik önlemlerini artırıyor.",
+      "link": "https://www.aa.com.tr/tr/dunya/-zeytin-hasadi-yapan-filistinli-emir-tum-baskilara-ragmen-topraklarini-terk-etmeyecegini-turkce-anlatti/4098499",
+      "summary": "İşgal altındaki Batı Şeria'da Filistin topraklarını gasbeden İsraillilerin saldırılarına rağmen zeytin hasadı yapan Filistinli Emir Çelebi, topraklarını terk etmeyeceğini vurguladı.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 12:04 UTC"
+      "published_at": "2026-10-23 11:53 UTC"
     },
     {
       "title": "Apple'ın ilk katlanabilir telefonu iPhone Duo sınırlı stokla satışa sunuldu",
@@ -585,24 +693,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-23 11:23 UTC"
-    },
-    {
-      "title": "İstanbul'da R4 Dışişleri Bakanları Toplantısı başladı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/istanbulda-r4-disisleri-bakanlari-toplantisi-basladi-960999.html",
-      "summary": "Dışişleri Bakanı Hakan Fidan'ın ev sahipliğinde İstanbul'da R4 Türkiye, Mısır, Pakistan, Suudi Arabistan Dışişleri Bakanları Toplantısı başladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 11:23 UTC"
-    },
-    {
-      "title": "DSÖ, ilk kez bir insanda görülen Shamonda virüsünü araştırıyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/dso-ilk-kez-bir-insanda-gorulen-shamonda-virusunu-arastiriyor-960998.html",
-      "summary": "Dünya Sağlık Örgütü DSÖ Sözcüsü Christian Lindmeier, Fransa'da bugüne kadar hayvanlarda görülen Shamonda virüsünün ilk kez bulaştığı kişinin ölmesi üzerine araştırmaları sürdürdüklerini, halk sağlığına yönelik potansiyel riskler hakkında veri toplayan Fransız yetkililerle iletişim halinde olduklarını bildirdi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 11:13 UTC"
     },
     {
       "title": "UEA Başkanı Birol, enerji krizinin 2027'de de devam edeceği görüşünde",
@@ -650,33 +740,6 @@
       "published_at": "2026-10-23 10:43 UTC"
     },
     {
-      "title": "Konutta reel düşüş derinleşti, İzmir öne çıktı",
-      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792752100/3792401/jpg/320x180",
-      "link": "https://www.bloomberght.com/konutta-reel-dusus-derinlesti-izmir-one-cikti-3792401",
-      "summary": "Bahçeşehir Üniversitesi Ekonomik ve Toplumsal Araştırmalar Merkezi'nin (BETAM) Ekim 2026 konut piyasası raporlarına göre, reel satılık konut fiyatları bir önceki yılın aynı ayına kıyasla Türkiye genelinde yüzde 7,8, İstanbul'da yüzde 4, Ankara'da yüzde 2,5 ve İzmir'de yüzde 9,3 azaldı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-23 10:40 UTC"
-    },
-    {
-      "title": "Batı Şeria'da silahlı saldırıda beş İsrailli yaralandı, Netanyahu'dan abluka kararı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a9fb/live/aba20b90-cecc-11f1-93e1-3b657b665bcf.png",
-      "link": "https://www.bbc.com/turkce/articles/cwr5yz384gl3o?at_medium=RSS&at_campaign=rss",
-      "summary": "İsrail işgali altındaki Batı Şeria'da Cuma günü düzenlenen silahlı saldırıda en az beş İsrailli yaralandı. Saldırıyı düzenlediğinden şüphelenilen iki Filistinli, İsrail güçleriyle girdikleri çatışmada öldürüldü.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 10:37 UTC"
-    },
-    {
-      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5023/live/f9dfa580-cea7-11f1-bbfb-357cf921a5e9.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
-      "summary": "This is President Peter Mutharika's fifth visit to South Africa this year.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 10:36 UTC"
-    },
-    {
       "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eeb/live/c8bb2ad0-cec3-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
@@ -684,15 +747,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 10:23 UTC"
-    },
-    {
-      "title": "Carrefour hisselerinde küresel finans krizinden beri en sert düşüş",
-      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792750798/3792400/jpg/320x180",
-      "link": "https://www.bloomberght.com/carrefour-hisselerinde-kuresel-finans-krizinden-beri-en-sert-dusus-3792400",
-      "summary": "Süpermarket zinciri Carrefour'un hisseleri, Fransa genelinde yaşanan protestoların tüm yıl görünümünü olumsuz etkileyeceği uyarısının ardından küresel finans krizinden bu yana en kötü haftasını kaydetmeye hazırlanıyor.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-23 10:18 UTC"
     },
     {
       "title": "Zonguldak'ta maden ocağındaki patlamada üç işçi hayatını kaybetti",
@@ -740,15 +794,6 @@
       "published_at": "2026-10-23 09:44 UTC"
     },
     {
-      "title": "Türk Eximbank ile EDC arasında mutabakat zaptı",
-      "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792747968/3792399/jpg/320x180",
-      "link": "https://www.bloomberght.com/turk-eximbank-ile-edc-arasinda-mutabakat-zapti-3792399",
-      "summary": "Ticaret Bakanı Ömer Bolat, Türkiye ile Kanada arasında ihracat kredileri alanındaki işbirliğini güçlendirmek amacıyla Türk Eximbank ile bu ülkenin ihracat destek kuruluşu EDC'nin mutabakat zaptı imzaladığını bildirdi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-23 09:32 UTC"
-    },
-    {
       "title": "Eski Türkiye Sigorta Genel Müdürü Taha Çakmak gözaltında",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce59/live/36678580-c940-11f1-8c38-abe947e72d6d.jpg",
       "link": "https://www.bbc.com/turkce/articles/cmx2dg4z8qqwo?at_medium=RSS&at_campaign=rss",
@@ -785,13 +830,13 @@
       "published_at": "2026-10-23 07:04 UTC"
     },
     {
-      "title": "Altın Fiyatlarında Düşüş: Gram Altın 6 Bin 430 Lira Seviyesinde - Kangal Gündem",
+      "title": "Borsa İstanbul Düşüşte, Dolar Yükselişte: Güncel Piyasa Durumu - Finans Hattı",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkhnYUR1WjhVRGRqc3BqQTdmOHd5c2ozU3lQckdlRC10VldDTi1LTFZEbmozM1FKU3V6U1FudFJJYkY3NkgyQWVfdE8wY0FVZFNuWG1TUzRmSnZKNDdEd19NamtPeVlNR25MVlF3dWlLeGtIUEJGeEl2UTFwQjlYRkt0M2RtTEl1TXJpbDB4aGdBQ29XRVgwbTJRaG91QmVP?oc=5",
-      "summary": "Altın Fiyatlarında Düşüş: Gram Altın 6 Bin 430 Lira Seviyesinde Kangal Gündem",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb2Q3dTBJdjVDemdfcjRwYXhja0JjZFFoYmk2bU5qZ2gzcDBwUE5LLUFQenZGVS16ZTltM3AteUVrZS1CcmFTc0ltVDRFZUZBNlUtc0VsdUdCY0VUVlpUb3NGTE5rOWN4V3lTaEZBeERGQ2x5cUQ2RjZfM3NsSlg3TTRpdUs?oc=5",
+      "summary": "Borsa İstanbul Düşüşte, Dolar Yükselişte: Güncel Piyasa Durumu Finans Hattı",
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
-      "published_at": "2026-10-23 06:29 UTC"
+      "published_at": "2026-10-23 06:52 UTC"
     },
     {
       "title": "Almanya'daki iltica başvurularında 'rüşvetle soruşturma' iddiası",
@@ -801,15 +846,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 06:13 UTC"
-    },
-    {
-      "title": "Borsa İstanbul Şirket Haberleri (23 Ekim) - Borsa Gundem",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wSGRpcTFQMnNsMm1zNTBLSGdWYXA1SXJvdGZYNFh1cWlVelpYUXdKUVlEcXlPV242ckJZRGN5Ui0wbjRZbGlrVHhJZ3FWUlJONGtvVzEwUHlxWjlzOTJ1MWdTdzA2a2wxODRueVFWeHhibEpkWXNlUlMyNTU?oc=5",
-      "summary": "Borsa İstanbul Şirket Haberleri (23 Ekim) Borsa Gundem",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-23 06:08 UTC"
     },
     {
       "title": "Altın fiyatları aşağı yönlü! Gram altın güne hangi seviyede başladı? - Bursa TV",
@@ -858,48 +894,12 @@
     },
     {
       "title": "Türkiye, Mekke ve Bedir ittifaklarıyla ne hedefliyor?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e54/live/21045a10-ce68-11f1-ab75-d744dbb6f3f7.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f8f5/live/1062a750-cefb-11f1-accf-3309656ad0bb.jpg",
       "link": "https://www.bbc.com/turkce/articles/cq77pze3nr2ro?at_medium=RSS&at_campaign=rss",
       "summary": "Türkiye, \"bölgesel sahiplenme\" adını verdiği dış politika anlayışı kapsamında Ortadoğu'da güvenlik işbirliğini güçlendirme amaçlı kurumsal adımlar attı. Ankara önce Suudi Arabistan ve Pakistan ile Mekke, sonra da Katar, Pakistan ve Endonezya ile Bedir İttifakı'nın kurulmasında aktif rol oynadı.",
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-22 23:00 UTC"
-    },
-    {
-      "title": "Siber tehdit endişesi güvenlik şirketlerinin hisselerine alım getirdi - ekotürk",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk1OcmFlM1pPNTVXSXJPT0p6T2Jzak5nVmtkbmJRVDlnQjFSV2VhZkFQYThkdExSNktnR1pLSERZcF9oNC1yU1JBeXdZcko5ekJLdE9xckc3RUFKSF9IcG9teUZRSGFmdURTc0U0RUp1RzY5a1NMZm1adW51UzBldHg3MnBIVmljRU85Yl9JVVdsWFd6UmI1STIwVE8wQXY2N0ZpRkFR?oc=5",
-      "summary": "Siber tehdit endişesi güvenlik şirketlerinin hisselerine alım getirdi ekotürk",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-22 20:58 UTC"
-    },
-    {
-      "title": "Merkez Bankası'ndan gelen karar borsayı vurdu - Sözcü Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVXVoWVZJT0tjMWdhVHFYc0dqU1VkNEpkSl95Mk4xMkRMOGx4WGprcWVueHVnMVNUU2xPWVg1QXlGa3BaVHhIMDBBSmlCZlY4OGl4UVpJQ0Z4dmV0blVObVhkdmZxWnZ1VHpwOUtQQ1Q0UkZOVmo4S3F2UER4emVQLWtTSG8?oc=5",
-      "summary": "Merkez Bankası'ndan gelen karar borsayı vurdu Sözcü Gazetesi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-22 18:22 UTC"
-    },
-    {
-      "title": "Malatya'daki üniversite öğrencilerine siber güvenlik fırsatı - Saray Medya",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQkZNX0IxVnJmcmxJRmw1WkRrLTdCTFBZSUFVWHczTWNCTmw3QjBmZzJ3YnFNMGY2TTZibkIyNmFSa1BZU0pGdkVnTGttVU9MZFNlamQ0ZXBaeVVWSjR5WFA5M0Q0S0ZKOGk1bjBuSDhNU0l1YzN6bFZvd0IzSEZONnE5UmxubTdDZ2lpX0pFdktxTEFkMkFEUlVkUk11TXZUcTE4?oc=5",
-      "summary": "Malatya'daki üniversite öğrencilerine siber güvenlik fırsatı Saray Medya",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-22 18:02 UTC"
-    },
-    {
-      "title": "Merkez Bankası'nın faiz indirimi işe yarayacak mı? - DW.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdF92bG5mY2o1dFdZWGlUTFRpY054ZU04V2pReHhXWU5Ub3cxQzBfSi1uRUxLSTRDaGU2dmFMVTAwR1J6RUNIUk1vMkUwMHBhZkdmWnBkQU9HRnpMWE5jY3RHNzkzX3RWNkZfTkdwektFbWJLc1VEMUpOYVhSV2tsWlA3NjFJZWwxeVM3WFF2cWtYYk10UXFlUTlPeGZ6RXNGaU9B0gGjAUFVX3lxTE5MVy1SWHF1Mk84WEhhMFVmM1VUUjIyWC1jWC1oUlFCSzE5b09UOTZ1czY0YmR1SGNMei16S1QtUFJNYkw5aUpfUWJUUm4xb0IzRkRFR2g0UURXRnhhUExmeVJHRkFac2w2cDJENHlrNTdYWHJJMllGMWl6N3BoUHlrOHlSbkNHY1dUakpZaEhWOUEtbExfaVh6cGZQOG1ZX1ZlNTA?oc=5",
-      "summary": "Merkez Bankası'nın faiz indirimi işe yarayacak mı? DW.com",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-22 16:52 UTC"
     }
   ]
 }
