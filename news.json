@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-24 00:28 UTC",
+  "updated_at": "2026-10-24 01:19 UTC",
   "items": [
+    {
+      "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
+      "summary": "Syrians are protesting Israel’s occupation of parts of the country’s south, near the occupied Golan Heights.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 00:50 UTC"
+    },
+    {
+      "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss",
+      "summary": "A clinical trial begins to test the safety, efficacy and immunogenicity of multiple vaccines.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 00:27 UTC"
+    },
     {
       "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
       "image": "",
@@ -20,13 +38,13 @@
       "published_at": "2026-10-23 23:55 UTC"
     },
     {
-      "title": "Türkiye, mali şeffaflık değerlendirmesinde üst sıralarda yer aldı",
+      "title": "Dolar, Euro Kazandırdı, Borsa Ve Altın Kaybettirdi - Analiz Gazetesi",
       "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/turkiye-mali-seffaflik-degerlendirmesinde-ust-siralarda-yer-aldi-961046.html",
-      "summary": "Uluslararası Para Fonu IMF, Türkiye'nin mali şeffaflık alanında son 10 yılda önemli gelişme kaydettiğini belirtti.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 23:41 UTC"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTk1fczk1LUliVFJmMkJHYmpRR2RYTDdJWWNvVGRfSDVsTzR1Q1VDXzNQTmlXUUNkZ1MyeXc1cmVzdDBjdFdtaVhnMkJrTm5GZ0dPUDF0XzBJMllubk9RYjFtaXdZeTBuYVVNNS1aUVhjU3k2aHJxTElWZ2VKYjJEUTF4Zm1SVF9hRXRleUtjTjlxVDly?oc=5",
+      "summary": "Dolar, Euro Kazandırdı, Borsa Ve Altın Kaybettirdi Analiz Gazetesi",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 23:35 UTC"
     },
     {
       "title": "Moody's Fransa'ya yönelik periyodik incelemesini tamamladı",
@@ -443,15 +461,6 @@
       "published_at": "2026-10-23 19:58 UTC"
     },
     {
-      "title": "Tigray rebels urged to disarm as commander vows to fight Ethiopia’s gov’t",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss",
-      "summary": "Rebel commander pledged to continue fighting government-allied forces who seized Ethiopia's Tigray capital.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 19:55 UTC"
-    },
-    {
       "title": "İran Devrim Muhafızları Ordusu: Hürmüz Boğazı’nda \"iki süper tanker\" mayına çarptı",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-iki-super-tanker-mayina-carpti/4099046",
@@ -479,15 +488,6 @@
       "published_at": "2026-10-23 19:45 UTC"
     },
     {
-      "title": "Ecuador judge orders pre-trial detention of leftist presidential candidate",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/23/ecuador-judge-orders-pre-trial-detention-of-leftist-presidential-candidate?traffic_source=rss",
-      "summary": "Luisa Gonzalez, who lost to right-wing president Daniel Noboa in 2023, has called the arrest political persecution.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 19:45 UTC"
-    },
-    {
       "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
@@ -495,6 +495,15 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 19:42 UTC"
+    },
+    {
+      "title": "Bakan Çiftçi: Lüksemburg makamlarıyla çok boyutlu iş birliğine hazırız",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-luksemburg-makamlariyla-cok-boyutlu-is-birligine-haziriz-961031.html",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi, Lüksemburg Temsilciler Meclisi Başkanı Claude Wiseler ile görüşmesinde \"Suriyede barınma, istihdam ve gönüllü geri dönüşler sonrası diğer çalışmalar kapsamında Lüksemburg makamları ile çok boyutlu iş birliğine de hazır olduğumuzu ifade etmek isterim\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 19:40 UTC"
     },
     {
       "title": "PwC, çalışan kayıtlarını etkileyen siber güvenlik olayını doğruladı",
@@ -542,6 +551,15 @@
       "published_at": "2026-10-23 18:58 UTC"
     },
     {
+      "title": "Hindistan Merkez Bankası Ağustos’ta 43,26 milyar dolar aldı - Investing.com Türkiye",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWstSV9NWEVrS0UyWlg2YVlzNlBoZVlVSFR0UzVrTm5VQWVSR205SXBVc1UwYkJoNjJxdmVvSVNlbmxpNjJzWWJobDVLNzFpakJ2YXRBd3ViemtDTXhGZW9OVUFMQ0RsMndBcl9TTzRDUVBaMjdadTdTelpVMHNwdTBTLXV2bHZnQVpXckVCMmZ5RUhPbzRGV1VtWEx1MFFKckgwbWk0STA0ellEMTNjQw?oc=5",
+      "summary": "Hindistan Merkez Bankası Ağustos’ta 43,26 milyar dolar aldı Investing.com Türkiye",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 18:56 UTC"
+    },
+    {
       "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
@@ -578,6 +596,15 @@
       "published_at": "2026-10-23 18:23 UTC"
     },
     {
+      "title": "Borsa İstanbul’un 2002-2026 karnesi: TL ve dolar bazında değer - N24",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmhjRVRlMkVnME1nUXZzczI3ekNJcDIxQXhyZy1SS09iemkxRnZnNkhOTC1yelBoeENURXVjemdaV2JYbWM1bTVOQ0pVZDZqOThJdGNLRS1aMENUXzFRa2Y0VWtsRmJ4cmc3c2s1SE9uaTJqR004X0RIbk0zR3UtVlp1VDlFUjBxQkxoSGlnNUM?oc=5",
+      "summary": "Borsa İstanbul’un 2002-2026 karnesi: TL ve dolar bazında değer N24",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 18:12 UTC"
+    },
+    {
       "title": "Kocaelispor, Alanyaspor’u deplasmanda 2 golle geçti",
       "image": "",
       "link": "https://www.aa.com.tr/tr/spor/kocaelispor-alanyaspor-u-deplasmanda-2-golle-gecti/4098974",
@@ -585,6 +612,15 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 18:07 UTC"
+    },
+    {
+      "title": "Altın, borsa, fonlarda kaybeden kaybedene... Sınırlı kazandıranlar ise sayılı kaldı - Ekonomim",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3FsVlBCRWNnd2g1b2RMTGxEejRGNlVDdVE0QXBPTEY1S0x3LUtyX2E2dG5HamlEUzlwWFhYRnNycEVOa3lxM2ZyNjJCSjktc1VtZnFtTjd6aEx5V0FiT3A4aUptd1FzQ0c5T2FlY1BZWlpwVkNWVktobU9mY0ZqTjhZNFlFNkdEajluQ2pLa1hPZVZVVzR4Z3pDSGRUTW1pQUpSajlRUGJLVHBaNHdPMUZERXFqQjE5OTdMQmU3VW13eFFIRkhaeS12dkRxdVFSSzJz0gHYAUFVX3lxTE0wZTVpLWVJRHotY1paMGxNUWREVnVjZ09wUmExdml0NkZ6X0xaZXVkRjBmRExVbzZMWFVrMEhiV1RoQ21MdHowQjQyekFjQ2E4aXVabm5QM251Znpnem5zSm1yWGNYbm5valhUMTdPcXMxR016cTgtUGlGLWVZWW43VElxaGtMOWhoYjREbmdjMEE5eFBSZUhDRnMyWmd5LXB5cjRTRFY5dW0wZUJ1T2JkQnlDN09xSUg4WU9FVXBDbHFxRDkyYWF1TEpvQkFieTN0U09kcWVJNA?oc=5",
+      "summary": "Altın, borsa, fonlarda kaybeden kaybedene... Sınırlı kazandıranlar ise sayılı kaldı Ekonomim",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 17:58 UTC"
     },
     {
       "title": "Trump: Ukrayna'nın internet sorunu çözülmezse Musk ile görüşeceğim",
@@ -650,6 +686,24 @@
       "published_at": "2026-10-23 15:49 UTC"
     },
     {
+      "title": "Piyasalarda haftanın son günü: Hangi yatırım aracı geriledi? - Manşet Haber",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ21BTEFLYjlhT01yOVB3QWd0WUtQX1pzN0IzVEFTZnpGVnRZNndYdXpOVnN4WGhOQlNvMkNjUDdzbVAwX2xfcGRpeklfNkV2d1VfbmdiN3NKUXpTR29oWHdIMVlfUTBFSi16WHQ3TnNxRDc3bExZLW9nT0ZqN3lWbFJoWmMyQThUdkprdVA4VHAzRkpu?oc=5",
+      "summary": "Piyasalarda haftanın son günü: Hangi yatırım aracı geriledi? Manşet Haber",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 15:45 UTC"
+    },
+    {
+      "title": "Piyasalarda Gün Sonu: Borsa, Altın ve Dövizde Son Durum - Ekonomi Dünya",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbW9HaFV2MHZTN082OENmYldXb1dybTRnQS1jbkJmMDlYczdxNkFtTEtZWW0wZWxIR3F2bEpfRXVkbWoydW5hNWdtelM5Z2pPNnhSekNsU1V6WW5JYzkxLURwVzc4S1V1WHdXQkp2UjYxWHFSSENMb09fUVdxa0I5ZHVtaEFQX1p1UmtiR2ROZlVmNnc?oc=5",
+      "summary": "Piyasalarda Gün Sonu: Borsa, Altın ve Dövizde Son Durum Ekonomi Dünya",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 15:38 UTC"
+    },
+    {
       "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd8/live/36f17b50-cef9-11f1-accf-3309656ad0bb.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
@@ -666,6 +720,24 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 15:30 UTC"
+    },
+    {
+      "title": "Borsa İstanbul ve VİOP haftayı düşüşle tamamladı - Borsa Gundem",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcExTNnc1aHFWMzRGb0VkX0VOQThYaDJVWDVXVWMwU3RaNk0xR1JCemh6WWd4d3VvT2VCVlgtTXdtU1NPeHFzdWJmbnpLX3llVldYTTFoVkw3cFU4Ql9KS3QzWGdDMzFsa3lUWm0xR1RVYXA1M2FRTzNFNloxTEJ1bjQ1NjFGR1JS?oc=5",
+      "summary": "Borsa İstanbul ve VİOP haftayı düşüşle tamamladı Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 15:10 UTC"
+    },
+    {
+      "title": "Dell Uyardı: Altyapı Eksiklikleri Yapay Zekâ Projelerinin Üretime Geçişini Engelliyor - ÇözümPark",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRUFVbEVmektISGpfaDk2R1JnQks2TnFkSEM5N01OUG9oSEszcHNpWHFjMFpyM2lTZGNBQnVkUjZXaDZaRk9WaUd0UEdMdXlHY0tDa3RWX2tQbWdHWnc5Q2JkQ2ZQOHhPOWdONkZIQXhWeUdzc01WQURNc24xQmJFa2ltQUlyNjBnSk1jMExjaVlTbXFOMmVPamp6RkJEY3ZTQjZ1aXpwRDgxTVNrWWVIRw?oc=5",
+      "summary": "Dell Uyardı: Altyapı Eksiklikleri Yapay Zekâ Projelerinin Üretime Geçişini Engelliyor ÇözümPark",
+      "source": "Google News - Teknoloji",
+      "category": "Teknoloji ve Bilim",
+      "published_at": "2026-10-23 15:00 UTC"
     },
     {
       "title": "'96 yaşındayım ve 15 milyon takipçim var'",
@@ -704,6 +776,33 @@
       "published_at": "2026-10-23 14:06 UTC"
     },
     {
+      "title": "Altın fiyatları sert çakıldı! Para piyasalarında son durum - Haber 7",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY200VzRCSXVQaVFqTnAybTZPVWJYeDZ2RVFvWFU1YjN3aFItWm8xdTdkeGxyUXdvSnp2V0ptenV2cDJDdE1xeVp1eVJ4VVpKTWNZaWdKMXlQc2JHbzdvQmF5cmVNWkd3dG9qVGpPd2hHRHA2V1BrdkgzTXdnU3NYRUtFNVlXUnVmR3oycW9xT0xGVEluV1IwRVM5TElUeXVnNlU2MktSbjFoUdIBrAFBVV95cUxPZnNGQVRPQnN2WGpSaU5zQTlUMHpDUFpXWEhYRGEtb19PS1FlcHVpUkZKR0JNa1dsNGtrRmpGUGpwVkRvakNYamxMODMxZlFiZ2ppV29icktGRGItYldLVmVfTHFKU2xZeXZOQVQwMGlTWWRNSEhpX0liei1Td2VXYTFTNF9pNkFlUlo5bEdNTzFzLWJkWVZUUkdDNjFTZkRNZFEweHBoclF6TjFG?oc=5",
+      "summary": "Altın fiyatları sert çakıldı! Para piyasalarında son durum Haber 7",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 13:27 UTC"
+    },
+    {
+      "title": "Sensex, Nifty extend losses as crude surges to USD 114, all sectors close in red - TradingView",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQckhhazlyTFAwUWRUejFHbVhraWdHU19yTWhFaE16SGU5ZURWZ2JRY29mcW5BN05uSGlPSXhkSUJsdzJWdkRYcGQ3WC1TbWM2aVBSZWxiR3VSTWd3eXlyancwb3Zwa0JQTC1FSHpXOFVvcldvcXJjcWFIM3JuWXllMk1ZLS1jd0lpMkI5aC1RMk51NnZodGhMSlQtU0VBUFJORzBkXzRRRjJuNXJ1UWhmeDlWMWdvcVZ5MUU4NDFxOExyelhybmhJeUxLRlZkbG8?oc=5",
+      "summary": "Sensex, Nifty extend losses as crude surges to USD 114, all sectors close in red TradingView",
+      "source": "Google News - Küresel Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 13:09 UTC"
+    },
+    {
+      "title": "Avrupa Merkez Bankası için koltuk yarışında favori belli oldu | Son dakika ekonomi haberleri - Bloomberght",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSTF0YlhJb3M3NGdkR2ExMll3VGw2WV93QzNrcF9UZlVyNFU4cFN0TnJlcEY5V2hqeHQ3WXFSUFZKUGQydmdWeVhXTWFqaTR2S2hPOHktUHhKQTJ6ajhkeFE4SVllY19wVTF3SHlfWEFZS1V6VTE5UjVHUnk0X1JhZVcyaWpTUWpzLVFNTVdrbjRNQi01SDEtdnRHclcyQQ?oc=5",
+      "summary": "Avrupa Merkez Bankası için koltuk yarışında favori belli oldu | Son dakika ekonomi haberleri Bloomberght",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 13:05 UTC"
+    },
+    {
       "title": "Denmark to ban mink farming in government U-turn",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/ed7c2b60-cebb-11f1-ae9c-0303957c36f8.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
@@ -729,6 +828,24 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 11:30 UTC"
+    },
+    {
+      "title": "Rusya Merkez Bankası enflasyon endişeleri nedeniyle faizi %14’te tuttu - Investing.com Türkiye",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeXA0Mi1GVGVJRWZaTU9LTDYtRWhEWXZBR0UyXzZwNmRZMFpZNlJ2U3VKX1JlekpFNFgtcG9XQ3JySHdSSWNOT3diamdKRk4yMWFXMkJFV3Vla1lYT0plakVWZ3VTSkdLRldBbURBTm9jYkNPUjZxaWNlSlNxSG1oal9yYUZVUkhSUWkzMkNnUnFPRUpzU1NpalBOSU4tWF9GOTZIbWdxRDltYmtiRTJoempST0lsZ1NNWHphcl9kZk4?oc=5",
+      "summary": "Rusya Merkez Bankası enflasyon endişeleri nedeniyle faizi %14’te tuttu Investing.com Türkiye",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 11:08 UTC"
+    },
+    {
+      "title": "Piyasa özeti: BIST 100 %0,86 geriledi, dolar 49,74 lira ve gram altın 6.398 lira - Mynet Finans",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jTWpsblhDQjJtMkFGejRrYWdoY2MyQWlVU0NlMHJhblAyTC1Eb2NERk5PZV9WUkdyMENIMkQ4ZF9ERFBaMVJ0dGhZZEpSSkE?oc=5",
+      "summary": "Piyasa özeti: BIST 100 %0,86 geriledi, dolar 49,74 lira ve gram altın 6.398 lira Mynet Finans",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-23 10:39 UTC"
     },
     {
       "title": "Zonguldak'ta maden ocağındaki patlamada üç işçi hayatını kaybetti",
@@ -783,33 +900,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 07:36 UTC"
-    },
-    {
-      "title": "Almanya'daki iltica başvurularında 'rüşvetle soruşturma' iddiası",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9120/live/b5d32fa0-cea8-11f1-bbfb-357cf921a5e9.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cmdx3rdpxke1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Haftalık Die Zeit gazetesinin haberine göre suç örgütleri, Almanya'ya iltica etmek isteyenler için Türkiye'de bazı savcılara rüşvet vererek \"Cumhurbaşkanı Erdoğan'a hakaret\" suçlamasıyla ceza soruşturması açtırıyor. Berlin'de dikkatler \"suç örgütleriyle işbirliği yaptıkları\" iddia edilen savcılara çevrildi.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 06:13 UTC"
-    },
-    {
-      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0bc/live/21d3ca50-ceb0-11f1-a64c-550be9e3c66b.jpg",
-      "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 05:05 UTC"
-    },
-    {
-      "title": "Türkiye, Mekke ve Bedir ittifaklarıyla ne hedefliyor?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f8f5/live/1062a750-cefb-11f1-accf-3309656ad0bb.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cq77pze3nr2ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Türkiye, \"bölgesel sahiplenme\" adını verdiği dış politika anlayışı kapsamında Ortadoğu'da güvenlik işbirliğini güçlendirme amaçlı kurumsal adımlar attı. Ankara önce Suudi Arabistan ve Pakistan ile Mekke, sonra da Katar, Pakistan ve Endonezya ile Bedir İttifakı'nın kurulmasında aktif rol oynadı.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-22 23:00 UTC"
     }
   ]
 }
