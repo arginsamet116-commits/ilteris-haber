@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-10-24 10:55 UTC",
+  "updated_at": "2026-10-24 11:19 UTC",
   "items": [
+    {
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 11:17 UTC"
+    },
+    {
+      "title": "Beşiktaşlı futbolcu Ümit Akdağ'ın sağ elinde kırık tespit edildi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/besiktasli-futbolcu-umit-akdagin-sag-elinde-kirik-tespit-edildi/4099419",
+      "summary": "Beşiktaş, savunma oyuncusu Ümit Akdağ'ın sağ elinde kırık tespit edildiğini duyurdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 11:14 UTC"
+    },
+    {
+      "title": "İtalya'da şiddetli protestolar yaşanabileceği ihtimaliyle önlemler artırıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/italyada-siddetli-protestolar-yasanabilecegi-ihtimaliyle-onlemler-artirildi/4099414",
+      "summary": "İtalya'da geçen hafta sonu şiddet olaylarına sahne olan protesto gösterilerinin ardından bugün ve yarın yapılacak gösterilerde olay çıkma ihtimaline karşın tedbirler artırıldı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 11:04 UTC"
+    },
+    {
+      "title": "TBMM Başkanı Kurtulmuş: Yunanistan'ı Batı Trakya Türklerinin iradesine saygı göstermeye çağırıyoruz",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/tbmm-baskani-kurtulmus-yunanistani-bati-trakya-turklerinin-iradesine-saygi-gostermeye-cagiriyoruz-961074.html",
+      "summary": "TBMM Başkanı Numan Kurtulmuş, \"Yunanistan'ı, Lozan Barış Antlaşması'ndan kaynaklanan yükümlülüklerine riayet etmeye, Batı Trakya Türklerinin iradesine saygı göstermeye, seçilmiş müftüleri tanımaya ve bu kabul edilemez uygulamalardan derhal vazgeçmeye çağırıyoruz\" ifadelerini kullandı",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 11:03 UTC"
+    },
+    {
+      "title": "Memişoğlu: Her yıl yaklaşık 8 milyon kişiyi ambulansla hastanelere taşıyoruz",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/memisoglu-her-yil-yaklasik-8-milyon-kisiyi-ambulansla-hastanelere-tasiyoruz-961073.html",
+      "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Bugün 3 bin 600'ü aşkın acil sağlık hizmetleri istasyonumuz var. Her yıl yaklaşık 7,58 milyon kişiyi ambulanslarla hastanelere taşıyoruz.\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 11:00 UTC"
+    },
+    {
+      "title": "Kartal'da motosiklet sürücüsüne 242 bin lira ceza kesildi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/kartalda-motosiklet-surucusune-242-bin-lira-ceza-kesildi-961072.html",
+      "summary": "Kartal'da, plakasız motosikletle akrobatik hareketler yaparak trafik güvenliğini tehlikeye düşüren sürücüye 242 bin lira ceza kesildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 10:57 UTC"
+    },
+    {
+      "title": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss",
+      "summary": "Monitoring group reports more Muslims in Europe face racial discrimination as 'terrorist' attack kills one in France.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 10:47 UTC"
+    },
     {
       "title": "Erdoğan: BM Güvenlik Konseyi daha adil ve kapsayıcı hale getirilmeli",
       "image": "",
@@ -11,10 +74,10 @@
       "published_at": "2026-10-24 10:46 UTC"
     },
     {
-      "title": "TBMM Başkanı Kurtulmuş: Yunanistan'ı kabul edilemez uygulamalardan derhal vazgeçmeye çağırıyoruz",
+      "title": "TBMM Başkanı Kurtulmuş'tan Yunanistan'ın Gümülcine ve İskeçe'ye müftü atamasına tepki",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-yunanistani-kabul-edilemez-uygulamalardan-derhal-vazgecmeye-cagiriyoruz/4099405",
-      "summary": "",
+      "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmustan-yunanistanin-gumulcine-ve-iskeceye-muftu-atamasina-tepki/4099405",
+      "summary": "TBMM Başkanı Numan Kurtulmuş, \"Yunanistan'ı, Lozan Barış Antlaşması'ndan kaynaklanan yükümlülüklerine riayet etmeye, seçilmiş müftüleri tanımaya ve bu kabul edilemez uygulamalardan derhal vazgeçmeye çağırıyoruz.\" ifadesini kullandı.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-24 10:43 UTC"
@@ -110,6 +173,15 @@
       "published_at": "2026-10-24 09:46 UTC"
     },
     {
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74f9/live/3c3ce1b0-cf8c-11f1-bef0-7f8eb636c50b.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The children were subsequently rescued from the water, police say.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 09:45 UTC"
+    },
+    {
       "title": "Seven missing after multi-storey building collapses in Kenya's capital",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
@@ -182,6 +254,15 @@
       "published_at": "2026-10-24 09:32 UTC"
     },
     {
+      "title": "Filistin asıllı İsrail milletvekili Ahmed Tıybi: Seçimler kader belirleyici nitelikte",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/filistin-asilli-israil-milletvekili-ahmed-tiybi-secimler-kader-belirleyici-nitelikte/4099356",
+      "summary": "Filistin asıllı İsrail milletvekili Ahmed Tıybi, son 4 yılda yaşanan gelişmeler ve geleceğe yönelik tehditler nedeniyle İsrail'de 27 Ekim'de yapılacak parlamento seçimlerinin özellikle Filistinliler açısından kader belirleyici olduğunu belirtti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 09:30 UTC"
+    },
+    {
       "title": "R4 ile Almanya, İngiltere, Fransa ve İtalya Dışişleri Bakanları Toplantısı ortak basın açıklaması yayımlandı",
       "image": "",
       "link": "https://www.aa.com.tr/tr/gundem/r4-ile-almanya-ingiltere-fransa-ve-italya-disisleri-bakanlari-toplantisi-ortak-basin-aciklamasi-yayimlandi/4099355",
@@ -200,15 +281,6 @@
       "published_at": "2026-10-24 09:29 UTC"
     },
     {
-      "title": "İstanbul'daki kara para aklama soruşturmasında 3 şüpheli daha tutuklandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-kara-para-aklama-sorusturmasinda-3-supheli-daha-tutuklandi/4099353",
-      "summary": "İstanbul'da, şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin aralarında Emir ve Ömer Sarıgül'ün de bulunduğu 16 şüphelinin tutuklandığı soruşturmada 3 şüpheliye daha tutuklama kararı verildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-24 09:28 UTC"
-    },
-    {
       "title": "İki İsrail askerinin öldürülmesi sonrası El Halil'de operasyon",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9bb4/live/725be840-cf82-11f1-9626-6dcb0d355e19.png",
       "link": "https://www.bbc.com/turkce/articles/cwr5yz384gl3o?at_medium=RSS&at_campaign=rss",
@@ -218,15 +290,6 @@
       "published_at": "2026-10-24 09:22 UTC"
     },
     {
-      "title": "Fransa'da Ulusal Birlik partisinin mitinginde gerginlik ihtimaline karşı sıkı önlemler alındı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/fransada-ulusal-birlik-partisinin-mitinginde-gerginlik-ihtimaline-karsi-siki-onlemler-alindi/4099343",
-      "summary": "Fransa’da cumhurbaşkanı adayı Marine Le Pen’in partisi Ulusal Birlik’in (RN) miting yapacağı Orleans’ta karşıt görüşlü binlerce kişi toplanırken olası şiddet olaylarına karşı yoğun güvenlik önlemleri alındı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-24 09:21 UTC"
-    },
-    {
       "title": "Ilhan Omar votes as Trump renews attacks amid federal probe",
       "image": "",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss",
@@ -234,15 +297,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-24 09:16 UTC"
-    },
-    {
-      "title": "Dışişleri Bakanlığından Yunanistan'ın Gümülcine ve İskeçe'ye müftü atamasına tepki",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligindan-yunanistanin-gumulcine-ve-iskeceye-muftu-atamasina-tepki/4099340",
-      "summary": "Dışişleri Bakanlığı, Yunanistan'ın Gümülcine ve İskeçe’de sözde müftüler atayarak Batı Trakya Türk Azınlığının uluslararası anlaşmalarla teminat altına alınan temel hak ve özgürlüklerini hiçe saydığını belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-24 09:15 UTC"
     },
     {
       "title": "Why is Israel launching a new military operation in the occupied West Bank?",
@@ -279,15 +333,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-24 08:56 UTC"
-    },
-    {
-      "title": "Bakan Memişoğlu: Bugün 3 bin 600'ü aşkın acil sağlık hizmetleri istasyonumuz var",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-bugun-3-bin-600u-askin-acil-saglik-hizmetleri-istasyonumuz-var/4099322",
-      "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Bugün 3 bin 600'ü aşkın acil sağlık hizmetleri istasyonumuz var. Her yıl yaklaşık 7,5-8 milyon kişiyi ambulanslarla hastanelere taşıyoruz.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-24 08:55 UTC"
     },
     {
       "title": "Üniversitelere gelecek yıl için 871 milyar liranın üzerinde ödenek ayrıldı",
@@ -416,15 +461,6 @@
       "published_at": "2026-10-24 08:14 UTC"
     },
     {
-      "title": "DEİK Türkiye-Kanada İş Konseyi Başkanı Yılmaz: Kanada ile 10 milyar dolarlık ticaret hedefi hayal değil",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/deik-turkiye-kanada-is-konseyi-baskani-yilmaz-kanada-ile-10-milyar-dolarlik-ticaret-hedefi-hayal-degil/4099276",
-      "summary": "Dış Ekonomik İlişkiler Kurulu Türkiye-Kanada İş Konseyi Başkanı Mehmet Yılmaz, \"Önümüzdeki 3 yıllık perspektifte 5 milyar dolarlık ticaret hacmine ulaşabileceğimizi düşünüyorum. Ardından 10 milyar dolarlık hedefe doğru ilerleyebiliriz.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-24 08:12 UTC"
-    },
-    {
       "title": "Dan Sullivan vs Dan Sullivan: Why is Trump’s DOJ suing in Alaska?",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska?traffic_source=rss",
@@ -441,6 +477,15 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-24 08:04 UTC"
+    },
+    {
+      "title": "Somalili Devlet Bakanı Omar, arabuluculuğun krizleri çözmek için önemli olduğunu söyledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/somalili-devlet-bakani-omar-arabuluculugun-krizleri-cozmek-icin-onemli-oldugunu-soyledi/4099255",
+      "summary": "Somali Dışişleri ve Uluslararası İşbirliği Devlet Bakanı Ali Mohamed Omar, arabuluculuğun, çatışmaları önlemenin yanı sıra tarafları dinlemenin ve bir çatışmanın etkisini en aza indirmenin yolu olduğunu vurguladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 08:03 UTC"
     },
     {
       "title": "Aston Villa vs Manchester City LIVE: Premier League",
@@ -461,6 +506,15 @@
       "published_at": "2026-10-24 08:03 UTC"
     },
     {
+      "title": "Bölgesel İşbirliği Konseyi Genel Sekreteri Kapetanovic, bölgesel sahiplenmenin önemine işaret etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/bolgesel-isbirligi-konseyi-genel-sekreteri-kapetanovic-bolgesel-sahiplenmenin-onemine-isaret-etti/4099252",
+      "summary": "Bölgesel İşbirliği Konseyi (RCC) Genel Sekreteri Amer Kapetanovic, bölgesel sahiplenme ilkesinin önemine işaret ederek, \"Bu bizim bölgemiz, bizim coğrafyamız. Eğer bunu bu şekilde anlar ve hareket edersek, bir değişim sağlayabiliriz.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 08:02 UTC"
+    },
+    {
       "title": "Bakan Şimşek'ten IMF'nin Mali Şeffaflık Değerlendirmesi'ne ilişkin açıklama",
       "image": "https://geoim.bloomberght.com/l/2026/10/24/ver1792828969/3792460/jpg/320x180",
       "link": "https://www.bloomberght.com/bakan-simsek-ten-imf-nin-mali-seffaflik-degerlendirmesi-ne-iliskin-aciklama-3792460",
@@ -470,24 +524,6 @@
       "published_at": "2026-10-24 08:01 UTC"
     },
     {
-      "title": "Türkiye, Ürdün'de kiliseye düzenlenen saldırıyı şiddetle kınadı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/turkiye-urdunde-kiliseye-duzenlenen-saldiriyi-siddetle-kinadi-961058.html",
-      "summary": "Dışişleri Bakanlığı, Ürdün'ün Karak kentindeki bir kiliseye düzenlenen silahlı saldırıyı şiddetle kınadı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-24 08:01 UTC"
-    },
-    {
-      "title": "Zonguldak'ta maden ocağındaki patlamaya ilişkin 3 şüpheli gözaltına alındı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/zonguldakta-maden-ocagindaki-patlamaya-iliskin-3-supheli-gozaltina-alindi-961057.html",
-      "summary": "Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesinde 3 kişinin hayatını kaybettiği, 5 kişinin yaralandığı özel maden ocağındaki grizu patlamasına ilişkin 3 şüpheli gözaltına alındı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-24 07:53 UTC"
-    },
-    {
       "title": "Afyonkarahisar’daki Üniversite Öğrencilerine Büyük Fırsat! Siber Güvenlik ve Yapay Zekâ Eğitimi Başlıyor - Afyon Türkeli Gazetesi",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMHUzVzlmQzFTNXpJNDI0LW5VamlMU2NnNUhrMGFLMW54YTYwcXl1TGhFa0FUUTR1M2dIcGRTWmNFRzkzNlFKTjdqZkpNdTJGUEcwOXpPc2tPemg0czZ1RTBWbC1uM1Y0NWM5a2ZROG4yR3VfOFNsNmx0M0VKeDBfdUtvaU1ZUnQxNVpsbHdnaVFSZTN6azc5NnNoT1puMjhVMVNxV0ozUGEteUNMR3RRT193VHhzRlJEYXhTM2p2b3pfaHAzNjg4ekNVVm9kN2h4bWVOY1Y2ZlNVR05zcE1n?oc=5",
@@ -495,15 +531,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-10-24 07:50 UTC"
-    },
-    {
-      "title": "İletişim Başkanlığı, Türkiye'nin İklim Diplomasisi paneli düzenleyecek",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskanligi-turkiyenin-iklim-diplomasisi-paneli-duzenleyecek-961056.html",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından 27 Ekim'de Ankarada \"Sıfır Atıktan COP31e: Türkiyenin İklim Diplomasisi\" başlıklı bir panel ve Türkçe ve İngilizce dillerinde hazırlanmış olan \"İklim Diplomasisi\" adlı kitabın tanıtımı gerçekleştirilecek.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-24 07:39 UTC"
     },
     {
       "title": "Man arrested after fire breaks out at Hitler’s former Alpine retreat",
@@ -558,15 +585,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-24 07:11 UTC"
-    },
-    {
-      "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
-      "image": "",
-      "link": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
-      "summary": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-24 07:09 UTC"
     },
     {
       "title": "7 başlıkla geçen hafta",
@@ -776,15 +794,6 @@
       "published_at": "2026-10-23 20:40 UTC"
     },
     {
-      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9844/live/e91cc740-cf1b-11f1-9796-954775b3a434.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 20:18 UTC"
-    },
-    {
       "title": "Astor Enerji'nin ana hissedarları hakkındaki tedbirler kaldırıldı",
       "image": "https://geoim.bloomberght.com/l/2026/10/23/ver1792786522/3792451/jpg/320x180",
       "link": "https://www.bloomberght.com/astor-enerji-nin-ana-hissedarlari-hakkindaki-tedbirler-kaldirildi-3792451",
@@ -810,15 +819,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 19:46 UTC"
-    },
-    {
-      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 19:42 UTC"
     },
     {
       "title": "PwC, çalışan kayıtlarını etkileyen siber güvenlik olayını doğruladı",
