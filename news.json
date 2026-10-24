@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-24 22:51 UTC",
+  "updated_at": "2026-10-24 23:15 UTC",
   "items": [
+    {
+      "title": "Anadolu Otoyolu'nda tır ile cipin çarpıştığı kazada 1 kişi öldü, 2 kişi yaralandı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/anadolu-otoyolunda-tir-ile-cipin-carpistigi-kazada-1-kisi-oldu-2-kisi-yaralandi-961113.html",
+      "summary": "Anadolu Otoyolu'nun Kocaeli geçişinde devrilen tırın karşı şeride geçerek ciple çarpışması sonucu tır sürücüsü hayatını kaybetti, cipteki 2 kişi yaralandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 23:03 UTC"
+    },
+    {
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 23:02 UTC"
+    },
+    {
+      "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+      "summary": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 22:35 UTC"
+    },
+    {
+      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "image": "",
+      "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "summary": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 22:28 UTC"
+    },
     {
       "title": "ABD Başkanı Trump: İran'ı tekrar bombalama ihtimalim var",
       "image": "",
@@ -164,6 +200,15 @@
       "published_at": "2026-10-24 21:15 UTC"
     },
     {
+      "title": "Barselona'da şiddet olaylarının yaşandığı protestolara polis müdahale etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/barselonada-siddet-olaylarinin-yasandigi-protestolara-polis-mudahale-etti/4099892",
+      "summary": "İspanya'nın Barselona kentinde polis ekipleri, gençlerin organize ettiği protesto gösterilerinde şiddet olayları yaşanması üzerine gruba müdahale etti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 21:10 UTC"
+    },
+    {
       "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
@@ -299,6 +344,15 @@
       "published_at": "2026-10-24 20:05 UTC"
     },
     {
+      "title": "Turkish defense minister marks 100th anniversary of Eskisehir Air Maintenance Factory - ssbulten.com.tr",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX25reVdoMFNfMDR4NloxRWx0YjZDWWRnNFNXcXgxRWVIeGh2YnQtZVdJNXM4OUlOUFRXN1hrWEIzckRQQ1dDNkI3dXVEOVRYLXdrbk81Uno2OFRab0YzRzcwaUJOQmxHLXZFQ1k2WU1FbHU2UU40eUs5RXNlU2dqX0NYWDN6bmFOUDdwenE5WDU0RXdzeVE4MFdTYzBqclo4OEpoMUhsV3AxX04zRXFTR25CWjR0NWFDV3JFNHFwS1VlaDRVczAybFVuYVg?oc=5",
+      "summary": "Turkish defense minister marks 100th anniversary of Eskisehir Air Maintenance Factory ssbulten.com.tr",
+      "source": "Google News - Uluslararası Savunma",
+      "category": "Savunma",
+      "published_at": "2026-10-24 20:04 UTC"
+    },
+    {
       "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
       "image": "",
       "link": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
@@ -306,15 +360,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-24 20:03 UTC"
-    },
-    {
-      "title": "Fernando Melo'nun \"Rüzgar Ağacı\" adlı eseri AKM'de izleyiciyle buluştu",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/fernando-melonun-ruzgar-agaci-adli-eseri-akmde-izleyiciyle-bulustu/4099843",
-      "summary": "İstanbul Kültür Sanat Vakfı tarafından düzenlenen 30. İstanbul Tiyatro Festivali kapsamında, İstanbul Devlet Opera ve Balesi ile ortak prodüksiyon olarak sahnelenen \"Rüzgar Ağacı\", AKM Tiyatro Sahnesi'nde prömiyer yaptı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-24 19:57 UTC"
     },
     {
       "title": "OpenAI ve NASK, yapay zeka ve siber güvenlik araştırmaları için anlaştı - Teknoblog",
@@ -407,15 +452,6 @@
       "published_at": "2026-10-24 17:25 UTC"
     },
     {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-24 17:21 UTC"
-    },
-    {
       "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
@@ -434,24 +470,6 @@
       "published_at": "2026-10-24 17:08 UTC"
     },
     {
-      "title": "Trump says he may move White House press corps to new location",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
-      "summary": "Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-24 17:01 UTC"
-    },
-    {
-      "title": "Mısır'dan doğal gaz sondajında olumlu sonuç",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/misirdan-dogal-gaz-sondajinda-olumlu-sonuc-961096.html",
-      "summary": "Mısır Petrol Bakanlığı, Akdeniz'deki \"Nergis 2\" doğal gaz sondaj kuyusunda, ABD'li Chevron şirketiyle işbirliği içinde yürütülen sondaj çalışmalarından olumlu sonuçlar alındığını duyurdu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-24 16:59 UTC"
-    },
-    {
       "title": "AK Parti Sözcüsü Çelik: Mazlumların sesinin duyulduğu küresel düzen için mücadeleye devam edeceğiz",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/ak-parti-sozcusu-celik-mazlumlarin-sesinin-duyuldugu-kuresel-duzen-icin-mucadeleye-devam-edecegiz-961097.html",
@@ -459,15 +477,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-24 16:58 UTC"
-    },
-    {
-      "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
-      "summary": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-24 16:48 UTC"
     },
     {
       "title": "Atina'nın Batı Trakya'daki müftülüklere yaptığı atamalara Ankara'dan tepki",
@@ -891,15 +900,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-10-23 15:00 UTC"
-    },
-    {
-      "title": "SEC exams to focus on private credit, artificial intelligence, among other priorities in FY27 - TradingView",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeWViaU9GR0p4Q2pEOXAzeWJwRnpYckZQaGRkV0twSkhCd3J1bURaWUZmT1JscW9udjNERW9zY2ZuM0JuQl9uUmZZNVh5NUNLWHBRbmVhSmF3Sy1TM2hHS0JQbUNwbHBuV05pWGhXbi1Fd3dtNTluVDNjWnNwSUt2dnFhZzRIMy15WGFSOGhRRGV1Z1NHb2w5NklfaXFoaUd4Nlkxakg3VTJEMmFIbWxlTGc4UTVVVk9hdjdIOUpudF9nV0p2SjkySHBvMVlxbENJNVp3TTZMRFNEVWNucThsZTVlZkI0ZldL?oc=5",
-      "summary": "SEC exams to focus on private credit, artificial intelligence, among other priorities in FY27 TradingView",
-      "source": "Google News - Küresel Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-23 14:53 UTC"
     }
   ]
 }
