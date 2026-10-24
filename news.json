@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-24 02:58 UTC",
+  "updated_at": "2026-10-24 03:28 UTC",
   "items": [
+    {
+      "title": "İstanbul'da bazı cadde ve yollar trafiğe kapatıldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-bazi-cadde-ve-yollar-trafige-kapatildi-961049.html",
+      "summary": "29 Ekim Cumhuriyet Bayramı tören provası nedeniyle İstanbul'da bazı cadde ve yollar trafiğe kapatıldı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 02:56 UTC"
+    },
+    {
+      "title": "Century-old mosque near Indian PM’s residence under gov’t threat",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/century-old-mosque-near-indian-pms-residence-under-govt-threat?traffic_source=rss",
+      "summary": "India’s Muslims fear the demolition of a historic mosque near PM's house after the imam claimed he got eviction notice.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 02:53 UTC"
+    },
     {
       "title": "Husilerin Riyada fırlattığı balistik füze imha edildi",
       "image": "",
@@ -452,24 +470,6 @@
       "published_at": "2026-10-23 20:13 UTC"
     },
     {
-      "title": "Adana merkezli 'kurgu trafik kazası' soruşturmasında 58 şüpheli tutuklandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/adana-merkezli-kurgu-trafik-kazasi-sorusturmasinda-58-supheli-tutuklandi-961032.html",
-      "summary": "Adana merkezli 7 ilde yürütülen \"kurgu trafik kazası\" soruşturması kapsamında gözaltına alınan 87 şüpheliden 58'i tutuklandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 20:07 UTC"
-    },
-    {
-      "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
-      "summary": "President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-23 20:02 UTC"
-    },
-    {
       "title": "Bakan Fidan: İran'a askeri müdahale çözüm değil, bunu kimse onaylamıyor",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d346/live/5d4c90f0-cefe-11f1-accf-3309656ad0bb.jpg",
       "link": "https://www.bbc.com/turkce/articles/cmg47nxz223zo?at_medium=RSS&at_campaign=rss",
@@ -776,22 +776,13 @@
       "published_at": "2026-10-23 14:06 UTC"
     },
     {
-      "title": "U.S. Stock Futures Fall on AI Trade Concerns - TradingView",
+      "title": "RBI's Rs 2.5 lakh crore liquidity infusion raises questions over tightening policy signal: SBI Report - TradingView",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTR4Y3plVnFIa0k4ajV3czBpdFdVZ0dkSUl4amNBQ1VLYjYxRkNZa09XbXQ5bGl3QXh2SnhQSmJKYXhEdGpkS2s3VTZWYkZucldfSENWdzh6bHk3RXlIZFkxUDhHaXBSOFNXMXZlbnFpYVpjVVAxZDd3NGdZZU5VTVJmRUJkZWZpdFZHYUlaWHFpOEFsZUZWcnZ5UHpaNGM?oc=5",
-      "summary": "U.S. Stock Futures Fall on AI Trade Concerns TradingView",
-      "source": "Google News - Küresel Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-23 13:55 UTC"
-    },
-    {
-      "title": "Borsa İstanbul'da tarihi düşüş. Kayıplar yüzde 4'ü aştı - Nefes Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMFlMZnhpTXcwcHF1M2UtdTJWWW5tX09yY1k5X1F5cnVJTFhBUm11VUlNX2JqNXJKSnc1enFBME0tekpJUFk3WkRZTjVmakNTay1KY1pMc1BxZUdscl9PR0NyUmxCTVVzbThkWkJUSEo4Q3BaX2toa2QtVlJ2UU16RFNoWUdlNk5SNVNIYQ?oc=5",
-      "summary": "Borsa İstanbul'da tarihi düşüş. Kayıplar yüzde 4'ü aştı Nefes Gazetesi",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-23 13:49 UTC"
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMkdpQ0VKX2lWQWthNEwxQU5CbFVaWkZsS251Q0dSWEE1UGhMTlZ3UEFZVy1sOWFmNGplQjdnQU1FSjVDTm02dWNSSHloemswcFlGVlAzSm1pRllfZkVJVlpLNENmcjNzbG95RS02X21TRWRrTkVOc283UWRQekkwdnk0SExmaXE4RVpJWHkwaUNrbnpsakNXVlR0SWlDcmZYTVRlMjdISzFabk1IYkU4WmJRUGFJeXBRWTZTLVQ0WWZJM2JJY0hxSU5vengydHN6eUpTVjc5cF9BZ0hLS2QxSl92Z29iVFdyOTZYTQ?oc=5",
+      "summary": "RBI's Rs 2.5 lakh crore liquidity infusion raises questions over tightening policy signal: SBI Report TradingView",
+      "source": "Google News - Küresel Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-23 14:01 UTC"
     },
     {
       "title": "Altın fiyatları sert çakıldı! Para piyasalarında son durum - Haber 7",
@@ -900,6 +891,15 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-23 07:36 UTC"
+    },
+    {
+      "title": "Polonya Araştırma Enstitüsü NASK ile OpenAI, yapay zekâ güvenliği çalışmaları için anlaşmaya vardı - Unite.AI",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPREVQWXFESV9mU2ZXXy05ZE12Mjc3ak5XcTU5TEZyNVM0aHNfelgza3lRMTdmTE95T0lPZ3lCd0FGMHRoYXJvcEtZdkRzLXVUWnNBZ091M0h2VWpuMHJiU0J5VWdOSTVVTFh6MzB1ZXNnNkljV1c5YzRxR0ltcHJzYzZZSGwxdFBsU1R1TXVldXk3cS1Sanc?oc=5",
+      "summary": "Polonya Araştırma Enstitüsü NASK ile OpenAI, yapay zekâ güvenliği çalışmaları için anlaşmaya vardı Unite.AI",
+      "source": "Google News - Teknoloji",
+      "category": "Teknoloji ve Bilim",
+      "published_at": "2026-10-23 07:04 UTC"
     }
   ]
 }
