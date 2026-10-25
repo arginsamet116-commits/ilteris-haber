@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-25 15:55 UTC",
+  "updated_at": "2026-10-25 16:21 UTC",
   "items": [
+    {
+      "title": "ABD Başkanı Trump'tan İran'a yeni ültimatom",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-irana-yeni-ultimatom/4100358",
+      "summary": "ABD Başkanı Donald Trump, Tahran'a yeni bir ültimatom göndererek, ya İran'la anlaşma imzalayacaklarını ya da bu ülkeyi askeri olarak \"yok edeceklerini\" ifade etti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-25 16:09 UTC"
+    },
+    {
+      "title": "Early reports suggest record high turnout in Serbia elections",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-25 16:05 UTC"
+    },
+    {
+      "title": "Bakan Gürlek'ten fon soruşturmasına ilişkin açıklama",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/bakan-gurlekten-fon-sorusturmasina-iliskin-aciklama/4100355",
+      "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmasına ilişkin, \"Gönüllü iade yapılması, tek başına hiçbir gerçek veya tüzel kişinin hukuki sorumluluğunu ortadan kaldırmaz.\" ifadelerini kullandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-25 16:01 UTC"
+    },
+    {
+      "title": "Modern savunma teknolojileri Afrika'da vitrine çıkıyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/guncel/modern-savunma-teknolojileri-afrikada-vitrine-cikiyor-961163.html",
+      "summary": "Afrika'daki önemli savunma ve güvenlik buluşmalarından biri haline gelen BAMEX 2026, 913 Kasım'da Mali'nin başkenti Bamakoda gerçekleştirilecek.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-25 15:59 UTC"
+    },
+    {
+      "title": "Milli güreşçi Yüksel Sarıçiçek dünya ikincisi oldu",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/spor/milli-guresci-yuksel-saricicek-dunya-ikincisi-oldu-961162.html",
+      "summary": "Kazakistan'da düzenlenen 2026 Dünya Güreş Şampiyonası'nda mücadele eden milli sporcu Yüksel Sarıçiçek, grekoromen stil 82 kiloda gümüş madalyanın sahibi oldu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-25 15:50 UTC"
+    },
     {
       "title": "Milli güreşçi Yüksel Sarıçiçek, dünya ikincisi oldu",
       "image": "",
@@ -20,9 +65,36 @@
       "published_at": "2026-10-25 15:47 UTC"
     },
     {
-      "title": "Bakan Gürlek: Fon soruşturmalarında önceliğimiz iyi niyetli yatırımların hakkını korumak",
+      "title": "Libya Dışişleri Bakanlığı, ABD maslahatgüzarını bakanlığa çağırdı",
       "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-sorusturmalarinda-onceligimiz-iyi-niyetli-yatirimlarin-hakkini-korumak-961160.html",
+      "link": "https://www.trthaber.com/haber/dunya/libya-disisleri-bakanligi-abd-maslahatguzarini-bakanliga-cagirdi-961161.html",
+      "summary": "Libya Dışişleri Bakanlığı, ABD Başkanı Donald Trumpın Libya ile ilgili tahkir edici ifadeleri nedeniyle ABDnin Trablustaki maslahatgüzarını bakanlığa çağırarak protesto notası verdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-25 15:44 UTC"
+    },
+    {
+      "title": "Seven killed in Gaza as Israel targets university campus and other sites",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
+      "summary": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-25 15:40 UTC"
+    },
+    {
+      "title": "UN official warns AI could ‘deepen’ global inequality",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss",
+      "summary": "UN official warns AI could ‘deepen’ global inequality",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-25 15:38 UTC"
+    },
+    {
+      "title": "Bakan Gürlek: Fon soruşturmalarında önceliğimiz iyi niyetli yatırımcıların hakkını korumak",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-sorusturmalarinda-onceligimiz-iyi-niyetli-yatirimcilarin-hakkini-korumak-961160.html",
       "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmalarıyla ilgili, \"Hiçbir hukuka aykırılığın karşılıksız kalmaması, mağduriyetlerin giderilmesi ve adaletin eksiksiz tecellisi için kararlılıkla çalışacağız\" açıklamasını yaptı.",
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
@@ -81,15 +153,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-25 15:08 UTC"
-    },
-    {
-      "title": "Early reports suggest record high turnout in Serbia elections",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d7d/live/b4e2d610-d072-11f1-afcb-6b9b9432d8fc.png",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 15:07 UTC"
     },
     {
       "title": "STM'nin avcı İHA'sı TUNGA-X, düşman unsurunu tam isabetle imha etti",
@@ -272,15 +335,6 @@
       "published_at": "2026-10-25 13:47 UTC"
     },
     {
-      "title": "İsrail'in kuşattığı Batı Şeria'nın El Halil kentinde binlerce Filistinli evlerini terk etmeye zorlanıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/israilin-kusattigi-bati-serianin-el-halil-kentinde-binlerce-filistinli-evlerini-terk-etmeye-zorlaniyor/4100282",
-      "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın El Halil kentinde yaklaşık 2 bin 200 Filistinliyi evlerinden zorla çıkarıp konut ve iş yerlerini yıktı, giriş ve çıkışları kapatarak günlük yaşamı felce uğrattı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 13:46 UTC"
-    },
-    {
       "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
       "image": "",
       "link": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
@@ -315,15 +369,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-25 13:38 UTC"
-    },
-    {
-      "title": "SİPER Ürün-2 yeni kabiliyetini başarıyla test etti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/siper-urun-2-yeni-kabiliyetini-basariyla-test-etti/4100275",
-      "summary": "Türkiye'nin uzun menzilli bölge hava ve füze savunma sistemi SİPER Ürün-2, yeni kabiliyetini başarılı atış testiyle sahada ispatladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 13:36 UTC"
     },
     {
       "title": "A Milli Kadın Voleybol Takımı'nın Dünya Kupası'ndaki rakipleri yarın belli olacak",
@@ -434,15 +479,6 @@
       "published_at": "2026-10-25 12:38 UTC"
     },
     {
-      "title": "Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss",
-      "summary": "Joel Embiid posts triple-double as 76ers handle Bucks. Devin Booker posts 43 to help Suns down Warriors.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 12:37 UTC"
-    },
-    {
       "title": "İran Dışişleri Bakanı Arakçi: Hürmüz Boğazı'nın yönetimi eskisi gibi olmayacak",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-hurmuz-bogazinin-yonetimi-eskisi-gibi-olmayacak-961151.html",
@@ -468,42 +504,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-25 12:19 UTC"
-    },
-    {
-      "title": "Algerian parliament’s upper house approves troop deployment to Niger",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss",
-      "summary": "Vote to send forces comes after a recent defence pact between the two neighbouring countries.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 12:19 UTC"
-    },
-    {
-      "title": "Şehit Albay Sayit Gökgöz son yolculuğuna uğurlandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/sehit-albay-sayit-gokgoz-son-yolculuguna-ugurlandi-961147.html",
-      "summary": "Ankara'da meydana gelen askeri araç kazasında şehit olan Albay Sayit Gökgöz için cenaze töreni düzenlendi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 12:02 UTC"
-    },
-    {
-      "title": "Bakanlığın elektrik ihtiyacının yüzde 90'ı güneşten karşılanıyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/cevre/bakanligin-elektrik-ihtiyacinin-yuzde-90i-gunesten-karsilaniyor-961146.html",
-      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığının Elmadağ'da kurduğu 4,5 megavatlık güneş enerjisi santrali haziran sonunda üretime başladı. Açık otoparktaki santralle birlikte yaklaşık 5 megavat kurulu güce ulaşan Bakanlık, elektrik ihtiyacının yüzde 90'ını yenilenebilir kaynaklardan karşılıyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 11:56 UTC"
-    },
-    {
-      "title": "Arap Koalisyonu: Husilerin Suudi Arabistan'ın güneyine fırlattığı 10 balistik füze imha edildi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-husilerin-suudi-arabistanin-guneyine-firlattigi-10-balistik-fuze-imha-edildi-961148.html",
-      "summary": "Yemen'deki İran destekli Husilerin Suudi Arabistan'ın güneyine fırlattığı 10 balistik füzenin hava savunma sistemleri tarafından engellenerek imha edildiği duyuruldu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 11:40 UTC"
     },
     {
       "title": "Hintli iş insanı Borsa İstanbul'da 8 milyon doları nasıl 800 milyon dolar yaptı haberi - Borsanın Gündemi",
@@ -623,15 +623,6 @@
       "published_at": "2026-10-25 07:25 UTC"
     },
     {
-      "title": "Irak Merkez Bankası: Döviz rezervi 80 milyar dolara ulaştı - Rudaw",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCWVpGeGFsYnNQM3IzdUpsdnR0ZGl4UDAtZ0J5WmZsTE05Y3hqWE56QnRlejZGNl9XZ0VBWW5jWmxDMXFIWEhtODJfMkRZQnRZWGxxd2NfWDJ5Nkh3NVdMWjExdw?oc=5",
-      "summary": "Irak Merkez Bankası: Döviz rezervi 80 milyar dolara ulaştı Rudaw",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-25 07:10 UTC"
-    },
-    {
       "title": "Trump: İran'ı tekrar bombalama ihtimalim var",
       "image": "https://geoim.bloomberght.com/l/2026/10/25/ver1792909682/3792468/jpg/320x180",
       "link": "https://www.bloomberght.com/trump-iran-i-tekrar-bombalama-ihtimalim-var-3792468",
@@ -747,15 +738,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-24 16:28 UTC"
-    },
-    {
-      "title": "Bosna-Hersek Ordusunun Askeri Gücü: Envanterde Kaç Tank, Helikopter ve İHA Var? (2026) - Envanter Medya",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10OTNlaTVORGJ1WDVvcFdpa2prUHRmOHFoUnlJZjhlYi1NSDZ0TVBqY0plZDZMa0hFNjlvTTVXcW0zQ1d3QTcxaVpQUnBnajlTajhtTjRzejNFRW90bVZIMHNIYmVGcWM?oc=5",
-      "summary": "Bosna-Hersek Ordusunun Askeri Gücü: Envanterde Kaç Tank, Helikopter ve İHA Var? (2026) Envanter Medya",
-      "source": "Google News - Savunma",
-      "category": "Savunma",
-      "published_at": "2026-10-24 16:19 UTC"
     },
     {
       "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
@@ -900,6 +882,24 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-10-24 07:50 UTC"
+    },
+    {
+      "title": "Hangi besinler cildin daha genç görünmesine yardımcı olabilir?",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b5f7/live/27245050-cec0-11f1-ae9c-0303957c36f8.jpg",
+      "link": "https://www.bbc.com/turkce/articles/crx23408y3exo?at_medium=RSS&at_campaign=rss",
+      "summary": "Bitkiler, yağlar ve fermente gıdalar kırışıklıkları azaltabilir, kolajen üretimini artırabilir ve cildimizin dokusunu iyileştirebilir.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 07:12 UTC"
+    },
+    {
+      "title": "7 başlıkla geçen hafta",
+      "image": "https://geoim.bloomberght.com/l/2026/10/24/ver1792826081/3792459/jpg/320x180",
+      "link": "https://www.bloomberght.com/7-baslikla-gecen-hafta-3792459",
+      "summary": "Küresel piyasalarda geçen hafta Ukrayna ve İran savaşına dair gelişmeler öne çıkarken, yurt içi piyasalarda fon piyasasında yaşanan gelişmeler yakından takip edildi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-24 06:58 UTC"
     }
   ]
 }
