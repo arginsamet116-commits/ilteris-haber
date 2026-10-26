@@ -1,57 +1,345 @@
 {
-  "updated_at": "2026-10-26 08:16 UTC",
+  "updated_at": "2026-10-26 09:12 UTC",
   "items": [
     {
-      "title": "e-Ticaret siteleri kışlık alışverişlerle hareketlendi",
+      "title": "İnsan haklarının çöküşü ve Filistinli siyasi mahkumlar",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/e-ticaret-siteleri-kislik-alisverislerle-hareketlendi/4100821",
-      "summary": "Havaların soğumaya başlamasıyla birlikte tüketicilerin hem kışlık kıyafetlerini hem de konservelerini internet üzerinden almaya yönelmesi e-ticaret sitelerinde hareketliliğe yol açtı.",
+      "link": "https://www.aa.com.tr/tr/analiz/insan-haklarinin-cokusu-ve-filistinli-siyasi-mahkumlar/4100937",
+      "summary": "Talep açık: Filistinli mahkumlar, acılarının görmezden gelindiği ve haklarının feda edilebilir görüldüğü bir sisteme terk edilmemelidir.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 09:07 UTC"
+    },
+    {
+      "title": "İsrail Savunma Bakanı, seçimlerden önce İran'a saldırma niyetlerinin olmadığını iddia etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakani-secimlerden-once-irana-saldirma-niyetlerinin-olmadigini-iddia-etti/4100932",
+      "summary": "İsrail Savunma Bakanı Yisrael Katz, yarın düzenlenecek genel seçimler öncesinde İran'a saldırma niyetlerinin olmadığını iddia ederek, İran'ın İsrail'e saldırması halinde güçlü karşılık vereceklerini söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 09:05 UTC"
+    },
+    {
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c7/live/712973e0-d110-11f1-b441-2b33b063138f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 09:04 UTC"
+    },
+    {
+      "title": "Hintli iş insanı Borsa İstanbul'da 8 milyon doları nasıl 800 milyon dolar yaptı haberi - Borsanın Gündemi",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONFY4QUkyRzc2OFpaVlFCNkU2NFNLZjVfU2VqaERsS1J2LVM4b2R1Nnk5SXg2Q0FGajBOSDBsamw2M1pkQ1ZDaVloMnR0c0h0T1ZZSWFhT2dScTF3Um1LLVd5eXJPZ05fZnRGelZlbUIwZVUxdGtCZ0F1dVAyYkJUZ3d5TTRDM1hibUxMVXJEbkZER3pXLWdLWHRvNEpWbnpYZi1ucHJDRl9hTkc4S1kyR2UxTTVfZmFMTWdBNHVBTmQydw?oc=5",
+      "summary": "Hintli iş insanı Borsa İstanbul'da 8 milyon doları nasıl 800 milyon dolar yaptı haberi Borsanın Gündemi",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-26 09:04 UTC"
+    },
+    {
+      "title": "Sırbistan'da iktidardaki Vucic'in, öğrenci hareketine yenilmesi sonrası kutlamalar",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab42/live/eccff960-d0ca-11f1-b86a-c167c5eb76b4.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cqdjv8yvw2myo?at_medium=RSS&at_campaign=rss",
+      "summary": "Uzun süredir iktidarda bulunan sağcı popülist lider Aleksandar Vucic, ülkedeki parlamento seçimlerinde öğrencilerin öncülüğündeki protesto hareketi karşısında yenilgiyi kabul etti. Öğrenci Listesi'nin liste başı adayı Ilija Srdanovic, BBC Sırpça servisine verdiği demeçte, \"Burası özgür bir devlet olacak\" dedi.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 09:03 UTC"
+    },
+    {
+      "title": "Dünyada bu hafta birçok etkinlik sanatseverlerle buluşacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/kultur/dunyada-bu-hafta-bircok-etkinlik-sanatseverlerle-bulusacak/4100926",
+      "summary": "Dünyanın farklı şehirlerinde bu hafta film festivallerinden opera temsillerine, sergilerden konserlere birçok etkinlik sanatseverlerin beğenisine sunulacak.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 09:01 UTC"
+    },
+    {
+      "title": "İklim zirvesi COP31, 12 tematik günle Antalya'da düzenlenecek",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/cevre/iklim-zirvesi-cop31-12-tematik-gunle-antalyada-duzenlenecek-961217.html",
+      "summary": "Türkiye'nin ev sahipliğinde 920 Kasım'da Antalya'da gerçekleştirilecek COP31'de yaklaşık 100 gündem maddesinin görüşülmesi bekleniyor. COP31 takvimi 12 tematik gün üzerine kuruldu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:54 UTC"
+    },
+    {
+      "title": "İran'dan Rusya ile enerji işbirliği değerlendirmesi",
+      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1793004878/3792526/jpg/320x180",
+      "link": "https://www.bloomberght.com/iran-dan-rusya-ile-enerji-isbirligi-degerlendirmesi-3792526",
+      "summary": "İran Dışişleri Bakanı Abbas Erakçi, Tahran ile Moskova arasındaki enerji ilişkilerinin geliştirilmesinin iki ülkenin konumunu güçlendirebileceğini belirtti.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-26 08:53 UTC"
+    },
+    {
+      "title": "DOSYA: Karanlıktan Şebekeye",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dosya-haber/dosya-karanliktan-sebekeye/4100910",
+      "summary": "Türkiye'nin elektrik serüveni, Osmanlı döneminde yerel ölçekte başlayan üretimden Cumhuriyet yıllarında kurulan santrallere ve ulusal şebekeye uzanarak ülkenin ekonomik, teknolojik ve toplumsal dönüşümünün önemli parçalarından biri haline geldi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:51 UTC"
+    },
+    {
+      "title": "İsrail'in Gazze'de yerinden edilenlerin kaldığı çadırlara saldırısı sonucu 800'den fazla kişi barınaksız kaldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-yerinden-edilenlerin-kaldigi-cadirlara-saldirisi-sonucu-800den-fazla-kisi-barinaksiz-kaldi/4100908",
+      "summary": "İsrail ordusu, Gazze Şeridi'nde yerinden edilenlerin kaldığı çadırları insansız hava araçlarıyla (İHA) hedef alarak 800'den fazla Filistinliyi barınaksız bıraktı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:48 UTC"
+    },
+    {
+      "title": "Reel sektörün tahvil ihraçlarında gerileme",
+      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1793004513/3792525/jpg/320x180",
+      "link": "https://www.bloomberght.com/reel-sektorun-tahvil-ihraclarinda-gerileme-3792525",
+      "summary": "Reel sektör tahvil ihraçlarında Temmuz sonrası görülen düşüş ivmesi devam ediyor.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-26 08:47 UTC"
+    },
+    {
+      "title": "AB, Çin'e yeni ithalat kısıtlamaları getirmeyi planlıyor",
+      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1793004436/3792524/jpg/320x180",
+      "link": "https://www.bloomberght.com/ab-cine-yeni-ithalat-kisitlamalari-getirmeyi-planliyor-3792524",
+      "summary": "Avrupa Birliği'nin kimyasallar, mobilya ve makine gibi sektörlerden Çin'den yapılan ürün ithalatını azaltmak için koruma önlemleri almayı planladığı bildirildi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-26 08:46 UTC"
+    },
+    {
+      "title": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
+      "summary": "After years of war, displacement and restrictions, Gazans ask whether Israel’s election will affect their future.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:43 UTC"
+    },
+    {
+      "title": "ABD'de kuş gribi nedeniyle yaklaşık 1 milyon tavuk itlaf edildi",
+      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1793004395/3792523/jpg/320x180",
+      "link": "https://www.bloomberght.com/abdde-kus-gribi-nedeniyle-yaklasik-1-milyon-tavuk-itlaf-edildi-3792523",
+      "summary": "Illinois'deki bir yumurta çiftliğinde 934 bin 600 kanatlıyı etkileyen kuş gribi salgını, ABD'deki en büyük aktif vaka oldu. Yumurtacı tavuk kaybının arzı daraltarak fiyatlar üzerindeki baskıyı artırabileceği belirtiliyor.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-26 08:41 UTC"
+    },
+    {
+      "title": "ABD, İran'a saldırılara devam edecek mi?",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/analiz/abd-irana-saldirilara-devam-edecek-mi/4100884",
+      "summary": "Trump yönetiminin İran'a yönelik saldırıları yeniden başlatma ihtimali göz ardı edilemez. Bu adımın ara seçimlerin ardından atılması olası görünse de gelişmelerin seyrine bağlı olarak operasyonlar seçimlerden önce de başlayabilir.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:41 UTC"
+    },
+    {
+      "title": "Lula’s victory may be a turning point for Latin America",
+      "image": "",
+      "link": "https://www.aljazeera.com/opinions/2026/10/26/lulas-victory-may-be-a-turning-point-for-latin-america?traffic_source=rss",
+      "summary": "The outcome of Brazil's presidential election demonstrates that the far-right tide in Latin America is not inevitable.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:41 UTC"
+    },
+    {
+      "title": "İnsansız sistemlerin güçleri sahada birleşiyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/insansiz-sistemlerin-gucleri-sahada-birlesiyor/4100876",
+      "summary": "Türk savunma sanayisi bünyesinde geliştirilen insansız hava ve kara araçlarının entegrasyonu ile çok yönlü sistemler oluşturulması hedefleniyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:39 UTC"
+    },
+    {
+      "title": "Brezilya'da Lula benzeri görülmemiş bir seçim zaferi elde etti",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70a5/live/364638b0-d0d1-11f1-a058-dfc7f6e2951c.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cw0k0ey5en0yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gitti. Ülkenin Yüksek Seçim Kurulu, görevdeki Lula da Silva'nın oyların yüzde 51,79'unu alarak yeniden devlet başkanı seçildiğini ilan etti.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:36 UTC"
+    },
+    {
+      "title": "Türkiye'nin elektrik serüveni Tarsus'tan ulusal şebekeye uzandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-elektrik-seruveni-tarsustan-ulusal-sebekeye-uzandi/4100871",
+      "summary": "Türkiye'nin elektrik serüveni, Osmanlı döneminde yerel ölçekte başlayan üretimden Cumhuriyet yıllarında kurulan santrallere ve ulusal şebekeye uzanarak ülkenin ekonomik, teknolojik ve toplumsal dönüşümünün önemli parçalarından biri haline geldi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:35 UTC"
+    },
+    {
+      "title": "Bolu Belediyesinde rüşvet ve ihale soruşturması: 4 gözaltı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/bolu-belediyesinde-rusvet-ve-ihale-sorusturmasi-4-gozalti-961216.html",
+      "summary": "Bolu Belediyesine yönelik \"rüşvet\" ve \"ihaleye fesat karıştırma\" soruşturması kapsamında 4 şüpheli gözaltına alındı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:33 UTC"
+    },
+    {
+      "title": "Katil İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 11 kişi hayatını kaybetti",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/katil-israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-11-kisi-hayatini-kaybetti-961215.html",
+      "summary": "Soykırımcı İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 11 Filistinli yaşamını yitirdi, 35 kişi yaralandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:32 UTC"
+    },
+    {
+      "title": "Son 1 ayda kırmızı bültenle ve ulusal seviyede aranan 63 suçlu Türkiye'ye getirildi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/son-1-ayda-kirmizi-bultenle-ve-ulusal-seviyede-aranan-63-suclu-turkiyeye-getirildi/4100862",
+      "summary": "İçişleri Bakanlığı, son 1 ayda kırmızı bültenle aranan 33, ulusal seviyede aranan 30 olmak üzere toplam 63 suçlunun Türkiye'ye getirildiğini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:31 UTC"
+    },
+    {
+      "title": "Kimi Antonelli wins US Grand Prix, closes in on F1 championship",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/10/26/kimi-antonelli-wins-us-grand-prix-closes-in-on-f1-championship?traffic_source=rss",
+      "summary": "Mercedes's 20-year-old driver can win the championship in Mexico next week if his teammate Russell doesn't win the race.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:26 UTC"
+    },
+    {
+      "title": "Türk devletleri Ankara zirvesinde tarımdan uzaya kadar işbirliklerine odaklanacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/turk-devletleri-ankara-zirvesinde-tarimdan-uzaya-kadar-isbirliklerine-odaklanacak/4100848",
+      "summary": "Türkiye'nin ev sahipliğinde 29-30 Ekim'de Ankara'da düzenlenecek Türk Devletleri Teşkilatı 13'üncü Zirvesi'nde gözler tarımdan uzaya, ticaretten ulaştırmaya kadar çeşitli alanlarda yapılacak işbirliklerine çevrildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:24 UTC"
+    },
+    {
+      "title": "Trump makes explicit remarks about Nicki Minaj at Michigan midterm rally",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-makes-explicit-remarks-about-nicki-minaj-at-michigan-midterm-rally?traffic_source=rss",
+      "summary": "Donald Trump made sexually explicit remarks about musician Nicki Minaj who was speaking at a rally in Michigan.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:23 UTC"
+    },
+    {
+      "title": "DUMRUL insansız helikopteri TURNAs-2026 Tatbikatı'nda sergilendi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/dumrul-insansiz-helikopteri-turnas-2026-tatbikatinda-sergilendi/4100843",
+      "summary": "Pasifik Teknoloji'nin savunma sanayisi iştiraki TİTRA Teknoloji, Deniz Kuvvetleri Komutanlığı tarafından ilk kez düzenlenen TURNAs-2026 Tatbikatı'na DUMRUL insansız helikopteriyle katıldı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:21 UTC"
+    },
+    {
+      "title": "EPDK, emisyon ticaretinde şeffaf ve etkin piyasa yapısı oluşturmayı hedefliyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/epdk-emisyon-ticaretinde-seffaf-ve-etkin-piyasa-yapisi-olusturmayi-hedefliyor/4100839",
+      "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK) Başkanı Mustafa Yılmaz, Türkiye'de emisyon azaltımını teşvik ederken güvenilir, şeffaf ve etkin işleyen bir Emisyon Ticaret Sistemi (ETS) piyasası oluşturmayı hedeflediklerini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:20 UTC"
+    },
+    {
+      "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1265/live/b5d85d90-d10a-11f1-ac54-9f7716f7b702.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "summary": "Uganda will also not allow most travellers who have been in DR Congo to transit through the country.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:18 UTC"
+    },
+    {
+      "title": "Photos: Serbia celebrates as ruling party loses grip on power",
+      "image": "",
+      "link": "https://www.aljazeera.com/gallery/2026/10/26/photos-serbia-celebrates-as-ruling-party-loses-grip-on-power?traffic_source=rss",
+      "summary": "Two years of student-led protests against corruption and mismanagement culminate in election victory.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:18 UTC"
+    },
+    {
+      "title": "Küresel piyasaların gözü bu hafta üç büyük merkez bankasında - TRT Haber",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaE90NlhrNC12ZVZHM2lNLVh1Qmp5dXltdVI3YzIxZ21lbkRramptTHpLbHFxTV9GVTRqV2VBbUlUb0ducG5OY0dGU19wbFdIMWhrX29rak5jVlpOT1k1TXZNeExQQ3V5dzJPbjZiUzJNLTdYa0IxdDd6UjBqandQc0lLS3Fnd0FLSG9VLXUtaUswdnRPNzJYd28yRnhSRl9ma0FWcVQwVGg1QWhlay1PcQ?oc=5",
+      "summary": "Küresel piyasaların gözü bu hafta üç büyük merkez bankasında TRT Haber",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-26 08:17 UTC"
+    },
+    {
+      "title": "Küresel piyasaların gözü bu hafta üç büyük merkez bankasında",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarin-gozu-bu-hafta-uc-buyuk-merkez-bankasinda-961214.html",
+      "summary": "ABD Merkez Bankası Fed, Avrupa Merkez Bankası ECB ve Japonya Merkez Bankası BoJ enflasyon risklerinin gölgesinde bu hafta para politikası kararları alacak.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:17 UTC"
+    },
+    {
+      "title": "ABD'den gübre üretimine 1,34 milyar dolarlık yatırım planı",
+      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1793002681/3792520/jpg/320x180",
+      "link": "https://www.bloomberght.com/abdden-gubre-uretimine-1-34-milyar-dolarlik-yatirim-plani-3792520",
+      "summary": "ABD Tarım Bakanlığı, toplam 1,34 milyar doları aşan sekiz gübre projesini finansman sürecine seçti. Yaklaşık 573 milyon dolarlık kamu desteği öngörülen projelerle yerli üretimin artırılması ve dışa bağımlılığın azaltılması hedefleniyor. Yatırımlarla ABD'nin azotlu gübre üretiminin yüzde 3,7, potas üretiminin yaklaşık yüzde 40 artabileceği hesaplanıyor.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-26 08:16 UTC"
+    },
+    {
+      "title": "Atatürk'ün iki kez ziyaret ettiği lise yıllardır yeni nesiller yetiştiriyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/kultur/ataturkun-iki-kez-ziyaret-ettigi-lise-yillardir-yeni-nesiller-yetistiriyor/4100828",
+      "summary": "Birinci Dünya Savaşı yıllarında temelleri atılan İzmir Kız Lisesi, 111 yıllık köklü geçmişiyle öğrencilerini geleceğe hazırlamaya devam ediyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 08:14 UTC"
+    },
+    {
+      "title": "Avrupa hisseleri, İran diplomasisi ve merkez bankası kararları öncesi toparlandı - Investing.com Türkiye",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQWpaVzBIaHZTZk5JajkzZVFGYTZ6aHdMM21aaUxpWTFhV3JSMXZhbUdaelVwa2U0RFlxMFVhOVVha2U2Zl9WbWFaNjEwREdxRXNTeGp0QWNPZTQtT3Z5eFN3ZlZHNEJrTW1aamYzRGFleWp5WERHMGtSdjEtVlpwN3NGR0FnOUVsRzdydnlPQ2ZrSGo5TmZzZXVsTFVDT1RCNm10SF9ObVp2aDZfd0g1a25SZW9YTHFOQWc?oc=5",
+      "summary": "Avrupa hisseleri, İran diplomasisi ve merkez bankası kararları öncesi toparlandı Investing.com Türkiye",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
       "published_at": "2026-10-26 08:12 UTC"
     },
     {
-      "title": "Türk dünyası kadınları Ankara'da diplomasi, liderlik ve ortak geleceği konuşacak",
+      "title": "Ticari kredi büyümesinde yukarı yönle ivmelenme",
+      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1793002204/3792519/jpg/320x180",
+      "link": "https://www.bloomberght.com/ticari-kredi-buyumesinde-yukari-yonle-ivmelenme-3792519",
+      "summary": "Bankacılık Düzenleme ve Denetleme Kurumu ile Macrohub verilerine dayanan 13 haftalık yıllıklandırılmış kredi büyüme göstergelerine göre, ticari kredilerde Temmuz ayında başlayan yükseliş Ekim ayında da devam etti.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-26 08:09 UTC"
+    },
+    {
+      "title": "Milli Enerji 2040 vizyonu açıklanacak",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-kadinlari-ankarada-diplomasi-liderlik-ve-ortak-gelecegi-konusacak/4100818",
-      "summary": "AK Parti Genel Merkez Kadın Kolları Başkanlığınca, ortak tarihin oluşturduğu bağı kadınların öncülüğünde işbirliklerine dönüştürmek amacıyla Türk Devletleri Teşkilatı 13. Devlet ve Hükümet Başkanları Zirvesi kapsamında yan etkinlikler düzenlenecek.",
-      "source": "Anadolu Ajansı",
+      "link": "https://www.trthaber.com/haber/ekonomi/milli-enerji-2040-vizyonu-aciklanacak-961213.html",
+      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, enerji alanındaki küresel gelişmeleri ve Türkiye'nin gelecek ihtiyaçlarını dikkate alarak 2040'a uzanan yeni enerji mimarisindeki çalışmaların sonuna gelindiğini belirterek, \"5 Kasım'da İstanbul'da yapacağımız lansmanla Milli Enerji 2040 vizyonumuzu kamuoyuyla paylaşacağız.\" dedi.",
+      "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 08:09 UTC"
     },
     {
-      "title": "Üç büyük merkez bankası enflasyon riskleri altında faiz kararı alacak",
+      "title": "Kasım indirimleriyle aylık e-ticaret hacminin 600 milyar liraya ulaşması bekleniyor",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/uc-buyuk-merkez-bankasi-enflasyon-riskleri-altinda-faiz-karari-alacak/4100815",
-      "summary": "ABD Merkez Bankası (Fed), Avrupa Merkez Bankası (ECB) ve Japonya Merkez Bankası (BoJ) enflasyon risklerinin gölgesinde bu hafta para politikası kararları alacak.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 08:08 UTC"
-    },
-    {
-      "title": "ABD'de enflasyon endişeleri artarken dikkatler Fed'in bu haftaki faiz kararına çevrildi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-endiseleri-artarken-dikkatler-fedin-bu-haftaki-faiz-kararina-cevrildi/4100814",
-      "summary": "ABD Merkez Bankasının (Fed), 27-28 Ekim'de düzenlenecek toplantısında faiz oranlarını sabit bırakacağı beklentisi ağırlık kazanırken, eylülde ivme kazanan enflasyon faiz artırımı ihtimalini masada tutuyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/kasim-indirimleriyle-aylik-e-ticaret-hacminin-600-milyar-liraya-ulasmasi-bekleniyor/4100812",
+      "summary": "Kasım ayında düzenlenecek alışveriş kampanyalarıyla e-ticaret hacminin bu dönemde 600 milyar liraya ulaşması öngörülüyor.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 08:07 UTC"
     },
     {
-      "title": "Elektrik dağıtım altyapısında gelecek 10 yılda en az 50 milyar dolarlık yatırım ihtiyacı öngörülüyor",
+      "title": "Türk Dünyası Ankara'da tarımdan uzaya kadar iş birliklerine odaklanacak",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/elektrik-dagitim-altyapisinda-gelecek-10-yilda-en-az-50-milyar-dolarlik-yatirim-ihtiyaci-ongoruluyor/4100811",
-      "summary": "Elektrik Dağıtım Hizmetleri Derneği (Elder) Başkanı Barış Erdeniz, Türkiye'de elektrik dağıtım altyapısında gelecek 10 yılda en az 50 milyar dolarlık yatırım ihtiyacı öngördüklerini belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 08:06 UTC"
-    },
-    {
-      "title": "Bursaspor, Süper Lig hedefine \"zirvede\" ilerliyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/bursaspor-super-lig-hedefine-zirvede-ilerliyor/4100806",
-      "summary": "Süper Lig'de 2009-2010 sezonunda kazandığı şampiyonlukla adını tarihe yazdıran Anadolu'nun köklü kulübü Bursaspor, üst lige geri dönmek için mücadele ettiği 1. Lig'deki performansıyla dikkati çekiyor.",
-      "source": "Anadolu Ajansı",
+      "link": "https://www.trthaber.com/haber/turk-dunyasi/turk-dunyasi-ankarada-tarimdan-uzaya-kadar-is-birliklerine-odaklanacak-961212.html",
+      "summary": "2930 Ekim'de Ankara'da düzenlenecek Türk Devletleri Teşkilatı 13'üncü Zirvesi'nde gözler tarımdan uzaya, ticaretten ulaştırmaya kadar çeşitli alanlarda yapılacak iş birliklerine çevrildi.",
+      "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 08:05 UTC"
     },
@@ -92,24 +380,6 @@
       "published_at": "2026-10-26 08:00 UTC"
     },
     {
-      "title": "\"6. Korkut Ata Türk Dünyası Film Festivali\", 3-7 Kasım'da İstanbul'da düzenlenecek",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/6-korkut-ata-turk-dunyasi-film-festivali-3-7-kasimda-istanbulda-duzenlenecek/4100790",
-      "summary": "Kültür ve Turizm Bakanlığı himayesinde, Uluslararası Sinema Derneği tarafından düzenlenen \"6. Korkut Ata Türk Dünyası Film Festivali\", doğduğu şehir İstanbul'a dönüyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 07:58 UTC"
-    },
-    {
-      "title": "Brezilya'da Lula da Silva dördüncü kez devlet başkanı seçildi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/brezilyada-lula-da-silva-dorduncu-kez-devlet-baskani-secildi/4100789",
-      "summary": "Brezilya Devlet Başkanı Luiz Inacio Lula da Silva, yeniden göreve seçilerek iktidarını dördüncü döneme taşıdı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 07:57 UTC"
-    },
-    {
       "title": "Bolu Belediyesi'ne operasyon: Başkan Yardımcısı dahil dört kişi gözaltında",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6bcf/live/9546aed0-d112-11f1-921d-7d7921390179.jpg",
       "link": "https://www.bbc.com/turkce/articles/c680z18x71gdo?at_medium=RSS&at_campaign=rss",
@@ -128,15 +398,6 @@
       "published_at": "2026-10-26 07:55 UTC"
     },
     {
-      "title": "Yaklaşık 7 milyon abonenin sayacı 2027 sonuna kadar uzaktan okuma kapsamına alınacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/yaklasik-7-milyon-abonenin-sayaci-2027-sonuna-kadar-uzaktan-okuma-kapsamina-alinacak/4100783",
-      "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK) Başkanı Mustafa Yılmaz, Milli Akıllı Sayaç Sistemi (MASS) kapsamında 2027'nin sonuna kadar yaklaşık 7 milyon abonenin sayaçlarının uzaktan okuma kapsamına alınmasının hedeflendiğini bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 07:54 UTC"
-    },
-    {
       "title": "İstanbul'daki kara para aklama soruşturması: 13 şüpheli adliyede",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/istanbuldaki-kara-para-aklama-sorusturmasi-13-supheli-adliyede-961207.html",
@@ -146,22 +407,13 @@
       "published_at": "2026-10-26 07:54 UTC"
     },
     {
-      "title": "AA Kitap, 12. Uluslararası Bakü Kitap Fuarı'nda yerini aldı",
+      "title": "STM NETA 300, TURNAs-2026 Tatbikatı'nda mayın tehditlerini otonom olarak tespit etti",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/kurumsal-haberler/aa-kitap-12-uluslararasi-baku-kitap-fuarinda-yerini-aldi/4100778",
-      "summary": "Azerbaycan'ın başkenti Bakü'de düzenlenen 12. Uluslararası Bakü Kitap Fuarı'nda AA Kitap, dikkati çekici yayınlarını Azerbaycanlı kitapseverler ve uluslararası yayıncılık profesyonelleriyle buluşturuyor.",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/stm-neta-300-turnas-2026-tatbikatinda-mayin-tehditlerini-otonom-olarak-tespit-etti/4100781",
+      "summary": "Türk savunma sanayisi şirketlerinden STM Savunma Teknolojileri Mühendislik ve Ticaret AŞ'nin geliştirdiği insansız otonom sistemler, TURNAs-2026 İnsansız Deniz Sistemleri Tatbikatı'nda çeşitli görevlerde kullanıldı.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 07:51 UTC"
-    },
-    {
-      "title": "SPK, nitelikli yatırımcılar için belirlenen finansal varlık toplamını 50 milyon liraya çıkardı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/spk-nitelikli-yatirimcilar-icin-belirlenen-finansal-varlik-toplamini-50-milyon-liraya-cikardi/4100777",
-      "summary": "Sermaye Piyasası Kurulu (SPK), nitelikli yatırımcılar için belirlenen finansal varlık toplamını 10 milyon liradan 50 milyon liraya, 5 milyon lira olan işlem hacmi tutarının 25 milyon liraya yükseltilmesine karar verdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 07:51 UTC"
+      "published_at": "2026-10-26 07:52 UTC"
     },
     {
       "title": "Kuzey Kore, BMGK'ye gönderdiği mektupta Seul'ü mayın patlaması olayı uydurmakla suçladı",
@@ -191,15 +443,6 @@
       "published_at": "2026-10-26 07:48 UTC"
     },
     {
-      "title": "Anthropic'in yapay zeka modelinin ABD'nin Georgia eyaletinde oy verilerine izinsiz eriştiği bildirildi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/anthropicin-yapay-zeka-modelinin-abdnin-georgia-eyaletinde-oy-verilerine-izinsiz-eristigi-bildirildi/4100775",
-      "summary": "ABD merkezli yapay zeka şirketi Anthropic'in geliştirdiği Claude modelinin, Georgia eyaletinde ücret karşılığında erişilebilen toplam oy sayılarına insan onayı olmadan eriştiği, ancak eyaletin seçmen kayıt sistemine ulaşmadığı belirtildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 07:48 UTC"
-    },
-    {
       "title": "ABD'de büyük çaplı savaş hazırlığı",
       "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1793000736/3792514/jpg/320x180",
       "link": "https://www.bloomberght.com/abd-de-buyuk-capla-savas-hazirligi-3792514",
@@ -207,33 +450,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-26 07:43 UTC"
-    },
-    {
-      "title": "Basketbol Avrupa Ligi'nde 3. kez \"çift maç haftası\" heyecanı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/basketbol-avrupa-liginde-3-kez-cift-mac-haftasi-heyecani/4100762",
-      "summary": "Basketbol Avrupa Ligi'nde (EuroLeague) bu sezon 3. kez çift maç haftası heyecanı yaşanacak.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 07:43 UTC"
-    },
-    {
-      "title": "ABD \"olası savaş halinde\" üslerini dış destek olmadan 90 gün işletebilmeyi hedefliyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abd-olasi-savas-halinde-uslerini-dis-destek-olmadan-90-gun-isletebilmeyi-hedefliyor/4100755",
-      "summary": "ABD Savunma Bakanlığı (Pentagon), enerji şebekelerine zarar verebilecek \"büyük çaplı bir savaş olasılığına hazırlık kapsamında\" ana karadaki askeri üslerini en az 90 gün dış destek olmadan işletmeye hazırlanıyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 07:41 UTC"
-    },
-    {
-      "title": "El Halil kentinde kuşatmasını sürdüren İsrail ordusu 2 bin 649 Filistinliyi yerinden etti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/el-halil-kentinde-kusatmasini-surduren-israil-ordusu-2-bin-649-filistinliyi-yerinden-etti/4100753",
-      "summary": "İşgal altındaki Batı Şeria'nın El Halil kentinde dört gündür kuşatmasını sürdüren İsrail ordusu, 2 bin 649 Filistinliyi zorla evlerinden çıkararak yerinden etti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 07:40 UTC"
     },
     {
       "title": "Japonya Merkez Bankası Aralık’ta faiz artırımına kapıyı açık bırakabilir - Paratic Haber",
@@ -270,15 +486,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 07:30 UTC"
-    },
-    {
-      "title": "Merkez Bankası'ndan ticari kredi düzenlemesi - Platin Dergisi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbVg1dTZPaDRERFZ4VlRFVFpGMklLdkJ3a2pSSmFWQ29KR3pYdDBadTlXUFlZdUlPb2RiLUZLcF9vVl9ONlA1WWdGVU5rcW00NWcxRUV2OEpmUVFlN3dxZ1pLbE1HMy15NnA2RG5DVG1vNVh1ZnI5M1lCZkIxa1N0cE1jRk9odGtrTUl4WVEtOW45UQ?oc=5",
-      "summary": "Merkez Bankası'ndan ticari kredi düzenlemesi Platin Dergisi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-26 07:27 UTC"
     },
     {
       "title": "Photos: Lula supporters flood streets in celebration of historic win",
@@ -335,15 +542,6 @@
       "published_at": "2026-10-26 07:07 UTC"
     },
     {
-      "title": "Sırbistan'da iktidardaki Vucic'in, öğrenci hareketine yenilmesi sonrası kutlamalar",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab42/live/eccff960-d0ca-11f1-b86a-c167c5eb76b4.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cqdjv8yvw2myo?at_medium=RSS&at_campaign=rss",
-      "summary": "İki yıllık öğrenci protestolarının ardından Sırplar, 25 Ekim Pazar günü sandığa gitti. Sırbistan'ın geleceğine dair bir referandum olarak nitelendirilen seçime katılımın rekor düzeyde olduğu bildirildi. İktidardaki Vucic, ilk sonuçların gelmesinin ardından yenilgiyi kabul etti.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 07:07 UTC"
-    },
-    {
       "title": "Avrupa'da doğalgaz fiyatları haftaya yükselişle başladı",
       "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1792998597/3792509/jpg/320x180",
       "link": "https://www.bloomberght.com/avrupa-da-dogalgaz-fiyatlari-haftaya-yukselisle-basladi-3792509",
@@ -389,30 +587,12 @@
       "published_at": "2026-10-26 07:00 UTC"
     },
     {
-      "title": "Borsa yeni haftaya 11.180,31 puandan başladı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/borsa-yeni-haftaya-1118031-puandan-basladi-961202.html",
-      "summary": "Borsa İstanbul'da BIST 100 endeksi, haftaya yüzde 0,57 yükselişle 11.180,31 puandan başladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 06:59 UTC"
-    },
-    {
       "title": "Goldman Sachs'a göre petrol ürünü arzındaki zayıflık 2027'ye kadar sürecek",
       "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1792997920/3792500/jpg/320x180",
       "link": "https://www.bloomberght.com/goldman-sachs-a-gore-petrol-urunu-arzindaki-zayiflik-2027-ye-kadar-surecek-3792500",
       "summary": "Goldman Sachs Group'a göre, rafinerilerin ertelenmiş bakım çalışmalarını tamamlamaya çalışmaları nedeniyle rafine yakıt arzındaki zayıflığın 2027'ye kadar sürmesi muhtemel ve bu durum ihracatı da kısıtlayabilir.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-26 06:54 UTC"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan'dan şehit Albay Gökgöz'ün ailesine taziye mesajı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-sehit-albay-gokgozun-ailesine-taziye-mesaji-961201.html",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, şehit Albay Sayit Gökgöz'ün ailesine başsağlığı diledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 06:54 UTC"
     },
     {
@@ -423,15 +603,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-26 06:53 UTC"
-    },
-    {
-      "title": "Katil İsrail ordusu, biri çocuk 3 kişiyi daha öldürdü",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/katil-israil-ordusu-biri-cocuk-3-kisiyi-daha-oldurdu-961200.html",
-      "summary": "Katil İsrail ordusunun, Gazze Şeridi'nin güneyindeki Han Yunus kentinde yerinden edilen Filistinlilerin kaldığı çadırlara düzenlediği saldırıda biri çocuk 3 kişi hayatını kaybetti, çok sayıda kişi yaralandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 06:51 UTC"
     },
     {
       "title": "Sektörel güven hizmette geriledi, perakende ve inşaatta arttı",
@@ -452,33 +623,6 @@
       "published_at": "2026-10-26 06:49 UTC"
     },
     {
-      "title": "Merkez Bankası, EVDS verilerine yapay zeka erişimi sağlayan EVDS-MCP'yi devreye aldı",
-      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1792997324/3792498/jpg/320x180",
-      "link": "https://www.bloomberght.com/merkez-bankasi-evds-verilerine-yapay-zeka-erisimi-saglayan-evds-mcp-yi-devreye-aldi-3792498",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), TCMB Elektronik Veri Dağıtım Sistemi (EVDS) verilerine yapay zeka araçları üzerinden kolayca erişilebilmesine imkan sağlayan EVDS-MCP'yi devreye aldı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-26 06:48 UTC"
-    },
-    {
-      "title": "Akbank 542 milyon dolar sendikasyon kredisi aldı",
-      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1792997142/3792497/jpg/320x180",
-      "link": "https://www.bloomberght.com/akbank-542-milyon-dolar-sendikasyon-kredisi-aldi-3792497",
-      "summary": "Akbank, Ekim 2026'da vadesi gelen sendikasyon kredisini, 1 yıl, 2 yıl ve 3 yıl olmak üzere toplam 6 dilimden oluşan toplam 542 milyon dolar karşılığı krediyle yeniledi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-26 06:44 UTC"
-    },
-    {
-      "title": "Gram altın haftaya yükselişle başladı: İşte fiyatlar...",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/gram-altin-haftaya-yukselisle-basladi-iste-fiyatlar-961199.html",
-      "summary": "Gram altın, haftanın ilk işlem gününe yükselişle başlamasının ardından 6 bin 415 liradan işlem görüyor. Çeyrek altın 10 bin 610 liradan, Cumhuriyet altını 42 bin 242 liradan satılıyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 06:43 UTC"
-    },
-    {
       "title": "Borsa İstanbul Şirket Haberleri (26 Ekim) - Borsa Gundem",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XaUJuTXdmT3Fwa0xRbTV6ZWN0c0JvbElqT1plWEhQU1JXT1hJWExKZUh3dm93TjJoZGw5TlZhcTZocHpJLURoT2dYWWVsa1NLNGNkaHNCN0ptQUtNdm5tUTVOWDZiVzBYZTVmUDlUeUNBLVRiNzh0MUJn?oc=5",
@@ -488,22 +632,13 @@
       "published_at": "2026-10-26 06:41 UTC"
     },
     {
-      "title": "Brent petrolün varili 109,58 dolardan işlem görüyor",
+      "title": "Merkez Bankası, EVDS verilerine yapay zeka erişimi sağlayan EVDS-MCP'yi devreye aldı - Anadolu Ajansı",
       "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-10958-dolardan-islem-goruyor-961198.html",
-      "summary": "Cuma günü 112,45 dolara kadar yükselen Brent petrolün aralık vadeli varil fiyatı, günü 111,7 dolardan tamamladı. Brent petrolün varil fiyatı, bugün saat 09.21 itibarıyla kapanışa göre yaklaşık yüzde 1,9 azalarak 109,58 dolara geriledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 06:36 UTC"
-    },
-    {
-      "title": "Merkez Bankası, EVDS verilerine yapay zeka erişimi sağlayan EVDS-MCP'yi devreye aldı - TV5 Haber",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX3dxMmVTMnpWNVdWUHMyOExacExieEVHUVJJaUpyX0gzNWpGbV9ZcnJKSXJiRV9TcGpGRDJZZk1xVGZ2NzF3Y0tHSkJHRTRjTTBiTzJHTl9rbWcyb3otQmM5UTdERzkyUlgyMS1sM2JnRHpZVExjVWVqMEpacnE5eF85eUFDZzVaVW1GUjVJTFRpdVJOVlVaR3RldTFDVXNUSmJ1Q3lBMUI?oc=5",
-      "summary": "Merkez Bankası, EVDS verilerine yapay zeka erişimi sağlayan EVDS-MCP'yi devreye aldı TV5 Haber",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFl6ek1OX0dtQ0txZjJFVkhVVFJfbUprRjRsV0RIS200SGF3YVkzLWNwR21NZ1hXQjU0aW9ldkozWjRpSTkxdGJPMnpjVVV5aWkxVmZ0VUtzQjFheTVXOXN2T25zREYxNnlnQkptb0lFbzM1czAwRnJKS0VWTHFsOUdaTlVpdnR0SmZQTkU0YmRHcUpLc0lNaVV0OXBjWHpHMVJjVndxNW1fLXNJQUEwY3hWY05GWmJpRXNVX3ZxQUY?oc=5",
+      "summary": "Merkez Bankası, EVDS verilerine yapay zeka erişimi sağlayan EVDS-MCP'yi devreye aldı Anadolu Ajansı",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-26 06:30 UTC"
+      "published_at": "2026-10-26 06:34 UTC"
     },
     {
       "title": "Üç Merkez Bankası, Tek Hafta: Fed, ECB, BoJ | Haftalık Piyasa Analizi - Investing.com Türkiye",
@@ -524,33 +659,6 @@
       "published_at": "2026-10-26 06:29 UTC"
     },
     {
-      "title": "Brezilya'da Lula yeniden devlet başkanı seçildi",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70a5/live/364638b0-d0d1-11f1-a058-dfc7f6e2951c.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cw0k0ey5en0yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gitti. Ülkenin Yüksek Seçim Kurulu, görevdeki Lula da Silva'nın oyların yüzde 51,79'unu alarak yeniden devlet başkanı seçildiğini ilan etti.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 06:25 UTC"
-    },
-    {
-      "title": "Dünyanın ilk kanser aşısı melanomun nüksetme veya ölüm riskini yüzde 42 azalttı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/dunyanin-ilk-kanser-asisi-melanomun-nuksetme-veya-olum-riskini-yuzde-42-azaltti-961197.html",
-      "summary": "Dünyanın ilk kişiselleştirilmiş mRNA kanser aşısı, cilt kanseri melanomun nüksetme veya ölümle sonuçlanma riskini yüzde 42 azalttı. Uzmanlar bu gelişmeyi kanser tedavisinde tarihi bir dönüm noktası olarak değerlendiriyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 06:24 UTC"
-    },
-    {
-      "title": "MİT Başkanı Kalın ve Suudi bakan Tahran'da görüşmeler yapacak",
-      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1792995794/3792490/jpg/320x180",
-      "link": "https://www.bloomberght.com/mit-baskani-kalin-ve-suudi-bakan-tahranda-gorusmeler-yapacak-3792490",
-      "summary": "Suudi Arabistan, Pakistan ve Türkiye'nin üst düzey güvenlik yetkilileri, Orta Doğu'da daha geniş çaplı bir savaşı önlemeyi amaçlayan görüşmelere yeniden ivme kazandırmak ve gerilimi düşürmek amacıyla pazartesi günü İran liderleriyle bir araya gelecek.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-26 06:22 UTC"
-    },
-    {
       "title": "Merkez Bankası'ndan yapay zeka hamlesi - Uzmanpara",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUGx6VXhZRWFIUkRPQVRLQ0I4RjlSM0hvOUQ4cUUtSnpuWU1ZR3VWOGpkSXY0RmtUeTJJMUZ0OURzY2JlNE5ITTF1QzZrWEl0VzhLUVhSVVRheXdEWkNmcHRRWFBDVTlfX1AwUFhBR1k1ZUF5MzloWDNZYmdsZXNtaDZDNW0?oc=5",
@@ -558,15 +666,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-26 06:22 UTC"
-    },
-    {
-      "title": "TCMB'den özel sektör tahvil piyasası adımı",
-      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1792995529/3792489/jpg/320x180",
-      "link": "https://www.bloomberght.com/tcmb-den-ozel-sektor-tahvil-piyasasi-adimi-3792489",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) özel sektör tahvil piyasasında likidite için bir hamle yaptı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-26 06:18 UTC"
     },
     {
       "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
@@ -578,15 +677,6 @@
       "published_at": "2026-10-26 06:16 UTC"
     },
     {
-      "title": "BBVA, özel sektör tahvillerinde temkinli duruşunu sürdürüyor",
-      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1792994861/3792488/jpg/320x180",
-      "link": "https://www.bloomberght.com/bbva-ozel-sektor-tahvillerinde-temkinli-durusunu-surduruyor-3792488",
-      "summary": "BBVA, Türk özel sektör tahvillerinin \"dikkate değer\" bir satış baskısı altına girdiğini ve piyasada bir toparlanma için Vestel Elektronik'in borç yapılandırması ile fon krizine ilişkin soruşturmaların kapsamı gibi konularda daha fazla netliğe ihtiyaç duyulduğunu belirtti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-26 06:04 UTC"
-    },
-    {
       "title": "The French government is hiding behind a ‘riots’ narrative",
       "image": "",
       "link": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss",
@@ -596,15 +686,6 @@
       "published_at": "2026-10-26 05:56 UTC"
     },
     {
-      "title": "Kriptoda düşüş ivmesi: ETF'lerden sert çıkış",
-      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1792993907/3792487/jpg/320x180",
-      "link": "https://www.bloomberght.com/kriptoda-dusus-ivmesi-etf-lerden-sert-cikis-3792487",
-      "summary": "Bitcoin, Fed toplantısı öncesindeki genel riskten kaçış teması ve yapay zekaya yönelik endişelerin kripto paralar üzerinde baskı oluşturmasıyla 80 bin doların altına geriledi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-26 05:51 UTC"
-    },
-    {
       "title": "China’s political elite gather for talks on Communist Party discipline",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
@@ -612,15 +693,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 05:38 UTC"
-    },
-    {
-      "title": "Hintli iş insanı Borsa İstanbul'da 8 milyon doları nasıl 800 milyon dolar yaptı haberi - Borsanın Gündemi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONFY4QUkyRzc2OFpaVlFCNkU2NFNLZjVfU2VqaERsS1J2LVM4b2R1Nnk5SXg2Q0FGajBOSDBsamw2M1pkQ1ZDaVloMnR0c0h0T1ZZSWFhT2dScTF3Um1LLVd5eXJPZ05fZnRGelZlbUIwZVUxdGtCZ0F1dVAyYkJUZ3d5TTRDM1hibUxMVXJEbkZER3pXLWdLWHRvNEpWbnpYZi1ucHJDRl9hTkc4S1kyR2UxTTVfZmFMTWdBNHVBTmQydw?oc=5",
-      "summary": "Hintli iş insanı Borsa İstanbul'da 8 milyon doları nasıl 800 milyon dolar yaptı haberi Borsanın Gündemi",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-26 05:31 UTC"
     },
     {
       "title": "Aleksandar Vucic, the Serbian leader brought down by students",
@@ -659,42 +731,6 @@
       "published_at": "2026-10-26 05:16 UTC"
     },
     {
-      "title": "Social video captures moment Brazil’s election turned",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss",
-      "summary": "Video shot by supporters of the candidates in Brazil’s presidential runoff show the moment the result began changing",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 05:01 UTC"
-    },
-    {
-      "title": "Bolsonaro calls for Brazil election result to be annulled",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
-      "summary": "Brazil’s right-wing Senator Flavio Bolsonaro has called for the presidential election result to be ‘annulled’.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 04:36 UTC"
-    },
-    {
-      "title": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss",
-      "summary": "Judge questions Trump-led effort to exert greater influence over the electoral process ahead of upcoming midterm vote.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 04:32 UTC"
-    },
-    {
-      "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
-      "summary": "The attack in eastern Dr Congo is the latest on health workers and responders to the deadly Ebola outbreak.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 04:21 UTC"
-    },
-    {
       "title": "Australian murderer loses bid to eat Vegemite in prison",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bc0/live/da50eaa0-c44c-11f0-86a7-5d9864ba6ed6.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
@@ -704,22 +740,13 @@
       "published_at": "2026-10-26 04:05 UTC"
     },
     {
-      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
-      "image": "",
-      "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
-      "summary": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 04:05 UTC"
-    },
-    {
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c7/live/712973e0-d110-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3247/live/2f1c2d90-d10a-11f1-b441-2b33b063138f.png",
+      "link": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 01:07 UTC"
+      "published_at": "2026-10-26 02:53 UTC"
     },
     {
       "title": "Mumyalar ve Viking geçitleri: Buzlar eriyince ortaya çıkan sırlar",
@@ -749,6 +776,15 @@
       "published_at": "2026-10-25 22:11 UTC"
     },
     {
+      "title": "Why Israel's election is one of the most important in its history",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf80/live/c5aaa2d0-d0ad-11f1-84bc-f3a33719a550.jpg",
+      "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-25 22:05 UTC"
+    },
+    {
       "title": "Yapay Zekâ Kullanıcılarına Kritik Uyarı: 5 Güvenlik Önlemi - Medya Gazete",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcTlSX2FiMHM0RUs3bVl0elJVZlJmd2pkek5IQ3JlWlUybUd3UkpRSG9TRUM5YzBKVm5tUUlrc0pQUklSQkpiRm1QMVVuSjZselFlbUlSVk1uZlZIZTVSUjdBU0lqQXFUT2lkWU1wZ3BxTW9VZ2RJZkJXZWpkX3RfUV96T1FMNnFMQWg4eXp1NktnSWVYS2c?oc=5",
@@ -756,15 +792,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-10-25 22:02 UTC"
-    },
-    {
-      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 19:14 UTC"
     },
     {
       "title": "İstanbul Barosu'nun yeni başkanı Ümit Kocasakal oldu",
@@ -873,33 +900,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-10-25 11:51 UTC"
-    },
-    {
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f31/live/75490920-d05e-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 10:55 UTC"
-    },
-    {
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 10:38 UTC"
-    },
-    {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b53/live/c94ca0d0-d041-11f1-950a-2dcbf5245e34.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 09:00 UTC"
     }
   ]
 }
