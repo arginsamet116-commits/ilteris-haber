@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-10-26 20:02 UTC",
+  "updated_at": "2026-10-26 21:02 UTC",
   "items": [
+    {
+      "title": "İran: ABD, müzakere konusunda ciddi ise Tahran'ın 7 şartını kabul etmeli",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-abd-muzakere-konusunda-ciddi-ise-tahranin-7-sartini-kabul-etmeli/4101808",
+      "summary": "İran Ulusal Güvenlik Yüksek Konseyi Başkan Yardımcısı Ali Bakıri, ABD'nin Tahran ile ciddi müzakerelere başlayabilmesi için İran'ın belirlediği 7 şartı kabul edip uygulaması gerektiğini söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 20:58 UTC"
+    },
+    {
+      "title": "ABD Kongresi'ndeki Türkiye Grubu eşbaşkanlarından 29 Ekim Cumhuriyet Bayramı mesajı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/abd-kongresindeki-turkiye-grubu-esbaskanlarindan-29-ekim-cumhuriyet-bayrami-mesaji/4101797",
+      "summary": "ABD Kongresi’ndeki ABD-Türkiye İlişkileri ve Türk Amerikalılar Kongre Grubu eşbaşkanları, Türkiye Cumhuriyeti'nin kuruluşunun 103. yıl dönümü münasebetiyle kutlama mesajı yayımladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 20:45 UTC"
+    },
+    {
+      "title": "Huge explosion at a weapons depot in Syria",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
+      "summary": "Huge explosion at a weapons depot in Syria",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 20:41 UTC"
+    },
+    {
+      "title": "Ballon d'Or 2026: Altın Top'un sahibi kim olacak?",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d70e/live/efe1f970-d17c-11f1-9d71-6d5ae0660afe.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c60qk31pgx2do?at_medium=RSS&at_campaign=rss",
+      "summary": "Futbol dünyasının en prestijli ödüllerinden sayılan Ballon d'Or (Altın Top) 2026 ödül töreni, İngiltere'nin başkenti Londra'daki Palladium Tiyatrosu'nda yapılıyor.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 20:38 UTC"
+    },
+    {
+      "title": "What Vucic’s defeat means for Serbia’s foreign policy",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy?traffic_source=rss",
+      "summary": "Those expecting Belgrade to tilt towards the West may need patience while the new government deals with domestic issues.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 20:38 UTC"
+    },
+    {
+      "title": "Irakta İstihbarat Başkanı görevden alındı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/irakta-istihbarat-baskani-gorevden-alindi-961274.html",
+      "summary": "Irak Başbakanı Ali ezZeydi'nin İstihbarat Servisi Başkanı Hamid Şatri'yi görevden aldığı duyuruldu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 20:31 UTC"
+    },
+    {
+      "title": "Dictionary.com 2026'nın kelimesi olarak maxxingi seçti",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/dictionarycom-2026nin-kelimesi-olarak-maxxingi-secti-961273.html",
+      "summary": "Dijital İngilizce sözlüklerinden \"Dictionary.com\" adlı internet sitesi, 2026 için belirlediği \"yılın kelimesinin\" çevrim içi forumlarda türetilen \"maxxing\" olduğunu bildirdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 20:27 UTC"
+    },
+    {
+      "title": "How a WhatsApp channel helped Lula win Brazil’s election",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss",
+      "summary": "Over 10 million Lula supporters joined a WhatsApp channel to help boost his campaign.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 20:20 UTC"
+    },
+    {
+      "title": "Libya'dan deniz yetki muhtırasına dair çıkarlarımızı koruyan egemen bir karar mesajı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/libyadan-deniz-yetki-muhtirasina-dair-cikarlarimizi-koruyan-egemen-bir-karar-mesaji-961272.html",
+      "summary": "Libya Temsilciler Meclisi Başkanı Salihin Abdunnebi, \"Temsilciler Meclisinin onayladığı TürkiyeLibya deniz yetki alanlarının sınırlandırılmasına ilişkin mutabakat muhtırasının Libyanın çıkarlarını koruyan uluslararası hukuka uygun alınmış egemen bir karar\" olduğunu belirtti.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 20:18 UTC"
+    },
+    {
+      "title": "Derbinin kazananı Galatasaray",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/spor/derbinin-kazanani-galatasaray-961271.html",
+      "summary": "Süper Lig'in 9. haftası dev derbiye sahne oldu. Galatasaray, kendi sahasında Fenerbahçe'yi 21 mağlup etti.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 20:18 UTC"
+    },
+    {
+      "title": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
+      "summary": "The Democratic candidate for the US Senate has been the subject of Islamophobic attacks from Trump.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 20:17 UTC"
+    },
+    {
+      "title": "Microsoft'tan çalışanlarına gönüllü işten ayrılma teklifi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/microsofttan-calisanlarina-gonullu-isten-ayrilma-teklifi-961270.html",
+      "summary": "ABD merkezli teknoloji şirketi Microsoft, ABD, Kanada, Hindistan ve Birleşik Krallık'taki belirli çalışanlarına yönelik gönüllü işten ayrılma programı başlattı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 20:14 UTC"
+    },
+    {
+      "title": "Trump, seçimlere hile karıştıranları ihbar edenlere 1 milyon dolar ödeneceğini duyurdu",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/trump-secimlere-hile-karistiranlari-ihbar-edenlere-1-milyon-dolar-odenecegini-duyurdu/4101761",
+      "summary": "ABD Başkanı Donald Trump, 3 Kasım'da yapılacak ara seçimlerde hile yapıldığına ilişkin ihbarda bulunanlara, hileyi yapanların tutuklanıp hüküm giymesi halinde 1 milyon dolar ödeneceğini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 20:13 UTC"
+    },
     {
       "title": "Lula wins fourth term in dramatic Brazil election comeback",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab1/live/a6b767f0-d15c-11f1-a701-fddedf244c16.jpg",
@@ -65,6 +182,15 @@
       "published_at": "2026-10-26 19:28 UTC"
     },
     {
+      "title": "Galatasaray, Süper Lig'de Fenerbahçe'yi yendi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/galatasaray-super-ligde-fenerbahceyi-yendi/4101733",
+      "summary": "Trendyol Süper Lig'in 9. haftasındaki derbide Galatasaray, konuk ettiği Fenerbahçe'yi 2-1 yendi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 19:27 UTC"
+    },
+    {
       "title": "İşgalci İsrail ordusu ateşkese rağmen Lübnan'ın güneyine saldırılarını sürdürdü",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu-961268.html",
@@ -110,6 +236,24 @@
       "published_at": "2026-10-26 19:18 UTC"
     },
     {
+      "title": "Merkez Bankası rezervlerinde büyük değişim: Altın fiyatları düşecek mi? - Gazete Oksijen",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTZNVU50RnZQbXJTbDBySlUwS2d3QU9xcGZrVjdXdHV5X1FSTkZXekZpUzhKaTdEbmlBc19fcDBUNVpwSWhDSXhXWHRLa3VtZlhFZDJOY0RScjF2VTl2bGEyRzlmdzAxdTJiNWdWTzJXSXh4YS1qNE5wemhHQ25RdlhFODYtQkg1OUNuMklBcllJVXpQb25DcE9HSVc2a2lTQ09ZREJrXzl1VVhXQUxN?oc=5",
+      "summary": "Merkez Bankası rezervlerinde büyük değişim: Altın fiyatları düşecek mi? Gazete Oksijen",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-26 19:17 UTC"
+    },
+    {
+      "title": "İsrail ordusu, işgal altındaki Doğu Kudüs'te 2 Filistinliyi yaraladı, 2 kişiyi gözaltına aldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-isgal-altindaki-dogu-kuduste-2-filistinliyi-yaraladi-2-kisiyi-gozaltina-aldi/4101726",
+      "summary": "İsrail ordusu, işgal altındaki Doğu Kudüs'ün kuzeyinde yer alan Kalendiya Mülteci Kampı ile güneydoğusundaki Ebu Dis beldesine düzenlediği baskınlarda 2 Filistinliyi yaraladı, 2 kişiyi de gözaltına aldı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 19:17 UTC"
+    },
+    {
       "title": "SPK, Tera Portföy ve Pusula Portföy'ün sermaye piyasası faaliyetlerini geçici olarak durdurdu",
       "image": "",
       "link": "https://www.aa.com.tr/tr/ekonomi/spk-tera-portfoy-ve-pusula-portfoyun-sermaye-piyasasi-faaliyetlerini-gecici-olarak-durdurdu/4101717",
@@ -122,7 +266,7 @@
       "title": "'Maxxing' selected as Dictionary.com word of the year",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03d/live/90fce170-d165-11f1-87df-afb7a168a1f2.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The term \"maxxing\" is used as an adjective, adverb, noun and verb by many in Gen Z and Gen Alpha to describe an emphasis in optimisation.",
+      "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 19:16 UTC"
@@ -389,24 +533,6 @@
       "published_at": "2026-10-26 17:00 UTC"
     },
     {
-      "title": "Ballon d’Or 2026 award ceremony LIVE: Winners, reactions and latest news",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/26/ballon-dor-2026-award-ceremony-live-winners-reactions-and-latest-news?traffic_source=rss",
-      "summary": "Follow updates from the 2026 Ballon d'Or ceremony as the world's best male and female footballers are crowned.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 17:00 UTC"
-    },
-    {
-      "title": "SpaceX, yaklaşık 40 milyar dolarlık çip finansmanı için anlaşmaya vardı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/spacex-yaklasik-40-milyar-dolarlik-cip-finansmani-icin-anlasmaya-vardi/4101620",
-      "summary": "ABD'li uzay ve havacılık şirketi SpaceX, yapay zeka altyapısını genişletmek amacıyla yaklaşık 40 milyar dolarlık grafik işlem birimi (GPU) ve ilgili ekipman finansmanı için varlık yönetim şirketi Apollo Global Management ile anlaştı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 16:59 UTC"
-    },
-    {
       "title": "Hazine ve Maliye Bakanlığı'ndan Bakan Şimşek hakkındaki iddialara tepki",
       "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1793033913/3792601/jpg/320x180",
       "link": "https://www.bloomberght.com/hazine-ve-maliye-bakanligi-ndan-bakan-simsek-hakkindaki-iddialara-tepki-3792601",
@@ -414,33 +540,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-26 16:58 UTC"
-    },
-    {
-      "title": "Vatikan, akciğer ameliyatı geçiren Papa'nın, kasımda Güney Amerika'ya gideceğini teyit etti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/vatikan-akciger-ameliyati-geciren-papanin-kasimda-guney-amerikaya-gidecegini-teyit-etti/4101619",
-      "summary": "Vatikan Devlet Başkanı Papa 14. Leo'nun, 13 Ekim'de geçirdiği akciğer ameliyatının ardından iyileşme sürecinin yolunda gittiği için Uruguay, Arjantin ve Peru'yu kapsayan 6-17 Kasım'daki Güney Amerika seyahatine çıkabileceği bildirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 16:58 UTC"
-    },
-    {
-      "title": "Fon soruşturmasında gözaltına alınan Nusret Altınbaş ve Erman Çete tutuklandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasinda-gozaltina-alinan-nusret-altinbas-ve-erman-cete-tutuklandi-961259.html",
-      "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan Altınbaş Holding'in sahibi şüpheli Nusret Altınbaş ve eski Sermaye Piyasası Kurulu SPK Daire Başkanı Erman Çete tutuklandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 16:58 UTC"
-    },
-    {
-      "title": "Delegations arrive in Tehran for security talks",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks?traffic_source=rss",
-      "summary": "Delegations arrive in Tehran for security talks",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 16:55 UTC"
     },
     {
       "title": "Beşiktaş, ligde yoluna galibiyetle devam ediyor",
@@ -452,24 +551,6 @@
       "published_at": "2026-10-26 16:54 UTC"
     },
     {
-      "title": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
-      "image": "",
-      "link": "https://www.aljazeera.com/economy/2026/10/26/anthropics-ipo-filing-shows-explosive-growth-risks-and-staggering-costs?traffic_source=rss",
-      "summary": "The filing sets up the company for a Wall Street debut next month, potentially eclipsing SpaceX's IPO.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 16:53 UTC"
-    },
-    {
-      "title": "‘Enough is enough’: Palestinians and Israelis share views ahead of election",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/enough-is-enough-palestinians-and-israelis-share-views-ahead-of-election?traffic_source=rss",
-      "summary": "On the eve of Israel’s general election, some Israelis call for change while others back Netanyahu to stay in power.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 16:51 UTC"
-    },
-    {
       "title": "İstemlerden Ajanlara: Yapay Zekâ Pazarlama Ekibini Nasıl Yeniden Şekillendiriyor? - Unite.AI",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OVjEwV3RERmR1aHQtX0xvNFFIRzN5dkdBMDljbGFsNWhBWkJlNVNXaWVvUUw4NHlVcEdZVUhGcUctc0xmd0J0U3dRd0F2Z0NFWk9neGZmVnEtdnd4bThZWGZxTEhlUEpUdlhuVXVqblpFZ0k?oc=5",
@@ -477,24 +558,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-10-26 16:48 UTC"
-    },
-    {
-      "title": "Suriye'de yeni eğitim müfredatında Osmanlı karşıtı anlatı değişti",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/suriyede-yeni-egitim-mufredatinda-osmanli-karsiti-anlati-degisti-961257.html",
-      "summary": "Suriye'de Milli Eğitim Bakanlığı, yenilediği eğitim müfredatında Osmanlı Devleti, Arap İsyanı ve milli kimlik anlatımında köklü değişiklikler yaptı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 16:39 UTC"
-    },
-    {
-      "title": "Milas Belediye Başkanı görevden uzaklaştırıldı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/milas-belediye-baskani-gorevden-uzaklastirildi-961256.html",
-      "summary": "İçişleri Bakanlığı, tutuklanan Muğla'nın Milas Belediye Başkanı Fevzi Topuz'un görevden uzaklaştırıldığını duyurdu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 16:38 UTC"
     },
     {
       "title": "PKK ile bağlantılı Şengal Direniş Birlikleri Irak ordusuna entegre olacak",
@@ -513,24 +576,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 16:31 UTC"
-    },
-    {
-      "title": "İstanbul'da akşam saatlerinde trafik yoğunluğu yaşanıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/istanbulda-aksam-saatlerinde-trafik-yogunlugu-yasaniyor/4101586",
-      "summary": "İstanbul'da haftanın ilk iş günü akşam saatlerinde ana arter ve bağlantı yollarında trafik yoğunluğu arttı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 16:30 UTC"
-    },
-    {
-      "title": "Kurtulmuş: 'Terörsüz Türkiye' sürecini bozmak için provokasyon yapmak isteyeceklere karşı mutlaka dikkatli olmamız lazım",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/kurtulmus-terorsuz-turkiye-surecini-bozmak-icin-provokasyon-yapmak-isteyeceklere-karsi-mutlaka-dikkatli-olmamiz-lazim/4101584",
-      "summary": "TBMM Başkanı Kurtulmuş, Terörsüz Türkiye sürecine ilişkin, \"Bu süreci bozmak için provokasyon yapmak isteyeceklere karşı mutlaka dikkatli olmamız lazım. Bunun için de dillerimize, eylemlerimize, yaptığımız işlere özen göstermek zorundayız.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 16:28 UTC"
     },
     {
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
@@ -560,15 +605,6 @@
       "published_at": "2026-10-26 16:09 UTC"
     },
     {
-      "title": "Hazine ve Maliye Bakanlığından Merrill Lynch Bankasına yönelik iddialara ilişkin açıklama",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakanligindan-merrill-lynch-bankasina-yonelik-iddialara-iliskin-aciklama/4101509",
-      "summary": "Hazine ve Maliye Bakanlığınca, \"Sayın Bakanımızın, yıllar önce çalışıp ayrıldığı bir kurum üzerinden asılsız iddialarla töhmet altında bırakılma gayretleri kabul edilemez.\" ifadesi kullanıldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 16:05 UTC"
-    },
-    {
       "title": "Türkiye, Libya'dan sonra Mısır'la da deniz yetki alanları için anlaşabilir mi?",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb09/live/863b0700-d145-11f1-b441-2b33b063138f.jpg",
       "link": "https://www.bbc.com/turkce/articles/c68jzxlngejeo?at_medium=RSS&at_campaign=rss",
@@ -576,24 +612,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 15:58 UTC"
-    },
-    {
-      "title": "BM Komisyonu: Ukrayna'da saldırılar kış öncesi yoğunlaştı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/bm-komisyonu-ukraynada-saldirilar-kis-oncesi-yogunlasti-961255.html",
-      "summary": "Birleşmiş Milletler BM Ukrayna Uluslararası Bağımsız Soruşturma Komisyonu Başkanı Erik Mose, soğuk kış mevsimi yaklaşırken Ukrayna'daki saldırıların yeniden yoğunlaştığını, bu durumun da sivillerin yaşamına ve sağlığına yönelik tehditler konusunda ciddi endişelere yol açtığını bildirdi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 15:53 UTC"
-    },
-    {
-      "title": "Mekke İttifakı'nın Tahran'daki toplantısı sona erdi",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e4e9/live/1b7bdd40-d14f-11f1-9eb5-811878e0f07d.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c3x2w09gn4lwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Suudi Arabistan, Türkiye ve Pakistan'dan üst düzey yetkililer, bölgesel güvenlik konularını görüşmek üzere bugün Tahran'da İranlı yetkililerle biraraya geldi.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 15:50 UTC"
     },
     {
       "title": "Türk Telekom'a 14 uluslararası bankadan 1 milyar dolarlık kredi",
@@ -621,15 +639,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 15:45 UTC"
-    },
-    {
-      "title": "Suç unsuru içeren 407 internet sitesine erişim engeli",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/suc-unsuru-iceren-407-internet-sitesine-erisim-engeli-961254.html",
-      "summary": "Jandarmanın siber devriye çalışmaları kapsamında yasa dışı bahis, dolandırıcılık ve müstehcenlik gibi suç unsurlarını içerdiği tespit edilen 407 internet sitesine erişim engellendi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 15:43 UTC"
     },
     {
       "title": "Anthropic'e siber güvenlik şoku: Sistemlerine 12 saatte erişildi",
@@ -747,15 +756,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 13:17 UTC"
-    },
-    {
-      "title": "Merkez Bankası rezervlerinde büyük değişim: Altın fiyatları düşecek mi? - Gazete Oksijen",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTZNVU50RnZQbXJTbDBySlUwS2d3QU9xcGZrVjdXdHV5X1FSTkZXekZpUzhKaTdEbmlBc19fcDBUNVpwSWhDSXhXWHRLa3VtZlhFZDJOY0RScjF2VTl2bGEyRzlmdzAxdTJiNWdWTzJXSXh4YS1qNE5wemhHQ25RdlhFODYtQkg1OUNuMklBcllJVXpQb25DcE9HSVc2a2lTQ09ZREJrXzl1VVhXQUxN?oc=5",
-      "summary": "Merkez Bankası rezervlerinde büyük değişim: Altın fiyatları düşecek mi? Gazete Oksijen",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-26 13:14 UTC"
     },
     {
       "title": "Siber Vatan Programı 2027 Dönemi İçin Bilgilendirme Yapıldı - https://www.afyonses.com/",
