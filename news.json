@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-10-26 04:05 UTC",
+  "updated_at": "2026-10-26 05:07 UTC",
   "items": [
+    {
+      "title": "Social video captures moment Brazil’s election turned",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss",
+      "summary": "Video shot by supporters of the candidates in Brazil’s presidential runoff show the moment the result began changing",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 05:01 UTC"
+    },
+    {
+      "title": "Goldman Sachs, Kospi hedefini yüzde 25 düşürdü",
+      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1792990626/3792482/jpg/320x180",
+      "link": "https://www.bloomberght.com/goldman-sachs-kospi-hedefini-yuzde-25-dusurdu-3792482",
+      "summary": "Goldman Sachs, yapay zeka yatırımlarına ilişkin endişelerin derinleşmesi ve teknoloji hisselerindeki satışların hızlanması üzerine Güney Kore'nin Kospi endeksi için 12 aylık hedefini indirdi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-26 04:56 UTC"
+    },
+    {
+      "title": "Musk'ın 40 milyar dolarlık SpaceX borç anlaşması tartışma yarattı",
+      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1792990361/3792481/jpg/320x180",
+      "link": "https://www.bloomberght.com/muskin-40-milyar-dolarlik-spacex-borc-anlasmasi-tartisma-yaratti-3792481",
+      "summary": "Elon Musk, SpaceX'in yapay zeka çiplerini finanse etmek için 40 milyar dolarlık borç anlaşmasını tamamladığını açıkladı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-26 04:51 UTC"
+    },
+    {
+      "title": "Donald Trump, onay oranının yüzde 60'larda olduğunda ısrarcı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/donald-trump-onay-oraninin-yuzde-60larda-oldugunda-israrci-961188.html",
+      "summary": "ABD Başkanı Donald Trump, anketlerde onay oranı yüzde 3034 arasında ölçülmesine rağmen desteğinin yüzde 60lara yakın olduğunu savundu. Trump, düşük onay oranlarını gösteren anketleri \"yalan\" olarak nitelendirdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 04:46 UTC"
+    },
+    {
+      "title": "Bakır, yapay zeka hisselerindeki satışlarla geriledi",
+      "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1792989995/3792480/jpg/320x180",
+      "link": "https://www.bloomberght.com/bakir-yapay-zeka-hisselerindeki-satislarla-geriledi-3792480",
+      "summary": "Bakır, yapay zeka hisselerindeki düşüşün risk iştahını azaltması ve yatırımcıların ABD Merkez Bankası'nın (Fed) faiz kararına odaklanmasıyla pazartesi günü geriledi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-26 04:45 UTC"
+    },
+    {
+      "title": "Bolsonaro calls for Brazil election result to be annulled",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
+      "summary": "Brazil’s right-wing Senator Flavio Bolsonaro has called for the presidential election result to be ‘annulled’.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 04:36 UTC"
+    },
+    {
+      "title": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss",
+      "summary": "Judge questions Trump-led effort to exert greater influence over elections process ahead of upcoming midterm vote.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 04:32 UTC"
+    },
+    {
+      "title": "İskoçyada Mısır mumyaları sergiden kaldırıldı: Ölenlerin rızası alınamadı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/iskocyada-misir-mumyalari-sergiden-kaldirildi-olenlerin-rizasi-alinamadi-961187.html",
+      "summary": "Glasgow'daki iki müze, ölen kişilerin rızasının bulunmaması ve güncellenen etik ilkeler doğrultusunda Mısır mumyalarını sergiden kaldırdı ya da ziyaretçilerin görüşüne kapattı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 04:29 UTC"
+    },
+    {
+      "title": "Yemen'deki Husiler: Riyad'daki Kral Halid Havalimanı ile DoğuBatı Petrol Boru Hattı'nı hedef aldık",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/yemendeki-husiler-riyaddaki-kral-halid-havalimani-ile-dogu-bati-petrol-boru-hattini-hedef-aldik-961186.html",
+      "summary": "Yemen'deki İran destekli Husiler, Suudi Arabistan'ın başkenti Riyad'daki Uluslararası Kral Halid Havalimanı ile DoğuBatı Petrol Boru Hattı'nı hedef aldıklarını açıkladı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 04:27 UTC"
+    },
+    {
+      "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
+      "summary": "The attack in eastern Dr Congo is the latest on health workers and responders to the deadly Ebola outbreak.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 04:21 UTC"
+    },
+    {
+      "title": "Brezilya'da resmi olmayan sonuçlara göre seçimi kazanan Silva: Brezilya kimsenin arka bahçesi değildir ve olmayacaktır",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/brezilyada-resmi-olmayan-sonuclara-gore-secimi-kazanan-silva-brezilya-kimsenin-arka-bahcesi-degildir-ve-olmayacaktir-961185.html",
+      "summary": "Brezilya'da devlet başkanlığı seçimlerini resmi olmayan sonuçlara göre kazanan 81 yaşındaki Luiz Inacio Lula da Silva, \"Brezilya kimsenin arka bahçesi değildir ve olmayacaktır.\" ifadesini kullandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 04:15 UTC"
+    },
+    {
+      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+      "image": "",
+      "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+      "summary": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 04:05 UTC"
+    },
+    {
+      "title": "Trump dials up Islamophobia against Abdul El-Sayed at Michigan Senate rally",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+      "summary": "Al Jazeera looks at the key takeaways from the US president's campaign event in Michigan ahead of the midterm vote.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 04:03 UTC"
+    },
+    {
+      "title": "World reacts to Lula’s victory in Brazil’s presidential election",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
+      "summary": "International leaders and politicians congratulate the Brazilian president on his re-election.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-26 03:50 UTC"
+    },
     {
       "title": "Sırbistan'da Vucic seçim yenilgisini kabul etti",
       "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1792986229/3792476/jpg/320x180",
@@ -75,7 +201,7 @@
     },
     {
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a26f/live/3f12cea0-d0f8-11f1-b5b1-192f0fa11760.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
       "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
       "source": "BBC World",
@@ -120,21 +246,12 @@
     },
     {
       "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e676/live/8534e970-d0c8-11f1-b441-2b33b063138f.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a400/live/789d12b0-d0f9-11f1-93e1-3b657b665bcf.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 01:07 UTC"
-    },
-    {
-      "title": "Merkez Bankası rezervlerinde büyük değişim: Altın fiyatları düşecek mi? - Gazete Oksijen",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTZNVU50RnZQbXJTbDBySlUwS2d3QU9xcGZrVjdXdHV5X1FSTkZXekZpUzhKaTdEbmlBc19fcDBUNVpwSWhDSXhXWHRLa3VtZlhFZDJOY0RScjF2VTl2bGEyRzlmdzAxdTJiNWdWTzJXSXh4YS1qNE5wemhHQ25RdlhFODYtQkg1OUNuMklBcllJVXpQb25DcE9HSVc2a2lTQ09ZREJrXzl1VVhXQUxN?oc=5",
-      "summary": "Merkez Bankası rezervlerinde büyük değişim: Altın fiyatları düşecek mi? Gazete Oksijen",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-26 01:05 UTC"
     },
     {
       "title": "Kabine yoğun gündemle Beştepe'de toplanacak",
@@ -218,24 +335,6 @@
       "published_at": "2026-10-26 00:16 UTC"
     },
     {
-      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
-      "summary": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 00:02 UTC"
-    },
-    {
-      "title": "Iran war live: Trump rules out strikes ‘today’; missile downed near Riyadh",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
-      "summary": "Trump's statement comes as Iran says renewed US-Israeli attacks 'will achieve no different outcome'.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 00:00 UTC"
-    },
-    {
       "title": "Trump: \"Libya, yasa dışı göç için bir koridor olarak kalamaz\"",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/trump-libya-yasa-disi-goc-icin-bir-koridor-olarak-kalamaz/4100528",
@@ -281,42 +380,6 @@
       "published_at": "2026-10-25 23:39 UTC"
     },
     {
-      "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
-      "summary": "Still a teenager, Yamal could surpass Brazilian legend Ronaldo Nazario, who won the Ballon d'Or at the age of 21.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 23:38 UTC"
-    },
-    {
-      "title": "Thousands protest in Prague against public media funding reforms",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
-      "summary": "Demonstrators allege Prime Minister Andrej Babis and his coalition's proposed reforms pose a threat to press freedom.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 23:29 UTC"
-    },
-    {
-      "title": "Venezuela’s opposition leader Machado returns after months in exile",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
-      "summary": "Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 23:23 UTC"
-    },
-    {
-      "title": "Bulgaria election heads to a run-off amid low voter turnout",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
-      "summary": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 22:57 UTC"
-    },
-    {
       "title": "İsrail askerleri Batı Şeria'da 1 Filistinliyi yaraladı, 5 kişiyi gözaltına aldı",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriada-1-filistinliyi-yaraladi-5-kisiyi-gozaltina-aldi/4100520",
@@ -342,15 +405,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-25 22:44 UTC"
-    },
-    {
-      "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
-      "summary": "French superstar Kylian Mbappe scores a brace for Madrid to inflict Barcelona's first domestic defeat of the campaign.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 22:22 UTC"
     },
     {
       "title": "Formula 1 ABD Grand Prix'sini Kimi Antonelli kazandı",
@@ -416,28 +470,10 @@
       "published_at": "2026-10-25 21:24 UTC"
     },
     {
-      "title": "Merkez Bankası faiz indirecek mi? 100 baz puana işaret etti! - Haber 7",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmFSLW9YZmpfaXMxcTlGVV9XLWtXdklpSWpkQmNKeUVmR1FlSjdUQTc0NnRQSC1pZWN2WllLX2FPcEFmOHh3T2tIVXZDR0YydXI4NV84YllENzBJOFdlbEMwbG1oQWQ4YzNVUkg3eEJvbEdhMnpRdktBbkJDaDNDOTlCWjB0OFVOU3B0UUNoenA1MHNVREtCcWxSZnphQTFNRjM3SVJrTE9TZ1nSAa4BQVVfeXFMTWJSZW8zU0FheUZzYzBaZmJYcW11Nkd1dXp6MlBSbDdGd21WY0t6RG1GQzVaRHhhYUZnamtZenhnZl9JcXhSRVJ5RkNhRGNYNTV6bVZIbU83ZlRoMVpQSEtYbXE0RHl0YlB1dkdMRzZyaVl1cDVKcWFYbExuV1N4MVBwMHF5LU90Z3pOS2tRRzVNRzJyTmF2Tm1nZGNMNHFHUzl3bEtsSmtJa0ZzZTJR?oc=5",
-      "summary": "Merkez Bankası faiz indirecek mi? 100 baz puana işaret etti! Haber 7",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-25 21:11 UTC"
-    },
-    {
       "title": "Bakan Kacır: SİPER2 Çelik Kubbe'nin uzun menzilli kalkanı",
       "image": "",
       "link": "https://www.trthaber.com/haber/bilim-teknoloji/bakan-kacir-siper-2-celik-kubbenin-uzun-menzilli-kalkani-961174.html",
       "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"Katmanlı hava savunma mimarimiz yerli ve milli sistemlerle güçlenirken, SİPER2'nin başarılı atış testi, uzun menzilli hava savunma alanındaki teknolojik yetkinliklerimizin gelişimini ve TÜBİTAK SAGE, ASELSAN ve ROKETSAN arasındaki güçlü iş birliğini bir kez daha ortaya koydu\" ifadesini kullandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 21:06 UTC"
-    },
-    {
-      "title": "Fon soruşturmasında Ertan Aydın tutuklandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-ertan-aydin-tutuklandi-961173.html",
-      "summary": "Fon soruşturması kapsamında, hakkında verilen adli kontrol kararına yapılan itiraz üzerine yeniden gözaltına alınan eski AK Parti milletvekili, araştırma ve kampanya şirketi kurucusu Ertan Aydın tutuklandı.",
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-25 21:06 UTC"
@@ -450,15 +486,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-25 20:59 UTC"
-    },
-    {
-      "title": "Zelenski: Kasım ayında ABDUkraynaRusya üçlü toplantısı düzenlenecek",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/zelenski-kasim-ayinda-abd-ukrayna-rusya-uclu-toplantisi-duzenlenecek-961172.html",
-      "summary": "Ukrayna Devlet Başkanı Zelenski, kasım ayında ABDUkraynaRusya üçlü toplantısı düzenleneceğini söyledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 20:55 UTC"
     },
     {
       "title": "İran Dışişleri Bakanlığı Sözcüsü Bekayi, ABD'yi tek taraflı taleplerinde ısrar etmekle suçladı",
@@ -497,15 +524,6 @@
       "published_at": "2026-10-25 20:49 UTC"
     },
     {
-      "title": "İstanbul'da polis denetimi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-polis-denetimi-961171.html",
-      "summary": "İstanbul İl Emniyet Müdürü Selami Yıldız, Kağıthanede polis ekiplerinin gerçekleştirdiği uygulamaya katıldı. Denetim sırasında sürücülerle sohbet eden Yıldız, araçlardaki çocuklara hediyeler verdi. Yıldız, \"Şehir eşkıyalarına asla fırsat vermeyeceğiz\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 20:15 UTC"
-    },
-    {
       "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
@@ -513,15 +531,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-25 19:14 UTC"
-    },
-    {
-      "title": "İşgalci İsrail Batı Şeria'da 3 günde 50 kişiyi gözaltına aldı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-bati-seriada-3-gunde-50-kisiyi-gozaltina-aldi-961170.html",
-      "summary": "Katil İsrail ordusu, işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil kentinde 3 günde 50 kişiyi gözaltına aldı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-25 18:49 UTC"
     },
     {
       "title": "İstanbul Barosu'nun yeni başkanı Ümit Kocasakal oldu",
@@ -542,15 +551,6 @@
       "published_at": "2026-10-25 16:20 UTC"
     },
     {
-      "title": "İslam Memiş'ten yatırımcıya uyarı; Altın, dolar, Bitcoin ve borsada kritik hafta! - Boyoz Haber",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdkxrOGpubk1sZS1iRWwxVlVJd3h0SHZQVkZ4UU9NN1ZYX1V0NW13SWVmTFNpNU9Xc2pYelZwUThqeXM1Ym9wNmUxWFpmbTdDYU1IRFlGRm9nUEQ4cVZTZGxNSVdleWpSNGdxa2NWMGhNT0ZrMmwtU3M0QXFHQV9xUERPYi03VG4yUDJaY29BaGRrN1g2SDNDcDNGRTl6bktx?oc=5",
-      "summary": "İslam Memiş'ten yatırımcıya uyarı; Altın, dolar, Bitcoin ve borsada kritik hafta! Boyoz Haber",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-25 15:47 UTC"
-    },
-    {
       "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2825/live/a8b0e250-d07d-11f1-a4ba-351760cfea6a.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
@@ -560,29 +560,11 @@
       "published_at": "2026-10-25 15:32 UTC"
     },
     {
-      "title": "Yapay Zekâ Destekli Siber Saldırılar Artıyor: İnternet Alarmda - TeknoTalk",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWVoSDh5U3RjVF8tMUlVUDBYLXB0bUJKTURpVVZ5V1FrZHNzajNsd3dYSXJSSnRxejFqSmc5TGhjN0k2YWw3OWZkQV8wNXNOUGZvaDRsb0xlakh2WTZ5MjNxX1BfTk9HUk5KZl9vYlFSNHBZNHo5RUdfdzgwNGdzWno5SmdjZGdSQnBZb2NVMWNMQ1U?oc=5",
-      "summary": "Yapay Zekâ Destekli Siber Saldırılar Artıyor: İnternet Alarmda TeknoTalk",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-25 15:25 UTC"
-    },
-    {
       "title": "Fed Başkanı Warsh verilere odaklanılmasını istiyor",
       "image": "https://geoim.bloomberght.com/l/2026/10/25/ver1792941751/3792472/jpg/320x180",
       "link": "https://www.bloomberght.com/fed-baskani-warsh-verilere-odaklanilmasini-istiyor-3792472",
       "summary": "ABD Merkez Bankası (Fed) Başkanı Kevin Warsh'ın para politikası kararlarında verilere odaklanılması ve ileriye dönük yönlendirmeye bağımlılığın azaltılması gerektiği yönündeki mesajlarına rağmen yatırımcılar, faiz beklentilerini şekillendirirken Fed yetkililerinin açıklamalarını izlemeyi sürdürüyor.",
       "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-25 15:21 UTC"
-    },
-    {
-      "title": "Fed Başkanı Warsh verilere odaklanılmasını istiyor - Bloomberght",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1dnTjFWSHhzTDJaS0JxNl9JblpaZWY3LUhEQ2M2MDdsaVpfMXBsRERDRTBLRGVQcWVpcWVzT295djdVaGY0eEJMTmpEZVlXWC1fa2U5OGNCdXNvMUtEeTNoQy1nTURjUlBLTWZveXZRSDUyNUJrTy0zNUVWUVM4R0xkRTFicTZhUE9TbVg3RQ?oc=5",
-      "summary": "Fed Başkanı Warsh verilere odaklanılmasını istiyor Bloomberght",
-      "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-25 15:21 UTC"
     },
@@ -630,33 +612,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-25 12:51 UTC"
-    },
-    {
-      "title": "OpenAI, Yapay Zekâ Modellerini Canlı İnternet Erişimi Olmadan Eğiteceğini Açıkladı - ÇözümPark",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdTk2VXpFWFBBRjhHMHhtbkxxemd6aHFfVzFHUklJVEtfeFlhWGt0eS1fUnZpdThPU0pzQm9vUnVucEVuLXBKXzdHN1FtZWI0WTZFYWtRWnJ5aDBfSXJtYTFkVk5SLWhub0VWWmozeXYtdWxSYUloYXRfVzZvdWx1TEw1ZkxYQnBSNGN1VzZoY0cxbUFIUmNLY01XZkdDbWNlVHFqdUZpNm5zZHFF?oc=5",
-      "summary": "OpenAI, Yapay Zekâ Modellerini Canlı İnternet Erişimi Olmadan Eğiteceğini Açıkladı ÇözümPark",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-25 11:51 UTC"
-    },
-    {
-      "title": "Üniversite öğrencilerine siber güvenlik ve yapay zekâ eğitimi - Afyon Şehir",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObGJHSHpTM203cS1zYjdFZTdNQWVuZUkzNEdOOVFJR3cxYk41bEFhenhPeW1qSTU4Q2tJY1JTNHBpSmpOTFgwQW9xZmRPT1VGbjkxTzBIZ05seTd2SEgxZFBMdmhMZV9PcURFSDVvbzZRdVVVaUswRUJ4dnBULXBLTmVmckZiYlpScGU1dC1B?oc=5",
-      "summary": "Üniversite öğrencilerine siber güvenlik ve yapay zekâ eğitimi Afyon Şehir",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-25 11:51 UTC"
-    },
-    {
-      "title": "Hintli iş insanı Borsa İstanbul'da 8 milyon doları nasıl 800 milyon dolar yaptı haberi - Borsanın Gündemi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONFY4QUkyRzc2OFpaVlFCNkU2NFNLZjVfU2VqaERsS1J2LVM4b2R1Nnk5SXg2Q0FGajBOSDBsamw2M1pkQ1ZDaVloMnR0c0h0T1ZZSWFhT2dScTF3Um1LLVd5eXJPZ05fZnRGelZlbUIwZVUxdGtCZ0F1dVAyYkJUZ3d5TTRDM1hibUxMVXJEbkZER3pXLWdLWHRvNEpWbnpYZi1ucHJDRl9hTkc4S1kyR2UxTTVfZmFMTWdBNHVBTmQydw?oc=5",
-      "summary": "Hintli iş insanı Borsa İstanbul'da 8 milyon doları nasıl 800 milyon dolar yaptı haberi Borsanın Gündemi",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-25 11:25 UTC"
     },
     {
       "title": "El Salvador president says bodies found in Haiti are not those of hostages",
@@ -713,15 +668,6 @@
       "published_at": "2026-10-25 08:24 UTC"
     },
     {
-      "title": "Borsa İstanbul'da geçtiğimiz haftanın görünümü! - Borsa Gundem",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0dndzByb284bG1LVWlpU3pYTjFkaDhoaUJzWG5sYWNodzU0eFlIR21kYmwtbU9OTkJfR3RIVmJlMVdjWEtlb2xwNHVocnJqWWdoa0t0NFVnNjlVTUN1MERfRTdVZzd4VEhERFJESGhjOWd1VzZNek5MeDV5aG5uQzFFdktWQQ?oc=5",
-      "summary": "Borsa İstanbul'da geçtiğimiz haftanın görünümü! Borsa Gundem",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-25 07:25 UTC"
-    },
-    {
       "title": "Trump: İran'ı tekrar bombalama ihtimalim var",
       "image": "https://geoim.bloomberght.com/l/2026/10/25/ver1792909682/3792468/jpg/320x180",
       "link": "https://www.bloomberght.com/trump-iran-i-tekrar-bombalama-ihtimalim-var-3792468",
@@ -749,15 +695,6 @@
       "published_at": "2026-10-25 06:13 UTC"
     },
     {
-      "title": "İngiltere, Yapay Zekâ Güvenliği İçin 800 Milyon Dolarlık Fon Ayırdı - ÇözümPark",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVnZocDRsLU9Ua0hWRTFRc3cyNmx0R2tZQ216bnBmVWxTM0R0VHFmZkI2cnlELUlBWV9ZS2NFLVJRUXQ5clZjOUN1Wk5YYkNOUDVLdVJtX0wwSnYwc2w5SUplcGRadXB4cWNDWlFEUWpvazF4UDRBd3lOdTAxTktrLXlET05TWk5fWEw2bF9wSFZ5NWZCRWVjYg?oc=5",
-      "summary": "İngiltere, Yapay Zekâ Güvenliği İçin 800 Milyon Dolarlık Fon Ayırdı ÇözümPark",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-25 06:01 UTC"
-    },
-    {
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5815/live/ca832c30-d019-11f1-b441-2b33b063138f.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
@@ -774,15 +711,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-25 02:27 UTC"
-    },
-    {
-      "title": "OpenAI ve NASK, yapay zeka ve siber güvenlik araştırmaları için anlaştı - Teknoblog",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Vakt5NTJ5ekpGQ1ljZnJjVE12bWplS05IcmQ1SlpaVVF0eFp1SHdjNUV2UndCU3J4cExUem1sT2c5cHU2STVwRHlMMGFJZ1pvWXpCU1RqNnByOUlzak5TV2taYTdzRHRKTTVr?oc=5",
-      "summary": "OpenAI ve NASK, yapay zeka ve siber güvenlik araştırmaları için anlaştı Teknoblog",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-24 19:34 UTC"
     },
     {
       "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
@@ -812,42 +740,6 @@
       "published_at": "2026-10-24 15:21 UTC"
     },
     {
-      "title": "Altın fiyatları ve borsa çakıldı! Bu hafta bir tek onu alan kazandı - Hamle Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVVYc3NJcW8xVEQ2WGkyRE1Ha3VSbjBkVWE5OEx2SWMyb3RCSjRIMjFSRi1jU1dhT3BOMHZSekZkWE9kSTBGbU5HYk5LVGFqZ1VkNnlta3Vhc0xXRHZKN2VYRzdQSkpxTDhQbGNYUVFuYmtoNUZfaW1XblZaMEVVRWtSS29xYi1HT1FXMS1TSjFaSllqRlNXellXS2hta3VG?oc=5",
-      "summary": "Altın fiyatları ve borsa çakıldı! Bu hafta bir tek onu alan kazandı Hamle Gazetesi",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-24 13:00 UTC"
-    },
-    {
-      "title": "Hangi yatırım aracı ne kazandırdı? - Bloomberght",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMb1VDUXNhNVJVSHJmbkJrUWswbXp0aVUzUXRtcHhOTWpUMXVtcWg3bUlKTzhsRnJ1Ny1KLTZUcVlVMkJMN0pQT3JLQUJ4Z2N0bnpMUjFaaUJtcVBPMDlfOExqNHE0SGZTMjVDVHE3dnd6WVcyWWUtMQ?oc=5",
-      "summary": "Hangi yatırım aracı ne kazandırdı? Bloomberght",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-24 12:13 UTC"
-    },
-    {
-      "title": "Hangi yatırım aracı ne kazandırdı?",
-      "image": "https://geoim.bloomberght.com/l/2026/10/24/ver1792843798/3792464/jpg/320x180",
-      "link": "https://www.bloomberght.com/hangi-yatirim-araci-ne-kazandirdi-3792464",
-      "summary": "Bu hafta yatırım araçlarından borsa ve altın değer kaybederken dolar değer kazandı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-24 12:09 UTC"
-    },
-    {
-      "title": "\"Made in Europe\" stratejisi AB'yi otomotivde nereye götürür?",
-      "image": "https://geoim.bloomberght.com/l/2026/10/24/ver1792843532/3792463/jpg/320x180",
-      "link": "https://www.bloomberght.com/made-in-europe-stratejisi-abyi-otomotivde-nereye-goturur-3792463",
-      "summary": "Avrupa, ancak Türkiye gibi büyük bir otomotiv üretim üssünü sürecin içine dahil ederek rekabette elini güçlü tutabilir.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-24 12:01 UTC"
-    },
-    {
       "title": "İstanbul dahil 10 şehirde 'Sansüre Hayır, Habere Özgürlük' yürüyüşleri",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20cf/live/6faf0600-cfa9-11f1-aadb-297fd0a130b9.jpg",
       "link": "https://www.bbc.com/turkce/articles/cw77p30rplj3o?at_medium=RSS&at_campaign=rss",
@@ -855,33 +747,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-24 11:42 UTC"
-    },
-    {
-      "title": "Altın ve borsa geriledi - İş'te Mersin",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaTV4c29EQ203STB3OVJuUkljbDk0dDZMZTA3TGx0Vkh5MnZXd2FmbGNnakJMQVJ3cHlPNnlkWmNwSU9jZ0JtNE42ZGhoVmFhbHNVNE11ZUxLRXNyd0hnTUNUdTJTZktXMVNiYU1pdFI4NThydzVQLVR5d1l4bDZPY0loZVdEVUFnLWMwbA?oc=5",
-      "summary": "Altın ve borsa geriledi İş'te Mersin",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-24 10:50 UTC"
-    },
-    {
-      "title": "BIST 100 yüzde 5,16 geriledi, gram altın 6 bin 370 liraya düştü: İşte haftalık tablo - İstanbul Ticaret Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVZDeTFTbWI4enE3WFVFNF8xN1Z4cTVOdV8xeGppYW1mNF9GNTdYNklWRFFnMVcwQUNFeHJtQUIyc1F2NGhaXy1NejVpZXJiWEJ1ZlRpWUJ4VXdlSlhiRlBldXlhQ3hmT0Fiek4wRWZ5YUNfRy1pbmg0bkt5TnExRW9aM1VvSFVIcHA5N0hDdld1bEt6aG1wbWw1OGxhdUp3dkY0dTQ3bmdrRVg2QWVYMnNBUlFVeUww?oc=5",
-      "summary": "BIST 100 yüzde 5,16 geriledi, gram altın 6 bin 370 liraya düştü: İşte haftalık tablo İstanbul Ticaret Gazetesi",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-24 10:18 UTC"
-    },
-    {
-      "title": "Yatırımcının yüzü gülmedi... Altın, dolar ve borsada son durum - Kayseri Olay Haber",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3lUZDJ5QjNrU0ZLUmNuY1A0b0M3Z2xSaGNKa3dNMEZpU2x5dDVDODRFMmF1WURKOFdrMFRiaEFJZWp6Um54WUpaRF9QSWZaNVBTMm9ha2VTUkQ1Nm45X1dhM3BMZExGeDZpeWpuUklSNm5yczdBdlFoenFDZ2ZUYnFialRFV2lqU1dWeGh0cUxSQVh2MHdxeFpB?oc=5",
-      "summary": "Yatırımcının yüzü gülmedi... Altın, dolar ve borsada son durum Kayseri Olay Haber",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-24 10:11 UTC"
     },
     {
       "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
@@ -893,13 +758,58 @@
       "published_at": "2026-10-24 09:46 UTC"
     },
     {
-      "title": "Küresel piyasalar, merkez bankalarının faiz kararlarına odaklandı - Habertürk",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSzFYd2NfODFnWDI4U0Z0WkZNbUFFOXY2X0FhUDZRRDZSbDh5eGxRTHhWTHFPSk93QU5GZDg4NTlkRmVHbHVISk5SbzRHVHhQaUlreDdkRC1GNzBVMkZSMWxqejdKX0VWUHRWSVhnVDEwZUFWSzlHWHFWbWRCRGUzWDdrTWZST01RVkR2MkhDQ1hGR0pTRXFoaGtWenh5TXREY1lXaG5nRmJSZw?oc=5",
-      "summary": "Küresel piyasalar, merkez bankalarının faiz kararlarına odaklandı Habertürk",
-      "source": "Google News - Küresel Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-24 09:22 UTC"
+      "title": "Hangi besinler cildin daha genç görünmesine yardımcı olabilir?",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b5f7/live/27245050-cec0-11f1-ae9c-0303957c36f8.jpg",
+      "link": "https://www.bbc.com/turkce/articles/crx23408y3exo?at_medium=RSS&at_campaign=rss",
+      "summary": "Bitkiler, yağlar ve fermente gıdalar kırışıklıkları azaltabilir, kolajen üretimini artırabilir ve cildimizin dokusunu iyileştirebilir.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 07:12 UTC"
+    },
+    {
+      "title": "Australian MP's condition improves after alleged car attack",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e656/live/f2bfb570-cf41-11f1-81c6-53f66e190efd.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+      "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-24 01:55 UTC"
+    },
+    {
+      "title": "'96 yaşındayım ve 15 milyon takipçim var'",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c74/live/1831c620-ce40-11f1-9a39-31b474234113.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cr86z510jg3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Grandma Droniak, Nonna Gracie, Viv Truran ve Barbara Costello, ilerleyen yaşlarında sosyal medyada ün kazanan isimler arasında yer alıyor.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 14:48 UTC"
+    },
+    {
+      "title": "Futbol, turizm ve ekonomi: Mohammed Salah çılgınlığı Trabzon'a nasıl yansıyor?",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a379/live/85214280-cee8-11f1-a701-fddedf244c16.jpg",
+      "link": "https://www.bbc.com/turkce/articles/ckn9r8jjexp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Muhammed Salah’ın Trabzonspor’a gelişi dünyanın ilgisini şehre çevirdi. Mısırlı yıldız futbolcu sadece futbolu değil, şehri de değiştiriyor.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 14:06 UTC"
+    },
+    {
+      "title": "Brezilya seçimlerinde yapay zeka ile yaratılan kadınlar üzerinden para kazananlar",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e16/live/e4ed0cb0-ce1d-11f1-bc2e-018d645d8d21.png",
+      "link": "https://www.bbc.com/turkce/articles/cq74pjp8dd7xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brezilya'daki ikinci tur seçimlerinde yapay zeka ile yaratılan kadınlar, adayları destekleyerek ve kullanıcıları yetişkin içerikli sitelere yönlendirerek kampanya yürütüyor.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-23 07:36 UTC"
+    },
+    {
+      "title": "Türkiye, Mekke ve Bedir ittifaklarıyla ne hedefliyor?",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f8f5/live/1062a750-cefb-11f1-accf-3309656ad0bb.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cq77pze3nr2ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Türkiye, \"bölgesel sahiplenme\" adını verdiği dış politika anlayışı kapsamında Ortadoğu'da güvenlik işbirliğini güçlendirme amaçlı kurumsal adımlar attı. Ankara önce Suudi Arabistan ve Pakistan ile Mekke, sonra da Katar, Pakistan ve Endonezya ile Bedir İttifakı'nın kurulmasında aktif rol oynadı.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-22 23:00 UTC"
     }
   ]
 }
