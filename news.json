@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-27 02:05 UTC",
+  "updated_at": "2026-10-27 03:03 UTC",
   "items": [
+    {
+      "title": "Moroccan police intercept migrant swimming back towards Ceuta",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss",
+      "summary": "Moroccan police intercepted a migrant swimming towards Spain’s North African enclave of Ceuta",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 02:38 UTC"
+    },
+    {
+      "title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
+      "summary": "The localised ceasefire, secured by US First Lady Melania Trump, will allow evacuations and aid deliveries to Oleshky.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 02:29 UTC"
+    },
+    {
+      "title": "Bahçelievler'de çökme riski oluşan 2 apartman boşaltıldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/bahcelievlerde-cokme-riski-olusan-2-apartman-bosaltildi-961280.html",
+      "summary": "İstanbul Bahçelievler'de bitişiğindeki inşaatın temel kazısı sırasında çökme riski oluşan 2 apartmandaki 20 daire tahliye edildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 02:27 UTC"
+    },
+    {
+      "title": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss",
+      "summary": "US President Donald Trump has suggested renaming the Atlantic Ocean the ‘American Ocean’ at a Republican rally.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 02:17 UTC"
+    },
+    {
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 02:01 UTC"
+    },
     {
       "title": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
       "image": "",
@@ -99,6 +144,15 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-27 00:33 UTC"
+    },
+    {
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c58/live/08f0ea00-d193-11f1-8c41-0bbbeafdc6d4.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 00:31 UTC"
     },
     {
       "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
@@ -207,15 +261,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 21:50 UTC"
-    },
-    {
-      "title": "Africa food security under threat due to Iran war, trade officials warn",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
-      "summary": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 21:42 UTC"
     },
     {
       "title": "AB'den Ukrayna'ya 4,9 milyar euroluk askeri destek kararı",
@@ -371,24 +416,6 @@
       "published_at": "2026-10-26 20:58 UTC"
     },
     {
-      "title": "What will Lula’s fourth term mean for Brazil?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss",
-      "summary": "Luiz Inacio Lula da Silva wins a fourth term as Bolsonaro disputes the result. Can he deliver on his promises of change?",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 20:55 UTC"
-    },
-    {
-      "title": "US court rules daughter of Trump critic James Comey was illegally fired",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss",
-      "summary": "Maurene Comey had argued that she was fired because her father, former FBI chief James Comey, was target of Trump's ire.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 20:55 UTC"
-    },
-    {
       "title": "ABD Kongresi'ndeki Türkiye Grubu eşbaşkanlarından 29 Ekim Cumhuriyet Bayramı mesajı",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/abd-kongresindeki-turkiye-grubu-esbaskanlarindan-29-ekim-cumhuriyet-bayrami-mesaji/4101797",
@@ -542,13 +569,13 @@
       "published_at": "2026-10-26 19:05 UTC"
     },
     {
-      "title": "Beşiktaş, Başakşehir'i 2 golle geçti",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/spor/besiktas-basaksehiri-2-golle-gecti-961265.html",
-      "summary": "Beşiktaş, Süper Lig'in 9. haftasında İstanbul Başakşehir'i 20 yenerek puanını 18'e yükseltti.",
-      "source": "TRT Haber",
+      "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/180c/live/6ade9ad0-d16d-11f1-93e1-3b657b665bcf.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.",
+      "source": "BBC World",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 18:53 UTC"
+      "published_at": "2026-10-26 18:46 UTC"
     },
     {
       "title": "Tera ve Pusula Portföy'ün faaliyetleri geçici olarak durduruldu",
@@ -731,6 +758,15 @@
       "published_at": "2026-10-26 15:08 UTC"
     },
     {
+      "title": "Piyasalarda gün ortası: Borsa düştü, altın yükseldi, Brent petrol geriledi - EKOTÜRK",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkJ4RVBfNlFsS2IzQkROc0VxUlk2R18zSnB1aHNtZHZJN0VyaGJETXFpVktHT1FZOWtuS294c2w0LWlGV0gyVTRoVTFnd0lrdXJfTVZ2VW9NZkVuVTJHQjJmWWI0a2NSc0o4ZWZETmtlVnhhTDBvaTNQbFNsR0RIQVFQb21ja0ZZV0dvTzNKaXRDYzZFMGFiclp0U0dUWDRWYjNn?oc=5",
+      "summary": "Piyasalarda gün ortası: Borsa düştü, altın yükseldi, Brent petrol geriledi EKOTÜRK",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-26 14:55 UTC"
+    },
+    {
       "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c7/live/712973e0-d110-11f1-b441-2b33b063138f.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
@@ -767,15 +803,6 @@
       "published_at": "2026-10-26 14:13 UTC"
     },
     {
-      "title": "Borsa İstanbul'da Satış Baskısı Sürecek Mi? | Piyasa Gündemi videosunu izle | Son Dakika Haberleri - A Para",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMVpVQ0s2ZzdPem5CcEQtc2NXTElfdDVwbXgzZFRJU0RsSmZmY1I0eFBKSXlIbEppdmx3U0JBdHktYjF3VFJ6Sk1mRzdYT0ZnZ2FVOWVLNGFDSGRjOWFvUzZoVVp2dWl5a0p6VmVXM0NKNHlhWlRpY2pvbVJ5bmVmcm5PejFfLW5TdzM3RjN1aXRMSDc3dzI2MjBLUHM1eGo1UTFVVA?oc=5",
-      "summary": "Borsa İstanbul'da Satış Baskısı Sürecek Mi? | Piyasa Gündemi videosunu izle | Son Dakika Haberleri A Para",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-26 13:58 UTC"
-    },
-    {
       "title": "Merkez Bankası, EVDS-MCP'yi devreye aldı - Ekonomi Gazetesi",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZXY0cVl4WFM4ZVVmc3U1VnBKRVU4ZGM2UFJIQVpWNHRGZVI5eW4zTUJHSHlPaS1pMFp3ZEpDOTVBejlIUlRfNjNBNGs4ZHFzTndUNVRnTXpvcHVwQjk4Vi1rbFh2X1g2ZlZ3YWxLUXoyOWlXWllBbE1pdF9NaUNFdXVBcm1MYjdPTmVV?oc=5",
@@ -783,15 +810,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-26 13:26 UTC"
-    },
-    {
-      "title": "Siber Vatan Programı 2027 Dönemi İçin Bilgilendirme Yapıldı - https://www.afyonses.com/",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRmc4R093Y01JNXM5dk5xUUtHaVNFcHNMYVlYb25aT1k4NExjN09UOTFMZXprMXVUU2Z2ak02U205eVhzX1Fqa20xS1RKQjZyMWZBTi1QMjJWaGtVU2UzVXRlUmFHYy1sS1JGNTNxMG4tZk9laEg2NFBsMy1lYWFLZmZOZURnWkpLODJ2WGpmZDRxWWJ2aXc?oc=5",
-      "summary": "Siber Vatan Programı 2027 Dönemi İçin Bilgilendirme Yapıldı https://www.afyonses.com/",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-26 12:46 UTC"
     },
     {
       "title": "ABD'deki görkemli bir malikane küçük çocuklar için nasıl 'korku evi'ne dönüştü?",
@@ -882,24 +900,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-26 09:24 UTC"
-    },
-    {
-      "title": "Merkez Bankası için dev faiz indirimi tahmini - Sözcü Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnFZZTJNSFgyRWFwMk0ybHJhb0t3N2lkQXhlR1Flc3htVVowM0tyaDRfRWNNV3FsOEk2SUxzb0d4MF9VZl9nOHhjZXk2Mm0yeFFxaHdhcEZ3UGVFSTg4bHVQOC1pRDV2UlJsazFQUnNHQTRGbUpNUjIxcWdscGMtbWFDckkwb3llaXZEbjlET2xtU19Va3A0eDVtMTJyamhUbVM0d29aU0hzVTh2dXc?oc=5",
-      "summary": "Merkez Bankası için dev faiz indirimi tahmini Sözcü Gazetesi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-26 08:54 UTC"
-    },
-    {
-      "title": "Brezilya'da Lula benzeri görülmemiş bir seçim zaferi elde etti",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70a5/live/364638b0-d0d1-11f1-a058-dfc7f6e2951c.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cw0k0ey5en0yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gitti. Ülkenin Yüksek Seçim Kurulu, görevdeki Lula da Silva'nın oyların yüzde 51,79'unu alarak yeniden devlet başkanı seçildiğini ilan etti.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 08:36 UTC"
     }
   ]
 }
