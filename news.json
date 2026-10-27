@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-27 00:27 UTC",
+  "updated_at": "2026-10-27 01:18 UTC",
   "items": [
+    {
+      "title": "Altın Top ödülünü İngiliz futbolcu Harry Kane kazandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/altin-top-odulunu-ingiliz-futbolcu-harry-kane-kazandi/4101865",
+      "summary": "Bayern Münih ve İngiltere Milli Takımı'nın yıldız golcüsü Harry Kane, 2025-26 sezonunun en iyi futbolcusuna verilen Ballon d'Or (Altın Top) ödülünü kariyerinde ilk kez kazandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 00:52 UTC"
+    },
+    {
+      "title": "İsrail'de kritik seçim: Başbakan adayları Türkiye'ye nasıl bakıyor?",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bea2/live/3711a2c0-d144-11f1-9eb5-811878e0f07d.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cm5yn5j93q4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "İsrail'de 7 Ekim saldırıları sonrası ilk genel seçim bugün yapılacak. Başbakan Binyamin Netanyahu ve en büyük rakibi Gadi Eisenkot, anketlerde başa baş görnüyor. Peki Netanyahu, Eisenkot ve diğer liderler Türkiye'yle ilişkilere nasıl bakıyor ?",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 00:46 UTC"
+    },
+    {
+      "title": "Kılıçdaroğlu'nun erken seçim çıkışı CHP ve muhalefette nasıl yorumlandı?",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bac0/live/a2804160-d171-11f1-9d71-6d5ae0660afe.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cqlye1g8vdymo?at_medium=RSS&at_campaign=rss",
+      "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu'nun, iktidarın erken seçim kararı alması halinde buna itiraz etmeyeceklerini açıklaması, seçim ve adaylık hesaplarına ilişkin yeni bir tartışmayı da beraberinde getirdi.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 00:44 UTC"
+    },
+    {
+      "title": "Suudi Arabistan'ın Harc vilayeti ve doğu bölgesinde erken uyarı sistemi devreye alındı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-harc-vilayeti-ve-dogu-bolgesinde-erken-uyari-sistemi-devreye-alindi/4101863",
+      "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin Harc vilayeti ile doğu bölgesi için erken uyarı sisteminin devreye alındığını duyurdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 00:37 UTC"
+    },
+    {
+      "title": "Romania says Russia-run sabotage network set fire near weapons factory",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss",
+      "summary": "Authorities say the fire in September is part of a broader campaign against European countries that support Ukraine.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 00:33 UTC"
+    },
+    {
+      "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
+      "summary": "Iran says the United States is \"not serious\" about negotiations as UKMTO reports a ship on fire off the coast of Iraq.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 00:00 UTC"
+    },
     {
       "title": "Bolsonaro says police demand passports after Brazil election defeat",
       "image": "",
@@ -11,10 +65,10 @@
       "published_at": "2026-10-26 23:53 UTC"
     },
     {
-      "title": "Jordan launches air strikes in Syria in response to a fatal church shooting",
+      "title": "Jordan strikes Syria after church attack, killing at least seven people",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
-      "summary": "Syria denies prior coordination with Jordan after deadly air strikes hit two provinces, killing at least seven people.",
+      "summary": "Syria closes border crossings with Jordan after air strikes kill seven people in Deraa and Suweyda, including children.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 23:50 UTC"
@@ -371,15 +425,6 @@
       "published_at": "2026-10-26 20:18 UTC"
     },
     {
-      "title": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
-      "summary": "The Democratic candidate for the US Senate has been the subject of Islamophobic attacks from Trump.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 20:17 UTC"
-    },
-    {
       "title": "Microsoft'tan çalışanlarına gönüllü işten ayrılma teklifi",
       "image": "",
       "link": "https://www.trthaber.com/haber/ekonomi/microsofttan-calisanlarina-gonullu-isten-ayrilma-teklifi-961270.html",
@@ -407,15 +452,6 @@
       "published_at": "2026-10-26 19:49 UTC"
     },
     {
-      "title": "80 injured after bus plunges down embankment near Barcelona",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss",
-      "summary": "80 injured after bus plunges down embankment near Barcelona",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 19:49 UTC"
-    },
-    {
       "title": "Çimsa'nın üçüncü çeyrek net kârı beklentileri aştı",
       "image": "https://geoim.bloomberght.com/l/2026/10/26/ver1793044056/3792610/jpg/320x180",
       "link": "https://www.bloomberght.com/cimsa-nin-ucuncu-ceyrek-net-kri-beklentileri-asti-3792610",
@@ -432,15 +468,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-26 19:38 UTC"
-    },
-    {
-      "title": "AB ülkeleri, Ukrayna için 4,9 milyar avroluk fonun serbest bırakılmasında anlaştı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/ab-ulkeleri-ukrayna-icin-4-9-milyar-avroluk-fonun-serbest-birakilmasinda-anlasti/4101737",
-      "summary": "Avrupa Birliği (AB) üyesi ülkeler, Ukrayna'ya askeri destek sağlamak amacıyla Avrupa Barış Fonu (EPF) kapsamında 4,9 milyar avroluk fonun serbest bırakılmasında anlaştı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 19:29 UTC"
     },
     {
       "title": "Türk Traktör'den 83 milyon TL net zarar",
@@ -477,15 +504,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-26 19:27 UTC"
-    },
-    {
-      "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine saldırılarını sürdürdü",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu/4101732",
-      "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 19:25 UTC"
     },
     {
       "title": "Tera Portföy ve Pusula Portföy'ün sermaye piyasası faaliyetleri durduruldu",
@@ -740,15 +758,6 @@
       "published_at": "2026-10-26 14:13 UTC"
     },
     {
-      "title": "Mısır meclisi Suudi Arabistan'a destek için asker gönderme talebini onayladı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/30a3/live/aa28df70-d145-11f1-9eb5-811878e0f07d.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cmkgk32knr2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mısır Temsilciler Meclisi, Cumhurbaşkanı Abdülfettah Sisi'nin, Suudi Arabistan'a askeri destek sağlamak üzere gerekli eylem ve tedbirleri alma yetkisi verilmesi yönündeki talebini üçte iki çoğunlukla onayladı.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 14:09 UTC"
-    },
-    {
       "title": "Merkez Bankası, EVDS-MCP'yi devreye aldı - Ekonomi Gazetesi",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZXY0cVl4WFM4ZVVmc3U1VnBKRVU4ZGM2UFJIQVpWNHRGZVI5eW4zTUJHSHlPaS1pMFp3ZEpDOTVBejlIUlRfNjNBNGs4ZHFzTndUNVRnTXpvcHVwQjk4Vi1rbFh2X1g2ZlZ3YWxLUXoyOWlXWllBbE1pdF9NaUNFdXVBcm1MYjdPTmVV?oc=5",
@@ -756,15 +765,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-26 13:26 UTC"
-    },
-    {
-      "title": "İsrail seçimlerine hangi tartışmalar damga vuruyor, seçmen ne diyor?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cmly0zyp0p5lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Güvenliğe yönelik tehditler ile demokrasiye yönelik tehditler arasındaki gerilim, İsrailli seçmenlerin uzun süredir karşı karşıya kaldığı siyasi fay hatlarından biri. Bu ayrım, 7 Ekim saldırıları ve İsrail tarihinin en sağcı hükümetinin dört yıllık iktidarıyla daha da derinleşti.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-26 13:17 UTC"
     },
     {
       "title": "Siber Vatan Programı 2027 Dönemi İçin Bilgilendirme Yapıldı - https://www.afyonses.com/",
@@ -893,13 +893,13 @@
       "published_at": "2026-10-26 08:17 UTC"
     },
     {
-      "title": "Borsa İstanbul Şirket Haberleri (26 Ekim) - Borsa Gundem",
+      "title": "Merkez Bankası, EVDS verilerine yapay zeka erişimi sağlayan EVDS-MCP'yi devreye aldı - Bloomberght",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XaUJuTXdmT3Fwa0xRbTV6ZWN0c0JvbElqT1plWEhQU1JXT1hJWExKZUh3dm93TjJoZGw5TlZhcTZocHpJLURoT2dYWWVsa1NLNGNkaHNCN0ptQUtNdm5tUTVOWDZiVzBYZTVmUDlUeUNBLVRiNzh0MUJn?oc=5",
-      "summary": "Borsa İstanbul Şirket Haberleri (26 Ekim) Borsa Gundem",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-26 06:41 UTC"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTV9GeDFHdXdJbjV0SERoajVDaTJuNWZLSkNxQXZlNGVLZUFkaHhFMzZzb19BQ3J1cGxiNXY3U0NwY1Y2Q0lWQ1BjQ2xmREo4TFNtZ09mOVlkWXZZVFZFTDNpTlFkd1BHVnhNQ3A1QmRJV2xZZzBzTjVMc1pteHFYMUdseUk0U083bXVGdVRGVDhTbW10cFRyaWNlazJDWG44cW9fVmJHUTFKLWRDVC1kcXhybUdzZ3FRZzVr?oc=5",
+      "summary": "Merkez Bankası, EVDS verilerine yapay zeka erişimi sağlayan EVDS-MCP'yi devreye aldı Bloomberght",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-26 06:48 UTC"
     }
   ]
 }
