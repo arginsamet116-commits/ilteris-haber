@@ -1,12 +1,192 @@
 {
-  "updated_at": "2026-10-28 15:41 UTC",
+  "updated_at": "2026-10-28 16:40 UTC",
   "items": [
     {
-      "title": "What we know so far about deadly Spain train crash",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1d/live/c4d7e6f0-d2c5-11f1-a701-fddedf244c16.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-      "source": "BBC World",
+      "title": "DSÖ, KDC'de Ebola bulaşan 10 bini aşkın kişinin neredeyse yarısının öldüğünü bildirdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/dso-kdcde-ebola-bulasan-10-bini-askin-kisinin-neredeyse-yarisinin-oldugunu-bildirdi/4104145",
+      "summary": "Dünya Sağlık Örgütü (DSÖ) Genel Direktörü Tedros Adhanom Ghebreyesus, Kongo Demokratik Cumhuriyeti'nde (KDC) 10 binden fazla kişiye Ebola bulaştığını ve bunların yaklaşık yarısının hayatını kaybettiğini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 16:39 UTC"
+    },
+    {
+      "title": "Fransa'da eylemlerde oluşan hasarları eylemcilere ödetmeyi içeren tasarıdan vazgeçilmesi çağrısı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/fransada-eylemlerde-olusan-hasarlari-eylemcilere-odetmeyi-iceren-tasaridan-vazgecilmesi-cagrisi-961529.html",
+      "summary": "Fransa'da insan hakları örgütleri ve sendika temsilcileri, gösteri ve toplanma hakkını ihlal edeceği gerekçesiyle eylemlerde oluşan hasarları eylemcilere ödetmeyi hedefleyen yasa tasarısından vazgeçilmesi çağrısında bulundu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 16:25 UTC"
+    },
+    {
+      "title": "Dondurulmuş veya konserve gıdalar sağlıklı mı?",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92cb/live/e2d13e20-d2ea-11f1-b441-2b33b063138f.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c9x284ex08lgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Birçok kişi taze ürünlerin her halükarda en iyi seçenek olduğunu varsayar, ancak uzmanlara göre durum bu kadar basit değil.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 16:19 UTC"
+    },
+    {
+      "title": "Bakan Uraloğlu, Kazakistanlı bakanlar Sauranbayev ve Kyrykbayev ile görüştü",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/bakan-uraloglu-kazakistanli-bakanlar-sauranbayev-ve-kyrykbayev-ile-gorustu/4104124",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye ile Kazakistan arasındaki ulaştırma ve lojistik işbirliğini geliştirerek, Orta Koridor'un sunduğu fırsatları daha etkin değerlendirmeyi hedeflediklerini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 16:19 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, Kazakistan Cumhurbaşkanı Tokayev ile heyetler arası görüşmeye başkanlık etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kazakistan-cumhurbaskani-tokayev-ile-heyetler-arasi-gorusmeye-baskanlik-etti/4104118",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev ile baş başa görüşmelerinin ardından heyetler arası görüşmeye başkanlık etti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 16:12 UTC"
+    },
+    {
+      "title": "Kremlin says European countries not included in next Ukraine talks",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
+      "summary": "The comment comes as UK and Netherlands pledge extra military support for Kyiv.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 16:12 UTC"
+    },
+    {
+      "title": "Bakanlar Gürlek ve Çiftçi, DOLUNAY Projesi için bir araya geldi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/bakanlar-gurlek-ve-ciftci-dolunay-projesi-icin-bir-araya-geldi/4104115",
+      "summary": "Adalet Bakanı Akın Gürlek ve İçişleri Bakanı Mustafa Çiftçi, DOLUNAY Projesi kapsamında dolandırıcılıkla mücadelede atılacak adımları, Dolandırıcılıkla Mücadele Merkezinin kurulmasına yönelik hazırlıkları ve mevzuat çalışmalarını değerlendirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 16:10 UTC"
+    },
+    {
+      "title": "Putin, Elon Musk ile uydu konusunda temas halinde olduklarını söyledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/putin-elon-musk-ile-uydu-konusunda-temas-halinde-olduklarini-soyledi/4104110",
+      "summary": "Rusya Devlet Başkanı Vladimir Putin, ülkesinin SpaceX'in kurucusu Elon Musk ile alçak yörüngeli uydu sistemleri konusunda yakın temas halinde olduğunu belirtti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 16:06 UTC"
+    },
+    {
+      "title": "Israeli soldier visiting UK faces war crimes complaint",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
+      "summary": "New UK war crimes complaint against an Israeli soldier highlights a global legal campaign to end systemic impunity.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 16:06 UTC"
+    },
+    {
+      "title": "Güne Başlarken: Gözler Fed’de, altın geriliyor, petrol yükseliyor - EKOTÜRK",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVFSNVEwbHFLOVRyeDdEdXFERlNqTkZpY1RIbEhJTHlyUHpGZktyWk1CZkVTZ1g3UFNjS3FScDlVVFpVSmRDYXFaVjdPa3JsaURGaXl6NEh4TmFKYVFvZ1E4cGE1LXZjVExYQzlFTmFXdW11Y3laaUhkbG55blNjTHhicHhjSWlZdy0tNUdHU1YwMTlIR1NicGltOA?oc=5",
+      "summary": "Güne Başlarken: Gözler Fed’de, altın geriliyor, petrol yükseliyor EKOTÜRK",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-28 16:06 UTC"
+    },
+    {
+      "title": "Trump, seçim vaadi olan 5 bin dolarla Mar-a-Lago Malikanesi'nde hamburger ve tatlı bile alınamayabileceğini söyledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/trump-secim-vaadi-olan-5-bin-dolarla-mar-a-lago-malikanesinde-hamburger-ve-tatli-bile-alinamayabilecegini-soyledi/4104109",
+      "summary": "ABD Başkanı Donald Trump, Temsilciler Meclisi ve Senatodaki seçimlerde Cumhuriyetçilerin galip gelmesi halinde, her yetişkine vadettiği 5 bin dolar ile Florida'daki Mar-a-Lago Malikanesi'nde hamburger ve küçük tatlı bile alınamayabileceğini söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 16:05 UTC"
+    },
+    {
+      "title": "Göğsündeki çizikten kanser olduğunu öğrenen kadın erken teşhisin önemine dikkati çekti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/gogsundeki-cizikten-kanser-oldugunu-ogrenen-kadin-erken-teshisin-onemine-dikkati-cekti/4104106",
+      "summary": "Beş yıl önce göğsünün altındaki bir çiziği fark edip şüphe üzerine gittiği hastanede meme kanseri olduğunu öğrenen Sibel Kılıç, zorlu tedavi sürecinin ardından sağlığına kavuştu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 16:04 UTC"
+    },
+    {
+      "title": "İspanya'da hızlı trenler çarpıştı: En az 68 ölü",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/ispanyada-hizli-trenler-carpisti-en-az-68-olu-961528.html",
+      "summary": "İspanya'da MadridEndülüs seferi yapan iki yolcu treninin çarpıştığı kazada en az 68 kişinin hayatını kaybettiği duyuruldu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 15:57 UTC"
+    },
+    {
+      "title": "Putin ile Musk arasında uydu teması",
+      "image": "https://geoim.bloomberght.com/l/2026/10/28/ver1793203019/3792732/jpg/320x180",
+      "link": "https://www.bloomberght.com/putin-ile-musk-arasinda-uydu-temasi-3792732",
+      "summary": "Rusya Devlet Başkanı Vladimir Putin, ülkesinin SpaceX'in kurucusu Elon Musk ile alçak yörüngeli uydu sistemleri konusunda yakın temas halinde olduğunu belirtti.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-28 15:56 UTC"
+    },
+    {
+      "title": "Bakanlar Çiftçi ve Gürlek bir araya geldi: Dolandırıcılıkla Mücadele Merkezi kuruluyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/bakanlar-ciftci-ve-gurlek-bir-araya-geldi-dolandiricilikla-mucadele-merkezi-kuruluyor-961527.html",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi ile Adalet Bakanı Akın Gürlek bir araya gelerek, 'DOLUNAY Projesi' kapsamında dolandırıcılıkla mücadelede atılacak adımları görüştü. Bakan Çiftçi, \"İçişleri Bakanlığımız bünyesinde kurmayı planladığımız Dolandırıcılıkla Mücadele Merkezi ile suçla mücadelede yeni bir dönemin kapısını aralıyoruz\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 15:55 UTC"
+    },
+    {
+      "title": "Deniz yüzeyi sıcaklıklarındaki artış Akdeniz'de aşırı hava olaylarının gelişimini destekliyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/deniz-yuzeyi-sicakliklarindaki-artis-akdenizde-asiri-hava-olaylarinin-gelisimini-destekliyor/4104088",
+      "summary": "İzmir Bakırçay Üniversitesi Coğrafya Bölümü Öğretim Üyesi Tağıl, Akdeniz Havzası'nda yükselen deniz yüzeyi sıcaklıklarının ve deniz-atmosfer etkileşiminin şiddetli yağış, sel ve fırtına gibi ekstrem hava olaylarının gelişimini desteklediğini söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 15:50 UTC"
+    },
+    {
+      "title": "Yemen hükümeti: Husiler, Aden Uluslararası Havalimanı'nı birkaç saat arayla 2. kez hedef aldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/yemen-hukumeti-husiler-aden-uluslararasi-havalimanini-birkac-saat-arayla-2-kez-hedef-aldi/4104086",
+      "summary": "Yemen hükümeti, İran destekli Husilerin birkaç saat arayla ikinci kez Aden Uluslararası Havalimanı'na saldırı düzenlediğini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 15:48 UTC"
+    },
+    {
+      "title": "İspanya'daki hızlı tren kazasında can kaybı 68'e çıktı, üç günlük yas ilan edildi",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7bb6/live/21861730-d2dc-11f1-b677-b762d2f83f6e.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
+      "summary": "İspanya'nın başkenti Madrid'in güneyindeki Toledo kentindeki hızlı tren hattında içlerinde 500'den fazla yolcunun bulunduğu iki tren çarpıştı. Yetkililer can kaybının 68'e yükseldiğini açıkladı.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 15:42 UTC"
+    },
+    {
+      "title": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric?traffic_source=rss",
+      "summary": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 15:40 UTC"
+    },
+    {
+      "title": "Fed bu akşam karar veriyor: Dolar/TL, altın ve Borsa İstanbul için 3 kritik başlık - Investing.com Türkiye",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd21sazhPOVFFZ2FKUDdwajYxbmdqX2lNUVhESERaSTk2YTJQZmh5bk1pUTdGZGg3TkJtdERieEF0Mno0elBDcXh0WlVuZmg4WnRNMmlvWl9vcW1WY0VlaUlWalVPbHhibE9xVGVyRko0MjdEUDAtbzc4aTAyck0wUEptN0ZodEZ5aTBPTVQ1NFRNV3QyaC1WSEpJdVg2amx3YW1PME5EYlVZdnM2V3dITXFKRURGSHdmeXNobmJhSW8tX28yTHhj?oc=5",
+      "summary": "Fed bu akşam karar veriyor: Dolar/TL, altın ve Borsa İstanbul için 3 kritik başlık Investing.com Türkiye",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-28 15:39 UTC"
+    },
+    {
+      "title": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
+      "summary": "The French superstar's comments about Mao Zedong have drawn the ire of China, a lucrative market for sports teams.",
+      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 15:36 UTC"
     },
@@ -83,13 +263,13 @@
       "published_at": "2026-10-28 15:18 UTC"
     },
     {
-      "title": "YTM, Tera Yatırım Menkul Değerler AŞ yatırımcılarının tazmin sürecine ilişkin duyuru yayımladı",
+      "title": "Father grieving 6 children wants Pastor Mackenzie ‘locked away for life’",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/ytm-tera-yatirim-menkul-degerler-as-yatirimcilarinin-tazmin-surecine-iliskin-duyuru-yayimladi/4104058",
-      "summary": "Yatırımcı Tazmin Merkezi (YTM), tüm faaliyet izinleri ve yetki belgesi iptal edilerek tedrici tasfiyesine karar verilen Tera Yatırım Menkul Değerler AŞ'nin yatırımcılarının tazmin sürecine ilişkin esasları açıkladı.",
-      "source": "Anadolu Ajansı",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss",
+      "summary": "All of Stephen Mwiti Joseph’s children are presumed dead after his wife abducted them to follow a self-declared pastor.",
+      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 15:14 UTC"
+      "published_at": "2026-10-28 15:17 UTC"
     },
     {
       "title": "Çorum'da iki otomobil çarpıştı: 4 ölü, 2 yaralı",
@@ -101,24 +281,6 @@
       "published_at": "2026-10-28 15:12 UTC"
     },
     {
-      "title": "Çin'de yaşlı nüfusu ilk kez çocuk nüfusunu geçti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/cinde-yasli-nufusu-ilk-kez-cocuk-nufusunu-gecti/4104049",
-      "summary": "Çin'de çalışma çağı dışındaki 65 yaş ve üstü yaşlı nüfus, ülke tarihinde ilk kez 14 yaş ve altındaki çocuk nüfusunu geride bıraktı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 15:04 UTC"
-    },
-    {
-      "title": "WSJ: ABD, bazı Körfez ülkelerini ara seçimlerden sonra olası saldırılara hazırlıklı olmaları konusunda uyardı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/wsj-abd-bazi-korfez-ulkelerini-ara-secimlerden-sonra-olasi-saldirilara-hazirlikli-olmalari-konusunda-uyardi/4104047",
-      "summary": "ABD yönetiminin, bazı Körfez ülkelerine, 3 Kasım'daki Kongre ara seçimlerinin ardından olası saldırılara hazırlıklı olmaları konusunda uyarıda bulunduğu ileri sürüldü.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 15:03 UTC"
-    },
-    {
       "title": "Bolsonaro turns up in Florida after vanishing from public view",
       "image": "",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss",
@@ -126,24 +288,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 15:02 UTC"
-    },
-    {
-      "title": "Antalya Altın Portakal Film Festivali'nde \"Kadim Mavi\" filminin dünya prömiyeri yapıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/antalya-altin-portakal-film-festivalinde-kadim-mavi-filminin-dunya-promiyeri-yapildi/4104046",
-      "summary": "Bu yıl 63'üncüsü düzenlenen Uluslararası Antalya Altın Portakal Film Festivali kapsamında Ulusal Uzun Metraj Film Yarışması'nda yer alan \"Kadim Mavi\" filminin dünya prömiyeri gerçekleştirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 14:57 UTC"
-    },
-    {
-      "title": "İngiltere Kralı Charles, Cumhurbaşkanı Erdoğan'a 29 Ekim Cumhuriyet Bayramı dolayısıyla tebrik mesajı gönderdi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/ingiltere-krali-charles-cumhurbaskani-erdogana-29-ekim-cumhuriyet-bayrami-dolayisiyla-tebrik-mesaji-gonderdi/4104042",
-      "summary": "İngiltere Kralı 3. Charles, 29 Ekim Cumhuriyet Bayramı dolayısıyla Cumhurbaşkanı Recep Tayyip Erdoğan'a tebrik mesajı gönderdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 14:55 UTC"
     },
     {
       "title": "Are GCC countries looking for a regional security pact with Iran?",
@@ -155,15 +299,6 @@
       "published_at": "2026-10-28 14:51 UTC"
     },
     {
-      "title": "İspanya'daki hızlı tren kazasında can kaybı 64'e çıktı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7bb6/live/21861730-d2dc-11f1-b677-b762d2f83f6e.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
-      "summary": "İspanya'nın başkenti Madrid'in güneyindeki Toledo kentindeki hızlı tren hattında içlerinde 500'den fazla yolcunun bulunduğu iki tren çarpıştı. Yetkililer can kaybının 64'e çıktığını açıkladı.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 14:47 UTC"
-    },
-    {
       "title": "İngiltere, Ukrayna'ya ekonomik ve askeri desteği 10 milyar sterline çıkaracak",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/ingiltere-ukraynaya-ekonomik-ve-askeri-destegi-10-milyar-sterline-cikaracak-961522.html",
@@ -173,15 +308,6 @@
       "published_at": "2026-10-28 14:44 UTC"
     },
     {
-      "title": "İsrail'in Gazze'de düzenlediği saldırılarda 4 kişi hayatını kaybetti, 19 kişi yaralandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-duzenledigi-saldirilarda-4-kisi-hayatini-kaybetti-19-kisi-yaralandi/4104024",
-      "summary": "İsrail ordusunun, ateşkese rağmen Gazze Şeridi'nde düzenlediği saldırılarda en az 4 Filistinlinin yaşamını yitirdiği, 19 kişinin de yaralandığı bildirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 14:40 UTC"
-    },
-    {
       "title": "Boxer Serrano to hang up gloves in Puerto Rico farewell on January 9",
       "image": "",
       "link": "https://www.aljazeera.com/sports/2026/10/28/boxer-serrano-to-hang-up-gloves-in-puerto-rico-farewell-on-january-9?traffic_source=rss",
@@ -189,15 +315,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 14:40 UTC"
-    },
-    {
-      "title": "TBMM Başkanı Kurtulmuş'tan İspanya'daki iki hızlı trenin çarpıştığı kazaya ilişkin paylaşım",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmustan-ispanyadaki-iki-hizli-trenin-carpistigi-kazaya-iliskin-paylasim/4104020",
-      "summary": "TBMM Başkanı Numan Kurtulmuş, İspanya'daki iki hızlı trenin çarpıştığı kazaya ilişkin, \"Türkiye olarak dost İspanya'nın yanında olduğumuzu ifade ediyor, İspanya halkına dayanışma ve kardeşlik duygularımızı iletiyorum.\" ifadelerini kullandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 14:38 UTC"
     },
     {
       "title": "Shadman Islam’s 99 leads Bangladesh to 213-3 vs West Indies in first Test",
@@ -245,6 +362,15 @@
       "published_at": "2026-10-28 14:30 UTC"
     },
     {
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c6a/live/eef90440-d2d5-11f1-b677-b762d2f83f6e.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 14:30 UTC"
+    },
+    {
       "title": "Why Arab parties may not be the ‘kingmakers’ in this Israeli election",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu?traffic_source=rss",
@@ -254,6 +380,24 @@
       "published_at": "2026-10-28 14:30 UTC"
     },
     {
+      "title": "FED FAİZ KARARI EKİM 2026: FED Faiz Kararı Ne Zaman Açıklanacak? Piyasaların Gözü ABD Merkez Bankası'nda! Altın, Dolar ve Borsalar FED Kararına Kilitlendi - CNN Türk",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYVM4Szh2UjZLZTRLTjNVQlg0V3R5dDhlVl94RXBHXzJwRmdRTTd1U2lTYi00VW1aUjBhVi1xMi1CekRlUlVLMU5PYlZRM1BjQ2NQaW5yVTVZSnJ6MWZUOHNhbWNoSGxYc25wNW4xRnRScVVaeG8zSmhUd2w1VmxzbXVQd0g4T1ZCa2FEQVE5aUNzbmpzUWFoS0xXX2tyakJyN0lrckhlVW1Pb1dPamhYQk9LT2s4d3M3dkJjZURDMWFHQVUxUzRlNmRJMVpUOVIwSkhkR3NxRUhnWWdhTnluYUVFbzZ6LUdwbDJTZnNYNkdBR2d4UjI2OUxHYVdpa2xGSElxMHRFQQ?oc=5",
+      "summary": "FED FAİZ KARARI EKİM 2026: FED Faiz Kararı Ne Zaman Açıklanacak? Piyasaların Gözü ABD Merkez Bankası'nda! Altın, Dolar ve Borsalar FED Kararına Kilitlendi CNN Türk",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-28 14:28 UTC"
+    },
+    {
+      "title": "SON DAKİKA FED FAİZ KARARI AÇIKLANDI MI? 2026 Ekim ABD Merkez Bankası FED faiz kararı ne zaman, saat kaçta açıklanacak? FED faiz kararı artar mı, sabit mi kalır? - Uzmanpara",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOODlxa1ZhTmsyMENIQVkzYnVkUDlwN25takJEYndjR2FvWTROeXBmaGpYUkR3TFl1QTRrdGxwUEVBR3VvY19Sb3MzWFhRWHlWME9BWlZOTllqVml5SW1wczJoaktfUkRGcXA2a3lhZ001a2x2RGFhZG0taDMxdU5PallOckc4LUd3N3lqakFWWFlDVFNtMGY3dUxSVlVDQ2ZSUEItOUZIb0lpTEVtdHhNNktkeDBkZmNYOGZpM1VLWDVxRkJzTWE2S1F0OW9xbkFDMDBtMjVfMUhhOVZVZHJmRjRUTEtsNEtYSm00UVFsVjZ2bnpvNThVRnA3emNiNEVfSkRFRlNWNVVZeFR1ZE9tUWtSUG9XRE02eXc?oc=5",
+      "summary": "SON DAKİKA FED FAİZ KARARI AÇIKLANDI MI? 2026 Ekim ABD Merkez Bankası FED faiz kararı ne zaman, saat kaçta açıklanacak? FED faiz kararı artar mı, sabit mi kalır? Uzmanpara",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-28 14:28 UTC"
+    },
+    {
       "title": "Israel's election result is messy - here's why",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8924/live/3d448ba0-d2d7-11f1-93e1-3b657b665bcf.jpg",
       "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
@@ -261,15 +405,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 14:26 UTC"
-    },
-    {
-      "title": "Fransa'da Sarı Yelekliler'in eylemlerinin maliyetinin 1 milyar avroyu aşacağı tahmin ediliyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/fransada-sari-yeleklilerin-eylemlerinin-maliyetinin-1-milyar-avroyu-asacagi-tahmin-ediliyor/4104002",
-      "summary": "Fransa'da 17-18 Ekim'de şiddet ve yağma olaylarına sahne olan Sarı Yelekliler'in eylemlerinde oluşan hasarın maliyetinin 1 milyar avroyu aşabileceği belirtildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 14:25 UTC"
     },
     {
       "title": "Türkiye ve 2 ülkeden Karadeniz'deki ticari gemi saldırılarına ortak tepki",
@@ -306,15 +441,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 14:17 UTC"
-    },
-    {
-      "title": "ABD'de ara seçimler yaklaşırken Kongre kontrolü mücadelesinde 8 eyalet öne çıkıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abdde-ara-secimler-yaklasirken-kongre-kontrolu-mucadelesinde-8-eyalet-one-cikiyor/4103972",
-      "summary": "ABD genelindeki seçmenler, Kongre'nin yapısını yeniden şekillendirebilecek ve ABD Başkanı Donald Trump'ın görev süresinin son iki yılında yasama gündemini ilerletme kapasitesini belirleyecek ara seçimler için 3 Kasım'da sandık başına gidecek.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 14:15 UTC"
     },
     {
       "title": "Yunanistan'da şiddetli yağışlar heyelan ve su baskınlarına yol açtı",
@@ -389,8 +515,8 @@
       "published_at": "2026-10-28 13:56 UTC"
     },
     {
-      "title": "Brezilya'da seçimi kaybeden Flavio Bolsonaro ABD'ye indi",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/89cf/live/49d6f8b0-d239-11f1-904a-5b90e72e87ff.jpg",
+      "title": "Brezilya'da seçimi kaybeden Flavio Bolsonaro ABD'ye gitti",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f17e/live/8bfd6b10-d2e9-11f1-b441-2b33b063138f.png",
       "link": "https://www.bbc.com/turkce/articles/cwx284my7y5ko?at_medium=RSS&at_campaign=rss",
       "summary": "Brezilya'da seçimi kaybeden sağcı cumhurbaşkanı adayı Flavio Bolsonaro ve ailesini ABD'ye taşıdığı düşünülen uçak Miami'ye vardı.",
       "source": "BBC Türkçe",
@@ -405,15 +531,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 13:52 UTC"
-    },
-    {
-      "title": "Cumhuriyet'in 103. yılını 103 yaşındaki Nazife nine de kutladı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/yasam/cumhuriyetin-103-yilini-103-yasindaki-nazife-nine-de-kutladi-961512.html",
-      "summary": "Cumhuriyet'in 103. yıl dönümünde Malatya'da yaşayan 103 yaşındaki Nazife Gül'e anlamlı bir ziyaret gerçekleştirildi. Gül, üzerinde \"103 yaşında\" yazılı pastayla Cumhuriyet Bayramı sevincini yaşadı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 13:49 UTC"
     },
     {
       "title": "Spanish football postpones 24 Copa del Rey games after train crash",
@@ -432,24 +549,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 13:47 UTC"
-    },
-    {
-      "title": "Kazakistan Cumhurbaşkanı Tokayev Ankara'da",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/kazakistan-cumhurbaskani-tokayev-ankarada-961513.html",
-      "summary": "Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine Türkiye'ye resmi ziyarette bulunuyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 13:46 UTC"
-    },
-    {
-      "title": "Antalya'daki hortum faciasına ilişkin 2 zanlı tutuklandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/antalyadaki-hortum-faciasina-iliskin-2-zanli-tutuklandi-961511.html",
-      "summary": "Antalya'nın Kepez ilçesinde hortum nedeniyle iki konteynerin parçalanması sonucu 4 kişinin hayatını kaybettiği, 1 kişinin yaralandığı olaya ilişkin gözaltına alınan 4 şüpheliden 2'si tutuklandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 13:35 UTC"
     },
     {
       "title": "İsrail seçim sonuçları: Partiler meclis çoğunluğunu sağlayamıyor",
@@ -479,33 +578,6 @@
       "published_at": "2026-10-28 13:00 UTC"
     },
     {
-      "title": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss",
-      "summary": "Mocking Mao Zedong is taboo in China, which is a lucrative market for players and teams such as Kylian Mbappe's Real.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 12:56 UTC"
-    },
-    {
-      "title": "Ballon d’Or win will help keep Kane at Bayern, says Germany’s Matthaus",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/28/ballon-dor-win-will-help-keep-kane-at-bayern-says-germanys-matthaus?traffic_source=rss",
-      "summary": "Former World Cup winner Lothar Matthaus says relationship between Harry Kane and club Bayern Munich is 'perfect'.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 12:53 UTC"
-    },
-    {
-      "title": "Tens of thousands flee Ethiopia fighting into neighbouring Kenya",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss",
-      "summary": "Tens of thousands of people have crossed into Kenya, fleeing fighting between regional forces in Ethiopia’s Moyale town.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 12:51 UTC"
-    },
-    {
       "title": "TSX vadeli işlemleri Kanada Merkez Bankası kararı öncesi durgun - Investing.com Türkiye",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdTBFM1d1dWtKdFFjbFVodHJzcTRZQjJiNmFJX0RyVU9QLTVUMVQ5eDNQOE5lbnd1clZGcURKSHNGVUtHZk5qMzNSQkg5eHJSUUJCdWtQRDRFRWNOc3B3Mm5ZYjZSd3Q0d1RJQ0ZReTV0M2xwY0dpeERnRlRBZkZJTS1iT1ZIbnRUSUlDZ213R194T1RKcXN3TFdoa3NwcEhlNlgwMy1BQ2swU3g3RERRamhrY192Rl8x?oc=5",
@@ -515,31 +587,13 @@
       "published_at": "2026-10-28 12:47 UTC"
     },
     {
-      "title": "Photos: Spain high-speed train crash kills 30",
+      "title": "Borsa İstanbul'da günün öne çıkan hisseleri - Borsa Gundem",
       "image": "",
-      "link": "https://www.aljazeera.com/gallery/2026/10/28/photos-spain-high-speed-train-collision-kills-30?traffic_source=rss",
-      "summary": "Health Minister Monica Garcia says emergency workers are focusing on rescuing survivors.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 12:46 UTC"
-    },
-    {
-      "title": "Pakistan’s Rauf sanctioned for conduct contrary to ‘spirit’ of cricket",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/28/haris-rauf-sanctioned-england-penalised-for-slow-over-rate-in-odi-thriller-pakistan?traffic_source=rss",
-      "summary": "One demerit point added to the Pakistan pacer Haris Rauf’s disciplinary record for conduct during ODI against England.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 12:44 UTC"
-    },
-    {
-      "title": "SON DAKİKA EKİM AYI FED FAİZ KARARI 2026: ABD Merkez Bankası FED faiz kararı ne zaman, saat kaçta açıklanacak? FED faiz kararı ne olur? - Uzmanpara",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOODlxa1ZhTmsyMENIQVkzYnVkUDlwN25takJEYndjR2FvWTROeXBmaGpYUkR3TFl1QTRrdGxwUEVBR3VvY19Sb3MzWFhRWHlWME9BWlZOTllqVml5SW1wczJoaktfUkRGcXA2a3lhZ001a2x2RGFhZG0taDMxdU5PallOckc4LUd3N3lqakFWWFlDVFNtMGY3dUxSVlVDQ2ZSUEItOUZIb0lpTEVtdHhNNktkeDBkZmNYOGZpM1VLWDVxRkJzTWE2S1F0OW9xbkFDMDBtMjVfMUhhOVZVZHJmRjRUTEtsNEtYSm00UVFsVjZ2bnpvNThVRnA3emNiNEVfSkRFRlNWNVVZeFR1ZE9tUWtSUG9XRE02eXc?oc=5",
-      "summary": "SON DAKİKA EKİM AYI FED FAİZ KARARI 2026: ABD Merkez Bankası FED faiz kararı ne zaman, saat kaçta açıklanacak? FED faiz kararı ne olur? Uzmanpara",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 12:43 UTC"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeFBNeVNpV0puUGhveHREV1VRNGs3bERUcjlyX0Rmb1RaM2swTFlwTVdjWVdtaEhwMU9ObWNkLUxDNkNXdFJIaklCSlpTNFkxZUFhV1dsSHpMTnJGZlMtOVoyNi1MLUYxOXlFcU5kN3dqTFUwMkc1b2k1dkVlblkwbg?oc=5",
+      "summary": "Borsa İstanbul'da günün öne çıkan hisseleri Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-28 12:27 UTC"
     },
     {
       "title": "Yeni Parti'den Sarıgül açıklaması: 'Hakkında yoğun iddialar var, şu anda parti ile ilişkisi yok'",
@@ -587,6 +641,15 @@
       "published_at": "2026-10-28 11:17 UTC"
     },
     {
+      "title": "Irak Merkez Bankası yetkilisi, Kürdistan Bölgesi bankalarındaki havale sorununu açıkladı - Rudaw",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4taDVLTXFHZWxlNkVyNXFOa0lYUXpiSU5xYXladVNORmptSmgwZFF1N0RTQy1oSkhFc2ZsNC1YVXN1OGFPUC1JN05Uc2pEaTIzbVVoVlV5UEJJYTN4X0ZpQjRaTHE5ZTll?oc=5",
+      "summary": "Irak Merkez Bankası yetkilisi, Kürdistan Bölgesi bankalarındaki havale sorununu açıkladı Rudaw",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-28 11:14 UTC"
+    },
+    {
       "title": "Hizmet üretim endeksinde ılımlı artış",
       "image": "https://geoim.bloomberght.com/l/2026/10/28/ver1793185596/3792723/jpg/320x180",
       "link": "https://www.bloomberght.com/hizmet-uretim-endeksinde-ilimli-artis-3792723",
@@ -614,6 +677,15 @@
       "published_at": "2026-10-28 10:31 UTC"
     },
     {
+      "title": "Tayland Merkez Bankası büyüme zayıflarken faizi %1,00’de tuttu - Investing.com Türkiye",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzR3TGJJWG1wMks0OXpYRkFIQnM5LWdJR3JsMkZ2d21NQnhkdUdUbm5PSl9NWHFTZnB6VWoyNXhfZEU4VzRjdjJXVUdzVlprSTlmN2N0Z1J3RTZDYlN6cDRJOHFlUFMzSXd5NlRwSjlWT0tFbHlidmZRTVByMVZ1WXpUNzdNdDAzOVRjbk1zVGJnX0FicUFqMzVtb3BjTnpUcy11NXZaMjNXNFl0UDNLVkVyTQ?oc=5",
+      "summary": "Tayland Merkez Bankası büyüme zayıflarken faizi %1,00’de tuttu Investing.com Türkiye",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-28 10:28 UTC"
+    },
+    {
       "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a9d/live/58c194a0-d2ae-11f1-b441-2b33b063138f.png",
       "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
@@ -630,6 +702,15 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 10:17 UTC"
+    },
+    {
+      "title": "KKTC Merkez Bankası’ndan Türkiye’deki soruşturmalar sonrası güvence: “Bankaların mali bünyesi son derece güçlü” - Bugün Kıbrıs",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzZoOGJzb1pQMzNhR3dsWXRNTEtYNWtEZnJjMmFuTmJ3cWt0V0ZBOXhiUkItWVVGcGpyR3l4SE9CWTg5Q2lnRFgxR2lVeFk1SzM0bXVaTHFCSFZSQ3hhQWhrcmRtMGxfZkpOUHhkME1GVi1HbmtkXzBJdkd0d05scFhLUlpybTExRS1ZbnMxZEs2WWR4R2tUSFgtb09IX0RvaHlVS29QR0RNYWY3RzBNTWk5YWZoSEtjQmlRcWNQbW9kbWctREJTSFAtWQ?oc=5",
+      "summary": "KKTC Merkez Bankası’ndan Türkiye’deki soruşturmalar sonrası güvence: “Bankaların mali bünyesi son derece güçlü” Bugün Kıbrıs",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-28 09:24 UTC"
     },
     {
       "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
@@ -677,6 +758,15 @@
       "published_at": "2026-10-28 07:11 UTC"
     },
     {
+      "title": "Borsa İstanbul güne yatay başladı - Borsa Gundem",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ROUdsMUlBOWkzME10NWQ1Z3JtM0N6YkhoajQtYnNSd0FvNkhiNV9tbXhHUTItTERqbnNfcXI3OGNNX01pelQ4VGFLdHZuZ280Ql9rNXBoYkYtOEhObldOWlFXOVR1c2NTREd0ME5DcTZGMU1NOWc?oc=5",
+      "summary": "Borsa İstanbul güne yatay başladı Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-28 06:55 UTC"
+    },
+    {
       "title": "Üstünova Highlights 25 Years of Systems Integration and AI Work at SAHA 2026 - ssbulten.com.tr",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkFzYVcxZ2dKYkRoZ1NBTmVla2ptcDB5MlVSZGN5TzY2b2xqT2xYZTFBWlZycnIyWi1RUTVXdkpkT3h4Smt0aXN6M25GakVIcGs4U2pWYUhJN1lHNUtZYkk2bTlqcUdsbHFVejhJVk1xcWdCc2g0RFVoenJJbnpQZmZEd3ZMOV9tRTZoelZmd2FRYl9MUTA5SUxENjRjYnRmWkNYU3BEcTRSZ2IwLTduaVR6QXdZNXVkSHRBZDEwN3M?oc=5",
@@ -684,15 +774,6 @@
       "source": "Google News - Küresel Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-10-28 06:55 UTC"
-    },
-    {
-      "title": "Borsa İstanbul’da VIOP Yükselişle Başladı, Dolar/TL 49.83’te - Finans Hattı",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdW50V2xuLV9QQzF3UkQzb05UWFJTRnlxYkE1ZGVWd0M1NDc2ZnI0V3F4NkZyX1lnVlptT29aUVNHeXk0X1hDT21PUTlCMXY5czAzenA3SUdMVHdpZUJ0elhUeXpZc1dJX0JQR1diX3FXcy1EdjN5TGhaSUJKS1RQaGxxaFlTZ3VGd2c?oc=5",
-      "summary": "Borsa İstanbul’da VIOP Yükselişle Başladı, Dolar/TL 49.83’te Finans Hattı",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-28 06:38 UTC"
     },
     {
       "title": "Fed'in kritik faiz kararı bugün açıklanıyor! Gözler dolar, altın ve borsalarda - Haber Global",
@@ -758,15 +839,6 @@
       "published_at": "2026-10-28 05:23 UTC"
     },
     {
-      "title": "Altın, Fed kararı öncesinde 4 bin doların üzerinde tutundu",
-      "image": "https://geoim.bloomberght.com/l/2026/10/28/ver1793164049/3792713/jpg/320x180",
-      "link": "https://www.bloomberght.com/altin-fed-karari-oncesinde-4-bin-dolarin-uzerinde-tutundu-3792713",
-      "summary": "Altın, yatırımcıların ABD Merkez Bankası'nın (Fed) faiz kararını beklediği çarşamba günü 4 bin doların üzerinde seyretti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 05:07 UTC"
-    },
-    {
       "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e4/live/7d77ba00-d249-11f1-8ba3-9fd3e261415f.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
@@ -774,15 +846,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 04:32 UTC"
-    },
-    {
-      "title": "Yeni Zelanda Merkez Bankası'ndan sürpriz faiz kararı - Foreks.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUF6T0RUV1c1Tmw0R3haS0ZNejZhYjJBMjNLUWFsd1AyV3FpWVYwUTNQaVRJQWxETTY5SS1FcldiUHVNTGEwZmVRV2dRTkRCQVVnNVkzTVBWSXpFUkhNSG9VNGgxSFl4WWtVZlVHd3NqR09vbUlhdlFVTDhzbzd2Y0xVd3E2RGlqam5JU2xhakF1SWl0SS11NkFudng2V29PZ0NzX1ZjODJCeW9ZRkZPT2RTM0ZHWWpZQnRMS3pOY1FLSVVscDQtbkpSRWMtQQ?oc=5",
-      "summary": "Yeni Zelanda Merkez Bankası'ndan sürpriz faiz kararı Foreks.com",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 03:48 UTC"
     },
     {
       "title": "Emekli maaşlarına iyileştirme: Yaş ve hane geliri kriterleri tartışılıyor",
@@ -801,15 +864,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-27 22:11 UTC"
-    },
-    {
-      "title": "Chile Holds Key Interest Rate Amid External Risks - TradingView",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVU1NZzRUVG5nR0s0OVFKN2tkS2F4U2tpcjNFZk90UHktVDdseGpacWszOGRfNUcxZ2JPUkNBMmd1MnlEbGt3OEZ0cnRiVHlIbXByYlNCV3RPUU90NWJpdm1MaloyenZDY0hyUDV4M09PX25LWkZHT1lNNlY4b1IyWEhkbE12NDROLXNySEhsWGttbnhCbi1wVEN2LWs5eW96?oc=5",
-      "summary": "Chile Holds Key Interest Rate Amid External Risks TradingView",
-      "source": "Google News - Küresel Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-27 21:12 UTC"
     },
     {
       "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
@@ -846,60 +900,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-10-27 19:10 UTC"
-    },
-    {
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-27 18:28 UTC"
-    },
-    {
-      "title": "Oracle, OpenAI’ın Siber Modelleriyle Güçlendirilen Yapay Zekâ Güvenlik Ağı’nı Duyurdu - Unite.AI",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlZyYmtJN0owNUNzWV8zSVNUd0VjRDNUNWlOMHZqbEFZaFI3ZEV3Z25LMmhyMy1xeVFIVWtXTkZJcVZ2dlUwREMwajVkV0pnTVNFQlJhbWJySnpYZHBncGpLRk9jVG5OMlJycm04ZHZWdXBpaDhkMkYwQ21VTkc0UnVwME1LNVlWYkNfYlNIdjJIVHM?oc=5",
-      "summary": "Oracle, OpenAI’ın Siber Modelleriyle Güçlendirilen Yapay Zekâ Güvenlik Ağı’nı Duyurdu Unite.AI",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-27 17:19 UTC"
-    },
-    {
-      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2306/live/4e8e4460-d227-11f1-93e1-3b657b665bcf.jpg",
-      "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-27 17:11 UTC"
-    },
-    {
-      "title": "Şiddet mağduru kadınlar için Diyarbakır'da buluşma: 'Her kapı çaldığında irkiliyorum'",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20f9/live/32e11660-d21e-11f1-b8e4-17c9744a7f8e.png",
-      "link": "https://www.bbc.com/turkce/articles/cqkg5lp7r4xno?at_medium=RSS&at_campaign=rss",
-      "summary": "Diyarbakır'da kadın örgütlerinin biraraya gelerek oluşturduğu \"Amed (Diyarbakır) Şiddetle Mücadele Ağı\", öldürülen ve şüpheli şekilde yaşamını yitiren kadınlar için bir süre önce \"Kadın, Adalet ve Hafıza Nöbeti\" adıyla haftalık eylem başlatma kararı aldı.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-27 16:22 UTC"
-    },
-    {
-      "title": "Türkiye Siber Vatan Programı 2027 Dönemi Başladı - Tekirdağ Yeni Haber Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcU1LWGxZOXVBcUc2STNUNE1lMFdZUmhvNVpjclZsVnI0MWxMckRscno4a1Z5S3V5U1I1Y3QtMDZwMnJJRlVJNWVGQzR0ektIVXUxbDloQnQ1ZGloT2ZwZEVqaDBtQ2hjZW5sdGpwbEc3dWxNa0hMSVJOQ0R2SGRTTThNX3NMdDRQOHdhM1UwdjFiZ2pG?oc=5",
-      "summary": "Türkiye Siber Vatan Programı 2027 Dönemi Başladı Tekirdağ Yeni Haber Gazetesi",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-27 14:25 UTC"
-    },
-    {
-      "title": "Altın fiyatları için kritik '72 saat' başladı: Avrupa'nın dev şirketi 'en kötü geride kaldı' diyerek yeni seviyeyi açıkladı - Yeni Şafak",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMkhMazBqb0U3b0t3TlgwTnloR1h6dW1LeVVwdEx1V3pTN3N1OGhrRkZDRGd2SHNjRXpfZWdqdkowNXEzQlV1V3E3bzh3SkV5YXRjc2xvSlF1WDc5alJVQXo5T1hCbWZJT3RMYUg4cmxuOFFiQkg2eHk0ZnEtSFppWnRRU2c2Vk9MT21fVk9kWDlYOGcyMVo4b0c4RFVoWlNfc2syRkNwRmU0dlhtaVdRTlc2b0xoMUNuRE1NY2Vvc3h0bzlyODdJSndUVlVyTENINWdRWmhmRmFjOFA0NWV0dVVSNURVdXpUc05NaEQzWC13bDk0QzBJZHdn?oc=5",
-      "summary": "Altın fiyatları için kritik '72 saat' başladı: Avrupa'nın dev şirketi 'en kötü geride kaldı' diyerek yeni seviyeyi açıkladı Yeni Şafak",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-27 13:23 UTC"
     }
   ]
 }
