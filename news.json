@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-28 23:04 UTC",
+  "updated_at": "2026-10-29 00:00 UTC",
   "items": [
+    {
+      "title": "MHP Genel Başkanı Bahçeli'den 29 Ekim Cumhuriyet Bayramı mesajı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahceliden-29-ekim-cumhuriyet-bayrami-mesaji-961543.html",
+      "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Şahsi ikbalini milli istiklal uğruna feda eden ecdadımızdan devraldığımız bu mukaddes emaneti, fikri hür, irfanı hür ve vicdanı hür nesillerin ellerinde Türk ve Türkiye Yüzyılı'nın aydınlık ufuklarına taşıma azim ve kararlılığındayız.\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 23:42 UTC"
+    },
+    {
+      "title": "BM raportörleri: Fransa'daki öğrenci protestolarına yönelik şiddet nedeniyle dehşete kapıldık",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/bm-raportorleri-fransadaki-ogrenci-protestolarina-yonelik-siddet-nedeniyle-dehsete-kapildik/4104432",
+      "summary": "Birleşmiş Milletler (BM) raportörleri, Fransa'da taleplerinin yerine getirilmesi için gösteri yapan öğrenciler ve gençlerin uğradığı şiddetin düzeyi nedeniyle dehşete kapıldıklarını bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 23:21 UTC"
+    },
+    {
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 23:21 UTC"
+    },
+    {
+      "title": "İsrail'de muhalefet lideri Eisenkot \"Siyonist askerlik hükümeti\" kuracaklarını belirtti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-lideri-eisenkot-siyonist-askerlik-hukumeti-kuracaklarini-belirtti/4104431",
+      "summary": "İsrail'de muhalefet lideri Gadi Eisenkot, ülkede değişim gerçekleştirerek \"Siyonist askerlik hükümeti\" kuracaklarını bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 23:18 UTC"
+    },
+    {
+      "title": "Alphabet'in kârında yüzde 25'lik artış",
+      "image": "https://geoim.bloomberght.com/l/2026/10/29/ver1793228387/3792785/jpg/320x180",
+      "link": "https://www.bloomberght.com/alphabet-in-krinda-yuzde-25-lik-artis-3792785",
+      "summary": "ABD'li teknoloji şirketi Alphabet'in geliri, bu yılın üçüncü çeyreğinde yıllık bazda yüzde 25 artarak 127,6 milyar dolara yükseldi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-28 22:59 UTC"
+    },
     {
       "title": "İçişleri Bakanı Çiftçi'den kuvvetli sağanak uyarısı",
       "image": "",
@@ -29,15 +74,6 @@
       "published_at": "2026-10-28 22:26 UTC"
     },
     {
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 22:13 UTC"
-    },
-    {
       "title": "Girl seriously injured in wolf attack at German wildlife park",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad45/live/27f788a0-d30f-11f1-ad4f-5d2bbacf0caf.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
@@ -45,6 +81,15 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 22:08 UTC"
+    },
+    {
+      "title": "Fed faizi sabit tuttu: İki üyeden artış itirazı - NTV Haber",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzbFp6TGZMVURHN2lsZEZFWlVsbDl1SHZIQVdtQXZrbmFicmV6SWpKX01hYnZLR1VUSGp6Ty1oMjJkbm03LTRQZW1kQ2JrVlZIT2x3RnRFalc3YUdlQ0NFZTE2d1JuUkcyQl9qU2pMcXVZQk0?oc=5",
+      "summary": "Fed faizi sabit tuttu: İki üyeden artış itirazı NTV Haber",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-28 22:07 UTC"
     },
     {
       "title": "Fitch: ABD'deki mali baskılar, ara seçim sonucundan bağımsız olarak sürecek",
@@ -344,15 +389,6 @@
       "published_at": "2026-10-28 19:49 UTC"
     },
     {
-      "title": "Trafik kazasında yaralanan polis memuru Tayfun Akalan şehit oldu",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/trafik-kazasinda-yaralanan-polis-memuru-tayfun-akalan-sehit-oldu/4104359",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi, trafik kazasında yaralanan polis memuru Tayfun Akalan'ın müdahalelere rağmen şehit olduğunu bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 19:42 UTC"
-    },
-    {
       "title": "BM: Dünyanın daha fazla diplomasiye ihtiyacı var, askeri eyleme değil",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/bm-dunyanin-daha-fazla-diplomasiye-ihtiyaci-var-askeri-eyleme-degil/4104358",
@@ -360,15 +396,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 19:41 UTC"
-    },
-    {
-      "title": "Hizbullah: İsrail'i kimin yönettiği bizi ilgilendirmiyor, işgal ettiği topraklardan çıkmalı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/hizbullah-israili-kimin-yonettigi-bizi-ilgilendirmiyor-isgal-ettigi-topraklardan-cikmali/4104357",
-      "summary": "Hizbullah Genel Sekreteri Naim Kasım, İsrail'de yapılan parlamento seçimlerinin ardından İsrail'i kimin yöneteceğinin kendilerini ilgilendirmediğini ve İsrail askerlerinin Lübnan topraklarından çıkması gerektiğini belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 19:39 UTC"
     },
     {
       "title": "Anthropic halka arza hazırlanıyor: Peki ya Borsa İstanbul’da? - n24.com.tr",
@@ -524,15 +551,6 @@
       "published_at": "2026-10-28 18:33 UTC"
     },
     {
-      "title": "Fed faizi sabit tuttu: Altın fiyatları karara nasıl tepki verdi? - Yeni Şafak",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQRDl6enhiWUxfb3FsaXRYeHQ2eGFvMDJSaFN5UGVOcXFXaHRCUmwxWTlPaUh1TURtWGtkTEdlSHVsZHFNbE93NkdsN21MMk12QkFOQzZWUlFfeUdZWm95ODUwOG5FR0pmNEcwVVh0SVMzeEVGMnNZdTE2MV9SamVSNFI1WFNTaUJIeXY4Z3JuQkl2VThCYjJaRDZabTFqaTBCM3hNSFZmaUZxeS1QcHJrNmJNZGh4bEpQNFJ5Rk10d3dUWEFEel84ZTdBaFdFdHZLczhJWXE5QU54VHRyQVZvNllFbTR4WXVaQzVWOWFVVnM0VVl4bjhTT3I4TVFhemNrdmVSSnVsSWE2Y1I5d2hnUXRBVU1wTkFrN21JREN5aEI0Z0xLaVY1Z2hOdElKMzFtN0JieW95MWk?oc=5",
-      "summary": "Fed faizi sabit tuttu: Altın fiyatları karara nasıl tepki verdi? Yeni Şafak",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 18:28 UTC"
-    },
-    {
       "title": "Apple ilk dokunmatik ekranlı MacBook modelini tanıttı",
       "image": "https://geoim.bloomberght.com/l/2026/10/28/ver1793211993/3792745/jpg/320x180",
       "link": "https://www.bloomberght.com/apple-ilk-dokunmatik-ekranli-macbook-modellerini-tanitti-3792745",
@@ -543,7 +561,7 @@
     },
     {
       "title": "İsrail seçim sonuçları: Netanyahu'nun bloğu önde ancak meclis çoğunluğunu sağlayamıyor",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0462/live/ee3389d0-d2b3-11f1-8cf0-c5d120932f9f.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0fd/live/3079c590-d32a-11f1-b0c3-4b2ce0e9f02a.jpg",
       "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
       "summary": "İsrail'de 27 Ekim Salı günü yapılan parlamento seçimlerinde Türkiye saatiyle 15.30 itibarıyla oyların %85,6'sı sayıldı.",
       "source": "BBC Türkçe",
@@ -695,15 +713,6 @@
       "published_at": "2026-10-28 16:19 UTC"
     },
     {
-      "title": "İspanya'da hızlı trenler çarpıştı: En az 68 ölü",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/ispanyada-hizli-trenler-carpisti-en-az-68-olu-961528.html",
-      "summary": "İspanya'da MadridEndülüs seferi yapan iki yolcu treninin çarpıştığı kazada en az 68 kişinin hayatını kaybettiği duyuruldu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 15:57 UTC"
-    },
-    {
       "title": "Putin ile Musk arasında uydu teması",
       "image": "https://geoim.bloomberght.com/l/2026/10/28/ver1793203019/3792732/jpg/320x180",
       "link": "https://www.bloomberght.com/putin-ile-musk-arasinda-uydu-temasi-3792732",
@@ -785,24 +794,6 @@
       "published_at": "2026-10-28 14:03 UTC"
     },
     {
-      "title": "Quantum eMotion to Showcase Quantum-Safe Cybersecurity Portfolio at World Quantum Cannes Festival November 17-18, 2026 - TradingView",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLVRnYjVFUU1acmhvang5LVFybEc3TE0tM0tpQ04wWWg5eFIyekJlcU11NWtuTEhTUDVSbTZjUFJZXzI1RUNRYnBPd3lTYU1ubmlvbVFvcTdrYnRENEFnamVmeDlWZEJTalY0bER5M0xBMDFoV1RocWFoWFVXOENnVXk4cmFsNG04TnhvNHhsXzUzRVc0YVdKeVpuZTNQSzVsSGk5QWR4dURGNUEtMGRuNy05eWR2alo3UTNjMVMzS0FUdU4tOTZyd0hCOU1GeWZOLW0yZXlMNlRPVU1ULTN4Ym9QZUNvLUpscHd1RUgwaG9XbmxYSG1RVFFDVFFCWG1BTTBrT0oxZ21Zdlk?oc=5",
-      "summary": "Quantum eMotion to Showcase Quantum-Safe Cybersecurity Portfolio at World Quantum Cannes Festival November 17-18, 2026 TradingView",
-      "source": "Google News - Küresel Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-28 13:15 UTC"
-    },
-    {
-      "title": "Healey: Birleşik Krallık ekonomisi 2027'de yavaşlayacak",
-      "image": "https://geoim.bloomberght.com/l/2026/10/28/ver1793193339/3792728/jpg/320x180",
-      "link": "https://www.bloomberght.com/healey-birlesik-krallik-ekonomisi-2027-de-yavaslayacak-3792728",
-      "summary": "İngiltere Maliye Bakanı John Healey, ilk bütçe sunumunda Birleşik Krallık'ın 2027 yılı ekonomik büyüme tahmininin yüzde 1'e düşürüldüğünü belirtti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 13:13 UTC"
-    },
-    {
       "title": "Swimlane, Turbine’e Özel Yapay Zekâ Tehdit Tespitleri ve Çift Yönlü MCP Desteği Ekliyor - Unite.AI",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMDd5UnFuOE1kaWl6SnpYVDF2VUJiQ1FvQ0tkbWswaE9LRFZmbFlTQXpYbFY0am5ObklYYzlfYXJobnY2YnBzSk5sSGEwcW5nYzBSQ1FjaWQ4MmRkQUctX2NkMDJ3dGlnS3U2a2tKSGdPZmladWp0WnltSzhGRHdYSmFLVjBvTzNx?oc=5",
@@ -810,6 +801,15 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-10-28 13:00 UTC"
+    },
+    {
+      "title": "Borsa İstanbul'da günün öne çıkan hisseleri - Borsa Gundem",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeFBNeVNpV0puUGhveHREV1VRNGs3bERUcjlyX0Rmb1RaM2swTFlwTVdjWVdtaEhwMU9ObWNkLUxDNkNXdFJIaklCSlpTNFkxZUFhV1dsSHpMTnJGZlMtOVoyNi1MLUYxOXlFcU5kN3dqTFUwMkc1b2k1dkVlblkwbg?oc=5",
+      "summary": "Borsa İstanbul'da günün öne çıkan hisseleri Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-28 12:27 UTC"
     },
     {
       "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
@@ -875,13 +875,13 @@
       "published_at": "2026-10-28 06:55 UTC"
     },
     {
-      "title": "Borsa İstanbul’da VIOP Yükselişle Başladı, Dolar/TL 49.83’te - Finans Hattı",
+      "title": "Fed'in kritik faiz kararı bugün açıklanıyor! Gözler dolar, altın ve borsalarda - Haber Global",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdW50V2xuLV9QQzF3UkQzb05UWFJTRnlxYkE1ZGVWd0M1NDc2ZnI0V3F4NkZyX1lnVlptT29aUVNHeXk0X1hDT21PUTlCMXY5czAzenA3SUdMVHdpZUJ0elhUeXpZc1dJX0JQR1diX3FXcy1EdjN5TGhaSUJKS1RQaGxxaFlTZ3VGd2c?oc=5",
-      "summary": "Borsa İstanbul’da VIOP Yükselişle Başladı, Dolar/TL 49.83’te Finans Hattı",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDh3aXlBU2pkQTYzTzZ4TjZBRHhpYkUyb3lHN1h2VVFWdXgxVEtfTkgxNnNNTFpUbHBEQ2Y5aGtON2c0TzJRT0Jyel96SEgxbzdSdmxHRmhMWmg3blFXNnRoUWtqdmEwMXVua2tEMVZ3QjFTaElmR0hNdnBvb0pUS0lwUG1DVHdCZkJpVWVnWlo2Z0xyQ3ZXdUlvWWlpOGgtTlVBT24yZ2p2ZFI1ZHRCLUJNdnfSAboBQVVfeXFMTmNHbXJSazFtLTdpRUkyMDBnbFo2RnNGNWotTlh6YWJvYWlVclVSbHBrT0lDcXRfd0pyZldnTk1KRndzbFJBRmpjTEx6Qk04MlZZNWFJN014QmxxU2xqOGpja3BFbnNlMFNvNzV4MWhLSnFsQ0FaRjROcGIzMnV3ZTllZl9VbnJxZm1RNjQ2Wjh4d1VoZFNtRkROcklmVzYtbFBWU3NZSk1lcldOUzNEQUJaeVQ4X2dtdG53?oc=5",
+      "summary": "Fed'in kritik faiz kararı bugün açıklanıyor! Gözler dolar, altın ve borsalarda Haber Global",
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
-      "published_at": "2026-10-28 06:38 UTC"
+      "published_at": "2026-10-28 06:19 UTC"
     },
     {
       "title": "Borsa İstanbul Şirket Haberleri (28 Ekim) - Borsa Gundem",
