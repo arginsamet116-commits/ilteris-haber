@@ -1,6 +1,240 @@
 {
-  "updated_at": "2026-10-29 08:43 UTC",
+  "updated_at": "2026-10-29 09:41 UTC",
   "items": [
+    {
+      "title": "Fransa'da bu hafta yabancı karşıtı kuruluşların planladığı 3 etkinliğin iptal edilmesi çağrısı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/fransada-bu-hafta-yabanci-karsiti-kuruluslarin-planladigi-3-etkinligin-iptal-edilmesi-cagrisi/4104749",
+      "summary": "Fransız siyasetçiler, yabancı karşıtı kuruluş ve kişilerin bu hafta başkent Paris'te düzenlemeyi planladıkları 3 etkinliğin iptal edilmesi çağrısında bulundu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:40 UTC"
+    },
+    {
+      "title": "Kara para aklama soruşturmasında 8 zanlı daha yakalandı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/kara-para-aklama-sorusturmasinda-8-zanli-daha-yakalandi-961611.html",
+      "summary": "Yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin Emir ve Ömer Sarıgül'ün de aralarında bulunduğu 22 zanlının tutuklandığı soruşturma kapsamında 8 şüpheli daha gözaltına alındı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:34 UTC"
+    },
+    {
+      "title": "Yargıda yapay zeka ve dijitalleşme odaklı uygulamalar yaygınlaşıyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/yargida-yapay-zeka-ve-dijitallesme-odakli-uygulamalar-yayginlasiyor-961610.html",
+      "summary": "Adalet Bakanlığınca, vatandaşların adalet hizmetlerine erişimini güçlendirmek ve yargıdaki başvuru süreçlerini hızlandırmak amacıyla hayata geçirilen yapay zeka ve dijitalleşme odaklı uygulamalar yaygınlaştırılıyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:34 UTC"
+    },
+    {
+      "title": "İsrail'de muhalif lider Golan, Netanyahu ile koalisyon hükümeti kurmayacaklarını açıkladı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/israilde-muhalif-lider-golan-netanyahu-ile-koalisyon-hukumeti-kurmayacaklarini-acikladi-961609.html",
+      "summary": "İsrail'de muhalif Demokratlar Partisi lideri Yair Golan, Başbakan Binyamin Netanyahu ve partisi Likud ile bir birlik hükümeti kurulmasına karşı olduğunu, geçmişteki benzer girişimlerin \"büyük bir fiyaskoyla sonuçlandığını\" söyledi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:32 UTC"
+    },
+    {
+      "title": "İsrail'de muhalif lider Golan, Netanyahu ile koalisyon hükümeti kurmayacaklarını açıkladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalif-lider-golan-netanyahu-ile-koalisyon-hukumeti-kurmayacaklarini-acikladi/4104738",
+      "summary": "İsrail'de muhalif Demokratlar Partisi lideri Yair Golan, Başbakan Binyamin Netanyahu ve partisi Likud ile bir birlik hükümeti kurulmasına karşı olduğunu, geçmişteki benzer girişimlerin \"büyük bir fiyaskoyla sonuçlandığını\" söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:25 UTC"
+    },
+    {
+      "title": "Medyada kadınlara yönelik olumsuz içerikler yapay zekayla tespit edilecek",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/medyada-kadinlara-yonelik-olumsuz-icerikler-yapay-zekayla-tespit-edilecek-961608.html",
+      "summary": "Yapay zeka destekli RTÜK Veri Analiz Sistemi ile medyada kadınlara yönelik olumsuz içeriklerin tespit edilmesi ve bu içeriklere hızlı müdahalede bulunulması planlanıyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:25 UTC"
+    },
+    {
+      "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda ABD'ye ait MQM170 tipi İHA ele geçirildi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abdye-ait-mqm-170-tipi-iha-ele-gecirildi-961607.html",
+      "summary": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın batısında ABD'ye ait MQM170 tipi bir insansız hava aracının İHA elektronik harp operasyonuyla ele geçirildiğini ve sağlam şekilde yere indirildiğini öne sürdü.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:24 UTC"
+    },
+    {
+      "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda ABD'ye ait MQM-170 tipi İHA sağlam şekilde ele geçirildi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abdye-ait-mqm-170-tipi-iha-saglam-sekilde-ele-gecirildi/4104733",
+      "summary": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın batısında ABD'ye ait MQM-170 tipi bir insansız hava aracının (İHA) elektronik harp operasyonuyla ele geçirildiğini ve sağlam şekilde yere indirildiğini öne sürdü.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:23 UTC"
+    },
+    {
+      "title": "Mersin'de halı ve mobilya mağazasında yangın: 80 kişi tahliye edildi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/mersinde-hali-ve-mobilya-magazasinda-yangin-80-kisi-tahliye-edildi-961606.html",
+      "summary": "Mersin'in Mut ilçesinde halı ve mobilya mağazasında yangın çıktı. İtfaiye ekipleri yangına müdahale ediyor. 4 katlı binada çıkan yangında 20 dairedeki 80 kişi itfaiye ekiplerince tahliye edildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:21 UTC"
+    },
+    {
+      "title": "İsrail'de aşırı sağcı bakan, Filistinlileri temsil eden parti liderlerinin gözaltına alınmasını istedi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israilde-asiri-sagci-bakan-filistinlileri-temsil-eden-parti-liderlerinin-gozaltina-alinmasini-istedi/4104729",
+      "summary": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, İsrail vatandaşı Filistinlileri temsil eden parti liderlerinin gözaltına alınmasını isterken, Maliye Bakanı Bezalel Smotrich de söz konusu liderlerin sorgulanması talebinde bulundu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:20 UTC"
+    },
+    {
+      "title": "Belçika'da başarısız polis dijitalleşme projesinin kamuya maliyeti 139,4 milyon avroya ulaştı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/belcikada-basarisiz-polis-dijitallesme-projesinin-kamuya-maliyeti-139-4-milyon-avroya-ulasti/4104725",
+      "summary": "Belçika'da polis teşkilatının farklı veri tabanları ve bilişim uygulamalarını ortak bir dijital platformda birleştirmeyi amaçlayan ancak başarısızlıkla sonuçlanan \"i-Police\" projesinin kamuya maliyetinin 139,4 milyon avroya ulaştığı bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:18 UTC"
+    },
+    {
+      "title": "İspanya'da tren faciasının ardından 3 günlük ulusal yas ilan edildi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/ispanyada-tren-faciasinin-ardindan-3-gunluk-ulusal-yas-ilan-edildi-961605.html",
+      "summary": "İspanya, bu yıl ikinci kez yaşanan ölümcül yüksek hızlı tren kazasının ardından üç günlük ulusal yas ilan etti. Yakınlarını arayan aileler, sevdiklerinden haber alabilmek için yetkililere başvuruyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:16 UTC"
+    },
+    {
+      "title": "GİB'den yapay zeka destekli dijital mükellef temsilcisi projesi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/gibden-yapay-zeka-destekli-dijital-mukellef-temsilcisi-projesi-961604.html",
+      "summary": "Gelir İdaresi Başkanlığı GİB, yapay zeka temsilcisi kullanarak Dijital Mükellef Temsilcisi Projesi'ni uygulamaya alacak.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:12 UTC"
+    },
+    {
+      "title": "Mavi Vatan: Sınır çizgisinden denizcilik vizyonuna",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/analiz/mavi-vatan-sinir-cizgisinden-denizcilik-vizyonuna/4104713",
+      "summary": "Mavi Vatan, coğrafya ile kapasite arasındaki bağı ifade eder. Deniz yetki alanları Türkiye’nin hak ve menfaatlerini, deniz gücü ise bunların refah, üretim ve güvenliğe dönüştürülmesini tanımlar.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:08 UTC"
+    },
+    {
+      "title": "2026'nın sonuna yaklaşırken ABD-Çin ticaret savaşında avantaj kimin elinde?",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/analiz/2026nin-sonuna-yaklasirken-abd-cin-ticaret-savasinda-avantaj-kimin-elinde/4104708",
+      "summary": "ABD-Çin ticaret savaşında belirleyici olan, hangi aktörün ekonomik ve teknolojik kapasitesini daha düşük ve sürdürülebilir maliyetlerle yeniden üreterek uluslararası düzende kalıcı etkiye dönüştürebileceğidir.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:04 UTC"
+    },
+    {
+      "title": "İspanya'da 68 kişinin öldüğü hızlı tren kazası sonrası yas ve protesto",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2c8f/live/e02499a0-d377-11f1-9ed3-17a877d6ca72.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
+      "summary": "İspanya'da en az 68 kişinin hayatını kaybettiği hızlı tren kazası sonrası Madrid'deki protestoda polis göstericilere müdahale etti. Madrid'deki protestoda aşırı sağcı gruplar İspanyol polisiyle çatıştı. Oscar Puente Santiago'nun istifası istendi.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:03 UTC"
+    },
+    {
+      "title": "AB, yüksek enerji fiyatları nedeniyle zorlu bir kışa hazırlanıyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/ab-yuksek-enerji-fiyatlari-nedeniyle-zorlu-bir-kisa-hazirlaniyor-961602.html",
+      "summary": "Avrupa Birliği AB Komisyonunun Enerjiden Sorumlu Üyesi Dan Jorgensen, Avrupa'da yaklaşık 50 milyon kişinin normal bir yılda bile evini yeterince ısıtamadığını belirterek, yüksek enerji fiyatları nedeniyle bu sayının bu yıl daha da artacağını söyledi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:01 UTC"
+    },
+    {
+      "title": "Tır sürücülerinin Schengen vizesi sorunlarına yakın takip",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/tir-suruculerinin-schengen-vizesi-sorunlarina-yakin-takip-961603.html",
+      "summary": "Ticaret Bakanlığı, Dışişleri ile Ulaştırma ve Altyapı bakanlıklarıyla koordinasyon içinde tır sürücülerinin Schengen vizesi süreçlerinde yaşadıkları sorunların çözümü için çalışmalara devam ediyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 09:00 UTC"
+    },
+    {
+      "title": "North Koreans being recruited into forced labour in Russia, report says",
+      "image": "",
+      "link": "https://www.aljazeera.com/economy/2026/10/29/north-koreans-being-recruited-into-forced-labour-in-russia-report-says?traffic_source=rss",
+      "summary": "Russian broker network recruiting North Korean labourers using student visas, Global Rights Compliance report says.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 08:58 UTC"
+    },
+    {
+      "title": "İsrail seçimleri: Çoğunluk kaybı, koalisyon açmazı ve yeni pazarlıklar",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/analiz/israil-secimleri-cogunluk-kaybi-koalisyon-acmazi-ve-yeni-pazarliklar/4104700",
+      "summary": "İsrail’in seçenekleri, lider değişiminden öte bir pazarlık alanına yayılıyor. Bu noktada partilerin hangi taahhütlerinden vazgeçmeye hazır oldukları ve bunun karşılığında nasıl bir yönetim programı oluşturabilecekleri belirleyici olacak.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 08:55 UTC"
+    },
+    {
+      "title": "Obama and Trump spar at rallies in Georgia and Ohio: Key takeaways",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways?traffic_source=rss",
+      "summary": "Obama and Trump traded barbs over the Iran war, tariffs and the White House ballroom ahead of the US midterm elections.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 08:51 UTC"
+    },
+    {
+      "title": "Are Texans divided over Republican and Democrat candidates?",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/are-texans-divided-over-republican-and-democrat-candidates-2?traffic_source=rss",
+      "summary": "Al Jazeera’s Emma Withrow asks Texans what matters most to them ahead of the US midterm elections.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 08:49 UTC"
+    },
+    {
+      "title": "Otomotiv sektöründe ihracat hedefi 45,5 milyar dolar",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/otomotiv-sektorunde-ihracat-hedefi-455-milyar-dolar-961599.html",
+      "summary": "Türkiye otomotiv sektörü uluslararası piyasalardan aldığı payı yükseltmeye odaklanırken gelecek yıl 45,5 milyar dolar ile ihracatta yeni bir rekora ulaşmayı hedefliyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 08:48 UTC"
+    },
+    {
+      "title": "İletişim Başkanı Duran: Türkiye için azim ve kararlılıkla çalışmaya devam edeceğiz",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-turkiye-icin-azim-ve-kararlilikla-calismaya-devam-edecegiz-961600.html",
+      "summary": "İletişim Başkanı Burhanettin Duran, Türkiye'nin savunma sanayiinden diplomasiye her alanda büyük atılımlar gerçekleştirdiğini belirterek, \"Türkiye Yüzyılı vizyonumuz doğrultusunda, daha güçlü, daha müreffeh ve daha bağımsız bir Türkiye için azimle çalışmaya devam edeceğiz\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 08:46 UTC"
+    },
+    {
+      "title": "Altın Fed kararının ardından yön değiştirdi",
+      "image": "https://geoim.bloomberght.com/l/2026/10/29/ver1793263562/3792794/jpg/320x180",
+      "link": "https://www.bloomberght.com/altin-fed-kararinin-ardindan-yon-degistirdi-3792794",
+      "summary": "Altın fiyatları, Fed'in para politikası toplantısının ardından verilen mesajların değerlendirilmesiyle perşembe günü düşüş gösterdi. Spot altın, saat 09.40 itibarıyla yüzde 0,9 gerileyerek ons başına 4.030 dolar seviyesine indi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-29 08:45 UTC"
+    },
+    {
+      "title": "MHP Genel Başkanı Bahçeli: Cumhuriyet, kadim bir milletin varoluş iradesinin modern dönemdeki tescilidir",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceli-cumhuriyet-kadim-bir-milletin-varolus-iradesinin-modern-donemdeki-tescilidir/4104691",
+      "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Cumhuriyet, kadim bir milletin varoluş iradesinin modern dönemdeki tescili ve dünyaya ilanıdır.\" ifadesini kullandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 08:44 UTC"
+    },
     {
       "title": "Ankara'da düzenlenen TDT Dışişleri Bakanları Konseyi Toplantısı başladı",
       "image": "",
@@ -11,13 +245,22 @@
       "published_at": "2026-10-29 08:38 UTC"
     },
     {
-      "title": "ABD Merkez Bankası faizi sabit tuttu - Haberton",
+      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc9/live/708f0da0-d34a-11f1-8a05-59afc813496d.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 08:38 UTC"
+    },
+    {
+      "title": "European Union backtracks on Canada becoming ‘associate member’",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BNU5GYXJhampTZFdpWGJwdk51dDF4TG9NWm9sd3VteldkUXU3RnozcHZEcnU5Q3dhUkkyZTctUmpDS0FTb195bkVYdnJjVXh4b2t4b3pleUFfdk5iMHNqRWU0ZXlrdG5mWGc?oc=5",
-      "summary": "ABD Merkez Bankası faizi sabit tuttu Haberton",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-29 08:34 UTC"
+      "link": "https://www.aljazeera.com/news/2026/10/29/european-union-backtracks-on-canada-becoming-associate-2?traffic_source=rss",
+      "summary": "German Chancellor Merz and other EU leaders reportedly pushed for the terms to be removed from the draft statement.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 08:31 UTC"
     },
     {
       "title": "Coğrafi işaret tescilli kabak çekirdeğinin üretim alanı arttı",
@@ -38,31 +281,31 @@
       "published_at": "2026-10-29 08:26 UTC"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan: Türkiye Yüzyılı hedefine ulaşıncaya kadar kararlılıkla çalışmayı sürdüreceğiz",
+      "title": "Bayern celebrate Kane’s Ballon d’Or, Kompany’s discharge with Magdeburg win",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkiye-yuzyili-hedefine-ulasincaya-kadar-kararlilikla-calismayi-surdurecegiz/4104670",
-      "summary": "Cumhurbaşkanı Erdoğan, 29 Ekim Cumhuriyet Bayramı dolayısıyla Anıtkabir’i ziyaretinde, \"Milli davamız olarak gördüğümüz Türkiye Yüzyılı hedefine ulaşıncaya kadar kararlılıkla çalışmayı sürdüreceğiz.\" ifadelerini kullandı.",
-      "source": "Anadolu Ajansı",
+      "link": "https://www.aljazeera.com/sports/2026/10/29/bayern-celebrate-kanes-ballon-dor-kompany-discharge-with-magdeburg-win?traffic_source=rss",
+      "summary": "Harry Kane gets a guard of honour before the match in Munich; Vincent Kompany out of hospital after collapsing on pitch.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 08:25 UTC"
+    },
+    {
+      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d18/live/3bba8dd0-d367-11f1-8799-171d5bd36a81.png",
+      "link": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
+      "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 08:23 UTC"
     },
     {
-      "title": "AB-Kanada Zirvesi'nde \"ortak üyelik\" önerisinin geleceği masaya yatırılacak",
+      "title": "‘I held this woman in my arms. She died’: Spain mourns train crash victims",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/ab-kanada-zirvesinde-ortak-uyelik-onerisinin-gelecegi-masaya-yatirilacak/4104669",
-      "summary": "Avrupa Birliği (AB) ile Kanada arasındaki ilişkilerin yeni bir boyuta taşınmasının hedeflendiği 21. AB-Kanada Zirvesi'nde, AB Komisyonu Başkanı Ursula von der Leyen'in gündeme getirdiği \"ortak üyelik\" önerisinin geleceğinin öne çıkması bekleniyor.",
-      "source": "Anadolu Ajansı",
+      "link": "https://www.aljazeera.com/news/2026/10/29/i-held-this-woman-in-my-arms-she-died-spain-mourns-train-crash-victims?traffic_source=rss",
+      "summary": "Second tragedy on line in about nine months raises questions about levels of investment in railway maintenance.",
+      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:23 UTC"
-    },
-    {
-      "title": "Altında 3.900 dolar, gümüşte 50-53 dolar beklentisi - bursa tv",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMHpmblUxVm4yMWFrVkhWcEJENktCSDU0M2FURzFKSmZNLWNqTGlGWVlxZmNkS2duT1FCeEhxeU9QYW9tbGRiRjNEMmgtUlZlQ1RfSTBTWFVMeHpnaWNhRm5ZMHkxdEZ6eEF2dmlYSmk4NHlpdS14cWFZMERrSFJ0bWp3?oc=5",
-      "summary": "Altında 3.900 dolar, gümüşte 50-53 dolar beklentisi bursa tv",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-29 08:21 UTC"
+      "published_at": "2026-10-29 08:20 UTC"
     },
     {
       "title": "Putin: Elon Musk 'gerçek bir dahi, yakın temastayız '",
@@ -83,13 +326,13 @@
       "published_at": "2026-10-29 08:18 UTC"
     },
     {
-      "title": "\"En Sevdiğim\" beyaz perdede seyirciyle buluşacak",
+      "title": "Üç bakanlık, tır sürücülerinin Schengen vizesi sorunlarını yakından takip ediyor",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/en-sevdigim-beyaz-perdede-seyirciyle-bulusacak/4104660",
-      "summary": "Javier Bardem, Victoria Luengo ve Melina Matthews'in başrollerini paylaştığı, Rodrigo Sorogoyen'in yönetmen koltuğunda oturduğu \"En Sevdiğim\", bir dram hikayesi ile beyaz perdede yer alacak.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/uc-bakanlik-tir-suruculerinin-schengen-vizesi-sorunlarini-yakindan-takip-ediyor/4104658",
+      "summary": "Ticaret Bakanlığı, Dışişleri ile Ulaştırma ve Altyapı bakanlıklarıyla koordinasyon içinde tır sürücülerinin Schengen vizesi süreçlerinde yaşadıkları sorunların çözümü için çalışmalara devam ettiklerini bildirdi.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:16 UTC"
+      "published_at": "2026-10-29 08:15 UTC"
     },
     {
       "title": "‘Economic incentives are limited’: What does Russia really offer Africa?",
@@ -101,15 +344,6 @@
       "published_at": "2026-10-29 08:14 UTC"
     },
     {
-      "title": "19 il için turuncu ve sarı uyarı: Kuvvetli yağışa dikkat",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/19-il-icin-turuncu-ve-sari-uyari-kuvvetli-yagisa-dikkat-961594.html",
-      "summary": "Doğu Akdeniz, Antalya çevreleri, Marmara'nın doğusu, Balıkesir ve Çanakkale çevreleri ile doğu kesimlerde beklenen kuvvetli yağış nedeniyle 19 il için \"turuncu\" ve \"sarı\" kodlu uyarıda bulunuldu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:13 UTC"
-    },
-    {
       "title": "Cumhurbaşkanı Erdoğan'dan Cumhuriyet Bayramı mesajı",
       "image": "https://geoim.bloomberght.com/l/2026/10/29/ver1793261793/3792793/jpg/320x180",
       "link": "https://www.bloomberght.com/cumhurbaskani-erdogandan-cumhuriyet-bayrami-mesaji-3792793",
@@ -119,49 +353,40 @@
       "published_at": "2026-10-29 08:12 UTC"
     },
     {
-      "title": "Dünyada 29 Ekim Cumhuriyet Bayramı kutlanıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/dunyada-29-ekim-cumhuriyet-bayrami-kutlaniyor/4104651",
-      "summary": "Türkiye Cumhuriyeti'nin kuruluşunun 103. yıl dönümü dolayısıyla Suriye, Katar ve Vatikan'da düzenlenen resepsiyonlarda 29 Ekim Cumhuriyet Bayramı kutlandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:12 UTC"
+      "title": "ABD'nin ticari ham petrol stokları geriledi",
+      "image": "https://geoim.bloomberght.com/l/2026/10/29/ver1793264219/3792792/jpg/320x180",
+      "link": "https://www.bloomberght.com/abd-nin-ticari-ham-petrol-stoklari-geriledi-3792792",
+      "summary": "ABD'nin ticari ham petrol stokları, geçen hafta önceki haftaya göre yaklaşık 1 milyon 900 bin varil azaldı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-29 08:09 UTC"
     },
     {
-      "title": "Milli cimnastikçi Fatma Rana Gökçe'nin yeni hedefi dünya şampiyonasında madalya",
+      "title": "Yapay zeka destekli dijital mükellef temsilcisi 7/24 soruları yanıtlayacak",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/milli-cimnastikci-fatma-rana-gokcenin-yeni-hedefi-dunya-sampiyonasinda-madalya/4104633",
-      "summary": "Çankırı'da yaşayan 14 yaşındaki milli cimnastikçi Fatma Rana Gökçe, 4-16 Kasım tarihlerinde Çin'de düzenlenecek Trampolin Cimnastik Dünya Şampiyonası'nda madalya kazanmayı hedefliyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/yapay-zeka-destekli-dijital-mukellef-temsilcisi-7-24-sorulari-yanitlayacak/4104642",
+      "summary": "Gelir İdaresi Başkanlığı (GİB), yapay zeka teknolojisi kullanarak Dijital Mükellef Temsilcisi Projesi'ni uygulamaya alacak.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:07 UTC"
+      "published_at": "2026-10-29 08:09 UTC"
     },
     {
-      "title": "Hayvancılıkta gelecek yıl yetiştiricilere 52,5 milyar lira destek sağlanması öngörülüyor",
+      "title": "Yargıda dijitalleşme ve yapay zeka dönemi hız kazanıyor",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/hayvancilikta-gelecek-yil-yetistiricilere-52-5-milyar-lira-destek-saglanmasi-ongoruluyor/4104635",
-      "summary": "Tarım ve Orman Bakanlığı, gelecek yıl yetiştiricilere sağlayacağı 52 milyar 504 milyon lira destekle hayvancılıkta verim ve üretimde kalite artışı hedefliyor.",
+      "link": "https://www.aa.com.tr/tr/gundem/yargida-dijitallesme-ve-yapay-zeka-donemi-hiz-kazaniyor/4104637",
+      "summary": "Adalet Bakanlığınca, vatandaşların adalet hizmetlerine erişimini güçlendirmek ve yargıdaki başvuru süreçlerini hızlandırmak amacıyla hayata geçirilen yapay zeka ve dijitalleşme odaklı uygulamalar yaygınlaştırılıyor.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:07 UTC"
+      "published_at": "2026-10-29 08:08 UTC"
     },
     {
-      "title": "Galatasaray ile Konyaspor 51. randevuda",
+      "title": "Otomotiv sektörü 2027'de 45,5 milyar dolarlık ihracatla rekor hedefliyor",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/galatasaray-ile-konyaspor-51-randevuda/4104632",
-      "summary": "Galatasaray ile Konyaspor, Süper Lig'de yarın 51. kez karşı karşıya gelecek.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/otomotiv-sektoru-2027de-45-5-milyar-dolarlik-ihracatla-rekor-hedefliyor/4104640",
+      "summary": "Türkiye otomotiv sektörü uluslararası piyasalardan aldığı payı yükseltmeye odaklanırken gelecek yıl 45,5 milyar dolar ile ihracatta yeni bir rekora ulaşmayı hedefliyor.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:07 UTC"
-    },
-    {
-      "title": "Hayvancılığa 2027'de 52,5 milyar lira destek sağlanacak",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/hayvanciliga-2027de-525-milyar-lira-destek-saglanacak-961592.html",
-      "summary": "Tarım ve Orman Bakanlığının, hayvancılıkta verimliliğin ve üretim kalitesinin artırılması amacıyla gelecek yıl yetiştiricilere 52 milyar 504 milyon lira destek sağlaması planlanıyor. Hayvancılık desteklerinin bu yıla göre yüzde 43,4 artırılması öngörülüyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:05 UTC"
+      "published_at": "2026-10-29 08:08 UTC"
     },
     {
       "title": "Kastamonu'da 157 yıllık Taşmektep'te geçmişin izleri geleceğin teknolojisiyle buluşuyor",
@@ -173,78 +398,6 @@
       "published_at": "2026-10-29 08:04 UTC"
     },
     {
-      "title": "Uşak'ın 102 yıllık eğitim hafızası: Gazi Mustafa Kemal İlkokulu",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/usakin-102-yillik-egitim-hafizasi-gazi-mustafa-kemal-ilkokulu/4104628",
-      "summary": "Uşak'ta 1924 yılından bu yana eğitim veren Gazi Mustafa Kemal İlkokulu, öğrencilerinin eğitim hayatını sağlam temeller üzerine kuruyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:04 UTC"
-    },
-    {
-      "title": "Aliyev'den Cumhurbaşkanı Erdoğan'a Cumhuriyet Bayramı mesajı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/aliyevden-cumhurbaskani-erdogana-cumhuriyet-bayrami-mesaji-961591.html",
-      "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev, 29 Ekim Cumhuriyet Bayramı dolayısıyla Cumhurbaşkanı Recep Tayyip Erdoğan'a \"aziz gardaşım\" ifadeleri ile başlayan kutlama mesajında, \"Azerbaycan ile Türkiye'yi, tarihin sınavlarından geçmiş gerçek dostluk ve kardeşlik bağları birleştirmektedir\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:04 UTC"
-    },
-    {
-      "title": "Abdullah Çatlı'nın Avrupa'daki yıllarına odaklanan \"Çatlı 2\" filmi yarın izleyicilerle buluşacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/abdullah-catlinin-avrupadaki-yillarina-odaklanan-catli-2-filmi-yarin-izleyicilerle-bulusacak/4104626",
-      "summary": "Yakın dönem Türkiye tarihinin tartışmalı isimlerinden Abdullah Çatlı'nın 1980 darbesi sonrasında yurt dışına çıkışını ve Avrupa'daki yıllarını konu alan \"Çatlı 2\" filmi yarın vizyona girecek.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:03 UTC"
-    },
-    {
-      "title": "Kadınlara yönelik olumsuz yayın içerikleri yapay zekayla tespit edilecek",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/kadinlara-yonelik-olumsuz-yayin-icerikleri-yapay-zekayla-tespit-edilecek/4104625",
-      "summary": "Yapay zeka destekli RTÜK Veri Analiz Sistemi ile medyada kadınlara yönelik olumsuz içeriklerin tespit edilmesi ve bu içeriklere hızlı müdahalede bulunulması planlanıyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:03 UTC"
-    },
-    {
-      "title": "Sri Lanka Dışişleri Bakan Yardımcısı Hemachandra'dan Ankara-Kolombo ilişkilerine övgü",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/sri-lanka-disisleri-bakan-yardimcisi-hemachandradan-ankara-kolombo-iliskilerine-ovgu/4104627",
-      "summary": "Sri Lanka Dışişleri ve Yurt Dışı İstihdam Bakan Yardımcısı Arun Hemachandra, \"Türkiye ile Sri Lanka, tarih boyunca iyi ilişkiler sürdürmüştür. Son dönemde ise ilişkilerimizin daha güçlü ve verimli seviyeye doğru ilerlediğini düşünüyoruz.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:03 UTC"
-    },
-    {
-      "title": "Sanayide dijital ve yeşil dönüşüme yapay zeka desteği",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/sanayide-dijital-ve-yesil-donusume-yapay-zeka-destegi/4104623",
-      "summary": "Türkiye'de imalat sanayisinin yeşil ve dijital dönüşümü kapsamında belgelendirme sisteminin yapay zekayla geliştirilmesi, işletmelerin dönüşüm yatırımlarının desteklenmesi ve dijital altyapıya erişimlerinin kolaylaştırılması amaçlanıyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:02 UTC"
-    },
-    {
-      "title": "Enerji şirketi Shell'in karı üçüncü çeyrekte ikiye katlanarak 10,8 milyar dolar oldu",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/enerji-sirketi-shellin-kari-ucuncu-ceyrekte-ikiye-katlanarak-10-8-milyar-dolar-oldu/4104619",
-      "summary": "Enerji şirketi Shell'in bu yılın üçüncü çeyreğindeki net karı geçen yılın aynı dönemine göre yüzde 99 artışla 10,81 milyar dolara yükselerek piyasa beklentilerini aştı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:01 UTC"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Cumhuriyet uğrunda büyük bedeller ödedik",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-cumhuriyet-ugrunda-buyuk-bedeller-odedik-961581.html",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Bugün uğruna büyük bedeller ödediğimiz Cumhuriyetimizin kuruluşunun 103. seneidevriyesini kutluyoruz. Milli davamız olarak gördüğümüz Türkiye Yüzyılı hedefine ulaşıncaya kadar kararlılıkla çalışmayı sürdüreceğiz\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 08:00 UTC"
-    },
-    {
       "title": "Neymar handed two-game Santos suspension for covering mouth in argument",
       "image": "",
       "link": "https://www.aljazeera.com/sports/2026/10/29/neymar-handed-two-game-santos-suspension-for-covering-mouth-in-argument?traffic_source=rss",
@@ -252,15 +405,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 08:00 UTC"
-    },
-    {
-      "title": "Bakan Bolat: Türkiye küresel ticaretin güvenilir aktörlerinden biri",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-turkiye-kuresel-ticaretin-guvenilir-aktorlerinden-biri-961589.html",
-      "summary": "Ticaret Bakanı Bolat, Türkiye ekonomisi ve dış ticaretinin son 20 yılda köklü bir dönüşüm yaşadığını belirterek, \"Eylül itibarıyla yıllıklandırılmış mal ve hizmet ihracatımızın, hizmet ihracatına ilişkin tahminimizle birlikte 409,1 milyar dolarla Cumhuriyet tarihimizin en yüksek seviyesine ulaştığını hesaplıyoruz\" açıklamasını yaptı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 07:55 UTC"
     },
     {
       "title": "Asya borsaları karışık seyrediyor",
@@ -308,24 +452,6 @@
       "published_at": "2026-10-29 07:41 UTC"
     },
     {
-      "title": "Anthropic halka arza hazırlanıyor: Peki ya Borsa İstanbul’da? - N24",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdklaeS1uWUdMY2UwRVRxVkNTX3lxNGg2dlhlR1hrejY2Mmxrd1NlR1h0S01TZUtvekJDZHRPeGpmMnpOUmZrVUNNWlg4TUZBdU95SUctaDU0RTRPcEtQQVFxX2pDbzRoNTBYZFRRTWE0aHMyV19hSXNuVjFHaEZET3NSZ0tScU5NWU15UHZR?oc=5",
-      "summary": "Anthropic halka arza hazırlanıyor: Peki ya Borsa İstanbul’da? N24",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-29 07:40 UTC"
-    },
-    {
-      "title": "Fed faizi sabit tuttu ama tehlike geçmedi! Altın, dolar ve borsada gözler aralık ayında - Ekovitrin Haber",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUDZ6bG1sc2RtSk5HaGlmYmhFYk9KQzZVbjRCSmNXWjhBMU1LYjZWZ2xGX0JxZGp5ZmZIU0pHcjZuSnhGa2lKQ2owbkVZalRKUXBSZm1YX2JOdHZoZDVGdnVtVE0xS3doMmFVSlJJeWdPVHN6TkM5b2kzS011bEZYY0daQVYzak1ISG11U2RGUHNPMHJ4QThxRW9UU05oYmlMY3BEdmJlQUpGYllYYlFubg?oc=5",
-      "summary": "Fed faizi sabit tuttu ama tehlike geçmedi! Altın, dolar ve borsada gözler aralık ayında Ekovitrin Haber",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-29 07:39 UTC"
-    },
-    {
       "title": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss",
@@ -333,24 +459,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 07:36 UTC"
-    },
-    {
-      "title": "İşgalci İsrail ordusu Batı Şeria ve Doğu Kudüs'te Filistinlilere ait 3 evi yıktı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-bati-seria-ve-dogu-kuduste-filistinlilere-ait-3-evi-yikti-961590.html",
-      "summary": "İşgalci İsrail ordusu Batı Şeria ve Doğu Kudüs'te \"ruhsatsız\" olduğu iddiasıyla Filistinlilere ait 3 evi yıktı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 07:31 UTC"
-    },
-    {
-      "title": "MHP Genel Başkanı Bahçeli'den 29 Ekim Cumhuriyet Bayramı mesajı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahceliden-29-ekim-cumhuriyet-bayrami-mesaji-961587.html",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, 29 Ekim Cumhuriyet Bayramı mesajında \"Cumhuriyet bizim için sadece bir yönetim biçimi değişikliği değil, kadim bir millet olarak varoluş irademizin modern dönemdeki tescili ve dünyaya ilanıdır. Cumhuriyet, Türk milleti açısından her şeyden önce bir istiklal ve istikbal mücadelesidir.\" ifadelerini kullandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 07:28 UTC"
     },
     {
       "title": "Petrolde müzakere etkisi",
@@ -380,15 +488,6 @@
       "published_at": "2026-10-29 07:24 UTC"
     },
     {
-      "title": "Kamu personelinin ücret sisteminde yeni dönem",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/kamu-personelinin-ucret-sisteminde-yeni-donem-961586.html",
-      "summary": "Kamu personelinin ücretlendirme sisteminde değişiklik yolda. 2027 Cumhurbaşkanlığı Yıllık programında yer alan hedeflere göre, kamu çalışanının maaş sistemi sadeleştirilecek. Ücret düzeyleri görev ve sorumluluk esasına dayalı olarak yeniden belirlenecek. Personel etkinliğini artırıcı mevzuat düzenlemesi de yapılacak.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 07:15 UTC"
-    },
-    {
       "title": "Man City beat Brighton on penalties after dramatic League Cup comeback",
       "image": "",
       "link": "https://www.aljazeera.com/sports/2026/10/29/man-city-beat-bournemouth-on-penalties-after-dramatic-league-cup-comeback?traffic_source=rss",
@@ -405,15 +504,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-29 07:05 UTC"
-    },
-    {
-      "title": "Emine Erdoğan: Bu kıymetli mirasın nesiller boyunca yaşatılmasını diliyorum",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-bu-kiymetli-mirasin-nesiller-boyunca-yasatilmasini-diliyorum-961585.html",
-      "summary": "Emine Erdoğan, Cumhuriyet'in 103. yıl dönümü dolayısıyla yayımladığı mesajda, birlik ve beraberlik içinde Cumhuriyet'in ikinci yüzyılının yeni başarılarla taçlandırıldığını belirterek, bu kıymetli mirasın nesiller boyunca yaşatılmasını diledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 07:03 UTC"
     },
     {
       "title": "US midterms: Five days to go – What the polls say as Trump, Harris campaign",
@@ -434,49 +524,13 @@
       "published_at": "2026-10-29 07:00 UTC"
     },
     {
-      "title": "Marmaray 13 yılda 1,6 milyar yolcu taşıdı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/marmaray-13-yilda-16-milyar-yolcu-tasidi-961583.html",
-      "summary": "Marmaray 13 yılda 1,6 milyar yolcuya hizmet verdi, bu yılın 10 ayında da yaklaşık 181 milyon yolcu Marmaray'ı tercih etti.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 06:58 UTC"
-    },
-    {
-      "title": "Altın güne düşüşle başladı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/altin-gune-dususle-basladi-961582.html",
-      "summary": "Gram altın, güne düşüşle başlamasının ardından 6 bin 452 liradan işlem görüyor. Çeyrek altın 10 bin 625 liradan, cumhuriyet altını 42 bin 313 liradan satılıyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 06:57 UTC"
-    },
-    {
-      "title": "Washington ile Tokyo yönetimleri, ortak füze üretimi için Japonya'da tesis kuracak",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/washington-ile-tokyo-yonetimleri-ortak-fuze-uretimi-icin-japonyada-tesis-kuracak-961584.html",
-      "summary": "Japonya Savunma Bakanı Koizumi Şinciro, ABD ile gelişmiş orta menzilli havadan havaya füzelerin ortak üretimi için ülkesinde tesis kurma konusunda anlaştıklarını duyurdu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 06:56 UTC"
-    },
-    {
       "title": "İsrail seçim çıkmazını nasıl aşabilir? İşte olası dört senaryo",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c6a/live/eef90440-d2d5-11f1-b677-b762d2f83f6e.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1076/live/d9fdda10-d376-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.com/turkce/articles/ck87zw3p5lx5o?at_medium=RSS&at_campaign=rss",
       "summary": "Oyların büyük kısmı sayıldıktan sonra, her şey bir çıkmaza işaret ediyor. En muhtemel sonuç yeni seçimler olabilir.",
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 06:53 UTC"
-    },
-    {
-      "title": "What European students can learn from their Serbian peers",
-      "image": "",
-      "link": "https://www.aljazeera.com/opinions/2026/10/29/what-european-students-can-learn-from-their-serbian-peers?traffic_source=rss",
-      "summary": "The Serbian student mobilisation chose a political strategy that ensured its success where others had failed.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 06:39 UTC"
     },
     {
       "title": "Dolar ve Euro kuru bugün ne kadar oldu? 29 Ekim 2026 döviz fiyatları…",
@@ -488,15 +542,6 @@
       "published_at": "2026-10-29 06:30 UTC"
     },
     {
-      "title": "Europe’s wealth gap: Older households eight times richer than young ones",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/29/europes-wealth-gap-older-households-eight-times-richer-than-young-ones?traffic_source=rss",
-      "summary": "As protests over living costs and programme cuts spread across Europe, under-35s hold 2.8%t of household wealth.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 06:25 UTC"
-    },
-    {
       "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846b/live/2e1cb430-d355-11f1-a772-cb496d11fa15.jpg",
       "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
@@ -506,76 +551,13 @@
       "published_at": "2026-10-29 06:24 UTC"
     },
     {
-      "title": "Liverpool beat Chelsea 6-5 on penalties to reach League Cup quarterfinals",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/29/chelsea-beat-liverpool-on-penalties-to-reach-league-cup-quarterfinals?traffic_source=rss",
-      "summary": "After a 1-1 draw in normal time, Liverpool win 6-5 to edge a narrow win after penalties in last-16 match at Anfield.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 06:13 UTC"
-    },
-    {
-      "title": "Bebekken çantalara konularak terk edilen kardeşler yıllar sonra bir araya geldi",
+      "title": "Bebekken çantalara konularak terk edilen kardeşler yıllar sonra biraraya geldi",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/35de/live/350a1810-bbfd-11f1-90b9-913e4354ed35.jpg",
       "link": "https://www.bbc.com/turkce/articles/cq77pm63373mo?at_medium=RSS&at_campaign=rss",
       "summary": "David McBride, bebekken terk edildikten sonra on yıllarca annesini aradı. Ancak bunun yerine bir kız kardeşi ve bir erkek kardeşi buldu.",
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 06:07 UTC"
-    },
-    {
-      "title": "Russia’s alleged sabotage campaign in Europe raises fears of escalation",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss",
-      "summary": "From drone incursions to an alleged campaign of assassinations, Russia is feared to be pressing a shadow war.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 06:01 UTC"
-    },
-    {
-      "title": "Why a Democratic win in US midterms could adversely affect Europe",
-      "image": "",
-      "link": "https://www.aljazeera.com/features/2026/10/29/why-a-democratic-win-in-us-midterms-could-adversely-affect-europe?traffic_source=rss",
-      "summary": "Complacency about rising far-right movements and renewed pressure on Ukraine could be the result.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 05:36 UTC"
-    },
-    {
-      "title": "Can Turkiye’s Libya breakthrough reshape Eastern Mediterranean diplomacy?",
-      "image": "",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/29/can-turkiyes-libya-breakthrough-reshape-eastern-mediterranean-diplomacy?traffic_source=rss",
-      "summary": "Ankara wins backing from former adversaries in Libya for maritime border agreement, but other diplomatic tests remain.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 05:29 UTC"
-    },
-    {
-      "title": "Hindistan Merkez Bankası rupiyi desteklemek için devreye girdi - Investing.com Türkiye",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUFNROGZyZ2p2YnVFcTBFYUpWX0hnQ20teTluMVJJWko3Q1N2NTNBRXpMVnhJUExjU2RIR29XandJRU1nbDhVWHR2Q1c4SWJ4SVNkVGxzTWpyNzNXRksyVXQ3NXdBM0lQelVVVmpDR0xhTV9HWVRCeEZHUmZEaEJsM3BITDZvVTBkZkdOLU16c2NYTGlaaHBNQUpyQnhENV9US19Rc2JjTzQzYjFvNlhTa2pFb09DMzdIdW94UzVYdw?oc=5",
-      "summary": "Hindistan Merkez Bankası rupiyi desteklemek için devreye girdi Investing.com Türkiye",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-29 05:26 UTC"
-    },
-    {
-      "title": "Turkey's Second Century Goal: Becoming a Global Hub for Critical Technologies - ssbulten.com.tr",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUzFzcEFKcUhSSUN2Smx3RXFDZXR4YUgtbWJjclFkVGptQkZITllxVFM1dzdtYXlqaVNTb243Mm9XZ0V4MHBlV0FORHVtMjNrUl9FLWM3aXBneXEwNlRlMXBoQzBPdFFIN0JpaTJld2o1bm5rV3VVeE1pLU1fLWN1R0ZmRXNBTFZfUFZkTjlELURzQmFlV0p5S1AyWE12dkVFbjFQTGJJVzZ5cUZXcEVwV0dXclpaNXVjVWZNUW4tQQ?oc=5",
-      "summary": "Turkey's Second Century Goal: Becoming a Global Hub for Critical Technologies ssbulten.com.tr",
-      "source": "Google News - Küresel Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-29 04:33 UTC"
-    },
-    {
-      "title": "Fed kararını verdi: Altın, gümüş ve dolar hop oturup hop kalktı! - Sözcü Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc08xRmd0bHh2bC1jNTltXzFrUlFSbGd2QWt6MDl2QlVWN3Nvb3dESnFNbXBqY0tiVVdVQ1FJSHRFeWxxVUFqbHd1Q3NjMDF1dWpNZTUybmItRktabGYzcG5HV0gzQjFiZDh3TGZERy01Tk0ya0xlTDh0dE9lRGliQk15VjVjeDIySGs3bzZ1MlFETWttWWZ2OHV3?oc=5",
-      "summary": "Fed kararını verdi: Altın, gümüş ve dolar hop oturup hop kalktı! Sözcü Gazetesi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-29 04:26 UTC"
     },
     {
       "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
@@ -585,15 +567,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 03:15 UTC"
-    },
-    {
-      "title": "TSK’da yeni dönem: Libya’da tek ordu Suudi Arabistan’da Türk üssü | Hande FIRAT Köşe Yazısı - Hürriyet",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWV4MFFtUmhTUUxMNVV1VWwzU1B1UTlZT1F2clRTbzBVcFlZYWJxV1Y4U3YyakM0STFXbEIyb01Bd3U5eU5NQVlYMEZkaUVtSHVEbTNmd3FjaTh6Nk5BWS1oS2Q1emJJd2NXQndfZkhlQkxKQzV6RUVNazlpZHFOdnIzUkJ5VDVPNDZuUGVLc2w3Qjl5YmUxa3VUZUVXQ1Z2Ym5NVnZqbzBaWkU2dDh1Szg2X09nQ0xXQzVF?oc=5",
-      "summary": "TSK’da yeni dönem: Libya’da tek ordu Suudi Arabistan’da Türk üssü | Hande FIRAT Köşe Yazısı Hürriyet",
-      "source": "Google News - Savunma",
-      "category": "Savunma",
-      "published_at": "2026-10-29 02:59 UTC"
     },
     {
       "title": "Details of thousands of US immigration agents leaked in major hack",
@@ -612,15 +585,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 01:14 UTC"
-    },
-    {
-      "title": "Merkez Bankası adım attı şimdi sıra bankalarda! - Yeni Şafak",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUldQY252anFldERlMHZ0MFFfdG14a0llR2tCa1FSd3dvSFlZYWJwblNaQXp1UmliRlVUQlJpZ2JVYTJNaDNoN1ZmZ0RCZEJLbzN6bnNxZl9wSHFfWGtZN1BIUFRhNFFXMjhkdktmSWFOV0swLVFmdVRDSWxsU0NqaFFsbHJ6UGJMbVpyOFQ2X2J0ZFA4NkpxYmJQN1NrSzRMajNHSExR?oc=5",
-      "summary": "Merkez Bankası adım attı şimdi sıra bankalarda! Yeni Şafak",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-29 01:00 UTC"
     },
     {
       "title": "ABD'li oyuncu Hayden Panettiere'nin ölümünün kaza sonucu olduğu belirlendi",
@@ -668,24 +632,6 @@
       "published_at": "2026-10-28 22:08 UTC"
     },
     {
-      "title": "High-speed train crash kills at least 68 people in Spain",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 21:38 UTC"
-    },
-    {
-      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2148/live/b9f2de90-d31d-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
-      "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 21:24 UTC"
-    },
-    {
       "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c143/live/4223ae30-d313-11f1-808a-1f9b061d2360.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
@@ -693,15 +639,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 21:16 UTC"
-    },
-    {
-      "title": "Kanada Merkez Bankası enflasyon endişesiyle üç yılın ilk faiz artışını yaptı - Investing.com Türkiye",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSXRaTlQyQmFjczcxOHdBcE9UZWQ3eHBGOW1xZEtWMl9RYmdFenhlU3JndTBoTGNxa2ZINmdCSFJPQk5JVUJINnpXWFJ4Q1lEWURsQ3BPUWktQ2czMXg2RmtBdlhnMTAxLTVzWENGbC1qb01ybGQzM2NaVEtoTVFQOHlSb0RMWDJKLS1TdzVmVlBrSjZLX1ZNTndlSEZoZW5ZV0swcnpOZGxBWUY5NFZCeHFYdEI1RVp5eURha3pMeFdUNkE?oc=5",
-      "summary": "Kanada Merkez Bankası enflasyon endişesiyle üç yılın ilk faiz artışını yaptı Investing.com Türkiye",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 21:08 UTC"
     },
     {
       "title": "Fitch: Küresel risk ortamı yeni yıla girerken kötüleşiyor",
@@ -749,15 +686,6 @@
       "published_at": "2026-10-28 20:24 UTC"
     },
     {
-      "title": "ABD Merkez Bankası Faiz Oranını Değiştirmeyerek Sabit Bıraktı - سانا",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kR0R2VE1sNERGYXRwU0hodHRWR1NLa2ZjOGd5ZE5raW83U0dDWjBBcmtJeElodDZxOHk3SHNuMWE0Z1BDUk1WYUxDZw?oc=5",
-      "summary": "ABD Merkez Bankası Faiz Oranını Değiştirmeyerek Sabit Bıraktı سانا",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 20:22 UTC"
-    },
-    {
       "title": "Avrupa'da doğalgaz fiyatları 4 yılın zirvesinde",
       "image": "https://geoim.bloomberght.com/l/2026/10/28/ver1793218824/3792780/jpg/320x180",
       "link": "https://www.bloomberght.com/avrupa-da-dogalgaz-fiyatlari-4-yilin-zirvesinde-3792780",
@@ -765,24 +693,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-28 20:20 UTC"
-    },
-    {
-      "title": "Trump yönetimi, Constellation Energy'ye 5 milyar dolarlık kredi sağlıyor",
-      "image": "https://geoim.bloomberght.com/l/2026/10/28/ver1793218377/3792779/jpg/320x180",
-      "link": "https://www.bloomberght.com/trump-yonetimi-constellation-energy-ye-5-milyar-dolarlik-kredi-sagliyor-3792779",
-      "summary": "Trump yönetimi, Constellation Energy'ye, 8 nükleer santralini modernize etmesi, veri merkezleri ve Amerikan sanayisi için enerji tedariğini artırması için 5 milyar dolarlık kredi veriyor.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 20:12 UTC"
-    },
-    {
-      "title": "Garanti Bankası üçüncü çeyrekte net kârını artırdı",
-      "image": "https://geoim.bloomberght.com/l/2026/10/28/ver1793217787/3792778/jpg/320x180",
-      "link": "https://www.bloomberght.com/garanti-bankasi-ucuncu-ceyrekte-net-krini-artirdi-3792778",
-      "summary": "Garanti Bankası, 2026 yılının üçüncü çeyreğinde 33,8 milyar TL net kâr açıklayarak 32,1 milyar TL'lik piyasa konsensüsünün üzerinde bir performans sergiledi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 20:01 UTC"
     },
     {
       "title": "Yeni Parti'den Sarıgül açıklaması: 'Hakkında yoğun iddialar var, şu anda parti ile ilişkisi yok'",
@@ -803,24 +713,6 @@
       "published_at": "2026-10-28 19:15 UTC"
     },
     {
-      "title": "Fed, ara seçimler öncesi faizi sabit tuttu: İki üyeden artış isteği - Euronews.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQnF2RVZBNU1vUmo2aHlXYmZXa3FIUGxORTU3aW84NVdFcHNrV24tRTMwVGptZWVpdGM2el9nNjNReGFRV0c2X2NpMnB4TGhvd0JmbkdMTVV1M3JHM25CamxSdnluQlM3RVlMQmszWmNTeV9GM1lGREFILW9qZDY1RUhJemZDbTEwb3BlZUNhN2ViRUdMdVFQVGFraWpIZkZnTGc?oc=5",
-      "summary": "Fed, ara seçimler öncesi faizi sabit tuttu: İki üyeden artış isteği Euronews.com",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 19:02 UTC"
-    },
-    {
-      "title": "SON DAKİKA FED FAİZ KARARI: 2026 Ekim ABD Merkez Bankası FED faiz kararı ne oldu_ FED faiz kararı arttı mı, sabit mi kaldı? - Uzmanpara",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOODlxa1ZhTmsyMENIQVkzYnVkUDlwN25takJEYndjR2FvWTROeXBmaGpYUkR3TFl1QTRrdGxwUEVBR3VvY19Sb3MzWFhRWHlWME9BWlZOTllqVml5SW1wczJoaktfUkRGcXA2a3lhZ001a2x2RGFhZG0taDMxdU5PallOckc4LUd3N3lqakFWWFlDVFNtMGY3dUxSVlVDQ2ZSUEItOUZIb0lpTEVtdHhNNktkeDBkZmNYOGZpM1VLWDVxRkJzTWE2S1F0OW9xbkFDMDBtMjVfMUhhOVZVZHJmRjRUTEtsNEtYSm00UVFsVjZ2bnpvNThVRnA3emNiNEVfSkRFRlNWNVVZeFR1ZE9tUWtSUG9XRE02eXc?oc=5",
-      "summary": "SON DAKİKA FED FAİZ KARARI: 2026 Ekim ABD Merkez Bankası FED faiz kararı ne oldu_ FED faiz kararı arttı mı, sabit mi kaldı? Uzmanpara",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 18:38 UTC"
-    },
-    {
       "title": "İsrail seçim sonuçları: Netanyahu'nun bloğu önde ancak meclis çoğunluğunu sağlayamıyor",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0fd/live/3079c590-d32a-11f1-b0c3-4b2ce0e9f02a.jpg",
       "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
@@ -828,51 +720,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 18:24 UTC"
-    },
-    {
-      "title": "Fed faiz kararı belli oldu: Politika faizi sabit tutuldu - Euronews.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjBfLVBfcUk2aU1LZk95VTNkdF91QVA3aEdSeHdmUEg1bGFNZ0pnd3FHeGhhSU8weUxIaHlwTzBLTzh0OEZQOEtNV3U3dTFqYlluaUd3Zk5Kc0xzdW1iS0QtTHFxNGdUVkZUZHNraGNyYmVadjU0Wl90VEVHVzR6R1NJc0EyTm5EREtiNENmVWdJVjZ4?oc=5",
-      "summary": "Fed faiz kararı belli oldu: Politika faizi sabit tutuldu Euronews.com",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 18:13 UTC"
-    },
-    {
-      "title": "ABD Merkez Bankası, politika faizini beklentiler dahilinde yüzde 3,75-4 aralığında sabit tuttu - Anadolu Ajansı",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWHhtNWFSWUQ1MDBmYzRvMjVzblNscElwZnlzQlZSQTIzbTZXQWdqM1ZhcDViTmtiMzZHZlRkTFBZSl9oYTI1NlFoclpoX3FoMzk1VlVSZ0EtQ3pENTVxbTM4S1UtSmlhSlZFc3N2bVZoX0RfYzdZZHliM0k3MXVZU3BEdTVlQjBUR1U0Q2NkTm5heURwcUdTd2djQUhid2ZGYW1Ncy11Vjc1QmRiYWpsc1hTMW91dHZ1TEw5MGxiVmkzRmUxVEpvZjFHRnE3T28?oc=5",
-      "summary": "ABD Merkez Bankası, politika faizini beklentiler dahilinde yüzde 3,75-4 aralığında sabit tuttu Anadolu Ajansı",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 18:06 UTC"
-    },
-    {
-      "title": "FED faizi sabit tuttu - TRT Haber",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LWVVqQUxKYUlHUnpHS1NyUUxXZVdVdzkzaVdTOFpJNVYwQU1SaGtiR3R3dU1zaG1vQXZURUxpemdrWnU5MkxPMDVTT3lPLVphaHp5WVJzVGFVbExFTUpLUEFQSURBbVV1bnlfbnpSOUU1SUJUMk1nb1BR?oc=5",
-      "summary": "FED faizi sabit tuttu TRT Haber",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 18:02 UTC"
-    },
-    {
-      "title": "Son dakika... ABD Merkez Bankası (Fed), ekim ayı faiz kararını açıkladı - Bigpara",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZnF5S21qVFU5Q3ZlYWcyaE1WTUpTWFd0RXN6X1lSVE1xQXowZVg4Q0hEY1hRNzRjRDl2Y1hvNFc0Z0xMdTRJRnA5ZXdIRGI4dmlMekNDdkxuLXVFQXp0ekswZzZQeDBKYlQwSlJ3VWE5eHM0TlhTNUY4TmRTVHJrdjVPdC1RYnNBTlJNWXBob0Z2Q1Z3ZEZ1bFNvenVCSGVzZTJ0S0pSRklLSjFIRjVpaWNsX1pHU3V1Vm91U2FLZWt0MGdsYjVldnBvdEpNTnM5dmJJ?oc=5",
-      "summary": "Son dakika... ABD Merkez Bankası (Fed), ekim ayı faiz kararını açıkladı Bigpara",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 18:00 UTC"
-    },
-    {
-      "title": "Son dakika: Fed faiz kararı belli oldu - Uzmanpara",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVzctcGpKR3piWkk3QWt5RkNQdXZPejZhRmVjVms1TXc2ZEN1Y2RuV19kaDJGNUNndlpIeklxVktWUkxTakRLRHlEcDdvcGtVN2FzUXkxT2Jjd3hOUVkyTEhYaTZTYjlYa2liVVZueVdpaEJNemlFRk4xX0tGSFE4SUtxRUhGcVZQZDd6VFdBc1A5ekU?oc=5",
-      "summary": "Son dakika: Fed faiz kararı belli oldu Uzmanpara",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 18:00 UTC"
     },
     {
       "title": "Dondurulmuş veya konserve gıdalar sağlıklı mı?",
@@ -884,22 +731,85 @@
       "published_at": "2026-10-28 16:19 UTC"
     },
     {
-      "title": "İspanya'daki hızlı tren kazasında en az 68 kişi öldü, üç günlük yas ilan edildi",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7bb6/live/21861730-d2dc-11f1-b677-b762d2f83f6e.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
-      "summary": "İspanya'nın başkenti Madrid'in güneyindeki Toledo kentindeki hızlı tren hattında içlerinde 500'den fazla yolcunun bulunduğu iki tren çarpıştı. Yetkililer can kaybının 68'e yükseldiğini açıkladı.",
-      "source": "BBC Türkçe",
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+      "source": "BBC World",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 15:42 UTC"
+      "published_at": "2026-10-28 10:31 UTC"
     },
     {
-      "title": "Fed bu akşam karar veriyor: Dolar/TL, altın ve Borsa İstanbul için 3 kritik başlık - Investing.com Türkiye",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd21sazhPOVFFZ2FKUDdwajYxbmdqX2lNUVhESERaSTk2YTJQZmh5bk1pUTdGZGg3TkJtdERieEF0Mno0elBDcXh0WlVuZmg4WnRNMmlvWl9vcW1WY0VlaUlWalVPbHhibE9xVGVyRko0MjdEUDAtbzc4aTAyck0wUEptN0ZodEZ5aTBPTVQ1NFRNV3QyaC1WSEpJdVg2amx3YW1PME5EYlVZdnM2V3dITXFKRURGSHdmeXNobmJhSW8tX28yTHhj?oc=5",
-      "summary": "Fed bu akşam karar veriyor: Dolar/TL, altın ve Borsa İstanbul için 3 kritik başlık Investing.com Türkiye",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-28 15:39 UTC"
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a9d/live/58c194a0-d2ae-11f1-b441-2b33b063138f.png",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 10:18 UTC"
+    },
+    {
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8aa/live/94f66d00-d2b4-11f1-8cf0-c5d120932f9f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 10:17 UTC"
+    },
+    {
+      "title": "Emekli maaşlarına iyileştirme: Yaş ve hane geliri kriterleri tartışılıyor",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e2b3/live/9104f8b0-d21e-11f1-b8e4-17c9744a7f8e.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c5y43w14wzm4o?at_medium=RSS&at_campaign=rss",
+      "summary": "AKP kaynaklarının verdiği bilgiye göre yıl sonuna kadar yapılacak düzenlemede, emeklilere normal yıllık zammın yanı sıra, \"refah payı\" veya \"seyyanen zam\" seçeneği masada. Emekli maaşlarına yapılacak iyileştirmenin miktarında yaş, çalışma durumu, konut sahipliği veyahane geliri gibi kriterlerin esas alınması seçeneği de değerlendiriliyor. Ankara'dan Ayşe Sayın'ın haberi.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 00:17 UTC"
+    },
+    {
+      "title": "Şiddet mağduru kadınlar için Diyarbakır'da buluşma: 'Her kapı çaldığında irkiliyorum'",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20f9/live/32e11660-d21e-11f1-b8e4-17c9744a7f8e.png",
+      "link": "https://www.bbc.com/turkce/articles/cqkg5lp7r4xno?at_medium=RSS&at_campaign=rss",
+      "summary": "Diyarbakır'da kadın örgütlerinin biraraya gelerek oluşturduğu \"Amed (Diyarbakır) Şiddetle Mücadele Ağı\", öldürülen ve şüpheli şekilde yaşamını yitiren kadınlar için bir süre önce \"Kadın, Adalet ve Hafıza Nöbeti\" adıyla haftalık eylem başlatma kararı aldı.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 16:22 UTC"
+    },
+    {
+      "title": "Lula'nın WhatsApp 'ordusu' Brezilya'da seçimlerin kaderini nasıl değiştirdi?",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/add1/live/4689dd40-d1fc-11f1-b441-2b33b063138f.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cmy0r3kpzn8do?at_medium=RSS&at_campaign=rss",
+      "summary": "Luiz Inácio Lula da Silva'nın yeniden seçilme kampanyasını desteklemek amacıyla oluşturulan bir WhatsApp kanalı, Brezilya siyasetinin yakın dönemindeki en beklenmedik geri dönüşlerinden birinin gerçekleşmesinde rol sahibi olmuşa benziyor.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 08:35 UTC"
+    },
+    {
+      "title": "Ballon d'Or 2026 sahiplerini buldu: Alexia Putellas ve Harry Kane",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a4df/live/e8068060-d1fc-11f1-b441-2b33b063138f.png",
+      "link": "https://www.bbc.com/turkce/articles/c60qk31pgx2do?at_medium=RSS&at_campaign=rss",
+      "summary": "Futbol dünyasının en prestijli ödüllerinden sayılan Ballon d'Or (Altın Top) 2026 ödül töreni, İngiltere'nin başkenti Londra'daki Palladium Tiyatrosu'nda yapıldı. En iyi erkek futbolcu kategorisinde ödülün sahibi Bayern Münih ve İngiliz milli takımının golcüsü Harry Kane oldu.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-27 01:30 UTC"
+    },
+    {
+      "title": "İngiliz gizli belgelerinde Ekim 1923 (1): ‘Cumhuriyet fikri kabul görse de Mustafa Kemal’e muhalefet var’",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f8a/live/f5969cf0-74c2-11ee-8139-61b1db4c8e2f.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cgel7ev84lro?at_medium=RSS&at_campaign=rss",
+      "summary": "Cumhuriyetin ilanının 103. yıldönümü: İngiltere’deki arşivlerde bulunan dönemin gizli belgelerini inceledik ve İngiltere’nin Ekim 1923'te yaşananları nasıl gördüğünü araştırdık.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2024-10-29 10:33 UTC"
+    },
+    {
+      "title": "İngiliz gizli belgelerinde Ekim 1923 (2): 'Türk halkı bu sabah bir Cumhuriyet’e uyandı'",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/10f3/live/9a8bf9d0-74c8-11ee-a503-4588075e3427.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c4nxdg8pmemo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cumhuriyetin 103. yıl dönümü: İngiltere’deki arşivlerde bulunan dönemin gizli belgelerini inceledik ve İngiltere’nin Ekim 1923'te yaşananları nasıl gördüğünü araştırdık.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2024-10-29 08:51 UTC"
     }
   ]
 }
