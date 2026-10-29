@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-10-29 21:30 UTC",
+  "updated_at": "2026-10-29 22:30 UTC",
   "items": [
+    {
+      "title": "Trump administration attempts to take down leak of ICE personnel data",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss",
+      "summary": "An Icelandic web company, FlokiNET, has defended the data's publication as satisfying a 'legitimate' public interest.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 22:16 UTC"
+    },
+    {
+      "title": "İran basını: Keşm Adası yakınlarında \"düşman\" savaş uçağı engellendi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasi-yakinlarinda-dusman-savas-ucagi-engellendi/4105541",
+      "summary": "İran'ın Hürmüzgan eyaletine bağlı Keşm Adası yakınlarında bir savaş uçağının Devrim Muhafızları Ordusu Hava-Uzay Kuvvetleri Komutanlığı'na bağlı unsurlar tarafından engellendiği bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 22:04 UTC"
+    },
+    {
+      "title": "Binance olası güvenlik sorununa ilişkin iddiaları araştırdığını bildirdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/binance-olasi-guvenlik-sorununa-iliskin-iddialari-arastirdigini-bildirdi/4105538",
+      "summary": "Kripto para borsası Binance, olası bir güvenlik sorununa ilişkin bildirimleri araştırdığını belirterek, kullanıcı fonlarının güvende olduğunu açıkladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 22:01 UTC"
+    },
+    {
+      "title": "ABD'den İsrail'e son 24 saatte en az 10 askeri nakliye uçağının indiği iddia edildi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/abdden-israile-son-24-saatte-en-az-10-askeri-nakliye-ucaginin-indigi-iddia-edildi/4105536",
+      "summary": "ABD'nin, İsrail'deki seçimlerin ardından Orta Doğu'ya ve İsrail'e askeri bir hava köprüsü operasyonu başlattığı öne sürüldü.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 21:58 UTC"
+    },
+    {
+      "title": "Amazon'da satış arttı kâr azaldı",
+      "image": "https://geoim.bloomberght.com/l/2026/10/30/ver1793311023/3792814/jpg/320x180",
+      "link": "https://www.bloomberght.com/amazon-da-satis-artti-kr-azaldi-3792814",
+      "summary": "ABD'li e-ticaret devi Amazon'un net satışları, bu yılın üçüncü çeyreğinde geçen yılın aynı dönemine göre yüzde 12 artarken net kârı yüzde 2,4 azaldı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-29 21:55 UTC"
+    },
+    {
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 21:31 UTC"
+    },
+    {
+      "title": "BM, Gazze'deki deposunun İsrail hava saldırılarında hasar gördüğünü belirtti",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/bm-gazzedeki-deposunun-israil-hava-saldirilarinda-hasar-gordugunu-belirtti-961677.html",
+      "summary": "Birleşmiş Milletler BM, ateşkese rağmen İsrail'in Gazze'deki saldırılarının sürdüğünü ve bugün BM'ye ait bir deponun bu saldırılarda hasar gördüğünü bildirdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 21:23 UTC"
+    },
     {
       "title": "Resmi Gazete'de bugün (29.10.2026)",
       "image": "https://geoim.bloomberght.com/l/2026/10/30/ver1793308604/3792813/jpg/320x180",
@@ -146,13 +209,13 @@
       "published_at": "2026-10-29 20:22 UTC"
     },
     {
-      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 20:15 UTC"
+      "published_at": "2026-10-29 20:21 UTC"
     },
     {
       "title": "ABD Başkanı Trump'ın, İran'a yönelik saldırı seçenekleri hakkında bilgilendirildiği iddia edildi",
@@ -290,15 +353,6 @@
       "published_at": "2026-10-29 19:31 UTC"
     },
     {
-      "title": "ÜNİFEB Mezunlar Derneği, Cumhuriyet'in 103. yılını Fenerbahçe camiasıyla kutladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/unifeb-mezunlar-dernegi-cumhuriyetin-103-yilini-fenerbahce-camiasiyla-kutladi/4105428",
-      "summary": "ÜNİFEB Mezunlar Derneği, Cumhuriyet'in 103. yıl dönümünü Fenerbahçe camiasını bir araya getiren özel bir etkinlikle kutladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 19:25 UTC"
-    },
-    {
       "title": "Bosna Hersek'te EUFOR'a ait helikopter düştü",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/bosna-hersekte-eufora-ait-helikopter-dustu-961671.html",
@@ -326,15 +380,6 @@
       "published_at": "2026-10-29 19:21 UTC"
     },
     {
-      "title": "Modern pentatlonun minik ve genç millilerinden önemli başarılar",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/modern-pentatlonun-minik-ve-genc-millilerinden-onemli-basarilar/4105423",
-      "summary": "Portekiz'de düzenlenen UIPM Triathle Dünya Şampiyonası'nda bireysel yarışlar tamamlanırken milli sporcular, 2 altın, 5 gümüş ve 2 bronz olmak üzere 9 madalya kazandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 19:19 UTC"
-    },
-    {
       "title": "Emine Erdoğan'dan TDT liderleriyle akşam yemeği paylaşımı",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-tdt-liderleriyle-aksam-yemegi-paylasimi-961670.html",
@@ -342,15 +387,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 19:19 UTC"
-    },
-    {
-      "title": "Bakan Yumaklı: Beştepe Millet Ormanı, Türk dünyasının birlik ruhunu yaşatacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/bakan-yumakli-bestepe-millet-ormani-turk-dunyasinin-birlik-ruhunu-yasatacak/4105421",
-      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Beştepe Millet Ormanı'nın Türk Devletleri Teşkilatı çatısı altında kenetlenen Türk dünyasının birlik ve beraberlik ruhunu başkentin kalbinde yaşatacağını bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 19:15 UTC"
     },
     {
       "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
@@ -443,15 +479,6 @@
       "published_at": "2026-10-29 18:30 UTC"
     },
     {
-      "title": "Finland launches criminal probe of suspected environmental damage by Google",
-      "image": "",
-      "link": "https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google?traffic_source=rss",
-      "summary": "The US tech giant is investing $15bn in a huge new data centre project in northern Finland.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 18:24 UTC"
-    },
-    {
       "title": "Galata Kulesi'nde 29 Ekim'e özel Atatürk gösterisi",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/galata-kulesinde-29-ekime-ozel-ataturk-gosterisi-961667.html",
@@ -515,15 +542,6 @@
       "published_at": "2026-10-29 17:02 UTC"
     },
     {
-      "title": "Bakan Çiftçi'den TDT Zirvesi paylaşımı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turk-dunyasi/bakan-ciftciden-tdt-zirvesi-paylasimi-961662.html",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Cumhurbaşkanımız Recep Tayyip Erdoğan'ın öncülüğünde, Türk devletleri arasındaki dayanışmayı güçlendirmeye, ortak güvenlik ve istikrar anlayışımızı geliştirmeye kararlıyız.\" ifadesini kullandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 16:58 UTC"
-    },
-    {
       "title": "Azerbaycan medyası: Aliyev Türkiye'ye gitmeyecek",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3fe1/live/31bcd1d0-d3b7-11f1-a340-478c8f3b9e55.jpg",
       "link": "https://www.bbc.com/turkce/articles/cmeq3wdn4xjqo?at_medium=RSS&at_campaign=rss",
@@ -531,15 +549,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 16:43 UTC"
-    },
-    {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 15:47 UTC"
     },
     {
       "title": "ECB Başkanı Lagarde'dan aralıkta faiz artışı sinyali - Gazete Oksijen",
@@ -567,6 +576,15 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-29 15:35 UTC"
+    },
+    {
+      "title": "Avrupa Merkez Bankası'ndan \"faiz molası\": Mevduat faizi yüzde 2,5 seviyesinde kaldı - DW.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWXZodkRfU0ZPaHdheXpVZ1hNWVFidmR1OHJFYWtwQ3JKTzZabkZNQXdqWm1WdnRHNERYZTZ4aGdpVktPLWI3TEZWdmFicUx3OHU0WGVzM29Yc2ZlQ3UydGFXVHRUMVQ0R3BNVUI5UnZWbWtQNllObmtkalc5bk1HNkI5TnJFdVlLZW9YVGV5bHlWY0tILVpJdS03NVhpR01mQ3ptZlRaVkRQNVNmQjZUWjA2eXBPbWllVW1xNHVDanNEQkFCbXcxVDB0WdIBywFBVV95cUxOWXZodkRfU0ZPaHdheXpVZ1hNWVFidmR1OHJFYWtwQ3JKTzZabkZNQXdqWm1WdnRHNERYZTZ4aGdpVktPLWI3TEZWdmFicUx3OHU0WGVzM29Yc2ZlQ3UydGFXVHRUMVQ0R3BNVUI5UnZWbWtQNllObmtkalc5bk1HNkI5TnJFdVlLZW9YVGV5bHlWY0tILVpJdS03NVhpR01mQ3ptZlRaVkRQNVNmQjZUWjA2eXBPbWllVW1xNHVDanNEQkFCbXcxVDB0WQ?oc=5",
+      "summary": "Avrupa Merkez Bankası'ndan \"faiz molası\": Mevduat faizi yüzde 2,5 seviyesinde kaldı DW.com",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-29 15:30 UTC"
     },
     {
       "title": "Von der Leyen, Kanada için ortak üyelik modelini anlattı",
@@ -621,6 +639,15 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 14:17 UTC"
+    },
+    {
+      "title": "Chainlink, tokenlaştırılmış varlıklar için hafta sonu fiyatlandırmasını başlatıyor, lansman ortağı olarak Aave ile birlikte - CoinDesk",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQkxhTk5rSnV1d1FpRGowY0QzLTgzdTdiT1pNMHlhcWJmYnV6TVVFM01xSWFPb2JSZGRVTkI4c2l0b0Q2bzlRZHdGbW9GLUhaZFZreTBneXgyNGJWNDhkcTlLMXY2ZEZwTUxzdUhvdmhCTXVwRm9lLVItSWo0VFdTR1MtRVkxSGVJa2lFTFRKNFU2YUpjalRyclVRX2hsRzhiN3RYWnozeU4zMlVfRUVPYV9nZ21aWG9XRFIxMlNhd2M?oc=5",
+      "summary": "Chainlink, tokenlaştırılmış varlıklar için hafta sonu fiyatlandırmasını başlatıyor, lansman ortağı olarak Aave ile birlikte CoinDesk",
+      "source": "Google News - Küresel Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-29 14:15 UTC"
     },
     {
       "title": "Hakkında ev hapsi kararı verilen Sinem Dedetaş tahliye oldu",
@@ -731,15 +758,6 @@
       "published_at": "2026-10-29 13:15 UTC"
     },
     {
-      "title": "AMB Ekim toplantısını pas geçti - Bloomberght",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9naGhwSUFRRFRsRXJYTjIwdEFYVWRDTHFUSFY3SEQ1eDEyY2dnTm1TeGM0d2t5RVJXaGdGODRJanJMRVBlcEhVbktMQUtOZDA2WHRjQVdzNGpHY3Zyc2lrRDNPOXBGVDBpRF9WRzl6ZFN0akIwdEE?oc=5",
-      "summary": "AMB Ekim toplantısını pas geçti Bloomberght",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-29 13:15 UTC"
-    },
-    {
       "title": "AMB Ekim toplantısını pas geçti",
       "image": "https://geoim.bloomberght.com/l/2026/10/29/ver1793279179/3792802/jpg/320x180",
       "link": "https://www.bloomberght.com/amb-ekim-toplantisini-pas-gecti-3792802",
@@ -756,6 +774,15 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 12:49 UTC"
+    },
+    {
+      "title": "Avrupa Merkez Bankası Başkanı Christine Lagarde istifa etti - DW.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUlST3M0eFVkeEF4T2NBdUhxR1dyTlR2YkdaRWdsQktjVFVsYXBSc1h0dFRGQllNWElDRUNQaWtDeGpjemZ3RXFkdGZHREtRV2k3bVJyWnphRC1iMHNlNFc0ejBHUE1DbE8zbThSQnRXY3FYdWZwdkttQklBbHM1ZVE4SVcwTEVMV09GRTZPUzBSamQ1ZGdQdWpwWlZyOEN2SG9KZTZKZ2J1YlHSAasBQVVfeXFMUEVJUk9zNHhVZHhBeE9jQXVIcUdXck5UdmJHWkVnbEJLY1RVbGFwUnNYdHRURkJZTVhJQ0VDUGlrQ3hqY3pmd0VxZHRmR0RLUVdpN21Sclp6YUQtYjBzZTRXNHowR1BNQ2xPM204UkJ0V2NxWHVmcHZLbUJJQWxzNWVROElXMExFTFdPRkU2T1MwUmpkNWRnUHVqcFpWcjhDdkhvSmU2SmdidWJR?oc=5",
+      "summary": "Avrupa Merkez Bankası Başkanı Christine Lagarde istifa etti DW.com",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-29 12:05 UTC"
     },
     {
       "title": "Söylentiler gerçek oldu. Avrupa Merkez Bankası Başkanı Lagarde 2027'de görevinden ayrılacak - NTV Haber",
@@ -804,7 +831,7 @@
     },
     {
       "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bc/live/1e706fb0-d3c1-11f1-a62f-fd53d503ac8d.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5421/live/19962d80-d3e5-11f1-9caf-3b69fd8bbd8b.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
       "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
       "source": "BBC World",
@@ -839,15 +866,6 @@
       "published_at": "2026-10-29 10:46 UTC"
     },
     {
-      "title": "Lagarde AMB Başkanlığı görevinden Şubat'ta ayrılacak",
-      "image": "https://geoim.bloomberght.com/l/2026/10/29/ver1793268768/3792798/jpg/320x180",
-      "link": "https://www.bloomberght.com/lagarde-amb-baskanligi-gorevinden-subat-ta-ayrilacak-3792798",
-      "summary": "Avrupa Merkez Bankası (AMB) Başkanı Christine Lagarde, görevinden 7 Şubat 2027'de ayrılacağını açıkladı. Görev süresi Ekim 2027'de sona erecek Lagarde'ın erken ayrılık kararı, Avrupa'nın en önemli ekonomi yönetimi pozisyonlarından biri için başkanlık yarışını hızlandırdı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-29 10:12 UTC"
-    },
-    {
       "title": "İspanya'daki tren kazasında can kaybı 69'a yükseldi",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ece1/live/e88a6500-d37e-11f1-b5f4-fd541fd21001.jpg",
       "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
@@ -866,15 +884,6 @@
       "published_at": "2026-10-29 08:23 UTC"
     },
     {
-      "title": "Altında 3.900 dolar, gümüşte 50-53 dolar beklentisi - bursa tv",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMHpmblUxVm4yMWFrVkhWcEJENktCSDU0M2FURzFKSmZNLWNqTGlGWVlxZmNkS2duT1FCeEhxeU9QYW9tbGRiRjNEMmgtUlZlQ1RfSTBTWFVMeHpnaWNhRm5ZMHkxdEZ6eEF2dmlYSmk4NHlpdS14cWFZMERrSFJ0bWp3?oc=5",
-      "summary": "Altında 3.900 dolar, gümüşte 50-53 dolar beklentisi bursa tv",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-29 08:21 UTC"
-    },
-    {
       "title": "Putin: Elon Musk 'gerçek bir dahi, yakın temastayız '",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg",
       "link": "https://www.bbc.com/turkce/articles/cqjdm88ml7p3o?at_medium=RSS&at_campaign=rss",
@@ -891,15 +900,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-29 07:39 UTC"
-    },
-    {
-      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846b/live/2e1cb430-d355-11f1-a772-cb496d11fa15.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 06:24 UTC"
     }
   ]
 }
