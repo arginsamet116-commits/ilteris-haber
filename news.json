@@ -1,6 +1,141 @@
 {
-  "updated_at": "2026-10-29 15:42 UTC",
+  "updated_at": "2026-10-29 16:42 UTC",
   "items": [
+    {
+      "title": "Suriye'nin Deyrizor ilinde meydana gelen sel felaketinde bir çocuk hayatını kaybetti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/suriyenin-deyrizor-ilinde-meydana-gelen-sel-felaketinde-bir-cocuk-hayatini-kaybetti/4105260",
+      "summary": "Suriye'nin kuzey ve doğusunda etkili olan kuvvetli sağanak yağışın yol açtığı sel ve taşkınlar nedeniyle bir çocuk hayatını kaybetti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 16:31 UTC"
+    },
+    {
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 16:26 UTC"
+    },
+    {
+      "title": "Deadly rock collapse at famous Turkiye tourist site",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/deadly-rock-collapse-at-famous-turkiye-tourist-site?traffic_source=rss",
+      "summary": "Deadly rock collapse at famous Turkiye tourist site",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 16:20 UTC"
+    },
+    {
+      "title": "İletişim Başkanlığından TDT 13. Zirvesi'ne ilişkin video paylaşımı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-tdt-13-zirvesine-iliskin-video-paylasimi/4105226",
+      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" temasıyla düzenlenen Türk Devletleri Teşkilatı 13. Zirvesi'ne ilişkin video paylaştı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 16:14 UTC"
+    },
+    {
+      "title": "İran basını: Vance'in barış müzakerelerini yeniden başlatmak için gönderdiği mektuba Tahran yanıt vermedi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/iran-basini-vancein-baris-muzakerelerini-yeniden-baslatmak-icin-gonderdigi-mektuba-tahran-yanit-vermedi-961659.html",
+      "summary": "İran basını, ABD Başkanı Donald Trump'ın, \"Başkan Yardımcısı JD Vance'i İran'la müzakereleri yeniden başlatmakla görevlendirdiği\" iddiasını yalanlamasına karşın, Vance'in İran'ın en üst düzey güvenlik yetkilisi Muhsin Rızai'ye gönderdiği mektuba Tahran yönetiminin yanıt vermediğini yazdı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 16:13 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan: Türkiye Cumhuriyeti büyük kazanımlarla başarıdan başarıya koşmaya devam ediyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkiye-cumhuriyeti-buyuk-kazanimlarla-basaridan-basariya-kosmaya-devam-ediyor/4105217",
+      "summary": "Cumhurbaşkanı Erdoğan, \"86 milyonun ortak eseri ve ortak çatısı olan Türkiye Cumhuriyeti, her alanda elde ettiği büyük kazanımlarla başarıdan başarıya koşmaya devam ediyor.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 16:08 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan: Önümüzdeki dönemi Türk asrı yapmak için mücadele edeceğiz",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-onumuzdeki-donemi-turk-asri-yapmak-icin-mucadele-edecegiz-961658.html",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türk dünyası olarak tam bir dayanışma içinde karşılıklı saygı ve kardeşlik içinde geleceğimize beraber yürüyeceğimize, önümüzdeki dönemi Türk asrı yapmak için mücadele edeceğimize yürekten inanıyorum.\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 16:05 UTC"
+    },
+    {
+      "title": "ECB Başkanı Christine Lagarde aralıkta yeni bir faiz artışına işaret etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/ecb-baskani-christine-lagarde-aralikta-yeni-bir-faiz-artisina-isaret-etti/4105208",
+      "summary": "Avrupa Merkez Bankası (ECB) Başkanı Christine Lagarde, Avro Bölgesi’ndeki artan enflasyon risklerine dikkati çekerek aralık ayında yeni bir faiz artışının masada olduğunun sinyalini verdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 15:58 UTC"
+    },
+    {
+      "title": "Trump, Pentagon Strateji, Planlar ve Politika Direktörü Sylvia'nın \"bilgi sızdırdığını\" söyledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/trump-pentagon-strateji-planlar-ve-politika-direktoru-sylvianin-bilgi-sizdirdigini-soyledi/4105203",
+      "summary": "ABD Başkanı Donald Trump, ABD Savunma Bakanlığında (Pentagon) Strateji, Planlar ve Politika Direktörlüğü görevini yürüten Brett Sylvia'nın gizli bilgileri sızdırdığı gerekçesiyle görevden alındığını belirtti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 15:52 UTC"
+    },
+    {
+      "title": "GÖKTÜRK1'in objektifinden Anadolu görüntüleri",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/gokturk-1in-objektifinden-anadolu-goruntuleri-961657.html",
+      "summary": "GÖKTÜRK1 uydusunun objektifinden Anadolu'nun farklı noktalarında yer alan Türk bayrakları ile Gazi Mustafa Kemal Atatürk'ün portresi görüntülendi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 15:50 UTC"
+    },
+    {
+      "title": "GÖKTÜRK-1 uydusundan Anadolu'daki dağlara işlenen Türk bayrakları ve Atatürk portresi görüntülendi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/gokturk-1-uydusundan-anadoludaki-daglara-islenen-turk-bayraklari-ve-ataturk-portresi-goruntulendi/4105200",
+      "summary": "GÖKTÜRK-1 uydusunun objektifinden Anadolu'nun farklı noktalarında yer alan Türk bayrakları ile Gazi Mustafa Kemal Atatürk'ün portresi görüntülendi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 15:49 UTC"
+    },
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 15:47 UTC"
+    },
+    {
+      "title": "ECB Başkanı Lagarde'dan aralıkta faiz artışı sinyali - Gazete Oksijen",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDFNcmpRNnZZbGlSRzNpS1BTM19Vd0JSTlkwbDd2MHdIQ2ZwU3FjSHFIUWh4eGZIYk1qa09XYkpYOHhvcmN2VjFGNmk0Ty1UcUFaY1FCQ01OSGYyS2w4V0d5Ml9XWVpXMHlCdlAxS2ZySHlybDRoc1lZVXFQYm5IcGJJb3d3NjI1WEhKQnNtSFlxSXEtcDdoRkw1MHVvbEFEUFowOHB5ekNDV2dVMGZv?oc=5",
+      "summary": "ECB Başkanı Lagarde'dan aralıkta faiz artışı sinyali Gazete Oksijen",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-29 15:44 UTC"
+    },
+    {
+      "title": "Tarafsız kalamam: Lagarde ECB'den erken ayrılışını açıkladı - Euronews.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc1dzZ1Y5RUhCN1VpS1dMLTI5cU4tQmthd1ZielRQcnFiZXpTWTFsN2ljc2xTcTE3N3NnSEJ1ZExkZTloVzNUTVJ4MEZ1V0p4QnZDYUE4VFhWU1czVHBtU2dwVUk0WW1IN0d5NU9rTjRvWmsxMER0azB5X3h2eEhrVWZfTk1MQTJ3ZE9xQTc1NWZsLXZKZkxF?oc=5",
+      "summary": "Tarafsız kalamam: Lagarde ECB'den erken ayrılışını açıkladı Euronews.com",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-29 15:41 UTC"
+    },
+    {
+      "title": "Bakan Çiftçi: Türk devletleri arasındaki dayanışmayı güçlendirmekte kararlıyız",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-turk-devletleri-arasindaki-dayanismayi-guclendirmekte-kararliyiz/4105197",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Cumhurbaşkanımız Recep Tayyip Erdoğan'ın öncülüğünde, Türk devletleri arasındaki dayanışmayı güçlendirmeye, ortak güvenlik ve istikrar anlayışımızı geliştirmeye kararlıyız.\" ifadesini kullandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 15:41 UTC"
+    },
     {
       "title": "BM: Yapay zeka ve gelişen teknolojiler deniz güvenliği için yeni riskler oluşturuyor",
       "image": "",
@@ -9,6 +144,24 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 15:38 UTC"
+    },
+    {
+      "title": "Avrupa Merkez Bankası faizleri sabit tuttu, Başkan Lagarde erken ayrılık kararını açıkladı - Evrensel.net",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXh1aVVmYVJrdm5yNmNyczNRR1B1SGN1b29YanhQcUV2RjMzNXVzWTBqbXpFbWNfcldFMnhhU2s1akx2aEdJMngtZGtsNWI2T01CTU9DQmRmX25oclBONjgxZUdGVno0RllxSzNjSFd0d0U4RERlT0ZVRDlvM2ItYV9DWkFiNTMyTVVrMS1wdC1tQXh4MWJoUnNVd3NWNzdtdDNNV09RRDlUX2lGeVpqVm5TQllWV1J6dUlEYzZPY1F2X0ZGQ2Nr?oc=5",
+      "summary": "Avrupa Merkez Bankası faizleri sabit tuttu, Başkan Lagarde erken ayrılık kararını açıkladı Evrensel.net",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-29 15:35 UTC"
+    },
+    {
+      "title": "Israel’s anti-Qatar campaign bleeds into elections",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss",
+      "summary": "Qatar's Foreign Ministry spokesman rejects 'disinformation' amid allegations by some Israelis of voting interference.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 15:35 UTC"
     },
     {
       "title": "Avrupa Merkez Bankası'ndan \"faiz molası\": Mevduat faizi yüzde 2,5 seviyesinde kaldı - DW.com",
@@ -56,6 +209,15 @@
       "published_at": "2026-10-29 15:28 UTC"
     },
     {
+      "title": "Türk Yıldızları'ndan Cumhuriyet Bayramı'nda Anıtkabir üzerinde saygı uçuşu",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/turk-yildizlarindan-cumhuriyet-bayraminda-anitkabir-uzerinde-saygi-ucusu/4105173",
+      "summary": "Türk Hava Kuvvetleri akrobasi timi Türk Yıldızları, 29 Ekim Cumhuriyet Bayramı kapsamında Anıtkabir semalarında saygı uçuşu yaptı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 15:18 UTC"
+    },
+    {
       "title": "Spanish long jumper Julieta Gallego among victims of deadly train collision",
       "image": "",
       "link": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss",
@@ -63,15 +225,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 15:18 UTC"
-    },
-    {
-      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 15:15 UTC"
     },
     {
       "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
@@ -108,6 +261,15 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 15:05 UTC"
+    },
+    {
+      "title": "Antalya Kültür Yolu Festivali 31 Ekim'de başlayacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/kultur/antalya-kultur-yolu-festivali-31-ekimde-baslayacak/4105165",
+      "summary": "Türkiye Kültür Yolu Festivali'nin Antalya ayağı, 31 Ekim-8 Kasım'da konser, sergi, opera, bale, tiyatro, arkeoloji gezileri ve geleneksel sanat atölyeleri gibi çeşitli etkinliklerle düzenlenecek.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 15:03 UTC"
     },
     {
       "title": "Avrupa Merkez Bankası faiz kararını açıkladı - T24",
@@ -155,6 +317,15 @@
       "published_at": "2026-10-29 14:55 UTC"
     },
     {
+      "title": "Polymarket, analistler anlaşma risklerini tartışırken beş dakikalık kripto piyasalarını başlattı - CoinDesk",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTE9uNUdYbmtldWwzVTZiUktzTWYweWRSY25ZLURSTEFrSnAyVS0xbm9FVWo0ZTNQZXJFMWwzSEpfSUJnMTR1bUNEQWVrMXpTcEx1TnFnQkdQYUhQdlBKZUdSWEtaNnJzeTJBSUdkdjNZVDJpU0tyVXZwYkJKQ1JMdWlqNkZFOXd2S0lrZFA0SnpvOUJCZXpBeWZKOVNKS2VNQk9VUUFzZ0tYYUJNa294d3loRTBSNzV1SGc?oc=5",
+      "summary": "Polymarket, analistler anlaşma risklerini tartışırken beş dakikalık kripto piyasalarını başlattı CoinDesk",
+      "source": "Google News - Küresel Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-29 14:55 UTC"
+    },
+    {
       "title": "Von der Leyen, Kanada için ısrarla önerdiği ortak üyelik modelini anlattı",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/von-der-leyen-kanada-icin-israrla-onerdigi-ortak-uyelik-modelini-anlatti-961653.html",
@@ -182,15 +353,6 @@
       "published_at": "2026-10-29 14:35 UTC"
     },
     {
-      "title": "DMM, \"Türkiye'nin İsrail'deki seçimlere müdahale ettiği\" iddialarını yalanladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/dmm-turkiyenin-israildeki-secimlere-mudahale-ettigi-iddialarini-yalanladi/4105106",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Türkiye'nin İsrail'deki seçimlere müdahale ettiği\" yönündeki iddiaların tamamen asılsız olduğunu bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 14:26 UTC"
-    },
-    {
       "title": "As US midterms approach, farmers decide what to plant and how to vote",
       "image": "",
       "link": "https://www.aljazeera.com/economy/2026/10/29/as-us-midterms-approach-farmers-decide-what-to-plant-and-how-to-vote?traffic_source=rss",
@@ -198,24 +360,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 14:25 UTC"
-    },
-    {
-      "title": "Katar, İsrail seçimlerine müdahale ettiği yönündeki iddiaları reddetti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/katar-israil-secimlerine-mudahale-ettigi-yonundeki-iddialari-reddetti/4105095",
-      "summary": "Katar, İsrail’de yapılan seçimlere müdahale ettiği veya seçim sonuçlarını etkilemek amacıyla herhangi bir faaliyete finansman sağladığı yönündeki iddiaları kesin bir dille reddetti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 14:22 UTC"
-    },
-    {
-      "title": "İletişim Başkanı Duran'dan TDT Zirvesi paylaşımı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-tdt-zirvesi-paylasimi/4105087",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"TDT Ankara Zirvesi 2026, ortak geleceğimizi şekillendirme irademizin ve Türk dünyası arasındaki dayanışmayı daha ileriye taşıma kararlılığımızın önemli bir ifadesidir.\" ifadesini kullandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 14:20 UTC"
     },
     {
       "title": "DMM, 'Türkiye'nin İsrail'deki seçimlere müdahale ettiği' iddialarını yalanladı",
@@ -228,7 +372,7 @@
     },
     {
       "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3f6/live/c8559bf0-d389-11f1-b5f4-fd541fd21001.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9946/live/591e3810-d3b5-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
       "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
       "source": "BBC World",
@@ -243,6 +387,15 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 14:16 UTC"
+    },
+    {
+      "title": "Chainlink, tokenleştirilmiş varlıklar için hafta sonu fiyatlandırmasını başlattı; Aave ise lansman ortağı olarak yer alıyor - CoinDesk",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQkxhTk5rSnV1d1FpRGowY0QzLTgzdTdiT1pNMHlhcWJmYnV6TVVFM01xSWFPb2JSZGRVTkI4c2l0b0Q2bzlRZHdGbW9GLUhaZFZreTBneXgyNGJWNDhkcTlLMXY2ZEZwTUxzdUhvdmhCTXVwRm9lLVItSWo0VFdTR1MtRVkxSGVJa2lFTFRKNFU2YUpjalRyclVRX2hsRzhiN3RYWnozeU4zMlVfRUVPYV9nZ21aWG9XRFIxMlNhd2M?oc=5",
+      "summary": "Chainlink, tokenleştirilmiş varlıklar için hafta sonu fiyatlandırmasını başlattı; Aave ise lansman ortağı olarak yer alıyor CoinDesk",
+      "source": "Google News - Küresel Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-29 14:15 UTC"
     },
     {
       "title": "İşgalci İsrail ordusu, Batı Şeria'daki baskınlarını sürdürüyor",
@@ -317,33 +470,6 @@
       "published_at": "2026-10-29 13:53 UTC"
     },
     {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "summary": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 13:49 UTC"
-    },
-    {
-      "title": "Google'ın eski mühendisi Soares, yapay zekanın riskleri nedeniyle emeklilik birikimi yapmadığını belirtti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/googlein-eski-muhendisi-soares-yapay-zekanin-riskleri-nedeniyle-emeklilik-birikimi-yapmadigini-belirtti/4105050",
-      "summary": "ABD'li teknoloji şirketi Google'ın eski mühendisi ve Makine Zekası Araştırma Enstitüsünün (MIRI) Başkanı Nate Soares, yapay zeka nedeniyle insanların \"10 yıl sonra var olmayabileceğini, bu nedenle emeklilik için birikim yapmadığını\" söyledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 13:46 UTC"
-    },
-    {
-      "title": "Dışişleri Bakanı Fidan, Ürdünlü mevkidaşı es-Safedi ile telefonda görüştü",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-urdunlu-mevkidasi-es-safedi-ile-telefonda-gorustu/4105049",
-      "summary": "Dışişleri Bakanı Hakan Fidan, Ürdün Başbakan Yardımcısı ve Dışişleri Bakanı Eymen es-Safedi ile telefon görüşmesi yaptı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 13:45 UTC"
-    },
-    {
       "title": "Avrupa Merkez Bankası faiz kararını açıkladı - Yeni Şafak",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS0Z3S1J2bV9SNE43SVVSTTJNTFFuT1V3NEJ1RkFXbjdvd3g0Y20wWDlpanVTUWphZjd0S01La2UzdzZYZllfaFBJUC1WNS1JSjUtLUM5U2VFR2tveXlfdEcwQjMtVVpEUlVVX2tLU1lYbE96UncweVNGWnJIQXlHMF96SE1hdEdFZ21QUHh0bw?oc=5",
@@ -398,15 +524,6 @@
       "published_at": "2026-10-29 13:32 UTC"
     },
     {
-      "title": "İnsan Hakları İzleme Örgütü: Husiler Taiz'deki sivilleri gıda ve ilaçtan mahrum bırakıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/insan-haklari-izleme-orgutu-husiler-taizdeki-sivilleri-gida-ve-ilactan-mahrum-birakiyor/4105036",
-      "summary": "İnsan Hakları İzleme Örgütü (HRW), Yemen'de Husilerin Taiz kentini kuşatarak sivilleri gıda, su ve ilaç gibi temel ihtiyaç maddelerinden mahrum bıraktığını açıkladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 13:31 UTC"
-    },
-    {
       "title": "Mersin'de sağanak: Ev ve iş yerlerini su bastı",
       "image": "",
       "link": "https://www.trthaber.com/haber/turkiye/mersinde-saganak-ev-ve-is-yerlerini-su-basti-961642.html",
@@ -452,15 +569,6 @@
       "published_at": "2026-10-29 13:25 UTC"
     },
     {
-      "title": "Avrupa Merkez Bankası faiz kararını açıkladı - Dünya Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQTByMTRJLTZpSzBoMEFHT3hCQW1IVy03c2owVXlmbjJLUC1mYjAxQkhabXh2M0h2UnlNYk83cnppYnJWa2ZSaWFMT0FiN3Z6VW92QnlCdGxmalRnaXp4clV3TDk1MmRzS25sOFRscE5LUHEzN3VlZ0JCalBpYllZcjJsWWJNcnBTQXBjMzYzamdKZw?oc=5",
-      "summary": "Avrupa Merkez Bankası faiz kararını açıkladı Dünya Gazetesi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-29 13:22 UTC"
-    },
-    {
       "title": "Avrupa Merkez Bankası faiz kararını açıkladı - Gazete Oksijen",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWTZ4YU5HR2FRMl8yY2NWNVlseTM1T1c5dGMwSXl5U0I4MDJMZ1gxVi04MERCUzFVdXlCV0lUWTBIenJKTUhyS3JrNlk0U3R3c1kybWlyMU1yTjRLcW02blFvcG5QUHpWMDlRMGNfQ3N1dEQ5VWF1MUNMMmpxQjFNSGIzajdHNkpkQlVBTWNB?oc=5",
@@ -470,31 +578,13 @@
       "published_at": "2026-10-29 13:22 UTC"
     },
     {
-      "title": "Türkiye ile Özbekistan arasında 5 anlaşma imzalandı",
+      "title": "Avrupa Merkez Bankası faiz kararını açıkladı - Dünya Gazetesi",
       "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-ozbekistan-arasinda-5-anlasma-imzalandi-961641.html",
-      "summary": "Türkiye ile Özbekistan arasında ticaret, sosyal güvenlik ve iş dünyasının desteklenmesine ilişkin anlaşmalar imzalandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQTByMTRJLTZpSzBoMEFHT3hCQW1IVy03c2owVXlmbjJLUC1mYjAxQkhabXh2M0h2UnlNYk83cnppYnJWa2ZSaWFMT0FiN3Z6VW92QnlCdGxmalRnaXp4clV3TDk1MmRzS25sOFRscE5LUHEzN3VlZ0JCalBpYllZcjJsWWJNcnBTQXBjMzYzamdKZw?oc=5",
+      "summary": "Avrupa Merkez Bankası faiz kararını açıkladı Dünya Gazetesi",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
       "published_at": "2026-10-29 13:22 UTC"
-    },
-    {
-      "title": "AB, çocukların çevrim içi ortamda korunmasında ulusal kurallar yerine ortak düzenlemeler hedefliyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/ab-cocuklarin-cevrim-ici-ortamda-korunmasinda-ulusal-kurallar-yerine-ortak-duzenlemeler-hedefliyor/4105020",
-      "summary": "Avrupa Birliği (AB) Komisyonu, çocukların çevrim içi ortamda korunmasına yönelik ulusal düzenlemeler yerine AB genelinde geçerli ortak kurallar oluşturulmasını hedeflediğini duyurdu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 13:20 UTC"
-    },
-    {
-      "title": "Avrupa Merkez Bankası politika faizini sabit tuttu",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/avrupa-merkez-bankasi-politika-faizini-sabit-tuttu-961640.html",
-      "summary": "Avrupa Merkez Bankası ECB, 3 temel politika faizini piyasa beklentileri doğrultusunda sabit tuttu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 13:20 UTC"
     },
     {
       "title": "Avrupa Merkez Bankası faiz kararını açıkladı - Ekonomim",
@@ -542,15 +632,6 @@
       "published_at": "2026-10-29 13:04 UTC"
     },
     {
-      "title": "Bakan Fidan: İstişareler ortak hedeflerimize ulaşmamıza katkı sağlayacak",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-istisareler-ortak-hedeflerimize-ulasmamiza-katki-saglayacak-961639.html",
-      "summary": "Dışişleri Bakanı Hakan Fidan, \"Atalarımızdan miras kurultay geleneğimizle sürdürdüğümüz istişarelerin, dayanışmamızı pekiştireceğine ve ortak hedeflerimize ulaşmamıza katkı sağlayacağına inanıyoruz\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 13:00 UTC"
-    },
-    {
       "title": "Bangladesh’s Shadman Islam hits century, but West Indies force collapse",
       "image": "",
       "link": "https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss",
@@ -585,42 +666,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 12:42 UTC"
-    },
-    {
-      "title": "South Korean prosecutors press for death sentence in Yoon martial law case",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/29/south-korean-prosecutors-press-for-death-sentence-in-yoon-martial-law-case?traffic_source=rss",
-      "summary": "Former president faces renewed death penalty demand as he appeals life sentence for insurrection.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 12:36 UTC"
-    },
-    {
-      "title": "Why is Russia sending fighter jets and air defences to Ethiopia?",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss",
-      "summary": "Experts say Moscow is seeking arms revenue and further diplomatic influence.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 12:32 UTC"
-    },
-    {
-      "title": "Avrupa Merkez Bankası Başkanı Christine Lagarde istifa etti - DW.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUlST3M0eFVkeEF4T2NBdUhxR1dyTlR2YkdaRWdsQktjVFVsYXBSc1h0dFRGQllNWElDRUNQaWtDeGpjemZ3RXFkdGZHREtRV2k3bVJyWnphRC1iMHNlNFc0ejBHUE1DbE8zbThSQnRXY3FYdWZwdkttQklBbHM1ZVE4SVcwTEVMV09GRTZPUzBSamQ1ZGdQdWpwWlZyOEN2SG9KZTZKZ2J1YlHSAasBQVVfeXFMUEVJUk9zNHhVZHhBeE9jQXVIcUdXck5UdmJHWkVnbEJLY1RVbGFwUnNYdHRURkJZTVhJQ0VDUGlrQ3hqY3pmd0VxZHRmR0RLUVdpN21Sclp6YUQtYjBzZTRXNHowR1BNQ2xPM204UkJ0V2NxWHVmcHZLbUJJQWxzNWVROElXMExFTFdPRkU2T1MwUmpkNWRnUHVqcFpWcjhDdkhvSmU2SmdidWJR?oc=5",
-      "summary": "Avrupa Merkez Bankası Başkanı Christine Lagarde istifa etti DW.com",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-29 12:05 UTC"
-    },
-    {
-      "title": "Çaykur Rizespor'da hedef Kocaelispor maçıyla çıkışa geçmek",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/caykur-rizesporda-hedef-kocaelispor-maciyla-cikisa-gecmek/4104915",
-      "summary": "Trendyol Süper Lig'in 10. haftasında 31 Ekim Cumartesi günü deplasmanda Kocaelispor ile karşılaşacak Çaykur Rizespor'un kaptanı Taylan Antalyalı, maçı kazanarak çıkışa geçmek istediklerini söyledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 12:01 UTC"
     },
     {
       "title": "Avrupa Merkez Bankası görevinden ayrılıyor | Türkiye Ekonomisi Haberleri - Yeni Şafak",
@@ -855,51 +900,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-29 05:26 UTC"
-    },
-    {
-      "title": "Turkey's Second Century Goal: Becoming a Global Hub for Critical Technologies - ssbulten.com.tr",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUzFzcEFKcUhSSUN2Smx3RXFDZXR4YUgtbWJjclFkVGptQkZITllxVFM1dzdtYXlqaVNTb243Mm9XZ0V4MHBlV0FORHVtMjNrUl9FLWM3aXBneXEwNlRlMXBoQzBPdFFIN0JpaTJld2o1bm5rV3VVeE1pLU1fLWN1R0ZmRXNBTFZfUFZkTjlELURzQmFlV0p5S1AyWE12dkVFbjFQTGJJVzZ5cUZXcEVwV0dXclpaNXVjVWZNUW4tQQ?oc=5",
-      "summary": "Turkey's Second Century Goal: Becoming a Global Hub for Critical Technologies ssbulten.com.tr",
-      "source": "Google News - Küresel Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-10-29 04:33 UTC"
-    },
-    {
-      "title": "TSK’da yeni dönem: Libya’da tek ordu Suudi Arabistan’da Türk üssü | Hande FIRAT Köşe Yazısı - Hürriyet",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWV4MFFtUmhTUUxMNVV1VWwzU1B1UTlZT1F2clRTbzBVcFlZYWJxV1Y4U3YyakM0STFXbEIyb01Bd3U5eU5NQVlYMEZkaUVtSHVEbTNmd3FjaTh6Nk5BWS1oS2Q1emJJd2NXQndfZkhlQkxKQzV6RUVNazlpZHFOdnIzUkJ5VDVPNDZuUGVLc2w3Qjl5YmUxa3VUZUVXQ1Z2Ym5NVnZqbzBaWkU2dDh1Szg2X09nQ0xXQzVF?oc=5",
-      "summary": "TSK’da yeni dönem: Libya’da tek ordu Suudi Arabistan’da Türk üssü | Hande FIRAT Köşe Yazısı Hürriyet",
-      "source": "Google News - Savunma",
-      "category": "Savunma",
-      "published_at": "2026-10-29 02:59 UTC"
-    },
-    {
-      "title": "Details of thousands of US immigration agents leaked in major hack",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 01:30 UTC"
-    },
-    {
-      "title": "ABD'li oyuncu Hayden Panettiere'nin ölümü 'kaza sonucu'",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c143/live/4223ae30-d313-11f1-808a-1f9b061d2360.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cm62yl58x6gko?at_medium=RSS&at_campaign=rss",
-      "summary": "Heroes ve Nashville dizilerinin yıldızı, Ağustos ayında fentanil, Xanax ve diğer bazı ilaçların toksik etkileri nedeniyle hayatını kaybetti.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 00:07 UTC"
-    },
-    {
-      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85bb/live/bcdd9ca0-d384-11f1-b5f4-fd541fd21001.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 21:16 UTC"
     }
   ]
 }
