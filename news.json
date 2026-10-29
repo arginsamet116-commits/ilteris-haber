@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-10-29 00:00 UTC",
+  "updated_at": "2026-10-29 00:49 UTC",
   "items": [
+    {
+      "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+      "summary": "A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 00:36 UTC"
+    },
+    {
+      "title": "Israelis rally for Jewish-Arab government after election gains",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+      "summary": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 00:34 UTC"
+    },
+    {
+      "title": "ABD'li oyuncu Hayden Panettiere'nin ölümünün kaza sonucu olduğu belirlendi",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c143/live/4223ae30-d313-11f1-808a-1f9b061d2360.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cm62yl58x6gko?at_medium=RSS&at_campaign=rss",
+      "summary": "Heroes ve Nashville dizilerinin yıldızı, Ağustos ayında fentanil, Xanax ve diğer bazı ilaçların toksik etkileri nedeniyle hayatını kaybetti.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 00:07 UTC"
+    },
+    {
+      "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+      "summary": "Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 00:01 UTC"
+    },
+    {
+      "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+      "summary": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 00:00 UTC"
+    },
+    {
+      "title": "Ankarada TDT Zirvesi kapsamında asayiş ve trafik denetimi yapıldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/ankarada-tdt-zirvesi-kapsaminda-asayis-ve-trafik-denetimi-yapildi-961544.html",
+      "summary": "Başkentte, Türk Devletleri Teşkilatı TDT 13. Devlet ve Hükümet Başkanları Zirvesi kapsamında yürütülen güvenlik tedbirleri çerçevesinde polis ekiplerince asayiş ve trafik denetimi gerçekleştirildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 23:55 UTC"
+    },
+    {
+      "title": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+      "summary": "The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-28 23:43 UTC"
+    },
     {
       "title": "MHP Genel Başkanı Bahçeli'den 29 Ekim Cumhuriyet Bayramı mesajı",
       "image": "",
@@ -83,15 +146,6 @@
       "published_at": "2026-10-28 22:08 UTC"
     },
     {
-      "title": "Fed faizi sabit tuttu: İki üyeden artış itirazı - NTV Haber",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzbFp6TGZMVURHN2lsZEZFWlVsbDl1SHZIQVdtQXZrbmFicmV6SWpKX01hYnZLR1VUSGp6Ty1oMjJkbm03LTRQZW1kQ2JrVlZIT2x3RnRFalc3YUdlQ0NFZTE2d1JuUkcyQl9qU2pMcXVZQk0?oc=5",
-      "summary": "Fed faizi sabit tuttu: İki üyeden artış itirazı NTV Haber",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 22:07 UTC"
-    },
-    {
       "title": "Fitch: ABD'deki mali baskılar, ara seçim sonucundan bağımsız olarak sürecek",
       "image": "",
       "link": "https://www.aa.com.tr/tr/ekonomi/fitch-abddeki-mali-baskilar-ara-secim-sonucundan-bagimsiz-olarak-surecek/4104418",
@@ -168,6 +222,15 @@
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSXRaTlQyQmFjczcxOHdBcE9UZWQ3eHBGOW1xZEtWMl9RYmdFenhlU3JndTBoTGNxa2ZINmdCSFJPQk5JVUJINnpXWFJ4Q1lEWURsQ3BPUWktQ2czMXg2RmtBdlhnMTAxLTVzWENGbC1qb01ybGQzM2NaVEtoTVFQOHlSb0RMWDJKLS1TdzVmVlBrSjZLX1ZNTndlSEZoZW5ZV0swcnpOZGxBWUY5NFZCeHFYdEI1RVp5eURha3pMeFdUNkE?oc=5",
       "summary": "Kanada Merkez Bankası enflasyon endişesiyle üç yılın ilk faiz artışını yaptı Investing.com Türkiye",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-28 21:08 UTC"
+    },
+    {
+      "title": "Kanada tahvil faizleri merkez bankası faiz artırımıyla yükseldi - Investing.com Türkiye",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdWl5YjJWbVI2S2dtWFhsN0FCWDBSczJJMzBEZmZUT0hKTHFEdFhxNTQwS0xvd25wX1BrVThkRzAzWjlXbjNTSlVuNHJETFNLVG14OUFFTXJ0RmJyeDVXcEhpc2d0eXAyc1NRMW8zVzFoOC1tRVpTbUNMZkwxcFJPU0ZJaHhralI3dDdEcjQ5VjhQbXQzSUt1TEVmSlNnYXQzNVhqYkNLcFlaZU1FbEVXLU00MnlGUQ?oc=5",
+      "summary": "Kanada tahvil faizleri merkez bankası faiz artırımıyla yükseldi Investing.com Türkiye",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-28 21:08 UTC"
@@ -452,15 +515,6 @@
       "published_at": "2026-10-28 19:05 UTC"
     },
     {
-      "title": "What are the implications of Israel’s elections?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
-      "summary": "No clear winner in Israel's first election since the October 7 attacks and genocidal war in Gaza.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 19:03 UTC"
-    },
-    {
       "title": "Fed, ara seçimler öncesi faizi sabit tuttu: İki üyeden artış isteği - Euronews.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQnF2RVZBNU1vUmo2aHlXYmZXa3FIUGxORTU3aW84NVdFcHNrV24tRTMwVGptZWVpdGM2el9nNjNReGFRV0c2X2NpMnB4TGhvd0JmbkdMTVV1M3JHM25CamxSdnluQlM3RVlMQmszWmNTeV9GM1lGREFILW9qZDY1RUhJemZDbTEwb3BlZUNhN2ViRUdMdVFQVGFraWpIZkZnTGc?oc=5",
@@ -468,24 +522,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-28 19:02 UTC"
-    },
-    {
-      "title": "US jury convicts Rwandan American of lying about role in genocide",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss",
-      "summary": "Jurors heard competing witness testimony on where Eric Nshimiye was and what he was doing in April 1994.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 19:02 UTC"
-    },
-    {
-      "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
-      "summary": "Speaking at the third Russia-Africa Summit, Putin frames Moscow as an alternative to former colonial powers.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 19:01 UTC"
     },
     {
       "title": "İsrail seçim çıkmazını nasıl aşabilir? İşte olası dört senaryo",
@@ -506,33 +542,6 @@
       "published_at": "2026-10-28 18:53 UTC"
     },
     {
-      "title": "Students on hunger strike in India demand restoration of student union",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss",
-      "summary": "Students at New Delhi’s Jamia Millia Islamia university are on hunger strike demanding a student union.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 18:52 UTC"
-    },
-    {
-      "title": "Five key takeaways from the UK Autumn Budget",
-      "image": "",
-      "link": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss",
-      "summary": "The United Kingdom's government says its policies are for the 'working people of Britain'.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 18:46 UTC"
-    },
-    {
-      "title": "TSX vadeli işlemleri Kanada Merkez Bankası kararı öncesi durgun - Investing.com Türkiye",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdTBFM1d1dWtKdFFjbFVodHJzcTRZQjJiNmFJX0RyVU9QLTVUMVQ5eDNQOE5lbnd1clZGcURKSHNGVUtHZk5qMzNSQkg5eHJSUUJCdWtQRDRFRWNOc3B3Mm5ZYjZSd3Q0d1RJQ0ZReTV0M2xwY0dpeERnRlRBZkZJTS1iT1ZIbnRUSUlDZ213R194T1RKcXN3TFdoa3NwcEhlNlgwMy1BQ2swU3g3RERRamhrY192Rl8x?oc=5",
-      "summary": "TSX vadeli işlemleri Kanada Merkez Bankası kararı öncesi durgun Investing.com Türkiye",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 18:45 UTC"
-    },
-    {
       "title": "SON DAKİKA FED FAİZ KARARI: 2026 Ekim ABD Merkez Bankası FED faiz kararı ne oldu_ FED faiz kararı arttı mı, sabit mi kaldı? - Uzmanpara",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOODlxa1ZhTmsyMENIQVkzYnVkUDlwN25takJEYndjR2FvWTROeXBmaGpYUkR3TFl1QTRrdGxwUEVBR3VvY19Sb3MzWFhRWHlWME9BWlZOTllqVml5SW1wczJoaktfUkRGcXA2a3lhZ001a2x2RGFhZG0taDMxdU5PallOckc4LUd3N3lqakFWWFlDVFNtMGY3dUxSVlVDQ2ZSUEItOUZIb0lpTEVtdHhNNktkeDBkZmNYOGZpM1VLWDVxRkJzTWE2S1F0OW9xbkFDMDBtMjVfMUhhOVZVZHJmRjRUTEtsNEtYSm00UVFsVjZ2bnpvNThVRnA3emNiNEVfSkRFRlNWNVVZeFR1ZE9tUWtSUG9XRE02eXc?oc=5",
@@ -549,6 +558,15 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 18:33 UTC"
+    },
+    {
+      "title": "Fed faizi sabit tuttu: Altın fiyatları karara nasıl tepki verdi? - Yeni Şafak",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQRDl6enhiWUxfb3FsaXRYeHQ2eGFvMDJSaFN5UGVOcXFXaHRCUmwxWTlPaUh1TURtWGtkTEdlSHVsZHFNbE93NkdsN21MMk12QkFOQzZWUlFfeUdZWm95ODUwOG5FR0pmNEcwVVh0SVMzeEVGMnNZdTE2MV9SamVSNFI1WFNTaUJIeXY4Z3JuQkl2VThCYjJaRDZabTFqaTBCM3hNSFZmaUZxeS1QcHJrNmJNZGh4bEpQNFJ5Rk10d3dUWEFEel84ZTdBaFdFdHZLczhJWXE5QU54VHRyQVZvNllFbTR4WXVaQzVWOWFVVnM0VVl4bjhTT3I4TVFhemNrdmVSSnVsSWE2Y1I5d2hnUXRBVU1wTkFrN21JREN5aEI0Z0xLaVY1Z2hOdElKMzFtN0JieW95MWk?oc=5",
+      "summary": "Fed faizi sabit tuttu: Altın fiyatları karara nasıl tepki verdi? Yeni Şafak",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-28 18:28 UTC"
     },
     {
       "title": "Apple ilk dokunmatik ekranlı MacBook modelini tanıttı",
@@ -605,15 +623,6 @@
       "published_at": "2026-10-28 18:06 UTC"
     },
     {
-      "title": "ABD Merkez Bankası faiz kararını açıkladı - İlke TV",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOC1QR0pGMGhHdTdnbkJXRTVlQ0U5c2wxek91WHFEZkxZcXNLNldVQkNUQmRDbzctcDhubjBUc2I2NHpsa2c2T243aERTVkpGRkxpd1pQY3QwNE5wN3pCU2VJTC1XRWU1aVNrMG5VaFNQTXpl?oc=5",
-      "summary": "ABD Merkez Bankası faiz kararını açıkladı İlke TV",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-28 18:05 UTC"
-    },
-    {
       "title": "FED faizi sabit tuttu",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/fed-faizi-sabit-tuttu-961534.html",
@@ -636,6 +645,15 @@
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVzctcGpKR3piWkk3QWt5RkNQdXZPejZhRmVjVms1TXc2ZEN1Y2RuV19kaDJGNUNndlpIeklxVktWUkxTakRLRHlEcDdvcGtVN2FzUXkxT2Jjd3hOUVkyTEhYaTZTYjlYa2liVVZueVdpaEJNemlFRk4xX0tGSFE4SUtxRUhGcVZQZDd6VFdBc1A5ekU?oc=5",
       "summary": "Son dakika: Fed faiz kararı belli oldu Uzmanpara",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-28 18:00 UTC"
+    },
+    {
+      "title": "FED faiz kararını açıkladı - Sözcü Gazetesi",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tSk9vVXAxdGtrNnQyNDkxRkF1WlBQanlvN1hfQVR6MXJuQTRacXJnRmIyZThNb0k4cVF4RnZ4OEdEcFJEY1dEZ1c2TnZZR0hhVE9vMjNZMjhWaEE3bjd5Y2w1cGFHRkNKMHNv?oc=5",
+      "summary": "FED faiz kararını açıkladı Sözcü Gazetesi",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-28 18:00 UTC"
@@ -693,15 +711,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-28 16:26 UTC"
-    },
-    {
-      "title": "Fransa'da eylemlerde oluşan hasarları eylemcilere ödetmeyi içeren tasarıdan vazgeçilmesi çağrısı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/fransada-eylemlerde-olusan-hasarlari-eylemcilere-odetmeyi-iceren-tasaridan-vazgecilmesi-cagrisi-961529.html",
-      "summary": "Fransa'da insan hakları örgütleri ve sendika temsilcileri, gösteri ve toplanma hakkını ihlal edeceği gerekçesiyle eylemlerde oluşan hasarları eylemcilere ödetmeyi hedefleyen yasa tasarısından vazgeçilmesi çağrısında bulundu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 16:25 UTC"
     },
     {
       "title": "Dondurulmuş veya konserve gıdalar sağlıklı mı?",
@@ -891,15 +900,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-28 05:57 UTC"
-    },
-    {
-      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e4/live/7d77ba00-d249-11f1-8ba3-9fd3e261415f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-28 04:32 UTC"
     }
   ]
 }
