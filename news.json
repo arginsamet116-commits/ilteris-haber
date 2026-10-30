@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-10-30 21:08 UTC",
+  "updated_at": "2026-10-30 22:02 UTC",
   "items": [
+    {
+      "title": "Monako, kara para aklamayla mücadelede FATF'ın gri listesinden çıkarıldı",
+      "image": "https://geoim.bloomberght.com/l/2026/10/31/ver1793396332/3792978/jpg/320x180",
+      "link": "https://www.bloomberght.com/monako-kara-para-aklamayla-mucadelede-fatf-in-gri-listesinden-cikarildi-3792978",
+      "summary": "Mali Eylem Görev Gücü (FATF), kara para aklamayla mücadelede kaydedilen ilerlemenin ardından Monako'yu Haziran 2024'ten bu yana bulunduğu gri listeden çıkardı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-30 21:38 UTC"
+    },
+    {
+      "title": "Sahte TOKİ siteleri üzerinden dolandırıcılık yapan 6 şüpheli tutuklandı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/sahte-toki-siteleri-uzerinden-dolandiricilik-yapan-6-supheli-tutuklandi-961781.html",
+      "summary": "Ankara Batı Cumhuriyet Başsavcılığınca, TOKİ başvuruları için kurulan sahte internet siteleri üzerinden dolandırıcılık yapıldığı iddiasıyla yürütülen soruşturmada gözaltına alınan 8 şüpheliden 6'sı tutuklandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 21:38 UTC"
+    },
+    {
+      "title": "HAVELSAN, Nijerya'da kapsamlı mutabakat muhtırası imzaladı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/savunma/havelsan-nijeryada-kapsamli-mutabakat-muhtirasi-imzaladi-961780.html",
+      "summary": "HAVELSAN, Nijerya'da düzenlenen AFRIDEX 2026 Savunma Sanayii Fuarı kapsamında Nijerya Savunma Sanayii Kurumu DICON ile savunma ve teknoloji alanlarında işbirliğini geliştirmeye yönelik mutabakat muhtırası imzaladı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 21:33 UTC"
+    },
+    {
+      "title": "Resmi Gazete'de bugün (31.10.2026)",
+      "image": "https://geoim.bloomberght.com/l/2026/10/31/ver1793395670/3792977/jpg/320x180",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-31102026-3792977",
+      "summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-30 21:27 UTC"
+    },
+    {
+      "title": "İstanbul Maratonu nedeniyle bazı yollar trafiğe kapatılacak",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbul-maratonu-nedeniyle-bazi-yollar-trafige-kapatilacak-961779.html",
+      "summary": "İstanbul Emniyet Müdürlüğü, 1 Kasım'da düzenlenecek İstanbul Maratonu dolayısıyla trafiğe kapatılacak yolları ve alternatif güzergahları duyurdu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 21:25 UTC"
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 21:13 UTC"
+    },
+    {
+      "title": "BMGK, Libya'daki misyonun görev süresini 1 yıl daha uzattı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/bmgk-libyadaki-misyonun-gorev-suresini-1-yil-daha-uzatti/4106973",
+      "summary": "Birleşmiş Milletler Güvenlik Konseyi, Libya'daki BM misyonunun (UNSMIL) görev süresini 31 Ekim 2027'ye kadar uzatma kararı aldı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 21:11 UTC"
+    },
+    {
+      "title": "Bu hafta hangi yatırım aracı kazandırdı? Borsa, altın ve dövizde son durum - Dünya Gazetesi",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWThrbzlEcG1ySmNfZ00wMUZZTlVMQy1xZGp4X0drYWR0NXYwNjM3QnlZdVA2X1ZMTEd2a194MklvYUJjMlVEM1lReS1MMEtxMWZuNG9PQUNBZ0tQb2E0YllYMTE2MzRLY3JFOFZhaWNjeExsYXN0cEZsZWFIWmp2TDE3UnljTXpPVzhrWkNka0dabERTc0Z4RWZIVFFvWkh6cHNyM0hrMTBPSTAxZEVrZ2lKaGs0Q2Y4S0pWLUg0YTRranZ2QXNB?oc=5",
+      "summary": "Bu hafta hangi yatırım aracı kazandırdı? Borsa, altın ve dövizde son durum Dünya Gazetesi",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-30 21:05 UTC"
+    },
     {
       "title": "Trump, Binance'e yönelik siber saldırıyı incelediklerini bildirdi",
       "image": "",
@@ -18,6 +90,15 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 21:00 UTC"
+    },
+    {
+      "title": "Euro dolar kuru ekim ayında yüzde 1'in üzerinde geriledi - EKOTÜRK",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFJmRHp0T3pMV2RhZDZmLV9zOFlVaXRLVWJCX1VLRXNmUDNKSDUzRW9jNjhyRzJCOXIxcnI2Tnk5X1BLVThSdGRtd1F6N3VSek5uRkwxeFE3U3hpT0gyQTdmZkV6bzVqdDZCNWdCWG9PUjhkekJoY0l0V2NCSGtYMGpKakF2Q0JvUGJiM3Bn?oc=5",
+      "summary": "Euro dolar kuru ekim ayında yüzde 1'in üzerinde geriledi EKOTÜRK",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-30 20:59 UTC"
     },
     {
       "title": "Trump: Bazı aptal insanlar Rusya'ya yeni yaptırımlar uygulamamı istiyorlardı",
@@ -38,6 +119,24 @@
       "published_at": "2026-10-30 20:55 UTC"
     },
     {
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 20:52 UTC"
+    },
+    {
+      "title": "Uzmanından 0-5 yaş grubu çocuklar için oyuncak uyarısı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/uzmanindan-0-5-yas-grubu-cocuklar-icin-oyuncak-uyarisi/4106956",
+      "summary": "Adana Şehir Eğitim ve Araştırma Hastanesi Çocuk Gastroenteroloji Uzmanı Doç. Dr. Didem Gülcü Taşkın, özellikle 0-5 yaş grubundaki çocuklarda yabancı cisim yutma vakalarının görüldüğünü belirterek aileleri oyuncak seçimi konusunda uyardı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 20:51 UTC"
+    },
+    {
       "title": "İsrail askerleri ile Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da 22 ihlal gerçekleştirdi",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-ile-filistin-topraklarini-gasbeden-israilliler-bati-seriada-22-ihlal-gerceklestirdi/4106955",
@@ -45,6 +144,24 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 20:51 UTC"
+    },
+    {
+      "title": "\"Annelik Yolculuğu\" uygulamasıyla çocukların 5 yaşına kadar gelişimi takip edilecek",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/annelik-yolculugu-uygulamasiyla-cocuklarin-5-yasina-kadar-gelisimi-takip-edilecek/4106954",
+      "summary": "Sağlık Bakanlığınca geliştirilen \"Annelik Yolculuğu\" mobil uygulamasının kapsamı, çocukların gelişim ve sağlık süreçlerinin 5 yaşına kadar takip edilebilmesi amacıyla genişletildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 20:50 UTC"
+    },
+    {
+      "title": "Meme kanserinde erken teşhis tedavi başarısını ve yaşam kalitesini artırıyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/meme-kanserinde-erken-teshis-tedavi-basarisini-ve-yasam-kalitesini-artiriyor/4106953",
+      "summary": "Uzmanlar, meme kanserinde erken teşhisin tedavi başarısını ve yaşam kalitesini artırdığını belirterek, kadınlara yaşlarına ve risk durumlarına uygun tarama programlarına katılmaları çağrısında bulundu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 20:47 UTC"
     },
     {
       "title": "Dışişleri Bakanı Fidan, ABD Dışişleri Bakanı Rubio ile bir araya geldi",
@@ -77,7 +194,7 @@
       "title": "US appeals court again rejects Trump bid to set aside California ballots",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
-      "summary": "The 9th Circuit Court called the petition to remove 20,000 ballots from California's vote count unconstitutional.",
+      "summary": "The 9th Circuit Court calls the petition to remove 20,000 ballots from California's vote count unconstitutional.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 20:39 UTC"
@@ -144,15 +261,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 20:13 UTC"
-    },
-    {
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 20:10 UTC"
     },
     {
       "title": "Port Sudan families can barely afford water as shortages persist",
@@ -335,15 +443,6 @@
       "published_at": "2026-10-30 18:54 UTC"
     },
     {
-      "title": "Türkiye'den Bosna Hersek'teki helikopter kazasında hayatını kaybedenler için taziye mesajı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/turkiyeden-bosna-hersekteki-helikopter-kazasinda-hayatini-kaybedenler-icin-taziye-mesaji/4106880",
-      "summary": "Dışişleri Bakanlığı, Bosna Hersek'in kuzeyindeki Brcko'da EUFOR'a ait askeri helikopterin düşmesi sonucu hayatını kaybedenler için taziye mesajı yayımladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 18:48 UTC"
-    },
-    {
       "title": "Ukrayna Devlet Başkanı Zelenski: Türkiye'de önemli görüşmeler olacak",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/ukrayna-devlet-baskani-zelenski-turkiyede-onemli-gorusmeler-olacak-961767.html",
@@ -398,15 +497,6 @@
       "published_at": "2026-10-30 18:30 UTC"
     },
     {
-      "title": "Kanada, AB'nin ilk \"ortak üyesi\" olmayı hedefliyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/kanada-abnin-ilk-ortak-uyesi-olmayi-hedefliyor/4106870",
-      "summary": "Kanada Başbakanı Mark Carney, Avrupa Birliği (AB) ile ilk \"ortak üyesi\" olmalarını sağlayacak yeni bir ortaklık modeli üzerinde çalıştıklarını ve müzakereleri haziranda tamamlamayı hedeflediklerini söyledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 18:28 UTC"
-    },
-    {
       "title": "GSM şirketlerinin yanıltıcı 5G reklamlarına durdurma kararı",
       "image": "https://geoim.bloomberght.com/l/2026/10/30/ver1793384603/3792970/jpg/320x180",
       "link": "https://www.bloomberght.com/gsm-sirketlerinin-yaniltici-5g-reklamlarina-durdurma-karari-3792970",
@@ -416,6 +506,15 @@
       "published_at": "2026-10-30 18:22 UTC"
     },
     {
+      "title": "Gümüşün ons fiyatında düşüş yüzde 4'e yaklaştı - EKOTÜRK",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc2RrWEV6U3MwNzh2Z3JqM3BLTkFJMzJKUFpkc0xMU0JHem9YeXo2S3I4NjFYM3FVaHJBTWZsUC1TRlhjLWszc2NOX3I3WXhJNDlmZzVCN1JJWkV5dW9FZlVhaXBBZE03QURxYU9BWnd3X2hMSXhNZkVHcEs0bTJoSg?oc=5",
+      "summary": "Gümüşün ons fiyatında düşüş yüzde 4'e yaklaştı EKOTÜRK",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-30 18:14 UTC"
+    },
+    {
       "title": "İsrail ordusu, El Halil'de abluka altındaki bölgeyi kapalı askeri bölge ilan etti",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-el-halilde-abluka-altindaki-bolgeyi-kapali-askeri-bolge-ilan-etti-961766.html",
@@ -423,33 +522,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 18:13 UTC"
-    },
-    {
-      "title": "Galatasaray, deplasmanda Konyaspor'u 4-0 yenerek liderliğini sürdürdü",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/galatasaray-deplasmanda-konyasporu-4-0-yenerek-liderligini-surdurdu/4106855",
-      "summary": "Galatasaray, Trendyol Süper Lig'de 10. haftasının açılış maçında TÜMOSAN Konyaspor'u deplasmanda 4-0 yenerek liderliğini sürdürdü.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 18:07 UTC"
-    },
-    {
-      "title": "MİT Başkanı Kalın: Hepimiz güvende olmadan hiçbirimiz güvende değiliz",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-hepimiz-guvende-olmadan-hicbirimiz-guvende-degiliz/4106854",
-      "summary": "Milli İstihbarat Teşkilatı Başkanı Kalın, \"Biz hep şu ilkeyle hareket ettik: 'Hepimiz güvende olmadan hiçbirimiz güvende değiliz.' Kendi güvenliğimi garanti altına almak için mutlaka paydaşlarımın güvenliğini de dikkate almak zorundayım.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 18:05 UTC"
-    },
-    {
-      "title": "İletişim Başkanlığından Türk Devletleri Teşkilatı 13. Zirvesi'ne özel görsel iletişim çalışması",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-turk-devletleri-teskilati-13-zirvesine-ozel-gorsel-iletisim-calismasi/4106853",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı koordinasyonunda, Türk Devletleri Teşkilatı (TDT) Devlet Başkanları Konseyi 13. Zirvesi kapsamında İstanbul ve Ankara'da özel bir görsel iletişim çalışması gerçekleştirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 18:03 UTC"
     },
     {
       "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
@@ -596,24 +668,6 @@
       "published_at": "2026-10-30 16:26 UTC"
     },
     {
-      "title": "Bu hafta hangi yatırım aracı kazandırdı? Borsa, altın ve dövizde son durum - Dünya Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWThrbzlEcG1ySmNfZ00wMUZZTlVMQy1xZGp4X0drYWR0NXYwNjM3QnlZdVA2X1ZMTEd2a194MklvYUJjMlVEM1lReS1MMEtxMWZuNG9PQUNBZ0tQb2E0YllYMTE2MzRLY3JFOFZhaWNjeExsYXN0cEZsZWFIWmp2TDE3UnljTXpPVzhrWkNka0dabERTc0Z4RWZIVFFvWkh6cHNyM0hrMTBPSTAxZEVrZ2lKaGs0Q2Y4S0pWLUg0YTRranZ2QXNB?oc=5",
-      "summary": "Bu hafta hangi yatırım aracı kazandırdı? Borsa, altın ve dövizde son durum Dünya Gazetesi",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-30 16:23 UTC"
-    },
-    {
-      "title": "Bakan Gürlek duyurdu: 4 faili meçhul cinayet daha aydınlatıldı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-duyurdu-4-faili-mechul-cinayet-daha-aydinlatildi-961763.html",
-      "summary": "Adalet Bakanı Akın Gürlek, Faili Meçhul Suçları Araştırma Daire Başkanlığının koordinasyonunda Konya, Kahramanmaraş, Mersin ve Hatay'da 4 ayrı faili meçhul cinayet dosyasının aydınlatıldığını açıkladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 16:19 UTC"
-    },
-    {
       "title": "PPK özeti: Merkez Bankası ana eğilimdeki gerilemeyi \"teyit etti\", ekim için uyardı - Investing.com Türkiye",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQemNRLXZLUjhYSm5fcmx0YkJNRFl6Z0hnaHNaZHQycDJxVkIxeHZURXdHcElUS01BTHlCQ3Z1STh2RzNxVnNsY3FJalNOR2dTdWdWQ3FFbmZjWFFYNXY0MmJQQnNoT3F6NGxyT2VjQ1dVZHJaeTlaZVA5TGUtbE1QMEZLMUYxUk1FeVpWek9jWHlCa3VvRmtBMDBiOGt5Y1JxTWhSc1lyemxVQjlEZTItWEFkanJ5M1VMZGVyQ1poQ0dDb1NBV0E?oc=5",
@@ -632,15 +686,6 @@
       "published_at": "2026-10-30 16:05 UTC"
     },
     {
-      "title": "İletişim Başkanı Duran'dan TDT Zirvesi paylaşımı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-tdt-zirvesi-paylasimi-961762.html",
-      "summary": "İletişim Başkanı Burhanettin Duran, Türk Devletleri Teşkilatı TDT 13. Zirvesi'ne ilişkin \"Tarihi bağlarımızı ve jeopolitik dayanışmamızı üst seviyeye taşıyan bu stratejik buluşma, ezelden ebede sürecek olan kardeşlik hukukumuzun ve ortak geleceğimizi birlikte inşa etme irademizin en somut nişanelerinden biri olmuştur\" ifadelerini kullandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 16:04 UTC"
-    },
-    {
       "title": "Piyasalarda gün ortası: Borsa düştü, altın geriledi, Brent petrol yükseldi - EKOTÜRK",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0FmWlVCUjM0T3pKb0hJRnNSazVDdzNnUElNSDl6akIyQzR1dUZvaXFxbDZCcU83OF9OQW9JU2JjNDM3eGRUeWUyN2lfRlJlRkk0ekYwbW5TZWgyM2FEcWNjcm9PclBVNXViVGJyNkI5SUxwdnRZcWcwTlFscUZSTmtOcmFuSlU0YWNDeEktSkFfSGlfU2lEamVtNmZnYXRNMTFZ?oc=5",
@@ -657,33 +702,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-30 15:54 UTC"
-    },
-    {
-      "title": "Lavrov krizi G20 aile fotoğrafını iptal ettirdi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/lavrov-krizi-g20-aile-fotografini-iptal-ettirdi-961761.html",
-      "summary": "Atlanta'daki G20 Dışişleri Bakanları Toplantısı, bazı Avrupalı diplomatların Rusya Dışişleri Bakanı Sergey Lavrov ile aynı karede yer almak istememesi üzerine geleneksel aile fotoğrafı çekimi yapılmadan başladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 15:53 UTC"
-    },
-    {
-      "title": "Borsa İstanbul'da BIST 100 Endeksi Ekim ayında yüzde 9,94 düştü - Foreks.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPd3RROXJGdkpsZzh6RGhRenlqazhBTDVxS19JaGQtZXp2alFDQ2o3TTd0b0dYanVzR3I4WUh5cDUxUk9UZF9QX0ZLSVZjbi1KMWJ3RFEyV19TRzcxckc5ejJiek5IY0ZHbUpvaXAzS2syMzlwazNCTkcwQldBc0ppWmpFYm1LeVZjR3FEd2pDYzhCenUwZERwc1RWdkI3amJ1Nnh3WVFkOU9pQkVpd0FWclVQUzJKc3R5RTBlbWlSam5NTExtVFF1RExydF9jT093c3BORXdWTkZpWnlN?oc=5",
-      "summary": "Borsa İstanbul'da BIST 100 Endeksi Ekim ayında yüzde 9,94 düştü Foreks.com",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-30 15:40 UTC"
-    },
-    {
-      "title": "TMO, Kasım'da piyasaya 5,5 milyon ton hububat arz edecek",
-      "image": "https://geoim.bloomberght.com/l/2026/10/30/ver1793374839/3792957/jpg/320x180",
-      "link": "https://www.bloomberght.com/tmo-kasim-da-piyasaya-5-5-milyon-ton-hububat-arz-edecek-3792957",
-      "summary": "Toprak Mahsulleri Ofisi (TMO), kasım ayında piyasaya 5,5 milyon ton hububat arz edeceğini açıkladı. Kurum, satışların hasat döneminin başında belirlenen fiyatlardan sürdürüleceğini ve herhangi bir fiyat artışı yapılmadığını bildirdi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 15:39 UTC"
     },
     {
       "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
@@ -740,15 +758,6 @@
       "published_at": "2026-10-30 14:48 UTC"
     },
     {
-      "title": "Hazine'nin vergi dışı normal gelirleri üçüncü çeyrekte 5,5 milyar lira oldu",
-      "image": "https://geoim.bloomberght.com/l/2026/10/30/ver1793371632/3792954/jpg/320x180",
-      "link": "https://www.bloomberght.com/hazine-nin-vergi-disi-normal-gelirleri-ucuncu-ceyrekte-5-5-milyar-lira-oldu-3792954",
-      "summary": "Hazine'nin yılın üçüncü çeyreği itibarıyla vergi dışı normal gelirleri 5 milyar 516 milyon 373,1 bin lira olarak hesaplandı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 14:46 UTC"
-    },
-    {
       "title": "Binance'te 'tarihin en büyük siber saldırısı': 6,3 milyar dolarlık kripto varlık etkilendi",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
       "link": "https://www.bbc.com/turkce/articles/cm4g10d03rp8o?at_medium=RSS&at_campaign=rss",
@@ -774,15 +783,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-30 12:44 UTC"
-    },
-    {
-      "title": "China denies allegations of spy operation targeting Nvidia CEO",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05cc/live/95d8dca0-d447-11f1-97f9-27ebf08d99fe.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
-      "summary": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 12:20 UTC"
     },
     {
       "title": "İtalya'da 'hayat pahalılığı ve savaş ekonomisine karşı' grev ve gösteriler",
