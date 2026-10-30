@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-30 23:02 UTC",
+  "updated_at": "2026-10-30 23:59 UTC",
   "items": [
+    {
+      "title": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss",
+      "summary": "Al Jazeera spoke to fans attending Macklemore’s ‘Free Palestine’ concert after he was dropped from Ed Sheeran’s tour.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 23:39 UTC"
+    },
+    {
+      "title": "Arap Koalisyonu: Suudi Arabistan'a yönelik İHA saldırısı önlendi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistana-yonelik-iha-saldirisi-onlendi/4106999",
+      "summary": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap koalisyonu, Suudi Arabistan'ın doğu bölgesinde bir insansız hava aracının (İHA) engellenerek düşürüldüğünü duyurdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 23:25 UTC"
+    },
+    {
+      "title": "Polish police deployed to top court after head judge suspended",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
+      "summary": "Judge's suspension is part of a long dispute over politicisation of the Constitutional Tribunal under former government.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 23:19 UTC"
+    },
+    {
+      "title": "Why AI could threaten much of the world’s digital infrastructure",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
+      "summary": "Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 23:13 UTC"
+    },
+    {
+      "title": "Türkiye, Feridun Sinirlioğlu'nu BM Genel Sekreterliği için aday gösterdi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/turkiye-feridun-sinirlioglunu-bm-genel-sekreterligi-icin-aday-gosterdi-961782.html",
+      "summary": "Türkiye, eski Dışişleri Bakanı ve halen Avrupa Güvenlik ve İşbirliği Teşkilatı AGİT Genel Sekreteri görevini yürüten Büyükelçi Feridun Sinirlioğlu'nun Birleşmiş Milletler Genel Sekreterliği adaylığı için resmi başvurusunu yaptı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 22:58 UTC"
+    },
+    {
+      "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
+      "summary": "Judge Ana Reyes calls on US government lawyers to explain contradictory statements about the East Potomac Golf Links.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 22:58 UTC"
+    },
     {
       "title": "Türkiye, Feridun Sinirlioğlu'nu BM Genel Sekreterliği için aday gösterdi",
       "image": "",
@@ -21,7 +75,7 @@
     },
     {
       "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b8/live/5acd5630-8cbd-11f1-b8ee-9b3c26ad07bb.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
       "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
       "source": "BBC World",
@@ -81,6 +135,15 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 21:25 UTC"
+    },
+    {
+      "title": "ENFLASYON RAKAMLARI 2026 EKİM AYI BEKLENTİSİ | TÜİK enflasyon rakamları ne zaman açıklanacak, saat kaçta? Enflasyon beklentisi nedir? Merkez Bankası enflasyon tahmini belli oldu! - Bigpara",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRnFXTUNKRWx3YUh3X2ExVHZqdkJwNUlLcXprbEpBRW5YbU5YYkdBTk0zVXQ5ZjdwY21HU3FiZ2tybmFub2JOTFZMSnJ4QzhOalNIQlBmb1dKVFlMa1k3cHc2TDJneWdVamFLSjlkVWlBbW1rMmlCU09hSU1EZThLdVFwSVpKX1poa2MyVVNSZkE5TjNLUTg5dUplTnFBWWxXQkRfUC1wOXZjLTUwX0xnRkRpRjB2MGoxQjVjVjdxY0FtbmEzNUJMWmEyY3dWcGEwTWNNOTNLZlJNT29UM3BMa0RVQzdTVG9SUzhHd1dzR3UtaWEzaEhGYnpNaE9WOVVycFdNd3huWG9fWFRZdEE?oc=5",
+      "summary": "ENFLASYON RAKAMLARI 2026 EKİM AYI BEKLENTİSİ | TÜİK enflasyon rakamları ne zaman açıklanacak, saat kaçta? Enflasyon beklentisi nedir? Merkez Bankası enflasyon tahmini belli oldu! Bigpara",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-30 21:20 UTC"
     },
     {
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
@@ -210,7 +273,7 @@
     },
     {
       "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b1/live/6aa032d0-d44d-11f1-bfc7-afe23fc6cf5b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b85a/live/484c0a90-d4b8-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
       "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
       "source": "BBC World",
@@ -362,15 +425,6 @@
       "published_at": "2026-10-30 19:51 UTC"
     },
     {
-      "title": "İran’dan Avrupa ülkelerine “Savaşın bir bedeli var, şimdi bedel ödeme sırası sizde” mesajı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/iran-dan-avrupa-ulkelerine-savasin-bir-bedeli-var-simdi-bedel-odeme-sirasi-sizde-mesaji/4106911",
-      "summary": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Rızai, Avrupa ülkelerinin bir zamanlar İsrail’in “kirli işleri” ile övündüğünü savunarak, “Savaşın ve terörün bir bedeli var, şimdi bedel ödeme sırası sizde.” yorumunda bulundu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 19:46 UTC"
-    },
-    {
       "title": "How 20-year-old Kimi Antonelli is making F1 history",
       "image": "",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/how-20-year-old-kimi-antonelli-is-making-f1-history?traffic_source=rss",
@@ -479,29 +533,11 @@
       "published_at": "2026-10-30 18:47 UTC"
     },
     {
-      "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
-      "summary": "Troops hold at least 12 Palestinians near demolished homes as nearly 5,000 remain displaced from Hebron neighbourhoods",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 18:35 UTC"
-    },
-    {
       "title": "Aliyev'in katılmadığı Türk Devletleri Zirvesi'nden hangi sonuçlar çıktı?",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6519/live/21b7d170-d490-11f1-9a20-f717db279e3e.jpg",
       "link": "https://www.bbc.com/turkce/articles/cmvg7zwd2xdzo?at_medium=RSS&at_campaign=rss",
       "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın ev sahipliğinde gerçekleştirilen 13. Türk Devletleri Teşkilatı liderler zirvesine (TDT) Ankara-Bakü arasında yaşanan gerilim ve Azerbaycan Devlet Başkanı İlham Aliyev'in katılmaması damga vurdu.",
       "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 18:33 UTC"
-    },
-    {
-      "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
-      "summary": "Incident comes as Iran says three oil tankers were halted while attempting to use 'unauthorised routes' to cross Hormuz.",
-      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 18:33 UTC"
     },
@@ -533,15 +569,6 @@
       "published_at": "2026-10-30 18:22 UTC"
     },
     {
-      "title": "Gümüşün ons fiyatında düşüş yüzde 4'e yaklaştı - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc2RrWEV6U3MwNzh2Z3JqM3BLTkFJMzJKUFpkc0xMU0JHem9YeXo2S3I4NjFYM3FVaHJBTWZsUC1TRlhjLWszc2NOX3I3WXhJNDlmZzVCN1JJWkV5dW9FZlVhaXBBZE03QURxYU9BWnd3X2hMSXhNZkVHcEs0bTJoSg?oc=5",
-      "summary": "Gümüşün ons fiyatında düşüş yüzde 4'e yaklaştı EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-30 18:14 UTC"
-    },
-    {
       "title": "İsrail ordusu, El Halil'de abluka altındaki bölgeyi kapalı askeri bölge ilan etti",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-el-halilde-abluka-altindaki-bolgeyi-kapali-askeri-bolge-ilan-etti-961766.html",
@@ -551,30 +578,12 @@
       "published_at": "2026-10-30 18:13 UTC"
     },
     {
-      "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
-      "summary": "North Korean leader Kim Jong Un calls for “absolute superiority” in drone capabilities.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 18:03 UTC"
-    },
-    {
       "title": "Waymo, robotaksi operasyonları için Toyota ile anlaştı",
       "image": "https://geoim.bloomberght.com/l/2026/10/30/ver1793382246/3792969/jpg/320x180",
       "link": "https://www.bloomberght.com/waymo-robotaksi-operasyonlari-icin-toyota-ile-anlasti-3792969",
       "summary": "Waymo, Japonya ve Birleşik Krallık'taki robotaksi operasyonları için Toyota ile anlaştı. Otonom bZ4X araçları ilk, Waymo'nun ileride robotaksi hizmeti sunmayı planladığı Japonya'da test edilecek. Amaç, bu araçları Birleşik Krallık gibi trafiğin soldan aktığı diğer ülkelerde de devreye almak. Waymo, aylardır Londra'da otonom Jaguar I-Pace araçlarını test ediyor.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 17:43 UTC"
-    },
-    {
-      "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
-      "summary": "Colombia's president plans to slash spending on a transitional justice court. But war crimes victims fear the cost.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 17:43 UTC"
     },
     {
@@ -594,15 +603,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-30 17:35 UTC"
-    },
-    {
-      "title": "Kastamonu'da tarlasını süren çiftçi lahit buldu",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/kastamonuda-tarlasini-suren-ciftci-lahit-buldu-961764.html",
-      "summary": "Kastamonu'nun Taşköprü ilçesinde bir çiftçi, tarlasını sürerken lahit buldu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 17:27 UTC"
     },
     {
       "title": "Fed/Musalem: Yakında ilave sıkılaşma gerekecek",
@@ -812,15 +812,6 @@
       "published_at": "2026-10-30 11:40 UTC"
     },
     {
-      "title": "Merkez Bankası rezervlerinde sert düşüş: Döviz ve altın rezervleri geriledi - Dünya Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTk1UQVpHaGdub21SYlcyU0E3bGk5LVpMYnJoS05wdmV2YTlsLUlyb1ZVWXZ5c2tENVRkU1NWZXM1cmpWU0VETkl5QnNyRWR1a3NtT2wwWGpLbDhNa3ctUjRHYi1haktBN05yckpKX2ZqSzRrdzUxeDNaeVZzVllHOWc5RUpiWGhLbHZpeUdzZ3BYUlJBajJHemRFZUdYdU5xazIwZGg5SmUzUGc?oc=5",
-      "summary": "Merkez Bankası rezervlerinde sert düşüş: Döviz ve altın rezervleri geriledi Dünya Gazetesi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 11:34 UTC"
-    },
-    {
       "title": "Politika faizi indirilmişti: Merkez Bankası PPK toplantı özetini paylaştı - CNBC-e",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHFhVWxWTWRjMUkxZUVRSkU4QVFXdWtweU5FNnRsTGhDZEdsZV9HMU9UT3UxdU9FVDNpTlFWeW9GblZLVG1qbndvZzFEc2hKcWtiTHNPUTJGN1dhMlk3VmZqRDIzdUxjYm5WYjNmRldUSDVmVXBxejMtVWlOOW90TzY0VWVURUVMdFZwZlIydC02UW9XZDBlWDBXRTNadTZtWVRvNGg2dmJTdXVkY1hv?oc=5",
@@ -900,6 +891,15 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-30 08:38 UTC"
+    },
+    {
+      "title": "Almanya'ya göç eden ilk kuşak Türkler, 65 yıllık göç hikayelerini anlattı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/almanyaya-goc-eden-ilk-kusak-turkler-65-yillik-goc-hikayelerini-anlatti/4105814",
+      "summary": "Çalışmak için Almanya'ya gelen ilk kuşak Türkler, Türkiye ile Almanya arasında 1961'de imzalanan İşgücü Anlaşması'nın 65. yılında bu ülkede kurdukları yaşamı anlattı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 08:02 UTC"
     }
   ]
 }
