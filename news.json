@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-10-30 00:03 UTC",
+  "updated_at": "2026-10-30 01:32 UTC",
   "items": [
+    {
+      "title": "EU force helicopter crash kills four in Bosnia",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/30/eu-force-helicopter-crash-kills-four-in-bosnia?traffic_source=rss",
+      "summary": "EUFOR confirms CH-47 Chinook helicopter crash in Bosnia, with four Italian nationals confirmed dead.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 00:56 UTC"
+    },
+    {
+      "title": "Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/30/trump-cancels-iowa-kansas-midterm-events-opting-for-tele-rallies?traffic_source=rss",
+      "summary": "The Republican National Committee has announced broadcasts in at least 20 states after Trump nixes final rallies.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 00:44 UTC"
+    },
+    {
+      "title": "Armenian parliament turns into a boxing ring, third time in a month",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss",
+      "summary": "Armenia’s parliament descended into fisticuffs after a ruling-party MP mocked the opposition leader’s family.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 00:36 UTC"
+    },
+    {
+      "title": "Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’",
+      "image": "",
+      "link": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
+      "summary": "Binance founder says world's largest crypto exchange appears to have been hacked.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 00:29 UTC"
+    },
+    {
+      "title": "31 Mart yerel seçimlerinden bugüne İstanbul'un belediye dağılımı nasıl değişti?",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d68d/live/53c6d680-d2f0-11f1-b441-2b33b063138f.png",
+      "link": "https://www.bbc.com/turkce/articles/ck054dlgm8zdo?at_medium=RSS&at_campaign=rss",
+      "summary": "İstanbul'da seçilmiş 26 CHP'li ilçe belediye başkanından 14'ü çeşitli suçlamalarla soruşturma geçirdi. Tutuklu yargılamaların sürdüğü yönetimlerde başkanvekilliği seçimleri yapıldı. Bazı belediyelerde yönetimler başkanvekilliği seçimlerinde el değiştirdi ve AKP'ye geçti",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 00:14 UTC"
+    },
+    {
+      "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
+      "summary": "The announcement comes despite talks between Iran and the Mecca pact countries in Tehran earlier this week.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 00:11 UTC"
+    },
+    {
+      "title": "What does bourbon have to do with the US midterms?",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
+      "summary": "The US-Canada trade war is hurting Kentucky’s bourbon industry, which generates billions of dollars annually.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 00:08 UTC"
+    },
+    {
+      "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
+      "summary": "Iran's IRGC says four tankers have struck naval mines after using \"unauthorised\" Strait of Hormuz routes.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 00:00 UTC"
+    },
+    {
+      "title": "France braces for ‘very high risk’ of disorder at Halloween protests",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
+      "summary": "Authorities vow firm action against violence as yellow vest and student movements announce widespread demonstrations.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 23:52 UTC"
+    },
     {
       "title": "İsrail muhalefeti Netanyahu'yu seçimleri \"gayrimeşrulaştırmaya\" çalışmakla suçluyor",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg",
@@ -36,6 +117,15 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 22:36 UTC"
+    },
+    {
+      "title": "Japonya Merkez Bankası faiz oranlarını %1,25'te sabit bırakacak - TradingView",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnT01YbkladW9kMl9DV3pCVXlWeHRDV2lKSUFmOHpkTFFPWXYzSUdIVGJsaktucThhdkJTVWFoOEFtM2tHZUNHNHlwbE9FZGpxWEJzVUJGay10SURUb3RKMVR4bjEyeXgx?oc=5",
+      "summary": "Japonya Merkez Bankası faiz oranlarını %1,25'te sabit bırakacak TradingView",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-29 22:30 UTC"
     },
     {
       "title": "Trump administration attempts to take down leak of ICE personnel data",
@@ -236,15 +326,6 @@
       "published_at": "2026-10-29 20:26 UTC"
     },
     {
-      "title": "Israel election result shows no overall majority as vote count complete",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
-      "summary": "Opposition explores options to form coalition as no party secures the 61 seats required for parliamentary majority.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 20:22 UTC"
-    },
-    {
       "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg",
       "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
@@ -288,15 +369,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 20:05 UTC"
-    },
-    {
-      "title": "Man targeted Muslims, Africans and North Africans, French prosecutors say",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/29/man-targeted-muslims-africans-and-north-africans-french-prosecutors-say?traffic_source=rss",
-      "summary": "Prosecutor Olivier Christen said suspect admitted that he chose the location because it was 'a hotbed for Islamists'.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 20:00 UTC"
     },
     {
       "title": "İran: Şartlarımız üzerinde anlaşmaya varılmadan müzakere olmayacak",
@@ -380,24 +452,6 @@
       "published_at": "2026-10-29 19:23 UTC"
     },
     {
-      "title": "Cornell begins no confidence vote over handling of alleged gang rape",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss",
-      "summary": "Faculty vote will continue until next Friday and could send message that school's president has lost their confidence.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 19:23 UTC"
-    },
-    {
-      "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss",
-      "summary": "Comments come after Trump ally Flavio Bolsonaro fled to Miami in US and claimed, without evidence, that vote was stolen.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 19:21 UTC"
-    },
-    {
       "title": "Emine Erdoğan'dan TDT liderleriyle akşam yemeği paylaşımı",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-tdt-liderleriyle-aksam-yemegi-paylasimi-961670.html",
@@ -405,33 +459,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 19:19 UTC"
-    },
-    {
-      "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
-      "summary": "With all votes now counted, opposition parties could join forces with Palestinian-Israeli parties to unseat Netanyahu.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 19:06 UTC"
-    },
-    {
-      "title": "‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/29/arab-voice-doesnt-count-jewish-israeli-blocs-reject-palestinian-support?traffic_source=rss",
-      "summary": "Palestinian voters could decide Israel’s future, but its political class refuses to accept their mandate",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 19:02 UTC"
-    },
-    {
-      "title": "Pentagon fires general it says leaked classified information to media",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
-      "summary": "Army Lieutenant General Brett Sylvia was subject of investigation into leaking information about Iran and Ukraine.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 19:02 UTC"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan Donald Trump'la görüştü",
@@ -477,15 +504,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-10-29 18:41 UTC"
-    },
-    {
-      "title": "Texas Republican group seeks to block certification of state’s election",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss",
-      "summary": "Republicans in a Texas county have filed a lawsuit asking for ballots in the state's midterm races to be hand-counted.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-29 18:40 UTC"
     },
     {
       "title": "Galata Kulesi'nde 29 Ekim'e özel Atatürk gösterisi",
@@ -558,15 +576,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-29 16:43 UTC"
-    },
-    {
-      "title": "ECB Başkanı Lagarde'dan aralıkta faiz artışı sinyali - Gazete Oksijen",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDFNcmpRNnZZbGlSRzNpS1BTM19Vd0JSTlkwbDd2MHdIQ2ZwU3FjSHFIUWh4eGZIYk1qa09XYkpYOHhvcmN2VjFGNmk0Ty1UcUFaY1FCQ01OSGYyS2w4V0d5Ml9XWVpXMHlCdlAxS2ZySHlybDRoc1lZVXFQYm5IcGJJb3d3NjI1WEhKQnNtSFlxSXEtcDdoRkw1MHVvbEFEUFowOHB5ekNDV2dVMGZv?oc=5",
-      "summary": "ECB Başkanı Lagarde'dan aralıkta faiz artışı sinyali Gazete Oksijen",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-29 15:44 UTC"
     },
     {
       "title": "Tarafsız kalamam: Lagarde ECB'den erken ayrılışını açıkladı - Euronews.com",
@@ -650,15 +659,6 @@
       "published_at": "2026-10-29 14:17 UTC"
     },
     {
-      "title": "Chainlink, tokenlaştırılmış varlıklar için hafta sonu fiyatlandırmasını başlatıyor, lansman ortağı olarak Aave ile birlikte - CoinDesk",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQkxhTk5rSnV1d1FpRGowY0QzLTgzdTdiT1pNMHlhcWJmYnV6TVVFM01xSWFPb2JSZGRVTkI4c2l0b0Q2bzlRZHdGbW9GLUhaZFZreTBneXgyNGJWNDhkcTlLMXY2ZEZwTUxzdUhvdmhCTXVwRm9lLVItSWo0VFdTR1MtRVkxSGVJa2lFTFRKNFU2YUpjalRyclVRX2hsRzhiN3RYWnozeU4zMlVfRUVPYV9nZ21aWG9XRFIxMlNhd2M?oc=5",
-      "summary": "Chainlink, tokenlaştırılmış varlıklar için hafta sonu fiyatlandırmasını başlatıyor, lansman ortağı olarak Aave ile birlikte CoinDesk",
-      "source": "Google News - Küresel Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-29 14:15 UTC"
-    },
-    {
       "title": "Hakkında ev hapsi kararı verilen Sinem Dedetaş tahliye oldu",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba3f/live/d59c4620-d3a1-11f1-a701-fddedf244c16.png",
       "link": "https://www.bbc.com/turkce/articles/ckq6nj1vpzjeo?at_medium=RSS&at_campaign=rss",
@@ -731,22 +731,13 @@
       "published_at": "2026-10-29 13:22 UTC"
     },
     {
-      "title": "Avrupa Merkez Bankası faiz kararını açıkladı - Sözcü Gazetesi",
+      "title": "Avrupa Merkez Bankası politika faizini sabit tuttu - TRT Haber",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQek05LTdvYWl2U3ZERWpuQmVDUU9BLTdnbWRBREhoY0V3NWFhVDNlcnF5TWdBRGlpeXdNVE5ObFE1d2FtSEt3R3JieXpVV09BYjBvUUpHSnhoREJNZ2VvY2x4NkNDb09fdjBqbVlrVnpfSGQzOTV4U1EzNWVjV0lzVzAxbw?oc=5",
-      "summary": "Avrupa Merkez Bankası faiz kararını açıkladı Sözcü Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnBERDNyZEJTWko4dEhYenBEMFYzRm5FaHlqTlZ2NlBiUlJTaExVaTR1LTFsLUd3M3M2TkU3dWtHMlNVclZOTFdWTmk4R04wdnlNWllKYTVuc3lxWHFPRlFoYkMtNE9pSlE1MEJkN0l3TW85SnhmazZzYUNsdzV3ZDFWbmItd2pqX1ZLOXh4dnJGY1g1b2c2UWNOclhDQmVK?oc=5",
+      "summary": "Avrupa Merkez Bankası politika faizini sabit tuttu TRT Haber",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-29 13:21 UTC"
-    },
-    {
-      "title": "Avrupa Merkez Bankası faiz kararını açıkladı - Ekonomim",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODBOWWxKQUsyZGFCSEw3S09VY05xWlNKdWhmSy15NWt4dy1uRTh5TVBXVGtIbS1DZGF1RkJ0cUNwTXQzVDFWak1rMVl2cUNIeE42bFdjNWZLY2xqNkZhM3RTQXM2MEZWU05NN2tEb0tGTWdqWnlPd1dESlZOZWJFbkFWejV0LWE4aXM5MW45d1hMRzktWDFsak5CWVVFQ0ZZ?oc=5",
-      "summary": "Avrupa Merkez Bankası faiz kararını açıkladı Ekonomim",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-29 13:19 UTC"
+      "published_at": "2026-10-29 13:20 UTC"
     },
     {
       "title": "AKP'de 'süresiz nafaka' düzenlemesine yeni formül arayışı",
@@ -785,13 +776,13 @@
       "published_at": "2026-10-29 12:49 UTC"
     },
     {
-      "title": "Avrupa Merkez Bankası Başkanı Christine Lagarde istifa etti - DW.com",
+      "title": "Avrupa Merkez Bankası Başkanı Lagarde, 7 Şubat 2027'de görevinden ayrılacak - Anadolu Ajansı",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUlST3M0eFVkeEF4T2NBdUhxR1dyTlR2YkdaRWdsQktjVFVsYXBSc1h0dFRGQllNWElDRUNQaWtDeGpjemZ3RXFkdGZHREtRV2k3bVJyWnphRC1iMHNlNFc0ejBHUE1DbE8zbThSQnRXY3FYdWZwdkttQklBbHM1ZVE4SVcwTEVMV09GRTZPUzBSamQ1ZGdQdWpwWlZyOEN2SG9KZTZKZ2J1YlHSAasBQVVfeXFMUEVJUk9zNHhVZHhBeE9jQXVIcUdXck5UdmJHWkVnbEJLY1RVbGFwUnNYdHRURkJZTVhJQ0VDUGlrQ3hqY3pmd0VxZHRmR0RLUVdpN21Sclp6YUQtYjBzZTRXNHowR1BNQ2xPM204UkJ0V2NxWHVmcHZLbUJJQWxzNWVROElXMExFTFdPRkU2T1MwUmpkNWRnUHVqcFpWcjhDdkhvSmU2SmdidWJR?oc=5",
-      "summary": "Avrupa Merkez Bankası Başkanı Christine Lagarde istifa etti DW.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUm93dWxqeE1lQ3lNZklFeks2R2lyWURTYzlEbWxyb2hvTXRZRTN5XzBMaHFKRERqaUlrVnRtNTNaU1piN1RCNS12OHYxemJZbGZKRFpZVUM3dllYeldHRVptWk1VT0lWVTZhbjVITWVfdWQyWElkTk9nZlhnNnVuUXFSdlppTTJFT01yME1jNVItNU42QTNBX29tUVg5bmtvNFlLeTdWRElJUmNHSEZr?oc=5",
+      "summary": "Avrupa Merkez Bankası Başkanı Lagarde, 7 Şubat 2027'de görevinden ayrılacak Anadolu Ajansı",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-29 12:05 UTC"
+      "published_at": "2026-10-29 12:14 UTC"
     },
     {
       "title": "Söylentiler gerçek oldu. Avrupa Merkez Bankası Başkanı Lagarde 2027'de görevinden ayrılacak - NTV Haber",
@@ -810,15 +801,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-29 11:39 UTC"
-    },
-    {
-      "title": "Avrupa Merkez Bankası Başkanı Lagarde istifa etti - TRT Haber",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHJRMmpyQWc2TnlCb3RKVG9xUVVkS25sNDlRWTVkd3ZCcWRwaTBuM3Q2eUIybDJUU0FNWXd5Wk1UY0ZxdUVyZnlrdTlocVlCc2lFM0duR0lTSF9NeDk3akZXQTZfUG1uNWprYnEyRENDREh4THhwR0NuRHlndDk5bDVjem9IUUg0NnhnUzhnTmtzY2R1bHp1YmJYV1BkeU0?oc=5",
-      "summary": "Avrupa Merkez Bankası Başkanı Lagarde istifa etti TRT Haber",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-29 11:34 UTC"
     },
     {
       "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
@@ -900,6 +882,24 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-29 08:21 UTC"
+    },
+    {
+      "title": "Putin: Elon Musk 'gerçek bir dahi, yakın temastayız '",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cqjdm88ml7p3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rusya Devlet Başkanı Vladimir Putin, Elon Musk'ın \"gerçek bir dahi\" olduğunu belirtti ve uydu teknolojisi konusunda \"yakın\" temas halinde olduklarını açıkladı.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-29 08:19 UTC"
+    },
+    {
+      "title": "Fed faizi sabit tuttu ama tehlike geçmedi! Altın, dolar ve borsada gözler aralık ayında - Ekovitrin Haber",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUDZ6bG1sc2RtSk5HaGlmYmhFYk9KQzZVbjRCSmNXWjhBMU1LYjZWZ2xGX0JxZGp5ZmZIU0pHcjZuSnhGa2lKQ2owbkVZalRKUXBSZm1YX2JOdHZoZDVGdnVtVE0xS3doMmFVSlJJeWdPVHN6TkM5b2kzS011bEZYY0daQVYzak1ISG11U2RGUHNPMHJ4QThxRW9UU05oYmlMY3BEdmJlQUpGYllYYlFubg?oc=5",
+      "summary": "Fed faizi sabit tuttu ama tehlike geçmedi! Altın, dolar ve borsada gözler aralık ayında Ekovitrin Haber",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-29 07:39 UTC"
     }
   ]
 }
