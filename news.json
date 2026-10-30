@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-10-30 19:16 UTC",
+  "updated_at": "2026-10-30 20:07 UTC",
   "items": [
+    {
+      "title": "Yapay zeka endişeleri Wall Street'te satış dalgasını tetikledi",
+      "image": "https://geoim.bloomberght.com/l/2026/10/30/ver1793390580/3792974/jpg/320x180",
+      "link": "https://www.bloomberght.com/yapay-zeka-endiseleri-wall-streette-satis-dalgasini-tetikledi-3792974",
+      "summary": "Wall Street'te yapay zeka yatırımlarının getirisine ilişkin endişeler ve teknoloji şirketlerinin beklentileri karşılamayan bilançoları satış baskısını artırdı. Nasdaq endeksi Cuma günü yüzde 4 gerileyerek zirvesinden yaklaşık yüzde 10 uzaklaşırken S&P 500 endeksi de yüzde 2'nin üzerinde değer kaybetti.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-30 20:02 UTC"
+    },
+    {
+      "title": "İstanbul Maratonu nedeniyle bazı yollar 1 Kasım'da trafiğe kapatılacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/istanbul-maratonu-nedeniyle-bazi-yollar-1-kasimda-trafige-kapatilacak/4106918",
+      "summary": "İstanbul Emniyet Müdürlüğü, 1 Kasım'da düzenlenecek İstanbul Maratonu dolayısıyla trafiğe kapatılacak yolları ve alternatif güzergahları duyurdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 19:58 UTC"
+    },
+    {
+      "title": "BM Güvenlik Konseyi, Guterres'in yerine önerilecek aday için 7. kez ön oylama yaptı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/bm-guvenlik-konseyi-guterresin-yerine-onerilecek-aday-icin-7-kez-on-oylama-yapti/4106917",
+      "summary": "Birleşmiş Milletler Güvenlik Konseyi (BMGK), bu yıl sonunda görev süresi bitecek olan Genel Sekreter Antonio Guterres'in yerine aday olacak 7 isim için 7. kez ön yoklama seçimi yaptı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 19:53 UTC"
+    },
+    {
+      "title": "İran’dan Avrupa ülkelerine “Savaşın bir bedeli var, şimdi bedel ödeme sırası sizde” mesajı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-dan-avrupa-ulkelerine-savasin-bir-bedeli-var-simdi-bedel-odeme-sirasi-sizde-mesaji/4106911",
+      "summary": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Rızai, Avrupa ülkelerinin bir zamanlar İsrail’in “kirli işleri” ile övündüğünü savunarak, “Savaşın ve terörün bir bedeli var, şimdi bedel ödeme sırası sizde.” yorumunda bulundu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 19:46 UTC"
+    },
+    {
+      "title": "How 20-year-old Kimi Antonelli is making F1 history",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/how-20-year-old-kimi-antonelli-is-making-f1-history?traffic_source=rss",
+      "summary": "Kimi Antonelli had an F1 licence before he could legally drive. Now he could become Formula One’s youngest champion.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 19:39 UTC"
+    },
+    {
+      "title": "What to know about California’s midterm elections",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/30/what-to-know-about-the-midterm-elections-in-california?traffic_source=rss",
+      "summary": "Redistricting in California, the most populous US state, could flip control of US House from Republican to Democrat.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 19:38 UTC"
+    },
+    {
+      "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
+      "summary": "Prime Minister claims the parties accepted foreign funding.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 19:34 UTC"
+    },
+    {
+      "title": "'Sizin kardeşiniziz, bankanız değil': Ankara-Bakü geriliminde ekonominin yeri",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f6ec/live/a79c13a0-d472-11f1-9dda-1ba6fcc7d159.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c5vgjzrmg4ngo?at_medium=RSS&at_campaign=rss",
+      "summary": "2026 yılının Ekim ayında Bakü ile Ankara arasında tırmanan gerginlik, Netanyahu'nun Birleşmiş Milletler'deki (BM) konuşması sırasında Azerbaycan'ın salondan çıkmaması ve okullarda başörtüsü meselesi ile başladı. Ancak Azerbaycan'da hükümet yanlısı Day.az internet sitesinde yayımlanan bir makale, bu siyasi ve kültürel anlaşmazlığın altında daha temel bir sorunun yatabileceğini öne sürdü.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 19:27 UTC"
+    },
+    {
+      "title": "MİT Başkanı Kalın: Hepimiz güvende olmadan hiçbirimiz güvende değiliz",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalin-hepimiz-guvende-olmadan-hicbirimiz-guvende-degiliz-961772.html",
+      "summary": "Milli İstihbarat Teşkilatı MİT Başkanı İbrahim Kalın, \"Biz hep şu ilkeyle hareket ettik: 'Hepimiz güvende olmadan hiçbirimiz güvende değiliz.' Kendi güvenliğimi garanti altına almak için mutlaka paydaşlarımın, komşularımın, ortaklarımın güvenliğini de dikkate almak zorundayım\" dedi",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 19:24 UTC"
+    },
+    {
+      "title": "Texas grand jury indicts ICE officer accused of running over man in Houston",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss",
+      "summary": "The officer faces charges after allegedly striking a fleeing construction worker with an SUV during an immigration raid.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 19:16 UTC"
+    },
     {
       "title": "Ordu'da yağış sonucu ırmakta mahsur kalan kişi kurtarıldı",
       "image": "",
@@ -25,6 +115,15 @@
       "link": "https://www.trthaber.com/haber/dunya/isvecte-kuran-i-kerime-saldiran-sandberg-nefret-sucundan-hukum-giydi-961769.html",
       "summary": "İsveç'in başkenti Stockholm'de 2024 yılında Kur'anı Kerim'e saldırıda bulunan aşırı sağcı Jade Sandberg, nefret suçundan hüküm giydi.",
       "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 18:55 UTC"
+    },
+    {
+      "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
+      "summary": "Pakistan's military spokesman warns of 'powerful spoilers and detractors' who still believe the conflict serves them.",
+      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 18:55 UTC"
     },
@@ -164,15 +263,6 @@
       "published_at": "2026-10-30 18:15 UTC"
     },
     {
-      "title": "Gümüşün ons fiyatında düşüş yüzde 4'e yaklaştı - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc2RrWEV6U3MwNzh2Z3JqM3BLTkFJMzJKUFpkc0xMU0JHem9YeXo2S3I4NjFYM3FVaHJBTWZsUC1TRlhjLWszc2NOX3I3WXhJNDlmZzVCN1JJWkV5dW9FZlVhaXBBZE03QURxYU9BWnd3X2hMSXhNZkVHcEs0bTJoSg?oc=5",
-      "summary": "Gümüşün ons fiyatında düşüş yüzde 4'e yaklaştı EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-30 18:14 UTC"
-    },
-    {
       "title": "İsrail ordusu, El Halil'de abluka altındaki bölgeyi kapalı askeri bölge ilan etti",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-el-halilde-abluka-altindaki-bolgeyi-kapali-askeri-bolge-ilan-etti-961766.html",
@@ -191,10 +281,10 @@
       "published_at": "2026-10-30 18:12 UTC"
     },
     {
-      "title": "Galatasaray, deplasmanda Konyaspor'u 4-0 mağlup etti",
+      "title": "Galatasaray, deplasmanda Konyaspor'u 4-0 yenerek liderliğini sürdürdü",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/galatasaray-deplasmanda-konyasporu-4-0-maglup-etti/4106855",
-      "summary": "Trendyol Süper Lig'de 10. haftanın açılış maçında Galatasaray, konuk olduğu TÜMOSAN Konyaspor'u 4-0 mağlup etti.",
+      "link": "https://www.aa.com.tr/tr/spor/galatasaray-deplasmanda-konyasporu-4-0-yenerek-liderligini-surdurdu/4106855",
+      "summary": "Galatasaray, Trendyol Süper Lig'de 10. haftasının açılış maçında TÜMOSAN Konyaspor'u deplasmanda 4-0 yenerek liderliğini sürdürdü.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 18:07 UTC"
@@ -231,15 +321,6 @@
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/fransada-lise-eylemlerinde-polis-ve-jandarma-siddetine-iliskin-83-sorusturma-acildi/4106839",
       "summary": "Fransa'da lise eylemleri kapsamında polis ve jandarma şiddeti iddialarına ilişkin 83 soruşturma açıldığı öğrenildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 17:47 UTC"
-    },
-    {
-      "title": "Bakırköy Belediyesine yönelik soruşturmada 40 şüpheliye tutuklama talebi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/bakirkoy-belediyesine-yonelik-sorusturmada-40-supheliye-tutuklama-talebi/4106840",
-      "summary": "Bakırköy Belediyesine yönelik \"ihaleye fesat karıştırma\" ve \"irtikap\" suçlarına ilişkin soruşturma kapsamında gözaltına alınan 63 şüpheliden 40'ı tutuklanma talebiyle hakimliğe sevk edildi.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 17:47 UTC"
@@ -335,15 +416,6 @@
       "published_at": "2026-10-30 17:24 UTC"
     },
     {
-      "title": "Mali'deki Mars göktaşının 4,1 milyar yıldan daha eski olduğu belirlendi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/malideki-mars-goktasinin-4-1-milyar-yildan-daha-eski-oldugu-belirlendi/4106825",
-      "summary": "ABD Havacılık ve Uzay Ajansı (NASA) öncülüğündeki araştırmada, Mali'de bulunan Mars kökenli bir göktaşının 4,1 milyar yıldan daha eski olduğu ve gezegenin geçmişine ilişkin yeni bilgiler sunduğu belirlendi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 17:22 UTC"
-    },
-    {
       "title": "Borsa İstanbul'da günün öne çıkan hisseleri - Borsa Gundem",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzdHdEFBZVRqMU9uQmh1U2xqSUtZcTIxQWNfRGVpVlN3U0Naa1V3ZUpvVmJLc2RDV1RXaDJMdkNjWEI0SDU5MGZENlI2MklQNzJJMUpnbGhlTVNqWFpSZ2tYU01xbnp6a3NGTEttaHpTUGRib1JrRzlrODNFZ1dUOA?oc=5",
@@ -377,15 +449,6 @@
       "summary": "Avrupa Birliği (AB) Komisyonu, Ukrayna'nın 2027 yılındaki bütçe ve savunma ihtiyaçlarının karşılanması amacıyla 45 milyar euroluk kredi sağlanmasını öngören teklifini AB Konseyi'ne sundu.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 17:01 UTC"
-    },
-    {
-      "title": "Beşiktaş-Hapoel Beer-Sheva maçı Gürcistan'da oynanacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/besiktas-hapoel-beer-sheva-maci-gurcistanda-oynanacak/4106816",
-      "summary": "Beşiktaş Kulübü, siyah-beyazlı futbol takımının UEFA Avrupa Ligi'nde İsrail ekibi Hapoel Beer-Sheva ile yapacağı iç saha maçının Gürcistan'da oynanacağını duyurdu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 17:01 UTC"
     },
     {
@@ -569,33 +632,6 @@
       "published_at": "2026-10-30 15:39 UTC"
     },
     {
-      "title": "Swiss foreign minister talks political ties on rare visit to North Korea",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss",
-      "summary": "Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 15:37 UTC"
-    },
-    {
-      "title": "Trump reverses course, reinstates cancelled campaign rallies",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies?traffic_source=rss",
-      "summary": "The decision marks a sharp reversal after the US president said he didn't feel like he had to hold the events.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 15:35 UTC"
-    },
-    {
-      "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
-      "summary": "As Houthi missiles strike Aden, residents stockpile food and prepare escape plans, fearing a return to all-out war.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 15:26 UTC"
-    },
-    {
       "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe5/live/560bc7b0-d454-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
@@ -619,15 +655,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
       "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
       "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 15:06 UTC"
-    },
-    {
-      "title": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
-      "summary": "Israeli forces demolished the homes of two Palestinians accused of killing two Israeli soldiers in Hebron last week.",
-      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 15:06 UTC"
     },
@@ -666,15 +693,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-30 14:46 UTC"
-    },
-    {
-      "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
-      "summary": "Senator Chris Murphy says he’s been briefed on Trump’s plan to restart the war on Iran.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 14:40 UTC"
     },
     {
       "title": "Giresun'da otomobil kaldırımdaki yayalara çarptı: 3 yaralı",
@@ -731,15 +749,6 @@
       "published_at": "2026-10-30 14:20 UTC"
     },
     {
-      "title": "Türk devletlerinin ortak uydusu 2027'nin ikinci yarısında fırlatılacak",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/turk-devletlerinin-ortak-uydusu-2027nin-ikinci-yarisinda-firlatilacak-961754.html",
-      "summary": "Kazakistan'ın başkenti Astana'da geliştirilen Türk devletlerinin ortak küp uydusunun, gelecek yılın ikinci yarısında bu ülkedeki Baykonur Uzay Üssü'nden fırlatılması hedefleniyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 14:15 UTC"
-    },
-    {
       "title": "Beş soruda Aliyev neden Ankara'ya gitmedi?",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a72c/live/12dc3f20-d467-11f1-ab12-eb0c94f5b382.jpg",
       "link": "https://www.bbc.com/turkce/articles/cq4g10jx8xj6o?at_medium=RSS&at_campaign=rss",
@@ -747,15 +756,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 14:02 UTC"
-    },
-    {
-      "title": "Intel hisselerinde tarihi düşüş",
-      "image": "https://geoim.bloomberght.com/l/2026/10/30/ver1793368448/3792937/jpg/320x180",
-      "link": "https://www.bloomberght.com/intel-hisselerinde-tarihi-dusus-3792937",
-      "summary": "Intel Corp.'un hisseleri, PC işlemcilerine yönelik zayıflayan talep ve veri merkezi bileşenlerindeki tedarik zinciri aksamaları nedeniyle gelir tahminlerinin beklentileri karşılayamaması üzerine son iki yılı aşkın sürenin en sert düşüşünü kaydetti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 13:53 UTC"
     },
     {
       "title": "Merkez Bankası rezervlerinden 6,9 milyar dolar silindi - Paratic Haber",
