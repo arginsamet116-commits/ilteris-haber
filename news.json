@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-10-30 17:12 UTC",
+  "updated_at": "2026-10-30 18:04 UTC",
   "items": [
+    {
+      "title": "Fransa'da lise eylemlerinde polis ve jandarma şiddetine ilişkin 83 soruşturma açıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/fransada-lise-eylemlerinde-polis-ve-jandarma-siddetine-iliskin-83-sorusturma-acildi/4106839",
+      "summary": "Fransa'da lise eylemleri kapsamında polis ve jandarma şiddeti iddialarına ilişkin 83 soruşturma açıldığı öğrenildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 17:47 UTC"
+    },
+    {
+      "title": "Bakırköy Belediyesine yönelik soruşturmada 40 şüpheliye tutuklama talebi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/bakirkoy-belediyesine-yonelik-sorusturmada-40-supheliye-tutuklama-talebi/4106840",
+      "summary": "Bakırköy Belediyesine yönelik \"ihaleye fesat karıştırma\" ve \"irtikap\" suçlarına ilişkin soruşturma kapsamında gözaltına alınan 63 şüpheliden 40'ı tutuklanma talebiyle hakimliğe sevk edildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 17:47 UTC"
+    },
+    {
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 17:47 UTC"
+    },
+    {
+      "title": "Waymo, robotaksi operasyonları için Toyota ile anlaştı",
+      "image": "https://geoim.bloomberght.com/l/2026/10/30/ver1793382246/3792969/jpg/320x180",
+      "link": "https://www.bloomberght.com/waymo-robotaksi-operasyonlari-icin-toyota-ile-anlasti-3792969",
+      "summary": "Waymo, Japonya ve Birleşik Krallık'taki robotaksi operasyonları için Toyota ile anlaştı. Otonom bZ4X araçları ilk, Waymo'nun ileride robotaksi hizmeti sunmayı planladığı Japonya'da test edilecek. Amaç, bu araçları Birleşik Krallık gibi trafiğin soldan aktığı diğer ülkelerde de devreye almak. Waymo, aylardır Londra'da otonom Jaguar I-Pace araçlarını test ediyor.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-30 17:43 UTC"
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 17:39 UTC"
+    },
+    {
+      "title": "BOTAŞ, Kasım ve Aralık ayları için doğalgaz tüketim limitlerini güncelledi",
+      "image": "https://geoim.bloomberght.com/l/2026/10/30/ver1793381752/3792968/jpg/320x180",
+      "link": "https://www.bloomberght.com/botas-kasim-ve-aralik-aylari-icin-dogalgaz-tuketim-limitlerini-guncelledi-3792968",
+      "summary": "Boru Hatları ile Petrol Taşıma A.Ş. (BOTAŞ), konutlarda uygulanan kademeli doğalgaz tarifesi kapsamında Kasım ve Aralık aylarına ilişkin 81 ildeki tüketim limitlerini güncelledi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-30 17:35 UTC"
+    },
+    {
+      "title": "Report reveals campaign promoting racist, Islamophobic, anti-Qatar views",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/30/report-reveals-campaign-promoting-racist-islamophobic-anti-qatar-views?traffic_source=rss",
+      "summary": "Investigation finds that years-long operation sought to portray Qatar as driving force behind mass migration to Europe.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 17:34 UTC"
+    },
+    {
+      "title": "Kastamonu'da tarlasını süren çiftçi lahit buldu",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/kastamonuda-tarlasini-suren-ciftci-lahit-buldu-961764.html",
+      "summary": "Kastamonu'nun Taşköprü ilçesinde bir çiftçi, tarlasını sürerken lahit buldu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 17:27 UTC"
+    },
+    {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "summary": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 17:25 UTC"
+    },
+    {
+      "title": "Fed/Musalem: Yakında ilave sıkılaşma gerekecek",
+      "image": "https://geoim.bloomberght.com/l/2026/10/30/ver1793381126/3792967/jpg/320x180",
+      "link": "https://www.bloomberght.com/fedmusalem-yakinda-ilave-sikilasma-gerekecek-3792967",
+      "summary": "St. Louis Fed Başkanı Alberto Musalem, enflasyonun yüzde 2'lik hedefe gerilemesi için para politikasında yakın zamanda ilave sıkılaşmaya gidilmesi gerektiğini belirtti.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-30 17:24 UTC"
+    },
+    {
+      "title": "Mali'deki Mars göktaşının 4,1 milyar yıldan daha eski olduğu belirlendi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/malideki-mars-goktasinin-4-1-milyar-yildan-daha-eski-oldugu-belirlendi/4106825",
+      "summary": "ABD Havacılık ve Uzay Ajansı (NASA) öncülüğündeki araştırmada, Mali'de bulunan Mars kökenli bir göktaşının 4,1 milyar yıldan daha eski olduğu ve gezegenin geçmişine ilişkin yeni bilgiler sunduğu belirlendi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 17:22 UTC"
+    },
+    {
+      "title": "Borsa İstanbul'da günün öne çıkan hisseleri - www.borsagundem.com.tr",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzdHdEFBZVRqMU9uQmh1U2xqSUtZcTIxQWNfRGVpVlN3U0Naa1V3ZUpvVmJLc2RDV1RXaDJMdkNjWEI0SDU5MGZENlI2MklQNzJJMUpnbGhlTVNqWFpSZ2tYU01xbnp6a3NGTEttaHpTUGRib1JrRzlrODNFZ1dUOA?oc=5",
+      "summary": "Borsa İstanbul'da günün öne çıkan hisseleri www.borsagundem.com.tr",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-30 17:15 UTC"
+    },
+    {
+      "title": "Barcelona’s Flick praises Yamal’s ‘mentality’ after missing out on Ballon d’Or",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/10/30/barcelonas-flick-praises-yamal-mentality-in-missing-out-on-ballon-dor?traffic_source=rss",
+      "summary": "Lamine Yamal was tipped for the Golden Ball which went to Harry Kane, but his Barca boss 'proud' of teenager's reaction.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 17:13 UTC"
+    },
     {
       "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/c1455920-d46c-11f1-93e1-3b657b665bcf.jpg",
@@ -56,6 +173,15 @@
       "published_at": "2026-10-30 16:55 UTC"
     },
     {
+      "title": "Chelsea vs Manchester United: Premier League – teams, prediction, lineups",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/10/30/chelsea-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "summary": "Manchester United appeared set to sack Michael Carrick this week, but he may have one chance to save his job - at Chelsea.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 16:55 UTC"
+    },
+    {
       "title": "Vietnam'da pagoda çevresindeki maymunlar turistlerle iç içe yaşıyor",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/vietnamda-pagoda-cevresindeki-maymunlar-turistlerle-ic-ice-yasiyor/4106813",
@@ -63,15 +189,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 16:54 UTC"
-    },
-    {
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a084/live/e6590860-d476-11f1-9dda-1ba6fcc7d159.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 16:48 UTC"
     },
     {
       "title": "Trump: İran'la savaş yakında sona erecek",
@@ -110,10 +227,10 @@
       "published_at": "2026-10-30 16:26 UTC"
     },
     {
-      "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "summary": "But several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 16:26 UTC"
@@ -245,15 +362,6 @@
       "published_at": "2026-10-30 15:48 UTC"
     },
     {
-      "title": "US tech stocks see sharp falls over AI cost fears",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 15:46 UTC"
-    },
-    {
       "title": "Bu hafta yatırım araçlarının performansı",
       "image": "",
       "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4106756",
@@ -261,6 +369,24 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 15:43 UTC"
+    },
+    {
+      "title": "Göçmen kuşlar da jetlag oluyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/gocmen-kuslar-da-jet-lag-oluyor-961759.html",
+      "summary": "Bilim insanları, göçmen deniz kuşlarının biyolojik saatleri ile bulundukları yerin saati arasındaki uyumsuzluğun yön bulma yeteneklerini bozduğunu ortaya koydu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-30 15:42 UTC"
+    },
+    {
+      "title": "Borsa İstanbul'da BIST 100 Endeksi Ekim ayında yüzde 9,94 düştü - Foreks.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPd3RROXJGdkpsZzh6RGhRenlqazhBTDVxS19JaGQtZXp2alFDQ2o3TTd0b0dYanVzR3I4WUh5cDUxUk9UZF9QX0ZLSVZjbi1KMWJ3RFEyV19TRzcxckc5ejJiek5IY0ZHbUpvaXAzS2syMzlwazNCTkcwQldBc0ppWmpFYm1LeVZjR3FEd2pDYzhCenUwZERwc1RWdkI3amJ1Nnh3WVFkOU9pQkVpd0FWclVQUzJKc3R5RTBlbWlSam5NTExtVFF1RExydF9jT093c3BORXdWTkZpWnlN?oc=5",
+      "summary": "Borsa İstanbul'da BIST 100 Endeksi Ekim ayında yüzde 9,94 düştü Foreks.com",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-30 15:40 UTC"
     },
     {
       "title": "TMO, Kasım'da piyasaya 5,5 milyon ton hububat arz edecek",
@@ -335,15 +461,6 @@
       "published_at": "2026-10-30 15:24 UTC"
     },
     {
-      "title": "Atlanta'daki G20 Dışişleri Bakanları Toplantısı, aile fotoğrafı çekilmeden başladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/atlantadaki-g20-disisleri-bakanlari-toplantisi-aile-fotografi-cekilmeden-basladi/4106736",
-      "summary": "ABD'nin Atlanta kentinde gerçekleştirilen ve Dışişleri Bakanı Hakan Fidan'ın da katıldığı G20 Dışişleri Bakanları Toplantısı, Rusya ile bazı Avrupa ülkeleri arasındaki anlaşmazlıklar nedeniyle aile fotoğrafı çekimi yapılmadan başladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 15:21 UTC"
-    },
-    {
       "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe5/live/560bc7b0-d454-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
@@ -351,15 +468,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 15:17 UTC"
-    },
-    {
-      "title": "Gazze'de İsrail askerlerinin saldırısında yaralanan 8 yaşındaki çocuk kurtarılamadı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/gazzede-israil-askerlerinin-saldirisinda-yaralanan-8-yasindaki-cocuk-kurtarilamadi/4106725",
-      "summary": "İsrail askerlerinin, Gazze Şeridi'nin güneyindeki Han Yunus kentinde açtığı ateş sonucu yaralanan 8 yaşındaki Filistinli çocuk, tedavi gördüğü hastanede yaşamını yitirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 15:15 UTC"
     },
     {
       "title": "İspanya Ulaştırma Bakanı, tren kazasının ardından istifa etmeyecek",
@@ -524,15 +632,6 @@
       "published_at": "2026-10-30 14:12 UTC"
     },
     {
-      "title": "Bakan Yumaklı: Hayvancılıkta son 24 yılda sağlanan destekler 663 milyar liraya ulaştı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-hayvancilikta-son-24-yilda-saglanan-destekler-663-milyar-liraya-ulasti/4106625",
-      "summary": "Tarım ve Orman Bakanı Yumaklı, hayvancılık sektörüne son 24 yılda sağlanan desteklerin 663 milyar liraya ulaştığını belirterek, \"Onay aldığı takdirde 2027 yılı için destek bütçesini yüzde 41,5 artırarak 54,5 milyar liraya yükseltmiş olacağız.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 14:07 UTC"
-    },
-    {
       "title": "Beş soruda Aliyev neden Ankara'ya gitmedi?",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a72c/live/12dc3f20-d467-11f1-ab12-eb0c94f5b382.jpg",
       "link": "https://www.bbc.com/turkce/articles/cq4g10jx8xj6o?at_medium=RSS&at_campaign=rss",
@@ -567,15 +666,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 13:58 UTC"
-    },
-    {
-      "title": "Chase sparks Bangladesh collapse as West Indies on top in Mirpur Test",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/30/chase-sparks-bangladesh-collapse-as-west-indies-on-top-in-mirpur-test?traffic_source=rss",
-      "summary": "West Indies' Royston Chase forces collapse as Bangladesh slump to 79-6, a lead of 106 runs, on day three of first Test.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 13:56 UTC"
     },
     {
       "title": "Intel hisselerinde tarihi düşüş",
@@ -623,22 +713,13 @@
       "published_at": "2026-10-30 13:33 UTC"
     },
     {
-      "title": "Palestinian child survives Israeli gunshot to the head",
+      "title": "Merkez Bankası PPK Özetini Açıkladı - Para Analiz",
       "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss",
-      "summary": "Imad Salem Zahra, the Palestinian child whose photo went viral after he was shot in the head by Israeli soldiers.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 13:32 UTC"
-    },
-    {
-      "title": "Ukraine invests in firepower as it inflicts a new Russian casualty record",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/30/ukraine-invests-in-firepower-as-it-inflicts-a-new-russian-casualty-record?traffic_source=rss",
-      "summary": "Recent Starlink suspension did not much affect Ukrainian lethality, but Kyiv shows it is losing trust in the US.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 13:29 UTC"
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14ZGk0Q1hlUGdacHBOeEdYc2J6RzAzRnBfOUV1M2t1NWU0S3FmU3dqX3RjTTZ6T1E0NTBUSzVVajc4ekFHU2VFZHhIOHBRM2RBZlI0MjJfRlM4LUVESUFDMERQUWtuUk00YV8tTkVVX0prT3c3STVJdWxkQQ?oc=5",
+      "summary": "Merkez Bankası PPK Özetini Açıkladı Para Analiz",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-30 13:15 UTC"
     },
     {
       "title": "Almanya'da enflasyon keskin şekilde yavaşladı",
@@ -668,33 +749,6 @@
       "published_at": "2026-10-30 12:52 UTC"
     },
     {
-      "title": "(ISTE) Technical Analysis and Trading Signals (ISTE:CA) - Stock Traders Daily",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbUVsYU0xVk9wTUh0d2RnY29PaXU0N2NnMlBsNjhjUmF5X3pOYkZlU0NIaDJHX1pUNDRGa1dfWXJuTndZMmxVWWtVS3cwYmgtNkpwWU81U3U0MlRvV0JIYktGZVpueVpwRXFyT2xIVXJRMEtTZnNQUjc0cUZrUVA0M2xQZzlsVUdWVkVweGdJWnBpZkhZRmFzWVpTSzdIei1rOWV3?oc=5",
-      "summary": "(ISTE) Technical Analysis and Trading Signals (ISTE:CA) Stock Traders Daily",
-      "source": "Google News - Küresel Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-30 12:46 UTC"
-    },
-    {
-      "title": "Merkez Bankası rezervlerinden 6,9 milyar dolar silindi - Paratic Haber",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZFg3a29ZOEJYcmtteXlQVDU0Ukh0end4MklPZEZiaExYeU1Sc1E5WjBfeWFEaEUwYWM1Rm9DTGZLV1lWZXB0cE1kb3NlS0tLWFF5NTR4a0lZM0FxU0FfNTZFRGh2R0g4WUQzeld0YVA0cUJsbFM1UTM2NjNPbUdmaw?oc=5",
-      "summary": "Merkez Bankası rezervlerinden 6,9 milyar dolar silindi Paratic Haber",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 12:44 UTC"
-    },
-    {
-      "title": "Olağanüstü fon tasfiyelerinde ilk ara ödemeler yatmaya başladı",
-      "image": "https://geoim.bloomberght.com/l/2026/10/30/ver1793364123/3792927/jpg/320x180",
-      "link": "https://www.bloomberght.com/olaganustu-fon-tasfiyelerinde-ilk-ara-odemeler-yatmaya-basladi-3792927",
-      "summary": "Olağanüstü tasfiyeye konu yedi fondaki 235 bin 705 yatırımcıya bugün itibarıyla 29,3 milyar lira ara ödeme yapılmaya başlandı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 12:41 UTC"
-    },
-    {
       "title": "Bakan Kacır: ARGE ve inovasyon ekosistemini her geçen gün daha ileriye taşıyoruz",
       "image": "",
       "link": "https://www.trthaber.com/haber/ekonomi/bakan-kacir-ar-ge-ve-inovasyon-ekosistemini-her-gecen-gun-daha-ileriye-tasiyoruz-961749.html",
@@ -713,22 +767,13 @@
       "published_at": "2026-10-30 12:40 UTC"
     },
     {
-      "title": "Gençler COP31'de iklim krizine teknolojik çözüm için buluşuyor",
+      "title": "Merkez Bankası PPK Toplantı Özeti yayımlandı - Tigris Haber",
       "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/gencler-cop31de-iklim-krizine-teknolojik-cozum-icin-bulusuyor-961747.html",
-      "summary": "Sıfır Atık Vakfı ile T3 Vakfı ve T3 Girişim Merkezi işbirliğiyle düzenlenecek \"COP31 İklim Teknolojileri Creathonu\", gençleri ve girişimcileri iklim değişikliğine karşı teknolojik çözümler üretmek üzere bir araya getirecek.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 12:36 UTC"
-    },
-    {
-      "title": "TCMB: Enerji fiyatlarındaki yüksek ve dalgalı seyir sürmektedir",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/tcmb-enerji-fiyatlarindaki-yuksek-ve-dalgali-seyir-surmektedir-961746.html",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası TCMB Para Politikası Kurulu Toplantı Özeti'nde, devam eden jeopolitik belirsizliklere bağlı olarak enerji fiyatlarındaki yüksek ve dalgalı seyrin sürdüğü belirtildi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 12:33 UTC"
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZXdWRkFfTDBPUGlWNWZVV3gzZFFaTjJYSjI2RGxGdWRsTnRxaXdycHo5LUEyZ01SNlZGeVdIRDhNUTlBbE1IbElMd3J1aXdLdXRreUZiS1JISFpmbW1BU3BocGs0elluSVVyYnJpM2tvd0NYZm1STEVPcm1VMDNuLTcyZEFtX2VQZnJGcNIBnAFBVV95cUxNUmJXc2JzWmo0VjdyZGZEeFdMTTY3LThDb1EwSUN6dV9rTU9rY3ZFNWhOZmxXc2JiTno0cko0cVFPYXc4TnRrcGx4SVVydHVCUk9BRC1qYk1VaXpNTlNxaG5IOEdGUkY5cldrLUpUQ0lMVkpNd2wtS1BOeHJQMm9fZ1B1RFdtWWJyTnQ3bDUzX1BSWXpJTFc4V2lFb04?oc=5",
+      "summary": "Merkez Bankası PPK Toplantı Özeti yayımlandı Tigris Haber",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-30 12:30 UTC"
     },
     {
       "title": "China denies allegations of spy operation targeting Nvidia CEO",
@@ -749,6 +794,15 @@
       "published_at": "2026-10-30 12:09 UTC"
     },
     {
+      "title": "Goldman, Çek Merkez Bankası faiz görüşünü enflasyon riskleri nedeniyle yükseltti - Investing.com Türkiye",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQTNkdkhIeHNWdDlmeVZndU9INUQzQzN1Q1kwNGZBNG1vZk0wbjVsbEZKT3ByTUlENzA2ZTJwbUR4d1ZoYlB6RnI3Yk8xMDlMaTVzVm8yYl9YUUxzN0YzeVREck9nMGl4SU45VnpoenNxeHRLTGYyUWZQNThwT28xb1lPZ2NhMmR0eVFFSHV3QnNZamx1MkdpSDlIRlN2SUctenh0MUJNd0xheUF4RVpPcXlHWEh5akJjM2hZdU9BNjAyMjNIWWFqT25CSU80ZFU?oc=5",
+      "summary": "Goldman, Çek Merkez Bankası faiz görüşünü enflasyon riskleri nedeniyle yükseltti Investing.com Türkiye",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-30 11:58 UTC"
+    },
+    {
       "title": "TCMB rezervleri 4 ayın en düşük seviyesinde - Bloomberght",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZU55U0tsYlZZRzhqY1JjRHppbGkyUnNPRURaMEQwQjAzWkIxeWpvVF9Lc2NseDFmckwzNVdhX1JRc1lTVkNXQkFmU01BajBXOHpQUFJXbGxCajlkMHgxSjVxY2VIS3BvYTR1amhSZmJqVkZrVEY2NmlWc091U0dxcGZLNXYtdw?oc=5",
@@ -756,15 +810,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-30 11:49 UTC"
-    },
-    {
-      "title": "TCMB rezervleri 4 ayın en düşük seviyesinde",
-      "image": "https://geoim.bloomberght.com/l/2026/10/30/ver1793360749/3792923/jpg/320x180",
-      "link": "https://www.bloomberght.com/tcmb-rezervleri-4-ayin-en-dusuk-seviyesinde-3792923",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) brüt rezervleri 23 Ekim haftasında 6,9 milyar düşüşle 162,2 milyar doları görerek 4 ayın en düşük seviyesine geriledi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 11:45 UTC"
     },
     {
       "title": "'Ferritin yüzü': Demir eksikliği dış görünüşten anlaşılabilir mi?",
@@ -792,24 +837,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-30 11:34 UTC"
-    },
-    {
-      "title": "Merkez Bankası açıkladı: Toplam brüt rezervleri azaldı - CNBC-e",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTzNYV05jODBySEttX2I5VUxpMVZEMjBVMm5SM193ajgxWTdBdDV3MEN4SncxaVl1TlBWVzhRcmYzRk8zbXFsandjSFUtSG51QXFBLXFrOXdJTzFmd3AxY3J6bHh2UmRmTS1OVjY5SFN6TnNhMUIzdldYejAyMFkyVFR5Mk9FaDNZTEY4T2h6TU12Sngy?oc=5",
-      "summary": "Merkez Bankası açıkladı: Toplam brüt rezervleri azaldı CNBC-e",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 11:34 UTC"
-    },
-    {
-      "title": "Türkiye'nin ham çelik üretimi 9 ayda yüzde 6,1 arttı",
-      "image": "https://geoim.bloomberght.com/l/2026/10/30/ver1793360109/3792919/jpg/320x180",
-      "link": "https://www.bloomberght.com/turkiye-nin-ham-celik-uretimi-9-ayda-yuzde-6-1-artti-3792919",
-      "summary": "Türkiye'nin ham çelik üretimi, Ocak-Eylül döneminde geçen yılın aynı dönemine göre yüzde 6,1 artarak 29,8 milyon tona yükseldi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 11:29 UTC"
     },
     {
       "title": "Prominent Russian newspaper shuts down under pressure from authorities",
@@ -857,15 +884,6 @@
       "published_at": "2026-10-30 10:37 UTC"
     },
     {
-      "title": "Bank of America, İngiltere Merkez Bankası’ndan faiz artırımı bekliyor - Investing.com Türkiye",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLXVGTjdaTkFmcTNzTTFGWnNfZzFxRGJqRmlNZUhGYmMzcXNhRERXY1d2OXJyUXV4TGFFeGl4VUpxTmd4cXVzT21Id1VHZFk3ZVFMYVNXY1ZfM2RnNXlJMjhseWpSODUtaHpCd1ZkVEktcEY1ek5PdlEwdkdzUXlwWnljX2x6aXZJOTJ5VlRpT1RqV2E3QVdzbnJXb0szcG5KWXEzbXMtTzNqeVFuOTNXYWlvNzVGZVJyd0w0?oc=5",
-      "summary": "Bank of America, İngiltere Merkez Bankası’ndan faiz artırımı bekliyor Investing.com Türkiye",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 10:23 UTC"
-    },
-    {
       "title": "Borsa ve piyasalarda gün ortası - Borsa Gundem",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JSU0tc08wV1pLaXBDempEa3hHMk9UT0tueE9sNXZid1RjV1N0WFpaUHVpVkdEcnktMFZqbVo2SjBuLWk0bmdZeTM2T3VlVTktaW5kQXBFN24zLUhyelQtUFAtNmVlbW9ZREFFS3pKdFVrdEps?oc=5",
@@ -882,24 +900,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 10:13 UTC"
-    },
-    {
-      "title": "Çin Merkez Bankası, gecelik ters repo faizini temel referans oran haline getirmeye yönelik yeni bir adım attı - Foreks.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNTWVFbURaQmdBNXJ2QlVXQzhuR2V1R3Q0YlE3blc2RDctenJCenRaMXQ3RUVxTlliTVp0b3UzejhXNjY2SDhZeG1QQTU5Z2tnenNOY1N0ckZHM1NFYmg2TmFkS3pOVlc4NTVaWG5Ra1dfMlR6MTRMRUxrM2tnRjBneXhwT2tZSnFnZ3pab19GVkNVakRjWld1aTJ1U0xTbkg3UUVMU3NLVzl3c0Z3ckxRVDFMckRRS2FPdzJON09GWUVOT0hybGN5dDIyVVQySEJrUGRVTzFEYlF6Z1J0VG1wUGU2bVhLRXRNeGxuRFdrbFZlRjNVTkl3Z1pVVDMySG85b21xaXIxOGFyaEllRElEVzVXMkU1YnF0?oc=5",
-      "summary": "Çin Merkez Bankası, gecelik ters repo faizini temel referans oran haline getirmeye yönelik yeni bir adım attı Foreks.com",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 09:59 UTC"
-    },
-    {
-      "title": "Türkiye'den 'İsrail seçimlerine müdahale ettiği' iddialarına yalanlama",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0551/live/63971cd0-d43c-11f1-97f9-27ebf08d99fe.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c6d93pd9pxw2o?at_medium=RSS&at_campaign=rss",
-      "summary": "İsrail'in ana muhalefet lideri Gadi Eisenkot ve Arap partilerinin liderleri, koalisyonunun parlamentodaki çoğunluğu kaybettiği seçimlerin ardından \"yabancı müdahalesi\" iddiasında bulunan Başbakan Binyamin Netanyahu'yu kınadı.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 09:05 UTC"
     }
   ]
 }
