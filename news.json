@@ -1,6 +1,177 @@
 {
-  "updated_at": "2026-10-31 11:00 UTC",
+  "updated_at": "2026-10-31 12:00 UTC",
   "items": [
+    {
+      "title": "Bakan Kacır, TÜRKPATENT'in ücret tarifesine ilişkin düzenlemeyi değerlendirdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-turkpatentin-ucret-tarifesine-iliskin-duzenlemeyi-degerlendirdi/4107280",
+      "summary": "Bakan Kacır, Türk Patent ve Marka Kurumunun (TÜRKPATENT), KOBİ'lerin buluşlarının ve ülkedeki yapay zeka alanında geliştirilen yeniliklerin patentlenmesini teşvik etmek amacıyla önemli bir indirim uygulamasını hayata geçirdiğini belirtti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:41 UTC"
+    },
+    {
+      "title": "\"COP31 İklim Teknolojileri Creathonu\"na başvurular sürüyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/cop31-iklim-teknolojileri-creathonuna-basvurular-suruyor/4107279",
+      "summary": "Küresel iklim zirvesi COP31 kapsamında, iklim krizine karşı teknoloji odaklı çözümler geliştirmeyi hedefleyen \"COP31 İklim Teknolojileri Creathonu\" için başvurular 2 Kasım'a kadar devam edecek.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:41 UTC"
+    },
+    {
+      "title": "Ukrayna: Saldırılar nedeniyle Kiev ve Dnipropetrovsk bölgelerinde yaklaşık 280 bin aile elektriksiz",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/ukrayna-saldirilar-nedeniyle-kiev-ve-dnipropetrovsk-bolgelerinde-yaklasik-280-bin-aile-elektriksiz-961822.html",
+      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rus ordusunun düzenlediği hava saldırıları nedeniyle ülkesindeki Kiev ve Dnipropetrovsk bölgelerinde yaklaşık 280 bin ailenin elektriksiz kaldığını bildirdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:41 UTC"
+    },
+    {
+      "title": "UN closes Somalia mission, ending three decades of political engagement",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement?traffic_source=rss",
+      "summary": "Somalia hails the UN mission's closure as a milestone amid political tensions and cuts to international support.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:37 UTC"
+    },
+    {
+      "title": "Hamaneyden olası saldırılara karşı ani ve coğrafi sınırı olmayan cevap verilmesi talimatı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/hamaneyden-olasi-saldirilara-karsi-ani-ve-cografi-siniri-olmayan-cevap-verilmesi-talimati-961821.html",
+      "summary": "İran lideri Mücteba Hamaney'in, ABD ile yeni bir çatışma yaşanabileceğine ilişkin iddiaların gündeme gelmesinin ardından üst düzey askeri yetkililerle bir araya gelerek olası saldırılara karşı \"ani ve coğrafi sınır tanımayan bir karşılık verilmesi\" talimatını verdiği bildirildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:33 UTC"
+    },
+    {
+      "title": "Do tough laws deter drug crimes? Lessons from Singapore and Malaysia",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss",
+      "summary": "As Malaysia rethinks the death penalty for drug offences, Singapore insists tough laws deter substance abuse.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:30 UTC"
+    },
+    {
+      "title": "Protests outside Poland’s constitutional court: What’s the crisis about?",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss",
+      "summary": "Poland’s centrist government says it is restoring judicial independence after years of far-right political interference.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:27 UTC"
+    },
+    {
+      "title": "Orhun Yazıtları Beştepe Millet Ormanı'nda",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turk-dunyasi/orhun-yazitlari-bestepe-millet-ormaninda-961820.html",
+      "summary": "Türk Devletleri Medeniyet Parkı Beştepe Millet Ormanı'nda açıldı. TDK tarafından bire bir ölçülerinde hazırlatılan Köl Tigin, Bilge Kağan ve Bilge Tonyukuk Yazıtlarının replikaları, 16 Türk devletinin bayraklarının da bulunduğu alana yerleştirildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:23 UTC"
+    },
+    {
+      "title": "Rusya dizel ihracatı yasağını ocak sonuna kadar uzattı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ihracati-yasagini-ocak-sonuna-kadar-uzatti/4107267",
+      "summary": "Rus hükümeti, dizel, gemi yakıtı ve gaz yağı ihracatına yönelik yasağı 31 Ocak 2027'ye kadar uzattı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:21 UTC"
+    },
+    {
+      "title": "İsrail, El Halil'de askeri baskıyı sıkılaştırırken bölgeye takviye birlikler sevk etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-el-halilde-askeri-baskiyi-sikilastirirken-bolgeye-takviye-birlikler-sevk-etti/4107266",
+      "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil kentinin meskun mahallelerinde askeri varlığını artırıyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:20 UTC"
+    },
+    {
+      "title": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ec/live/4e7bd090-d516-11f1-93e1-3b657b665bcf.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents were taken out from the devastated city on Friday during a local ceasefire.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:18 UTC"
+    },
+    {
+      "title": "Bakan Uraloğlu: Dallıkavak Tüneli ile yolumuzu 20 dakikadan 5 dakikaya indirdik",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-dallikavak-tuneli-ile-yolumuzu-20-dakikadan-5-dakikaya-indirdik/4107262",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Dallıkavak Tüneli'ne ilişkin \"Yolumuzu yaklaşık 4,5 kilometre kısaltarak 20 dakikadan sadece 5 dakikaya indirdik. Bu sayede toplam 103 milyon lira da yıllık buradan tasarruf elde etmiş olacağız.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:12 UTC"
+    },
+    {
+      "title": "Hamaney’den askeri yetkililere olası saldırılara karşı \"ani ve coğrafi sınırı olmayan cevap verilmesi\" talimatı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/hamaney-den-askeri-yetkililere-olasi-saldirilara-karsi-ani-ve-cografi-siniri-olmayan-cevap-verilmesi-talimati/4107261",
+      "summary": "İran lideri Mücteba Hamaney'in, ABD ile yeni bir çatışma yaşanabileceğine ilişkin iddiaların ardından askeri yetkililerle bir araya gelerek olası saldırılara karşı \"ani ve coğrafi sınır tanımayan bir karşılık verilmesi\" talimatını verdiği bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:11 UTC"
+    },
+    {
+      "title": "Thousands protest across Italy over living costs and military spending",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss",
+      "summary": "Thousands have protested across Italy against rising living costs and increased military spending.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:07 UTC"
+    },
+    {
+      "title": "Şiirlerinde İstanbul'u ve tarihi yaşatan usta şair: Yahya Kemal Beyatlı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/kultur/siirlerinde-istanbulu-ve-tarihi-yasatan-usta-sair-yahya-kemal-beyatli/4107256",
+      "summary": "\"Kendi Gök Kubbemiz\" ve \"Aziz İstanbul\"un da aralarında bulunduğu çok sayıda kitabı Türk edebiyatına kazandıran usta şair ve yazar Yahya Kemal Beyatlı'nın vefatının üzerinden 68 yıl geçti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:05 UTC"
+    },
+    {
+      "title": "Suriye Dışişleri Bakanı, Mekke Ortak Savunma Anlaşması'na katılım için görüşmelerin sürdüğünü söyledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/suriye-disisleri-bakani-mekke-ortak-savunma-anlasmasina-katilim-icin-gorusmelerin-surdugunu-soyledi/4107255",
+      "summary": "Suriye Dışişleri Bakanı Şeybani, ülkesinin Mekke Ortak Savunma Anlaşması'na katılımını değerlendirmek üzere görüşmelerin sürdüğünü belirterek, Türkiye ile olan ilişkilerin siyasi, ekonomik ve askeri alanlarda üst düzeyde seyrettiğini belirtti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:04 UTC"
+    },
+    {
+      "title": "UFC champion Islam Makhachev says his next fight will be ‘one of last’",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/islam-makhachev-ufc-welterweight-title-one-of-last-fight-prates-morales?traffic_source=rss",
+      "summary": "Makhachev, one of the best fighters in UFC history, wants to face the winner of next year's Prates vs Morales fight.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 11:02 UTC"
+    },
+    {
+      "title": "Kilo vermede medikal yönteme başvuran iki sağlık çalışanı fazla kilolarından kurtuldu",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/kilo-vermede-medikal-yonteme-basvuran-iki-saglik-calisani-fazla-kilolarindan-kurtuldu/4107254",
+      "summary": "Ümraniye Eğitim ve Araştırma Hastanesi'nde fazla kilo nedeniyle tedavi gören asistan doktor Ezgi Renkli Çelik, 9 ayda 50 kilo, hemşire Yasemin Özer ise 1 yılda 30 kilo verdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 10:59 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan: Sağlıkta yerli üretim modeliyle tıbbi cihaz ve ekipmanlarımızı artık biz üretiyoruz",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-saglikta-yerli-uretim-modeliyle-tibbi-cihaz-ve-ekipmanlarimizi-artik-biz-uretiyoruz/4107253",
+      "summary": "Cumhurbaşkanı Erdoğan, \"Yatırımlarımızla, teşviklerimizle sağlık altyapımızı güçlendirmek için yoğun gayret sarf ediyoruz. Sağlıkta yerli üretim modeliyle tıbbi cihaz ve ekipmanlarımızı dışarıdan almak yerine artık biz üretiyoruz.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 10:58 UTC"
+    },
     {
       "title": "Annesinin hastalığı sayesinde erkeklerde de görülen meme kanserini erken fark etti",
       "image": "",
@@ -29,6 +200,33 @@
       "published_at": "2026-10-31 10:54 UTC"
     },
     {
+      "title": "YÖK üniversitelerde haftanın öne çıkan çalışmalarını paylaştı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/yok-universitelerde-haftanin-one-cikan-calismalarini-paylasti/4107249",
+      "summary": "Yükseköğretim Kurulu (YÖK), üniversitelerde sağlık teknolojileri, kimya, yapay zeka uygulamaları, deniz ekosisteminin korunması, sürdürülebilir tarım gibi birçok alanda haftanın öne çıkan çalışmalarını paylaştı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 10:53 UTC"
+    },
+    {
+      "title": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss",
+      "summary": "Four planes transporting evacuees from the war-ravaged city have arrived in Belarus's Gomel.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 10:53 UTC"
+    },
+    {
+      "title": "Swiss commentary on Israeli Olympic bobsleigh team termed ‘discriminatory’",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/swiss-commentary-on-israeli-olympic-bobsleigh-team-termed-discriminatory?traffic_source=rss",
+      "summary": "Criticism of Israel's captain Adam Edelman at Winter Olympics breached discrimination rules, Swiss complaints body says.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 10:49 UTC"
+    },
+    {
       "title": "\"Türk Dünyası Diyalog Forumu\" kapsamında \"Küresel Dönüşüm Çağında Türk Dünyasının Jeopolitik Rolü\" Paneli düzenlendi",
       "image": "",
       "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-kuresel-donusum-caginda-turk-dunyasinin-jeopolitik-rolu-paneli-duzenlendi/4107244",
@@ -36,15 +234,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 10:45 UTC"
-    },
-    {
-      "title": "Tarımda 2027 üretim yılı biyolojik ve biyoteknik mücadele destekleri belirlendi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/tarimda-2027-uretim-yili-biyolojik-ve-biyoteknik-mucadele-destekleri-belirlendi/4107238",
-      "summary": "Bitkisel üretimde 2027 yılında sağlanacak biyolojik ve biyoteknik mücadele destek tutarları belli oldu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 10:39 UTC"
     },
     {
       "title": "How Ambani’s Jio became India’s second-largest company",
@@ -83,6 +272,15 @@
       "published_at": "2026-10-31 10:32 UTC"
     },
     {
+      "title": "Piyasalarda geçtiğimiz haftanın görünümü - Borsa Gundem",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VVTIwZk56OFp6ZlU4Z0FOR3lhVXAzSUlrT013ZzYteTQyTHJLaDhwemtOUTVPVUl1NmlEbkxxd21OYVJWQmtIRllNNnNlYzU5d0NPWEZUMzduMHpVbFdGV0tTQndsQi1nc1hNeWlYS1dKbEVtbUQxcnUzQkRtZw?oc=5",
+      "summary": "Piyasalarda geçtiğimiz haftanın görünümü Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-31 10:30 UTC"
+    },
+    {
       "title": "Sınavsız müdür ve müdür yardımcısı atamalarına 3 yıl şartı getirildi",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/sinavsiz-mudur-ve-mudur-yardimcisi-atamalarina-3-yil-sarti-getirildi-961817.html",
@@ -90,6 +288,15 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 10:28 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan: Değerlerimiz yaşatmak üzerine kurulu",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-degerlerimiz-yasatmak-uzerine-kurulu-961815.html",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Tıp ve hekimlik bizim için hayati bir öneme sahiptir. Bizim inanç değerlerimiz yaşamak ve yaşatmak üzerine kuruludur\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 10:26 UTC"
     },
     {
       "title": "‘Paycheck to paycheck’: Texas border voters shed parties amid economic woes",
@@ -108,24 +315,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 10:23 UTC"
-    },
-    {
-      "title": "Rekabet Kurumu fındık sektörüne yönelik sıkı takibini sürdürüyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/rekabet-kurumu-findik-sektorune-yonelik-siki-takibini-surduruyor/4107232",
-      "summary": "Rekabet Kurumu Başkanı Birol Küle, \"Fındık alım-satım pazarının önde gelen 6 büyük teşebbüsü hakkında ciddi rekabet ihlali şüphesiyle 22 Ekim'de soruşturma açtık.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 10:22 UTC"
-    },
-    {
-      "title": "Emine Erdoğan'dan Türk Devletleri Teşkilatı 13. Zirvesi'ne ilişkin paylaşım",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/emine-erdogandan-turk-devletleri-teskilati-13-zirvesine-iliskin-paylasim/4107224",
-      "summary": "Emine Erdoğan, Türk Devletleri Teşkilatı (TDT) 13. Zirvesi'ne ilişkin paylaşım yaptı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 10:17 UTC"
     },
     {
       "title": "EPDK meskenlere yönelik elektrik tüketim limitinde değişikliğe gitti",
@@ -153,15 +342,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 10:12 UTC"
-    },
-    {
-      "title": "COP31 alanı Türkiye'nin en büyük açık hava sahnesi olacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/cop31-alani-turkiyenin-en-buyuk-acik-hava-sahnesi-olacak/4107218",
-      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Antalya'daki COP31 alanının tamamını COPArt Projesi kapsamında aynı zamanda açık ve kapalı sanat galerisi olarak kullanacak.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 10:10 UTC"
     },
     {
       "title": "Soykırımcı İsrail'in saldırıları altındaki Gazze'de can kaybı 74 bin 594'e yükseldi",
@@ -209,13 +389,13 @@
       "published_at": "2026-10-31 10:00 UTC"
     },
     {
-      "title": "İran basını: Keşm Adası'na yakın bölgede 2 balıkçı teknesi \"düşman\" saldırısına uğradı",
+      "title": "Milli Savunma Bakanlığı, Türk Yıldızları'nın Ankara uçuşundan görüntü paylaştı",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasina-yakin-bolgede-2-balikci-teknesi-dusman-saldirisina-ugradi/4107209",
-      "summary": "İran basını, Hürmüz Boğazı’nda yer alan Keşm Adası’nın güneyinde \"düşman\" insansız hava aracının (İHA) 2 balıkçı teknesine saldırdığını, 2 balıkçının yaralandığını, 2 kişinin kayıp olduğunu bildirdi.",
+      "link": "https://www.aa.com.tr/tr/gundem/milli-savunma-bakanligi-turk-yildizlarinin-ankara-ucusundan-goruntu-paylasti/4107206",
+      "summary": "Milli Savunma Bakanlığı (MSB), Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları'nın, Türk Devletleri Medeniyet Parkı'nın açılış törenindeki selamlama uçuşundan görüntü paylaştı.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 09:56 UTC"
+      "published_at": "2026-10-31 09:52 UTC"
     },
     {
       "title": "Liverpool vs Arsenal: Premier League – Predictions, news, teams, lineups",
@@ -227,15 +407,6 @@
       "published_at": "2026-10-31 09:47 UTC"
     },
     {
-      "title": "Bakan Memişoğlu: En geç 2027'nin başında TÜSEB'den robotik cerrahi cihazı için çağrıya çıkacağız",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-en-gec-2027nin-basinda-tusebden-robotik-cerrahi-cihazi-icin-cagriya-cikacagiz/4107204",
-      "summary": "Sağlık Bakanı Kemal Memişoğlu, \"En geç 2027'nin başında TÜSEB'den robotik cerrahi cihazı için çağrıya çıkacağız. Dünyaya 'Gelin beraber üretelim bunu' diyeceğiz.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 09:45 UTC"
-    },
-    {
       "title": "İstanbul'daki kara para aklama soruşturmasında 2 şüpheli daha tutuklandı",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/istanbuldaki-kara-para-aklama-sorusturmasinda-2-supheli-daha-tutuklandi-961811.html",
@@ -245,24 +416,6 @@
       "published_at": "2026-10-31 09:45 UTC"
     },
     {
-      "title": "Kültür Yolu Festivalleri ile yerel lezzetler yıl boyunca tanıtılacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/kultur-yolu-festivalleri-ile-yerel-lezzetler-yil-boyunca-tanitilacak/4107202",
-      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, \"Her şehirde, özellikle lezzet konusunda iyi olan ama şehrin kültürüne uygun eski reçetelere menüsünde yer veren restoranları tespit ediyoruz.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 09:44 UTC"
-    },
-    {
-      "title": "48. İstanbul Maratonu yarın koşulacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/48-istanbul-maratonu-yarin-kosulacak/4107200",
-      "summary": "Türkiye İş Bankası 48. İstanbul Maratonu, yarın gerçekleştirilecek. Dünyanın kıtalar arasında koşulan tek maratonu olma özelliğini taşıyan organizasyona 143 ülkeden 45 bin 679 kişi kayıt yaptırdı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 09:40 UTC"
-    },
-    {
       "title": "Altın Fiyatlarında Düşüş! Afyonkarahisar’da Gram ve Çeyrek Altın Ne Kadar Oldu? - Afyon Türkeli Gazetesi",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZV9QLXlLUDFrWjNEUkRDOVFaSXN4UmZkY2RvNThuS0c4akxJU1FIZ29QZFZpUkhaOE5MWHoxYVhqanVXb2d0Tjl0MEpGU2gyRE5BdXF6c3A4WXBUN3VqakRDYUNzRVI2RzlhQ0VaaF82NFRQa0ZiU2taRm1OcVpTZ2lqZ0xldnNENkFKQ3JPcUpLaElsYU5pWEE0T2pSQ1JfWVE0VjdVUGFuSU5wQW5QYmg4aE55bEdKSm1jLQ?oc=5",
@@ -270,15 +423,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-31 09:39 UTC"
-    },
-    {
-      "title": "37. Ankara Film Festivali sinemaseverleri dünya sinemasının seçkin yapımlarıyla buluşturacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/37-ankara-film-festivali-sinemaseverleri-dunya-sinemasinin-seckin-yapimlariyla-bulusturacak/4107198",
-      "summary": "Bu yıl 37'ncisi düzenlenecek Ankara Film Festivali, 12-20 Kasım'da Kızılay Büyülü Fener Sineması'nda ulusal ve uluslararası sinemanın seçkin örneklerini, yapay zeka odaklı etkinlikleri ve önemli isimleri sanatseverlerle buluşturacak.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 09:38 UTC"
     },
     {
       "title": "Rival US and Russian resolutions on Western Sahara fail at UN",
@@ -353,49 +497,13 @@
       "published_at": "2026-10-31 09:05 UTC"
     },
     {
-      "title": "Yerli aşı ve tıbbi cihazda yerli hamle",
+      "title": "Altın Ve Borsa Kaybettirirken Dolar Kaç TL Oldu? - N Haber İzmir",
       "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/yerli-asi-ve-tibbi-cihazda-yerli-hamle-961806.html",
-      "summary": "Türkiye, sağlık teknolojilerinde yerlileşme adımlarını hızlandırıyor. Gelecek yıl aşı ve biyoteknolojik ilaç projeleri desteklenirken, yerli kanser tanı kitleri geliştirilecek ve yenilikçi tıbbi cihazların ticarileşmesinde kamu alımları kaldıraç olarak kullanılacak.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 08:57 UTC"
-    },
-    {
-      "title": "A UN protection force must be urgently deployed to Palestine",
-      "image": "",
-      "link": "https://www.aljazeera.com/opinions/2026/10/31/a-un-protection-force-must-be-urgently-deployed-to-palestine?traffic_source=rss",
-      "summary": "Israel is making Palestinian existence in Palestine increasingly impossible.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 08:57 UTC"
-    },
-    {
-      "title": "Türkiye'nin fiber altyapısı 720 bin kilometreyi aştı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-fiber-altyapisi-720-bin-kilometreyi-asti-961805.html",
-      "summary": "Türkiye'de işletmecilerin 1 yılda yaptığı 82 bin kilometre fiber altyapı yatırımıyla toplam fiber uzunluğu yüzde 12,9 artış göstererek 2026 yılının ikinci çeyreği itibarıyla 720 bin 12 kilometreye yükseldi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 08:54 UTC"
-    },
-    {
-      "title": "Türkiye'nin yüksek teknolojiye yatırımı katlandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-yuksek-teknolojiye-yatirimi-katlandi-961804.html",
-      "summary": "Milli Teknoloji Hamlesi ile ivme kazanan yüksek teknoloji ARGE harcamaları, son 10 yılda yaklaşık 45 kat artarak 154 milyar liraya ulaştı. İmalat sanayisindeki ARGE harcamalarında aslan payını alan yüksek teknoloji, Türkiye'nin 2,5 trilyon liralık 10 yıllık ARGE atılımının lokomotifi oldu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 08:49 UTC"
-    },
-    {
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 08:49 UTC"
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTcwSzZQNUFmc1VlMVJBc2tCLXUwdWJZMXdaVUY5QVpLckVwbkVTM2VuRzlDZlNuQWlYODhsb3FaeW1jR2QxRDBvTlVObHR1WnlSSWJnanFBcXAtR3NGNWNNNGZqYVhtalpKbGh0U1dJZ3MyS3huaGNONGFNQ1RTLU1xMXE4NS1yOHhpdVJUaw?oc=5",
+      "summary": "Altın Ve Borsa Kaybettirirken Dolar Kaç TL Oldu? N Haber İzmir",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-31 09:04 UTC"
     },
     {
       "title": "Trump döneminde ABD'nin göç politikası nasıl değişti?",
@@ -407,15 +515,6 @@
       "published_at": "2026-10-31 08:48 UTC"
     },
     {
-      "title": "Ankara Devlet Tiyatrosu'nun yeni sezonda hedefi 500 bini aşkın seyirciye ulaşmak",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/kultur-sanat/ankara-devlet-tiyatrosunun-yeni-sezonda-hedefi-500-bini-askin-seyirciye-ulasmak-961803.html",
-      "summary": "Ankara Devlet Tiyatrosu, yeni sezonda 15 oyunun prömiyerini gerçekleştirerek, 500 binin üzerinde seyirciye ulaşmayı hedefliyor. Atatürk'ün Kurtuluş Savaşı öncesindeki yaşamı \"Koza\" ile sahneye taşınacak, Türkistan'dan Balkanlar'a uzanan hikaye \"Geçit\" oyunuyla anlatılacak.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 08:47 UTC"
-    },
-    {
       "title": "Suriye'de geçim krizi: 'Nüfusun önemli kısmı Esad dönemine kıyasla daha kötü durumda'",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/acad/live/bd8904b0-d20c-11f1-b3b6-c1e79e957e40.jpg",
       "link": "https://www.bbc.com/turkce/articles/cwy8l23nylm0o?at_medium=RSS&at_campaign=rss",
@@ -423,15 +522,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 08:40 UTC"
-    },
-    {
-      "title": "Chelsea vs Manchester United: LIVE – Premier League",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/31/chelsea-vs-manchester-united-live-premier-league?traffic_source=rss",
-      "summary": "Follow updates with build-up and team news coverage from our live text commentary stream, as Bruno Fernandes headlines.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 08:30 UTC"
     },
     {
       "title": "AMB Başkanı Lagarde'ın halefini \"Fransa krizi\" bekliyor",
@@ -443,30 +533,12 @@
       "published_at": "2026-10-31 08:27 UTC"
     },
     {
-      "title": "Dead dolphins, naval mines: Russia-Ukraine war destroys the Black Sea",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/31/dead-dolphins-naval-mines-russia-ukraine-war-destroys-the-black-sea?traffic_source=rss",
-      "summary": "Conflict devastates Black Sea marine life, killing more than 120,000 dolphins and causing ecological damage.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 08:27 UTC"
-    },
-    {
       "title": "ECB'de Lagarde dönemi sona yaklaşırken, halefini faiz değil \"Fransa krizi\" bekliyor - Anadolu Ajansı",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR2tmTzViRm5oTWhXWlJhbzZockNDYWpLSDNJT0NFUnM5b2tSM1pVMnJVaW9kYmlWLWxGRE93WlpkUVpYdENnaVlHRHg2QVlzR092Tjc4X3pHTDNsakpkeW83NzhnalJLWGl5SWc3QVhLQUswZkVtNFlVWVBtcHl2NmNxVWt4WVN2MEJJaXJvWUtnMmV1SlBPY1h3bXNkQlU2WDBvR2ZBX25JMGtldDBHejNHRTYwUVhTTVZMQg?oc=5",
       "summary": "ECB'de Lagarde dönemi sona yaklaşırken, halefini faiz değil \"Fransa krizi\" bekliyor Anadolu Ajansı",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-31 08:15 UTC"
-    },
-    {
-      "title": "Türkiye ile Kuzey Makedonya arasında sağlık alanında mutabakat zaptı imzalandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-kuzey-makedonya-arasinda-saglik-alaninda-mutabakat-zapti-imzalandi/4107122",
-      "summary": "Sağlık Bakanı Kemal Memişoğlu, Türkiye ile Kuzey Makedonya arasında sağlık alanındaki işbirliğini geliştirmek amacıyla \"Sağlık ve Tıp Bilimleri Alanında Mutabakat Zaptı\" imzalandığını bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 08:15 UTC"
     },
     {
@@ -486,60 +558,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-31 08:10 UTC"
-    },
-    {
-      "title": "RSF senior commander defects, accusing Sudan group’s leadership of nepotism",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/31/rsf-senior-commander-defects-accusing-sudan-groups-leadership-of-nepotism?traffic_source=rss",
-      "summary": "In exclusive footage obtained by Al Jazeera, Siddiq Ander describes RSF as a 'purely family-based project'.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 08:09 UTC"
-    },
-    {
-      "title": "Trabzonspor'un Gaziantep FK karşısında yenilgisi yok",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonsporun-gaziantep-fk-karsisinda-yenilgisi-yok/4107113",
-      "summary": "Trendyol Süper Lig'in 10. haftasında yarın sahasında Gaziantep FK ile karşılaşacak Trabzonspor, rakibi karşısında bugüne dek hiç yenilmeyerek iyi bir grafik gösterdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 08:08 UTC"
-    },
-    {
-      "title": "Are Houthis using Russian satellites as Saudi Arabia fends off strikes?",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss",
-      "summary": "Analysts say the seizure of state arsenals, external backing and extensive military evolution has helped the Houthis.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 08:08 UTC"
-    },
-    {
-      "title": "COP31'in Antalya turizmine katkısının 2027'de sürmesi bekleniyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/cop31in-antalya-turizmine-katkisinin-2027de-surmesi-bekleniyor/4107106",
-      "summary": "Akdeniz Turistik Otelciler ve İşletmeciler Birliği Başkanı Kaan Kaşif Kavaloğlu, \"Ülkemizde yapılan, olumlu sonuçlanan her pozitif etkinlik muhakkak 2027 yılına, önümüzdeki yıllara yansıyacaktır. COP31, bunun en güzel örneği olacak.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 08:06 UTC"
-    },
-    {
-      "title": "Hakimi’s hat-trick guides PSG to stunning 5-1 win at Le Havre in Ligue 1",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/31/achraf-hakimi-hattrick-ligue-1-psg-le-havre-football?traffic_source=rss",
-      "summary": "European champions PSG registered their sixth league victory and sit two points clear at top of the Ligue 1 standings.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 07:33 UTC"
-    },
-    {
-      "title": "US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss",
-      "summary": "The joint statement comes as US President Donald Trump seeks a new meeting with North Korean leader Kim Jong Un.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 07:20 UTC"
     },
     {
       "title": "Türk markalarının rekabet gücünü artıracak destekler devrede",
@@ -623,7 +641,7 @@
       "published_at": "2026-10-31 02:54 UTC"
     },
     {
-      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "title": "The fight to save Canadian town threatened by Trump's tariffs",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
       "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
@@ -711,6 +729,15 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-30 21:27 UTC"
+    },
+    {
+      "title": "ENFLASYON RAKAMLARI 2026 EKİM AYI BEKLENTİSİ | TÜİK enflasyon rakamları ne zaman açıklanacak, saat kaçta? Enflasyon beklentisi nedir? Merkez Bankası enflasyon tahmini belli oldu! - Bigpara",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRnFXTUNKRWx3YUh3X2ExVHZqdkJwNUlLcXprbEpBRW5YbU5YYkdBTk0zVXQ5ZjdwY21HU3FiZ2tybmFub2JOTFZMSnJ4QzhOalNIQlBmb1dKVFlMa1k3cHc2TDJneWdVamFLSjlkVWlBbW1rMmlCU09hSU1EZThLdVFwSVpKX1poa2MyVVNSZkE5TjNLUTg5dUplTnFBWWxXQkRfUC1wOXZjLTUwX0xnRkRpRjB2MGoxQjVjVjdxY0FtbmEzNUJMWmEyY3dWcGEwTWNNOTNLZlJNT29UM3BMa0RVQzdTVG9SUzhHd1dzR3UtaWEzaEhGYnpNaE9WOVVycFdNd3huWG9fWFRZdEE?oc=5",
+      "summary": "ENFLASYON RAKAMLARI 2026 EKİM AYI BEKLENTİSİ | TÜİK enflasyon rakamları ne zaman açıklanacak, saat kaçta? Enflasyon beklentisi nedir? Merkez Bankası enflasyon tahmini belli oldu! Bigpara",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-30 21:20 UTC"
     },
     {
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
@@ -873,33 +900,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-30 14:57 UTC"
-    },
-    {
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 14:48 UTC"
-    },
-    {
-      "title": "Goldman, Çek Merkez Bankası faiz görüşünü enflasyon riskleri nedeniyle yükseltti - Investing.com Türkiye",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQTNkdkhIeHNWdDlmeVZndU9INUQzQzN1Q1kwNGZBNG1vZk0wbjVsbEZKT3ByTUlENzA2ZTJwbUR4d1ZoYlB6RnI3Yk8xMDlMaTVzVm8yYl9YUUxzN0YzeVREck9nMGl4SU45VnpoenNxeHRLTGYyUWZQNThwT28xb1lPZ2NhMmR0eVFFSHV3QnNZamx1MkdpSDlIRlN2SUctenh0MUJNd0xheUF4RVpPcXlHWEh5akJjM2hZdU9BNjAyMjNIWWFqT25CSU80ZFU?oc=5",
-      "summary": "Goldman, Çek Merkez Bankası faiz görüşünü enflasyon riskleri nedeniyle yükseltti Investing.com Türkiye",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 11:58 UTC"
-    },
-    {
-      "title": "TCMB rezervleri 4 ayın en düşük seviyesinde - Bloomberght",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZU55U0tsYlZZRzhqY1JjRHppbGkyUnNPRURaMEQwQjAzWkIxeWpvVF9Lc2NseDFmckwzNVdhX1JRc1lTVkNXQkFmU01BajBXOHpQUFJXbGxCajlkMHgxSjVxY2VIS3BvYTR1amhSZmJqVkZrVEY2NmlWc091U0dxcGZLNXYtdw?oc=5",
-      "summary": "TCMB rezervleri 4 ayın en düşük seviyesinde Bloomberght",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-30 11:49 UTC"
     }
   ]
 }
