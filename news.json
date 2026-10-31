@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-31 04:34 UTC",
+  "updated_at": "2026-10-31 05:30 UTC",
   "items": [
+    {
+      "title": "Mohammed Deif, rare footage and October 7 documents",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss",
+      "summary": "Rare footage obtained by Al Jazeera offers a look at the life of former Hamas military commander, Mohammed Deif.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 05:07 UTC"
+    },
+    {
+      "title": "Trump tells voters to send El-Sayed ‘back to where he came from’",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/trump-tells-voters-to-send-el-sayed-back-to-where-he-came?traffic_source=rss",
+      "summary": "Speaking at a campaign rally, Donald Trump told voters to send Michigan’s Abdul El-Sayed ‘back to where he came from’.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 05:07 UTC"
+    },
+    {
+      "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
+      "summary": "Deal would be one of the most significant steps to supply defensive weapons to Kyiv since ​Trump took office in 2025.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 04:51 UTC"
+    },
+    {
+      "title": "US jails two Chinese nationals for spying",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/31/us-jails-two-chinese-nationals-for-spying?traffic_source=rss",
+      "summary": "Liren Lai and Yuance Chen admitted to facilitating 'dead drop' cash payments worth at least $30,000 to people in the US.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 04:41 UTC"
+    },
     {
       "title": "Bir askerimiz şehit oldu",
       "image": "",
@@ -38,9 +74,9 @@
       "published_at": "2026-10-31 03:42 UTC"
     },
     {
-      "title": "Edirne'de tur otobüsüyle tırın çarpıştığı kazada 10 kişi yaralandı",
+      "title": "Edirne'de tur otobüsüyle tır çarpıştı: 10 kişi yaralandı",
       "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/edirnede-tur-otobusuyle-tirin-carpistigi-kazada-10-kisi-yaralandi-961784.html",
+      "link": "https://www.trthaber.com/haber/turkiye/edirnede-tur-otobusuyle-tir-carpisti-10-kisi-yaralandi-961784.html",
       "summary": "Edirne'de yabancı turistleri taşıyan tur otobüsüyle tırın çarpışması sonucu 10 kişi yaralandı.",
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
@@ -90,6 +126,15 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 02:44 UTC"
+    },
+    {
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 02:39 UTC"
     },
     {
       "title": "Poland’s president joins protest amid constitutional crisis at top court",
@@ -200,24 +245,6 @@
       "published_at": "2026-10-31 00:02 UTC"
     },
     {
-      "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
-      "summary": "IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will 'get wrapped up soon'.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 00:00 UTC"
-    },
-    {
-      "title": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss",
-      "summary": "Al Jazeera spoke to fans attending Macklemore’s ‘Free Palestine’ concert after he was dropped from Ed Sheeran’s tour.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 23:39 UTC"
-    },
-    {
       "title": "Arap Koalisyonu: Suudi Arabistan'a yönelik İHA saldırısı önlendi",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistana-yonelik-iha-saldirisi-onlendi/4106999",
@@ -225,24 +252,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 23:25 UTC"
-    },
-    {
-      "title": "Polish police deployed to top court after head judge suspended",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
-      "summary": "Judge's suspension is part of a long dispute over politicisation of the Constitutional Tribunal under former government.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 23:19 UTC"
-    },
-    {
-      "title": "Why AI could threaten much of the world’s digital infrastructure",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
-      "summary": "Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 23:13 UTC"
     },
     {
       "title": "Türkiye, Feridun Sinirlioğlu'nu BM Genel Sekreterliği için aday gösterdi",
@@ -729,15 +738,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-30 15:54 UTC"
-    },
-    {
-      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe5/live/560bc7b0-d454-11f1-a701-fddedf244c16.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 15:17 UTC"
     },
     {
       "title": "Spain transport minister says he won't resign over high-speed rail disaster",
