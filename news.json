@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-10-31 21:00 UTC",
+  "updated_at": "2026-10-31 21:59 UTC",
   "items": [
+    {
+      "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
+      "summary": "Data scientists find that many 'likely non-citizens' identified by the Trump administration were erroneously flagged.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 21:38 UTC"
+    },
+    {
+      "title": "Atama ve görevden alma kararları Resmi Gazete'de",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-961849.html",
+      "summary": "Bazı bakanlıklara ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 21:35 UTC"
+    },
+    {
+      "title": "SPK Başkanlığına Muhsin Atcı atandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/spk-baskanligina-muhsin-atci-atandi/4107676",
+      "summary": "Sermaye Piyasası Kurulu (SPK) Başkanlığına, Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 21:29 UTC"
+    },
+    {
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d3a/live/6230e120-d570-11f1-93e1-3b657b665bcf.jpg",
+      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 21:29 UTC"
+    },
+    {
+      "title": "Atama ve görevden alma kararları Resmi Gazete'de",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede/4107675",
+      "summary": "Bazı bakanlıklara ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 21:24 UTC"
+    },
+    {
+      "title": "Resmi Gazete'de bugün (01.11.2026)",
+      "image": "https://geoim.bloomberght.com/l/2026/11/01/ver1793481561/3792995/jpg/320x180",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-01112026-3792995",
+      "summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-31 21:16 UTC"
+    },
+    {
+      "title": "Fiery confrontations between protestors and police in Albania",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+      "summary": "Fiery confrontations between protestors and police in Albania",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 21:12 UTC"
+    },
+    {
+      "title": "SPK Başkanlığına Muhsin Atcı atandı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/spk-baskanligina-muhsin-atci-atandi-961847.html",
+      "summary": "Resmi Gazete'de yayımlanan atama kararına göre, Sermaye Piyasası Kurulu SPK Başkanlığına Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 21:08 UTC"
+    },
+    {
+      "title": "SPK Başkanlığına Muhsin Atcı atandı",
+      "image": "https://geoim.bloomberght.com/l/2026/11/01/ver1793483084/3792994/jpg/320x180",
+      "link": "https://www.bloomberght.com/spk-baskanligi-na-muhsin-atci-atandi-3792994",
+      "summary": "Resmi Gazete'de yayımlanan atama kararlarına göre, Sermaye Piyasası Kurulu (SPK) Başkanlığına Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-10-31 21:06 UTC"
+    },
+    {
+      "title": "Bakan Fidan: Rusya ve Ukrayna bir anlaşmaya varmak zorunda",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-rusya-ve-ukrayna-bir-anlasmaya-varmak-zorunda-961848.html",
+      "summary": "Dışişleri Bakanı Hakan Fidan, RusyaUkrayna Savaşı'na ilişkin, \"Bu savaş başlayalı yaklaşık 5 yıl olmuş. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak zorundalar\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 21:03 UTC"
+    },
+    {
+      "title": "Dışişleri Bakanı Fidan: Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak zorundalar",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-rusya-ve-ukrayna-buyuk-bir-fedakarlikta-bulunarak-bir-anlasmaya-varmak-zorundalar/4107662",
+      "summary": "Dışişleri Bakanı Hakan Fidan, Rusya-Ukrayna Savaşı'na ilişkin, \"Bu savaş başlayalı yaklaşık 5 yıl olmuş. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak zorundalar.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 21:02 UTC"
+    },
+    {
+      "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+      "summary": "The two individuals have been isolated while officials carry out contact tracing and laboratory testing.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 21:01 UTC"
+    },
     {
       "title": "\"Kültür-Sanatın İzinde: Etkinlikten Hafızaya\" programı \"Sonuç Raporu\" oturumuyla tamamlandı",
       "image": "",
@@ -9,6 +117,15 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 20:54 UTC"
+    },
+    {
+      "title": "Katil Netanyahu'ya karşı mecliste güç birliği",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/katil-netanyahuya-karsi-mecliste-guc-birligi-961846.html",
+      "summary": "Yashar Partisi lideri Gadi Eisenkot, Arap partilerinin de desteğiyle elde ettikleri meclis çoğunluğunu katil Netanyahu hükümetine karşı derhal kullanacaklarını açıkladı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 20:40 UTC"
     },
     {
       "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
@@ -108,15 +225,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 19:45 UTC"
-    },
-    {
-      "title": "Clashes erupt between police and protesters in Paris",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9670/live/78247d30-d560-11f1-93e1-3b657b665bcf.jpg",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "summary": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 19:37 UTC"
     },
     {
       "title": "63. Uluslararası Antalya Altın Portakal Film Festivali'nde ödüller verildi",
@@ -227,15 +335,6 @@
       "published_at": "2026-10-31 18:46 UTC"
     },
     {
-      "title": "Rubio, Türkiye'nin Karadeniz'de tahıl sevkiyatı için ateşkes teklifini değerlendirdiklerini söyledi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/rubio-turkiyenin-karadenizde-tahil-sevkiyati-icin-ateskes-teklifini-degerlendirdiklerini-soyledi/4107606",
-      "summary": "ABD Dışişleri Bakanı Rubio, uluslararası toplumun Karadeniz'de tahıl sevkiyatına ilişkin kısmi bir ateşkes sağlanmasına yönelik ilgisinin arttığını belirterek, Türkiye'nin bu yöndeki teklifini değerlendirdiklerini söyledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 18:42 UTC"
-    },
-    {
       "title": "Ukrayna Devlet Başkanı Zelenskiy Fener Rum Patrikhanesi'ni ziyaret etti",
       "image": "",
       "link": "https://www.aa.com.tr/tr/gundem/ukrayna-devlet-baskani-zelenskiy-fener-rum-patrikhanesini-ziyaret-etti/4107602",
@@ -281,15 +380,6 @@
       "published_at": "2026-10-31 18:20 UTC"
     },
     {
-      "title": "Fenerbahçe, öne geçtiği müsabakada Göztepe'ye mağlup",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-one-gectigi-musabakada-goztepeye-maglup/4107590",
-      "summary": "Trendyol Süper Lig'in 10. haftasında Göztepe, deplasmanda Fenerbahçe karşısında ilk yarısını geride tamamladığı mücadeleden 2-1 galip ayrıldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 18:07 UTC"
-    },
-    {
       "title": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67b0/live/c08b4a50-d550-11f1-bcb7-8f812b44c2e5.jpg",
       "link": "https://www.bbc.com/turkce/articles/cqz0vjm7rjedo?at_medium=RSS&at_campaign=rss",
@@ -306,15 +396,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 17:54 UTC"
-    },
-    {
-      "title": "BM Genel Sekreterliğine aday gösterilen Sinirlioğlu, vizyon belgesinde hedeflerini açıkladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreterligine-aday-gosterilen-sinirlioglu-vizyon-belgesinde-hedeflerini-acikladi/4107585",
-      "summary": "Türkiye'nin BM Genel Sekreterliği için aday gösterdiği Sinirlioğlu, kaleme aldığı vizyon belgesinde çatışmaların önlenmesi, uluslararası işbirliğinin güçlendirilmesi ve BM'nin daha etkin bir yapıya kavuşturulmasına yönelik hedeflerini ortaya koydu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 17:53 UTC"
     },
     {
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
@@ -353,15 +434,6 @@
       "published_at": "2026-10-31 17:48 UTC"
     },
     {
-      "title": "Michigan Muslims helped elect Trump. Now their faith is under fire",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss",
-      "summary": "Michigan Muslims helped elect Trump. Now their faith is under fire",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 17:38 UTC"
-    },
-    {
       "title": "Borsa İstanbul Genel Müdürü gözaltında - Borsa Gundem",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MQ2wyYkZDTkxHSk9YQWJSOVhjSlNBbnU1NVRtcW9JY2d5UTB6YzA2dGdpQWZqZTU3QzR4RUZHRzlUT1p5R01uNG5mWmFja3J2a2xsRGN4aDVtcllHWnhoU2pocEc4UjZJTHpqOXdXekhTR1dzTFRFTw?oc=5",
@@ -371,15 +443,6 @@
       "published_at": "2026-10-31 17:33 UTC"
     },
     {
-      "title": "Brighton shock Man City, closing gap on Premier League leader to two points",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/31/brighton-shock-man-city-closing-gap-on-premier-league-leader-to-two-points?traffic_source=rss",
-      "summary": "Yasin Ayari goal hands third-placed Brighton 1-0 win at Manchester City, with two points separating top three in EPL.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 17:32 UTC"
-    },
-    {
       "title": "Trump, G20 Zirvesi öncesinde RusyaUkrayna barış anlaşması konusunda umutlu",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/trump-g20-zirvesi-oncesinde-rusya-ukrayna-baris-anlasmasi-konusunda-umutlu-961838.html",
@@ -387,15 +450,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 17:31 UTC"
-    },
-    {
-      "title": "Jerusalem Daily: Who will form Israel’s next government?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
-      "summary": "Netanyahu and Eisenkot are locked in a struggle to form a governing coalition in the Knesset.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 17:29 UTC"
     },
     {
       "title": "Fon soruşturmasında yeni gelişme: Borsa İstanbul Genel Müdürü Ergun gözaltına alındı",
@@ -506,15 +560,6 @@
       "published_at": "2026-10-31 16:00 UTC"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan: Barışa giden yolda elimizden gelen gayreti göstermeye hazırız",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-barisa-giden-yolda-elimizden-gelen-gayreti-gostermeye-haziriz-961834.html",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Ukrayna ve Rusya arasında ev sahipliği yaptığımız müzakereler, diplomasi yoluyla somut sonuçlar alınabileceğini göstermişti. Bugün geldiğimiz noktada da adil bir barışın kaybedeni olmaz diyoruz. Barışa giden yolu açmak için elimizden gelen her türlü gayreti göstermeye hazır olduğumuzu vurgulamak isterim\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 15:57 UTC"
-    },
-    {
       "title": "Şehit Piyade Sözleşmeli Er Yusuf Sait Ünlü son yolculuğuna uğurlandı",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/sehit-piyade-sozlesmeli-er-yusuf-sait-unlu-son-yolculuguna-ugurlandi-961835.html",
@@ -549,33 +594,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 14:28 UTC"
-    },
-    {
-      "title": "Soykırımcı İsrail'in ateşkese rağmen Gazze'deki saldırılarında 3 Filistinli hayatını kaybetti",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilin-ateskese-ragmen-gazzedeki-saldirilarinda-3-filistinli-hayatini-kaybetti-961833.html",
-      "summary": "Soykırımcı İsrail ordusunun Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 3 Filistinli hayatını kaybetti, çok sayıda kişi yaralandı; İsrail güçleri, Gazze Şeridi'nin orta kesimlerinde Filistinlilere ait evleri yıkmaya başladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 14:23 UTC"
-    },
-    {
-      "title": "İran Dışişleri Bakanı Arakçi: ABD makamları ile görüşme planımız yok",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-abd-makamlari-ile-gorusme-planimiz-yok-961832.html",
-      "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD makamları ile görüşme planlarının olmadığını ve görüşmeye ilişkin ortaya atılan iddiaların gerçeği yansıtmadığını söyledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 13:57 UTC"
-    },
-    {
-      "title": "112 Acil Çağrı Sisteminde yeni dönem",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/112-acil-cagri-sisteminde-yeni-donem-961831.html",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi, Cumhurbaşkanı Recep Tayyip Erdoğanın imzasıyla yayımlanan Cumhurbaşkanlığı Kararnamesi doğrultusunda, Bakanlık bünyesinde \"112 Acil Çağrı ve Koordinasyon Genel Müdürlüğü\"nün kurulduğunu duyurdu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 13:49 UTC"
     },
     {
       "title": "BM Genel Sekreterliği yarışında Türkiye'nin hamlesi ne anlama geliyor?",
@@ -756,24 +774,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-31 05:40 UTC"
-    },
-    {
-      "title": "Temettülerin verimi artıyor",
-      "image": "https://geoim.bloomberght.com/l/2026/10/31/ver1793424542/3792980/jpg/320x180",
-      "link": "https://www.bloomberght.com/temettulerin-verimi-artiyor-3792980",
-      "summary": "Fon kriziyle birlikte yaklaşık son bir yılın en düşük seviyelerine gerileyen Borsada, \"uzun vadeli alım zamanı geliyor mu?\" sorusu da yavaş yavaş dillendirilmeye başlıyor. Uzun vade denildiğinde de akla temettü hisseleri geliyor. Fiyatlardaki sert düşüşlerle birlikte yüzde 20'yi aşan temettü verimleri dikkat çekiyor.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-31 05:26 UTC"
-    },
-    {
-      "title": "Trump: Binance'e yönelik siber saldırıyı inceliyoruz",
-      "image": "https://geoim.bloomberght.com/l/2026/10/31/ver1793424100/3792979/jpg/320x180",
-      "link": "https://www.bloomberght.com/trump-binance-e-yonelik-siber-saldiriyi-inceliyoruz-3792979",
-      "summary": "ABD Başkanı Donald Trump, kripto para borsası Binance'e yönelik siber saldırının Kuzey Koreli bir hacker grubu tarafından gerçekleştirilip gerçekleştirilmediğini bilmediklerini, saldırıyı incelediklerini belirtti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-31 05:20 UTC"
     },
     {
       "title": "Piyasa alev aldı... Borsa İstanbul'da 39 yılın en uzun düşüş serisi - Nefes Gazetesi",
