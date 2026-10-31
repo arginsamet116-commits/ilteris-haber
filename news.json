@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-10-31 18:35 UTC",
+  "updated_at": "2026-10-31 19:29 UTC",
   "items": [
+    {
+      "title": "İzmir, Aydın ve Muğla için şiddetli yağış uyarısı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/izmir-aydin-ve-mugla-icin-siddetli-yagis-uyarisi-961842.html",
+      "summary": "Meteoroloji Genel Müdürlüğü, İzmir, Aydın ve Muğla için şiddetli yağış uyarısında bulundu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 19:01 UTC"
+    },
+    {
+      "title": "İsrail ordusu, El Halil'de sürdürdüğü kuşatma ve saldırılarla 3 bin 300 Filistinliyi yerinden etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-el-halilde-surdurdugu-kusatma-ve-saldirilarla-3-bin-300-filistinliyi-yerinden-etti/4107613",
+      "summary": "İsrail ordusunun, işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil kentine uyguladığı kuşatma ve saldırılarla 3 bin 300'ü aşkın Filistinliyi yerinden ettiği bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 19:00 UTC"
+    },
+    {
+      "title": "Suriye'nin başkenti Şam'da tarihi Süleymaniye Tekkesi restore edilerek yeniden açıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/suriyenin-baskenti-samda-tarihi-suleymaniye-tekkesi-restore-edilerek-yeniden-acildi/4107611",
+      "summary": "Suriye'nin başkenti Şam'da, Osmanlı padişahı Kanuni Sultan Süleyman tarafından Mimar Sinan'a yaptırılan tarihi Süleymaniye Tekkesi, restorasyon çalışmalarının tamamlanmasının ardından düzenlenen törenle yeniden açıldı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 18:54 UTC"
+    },
+    {
+      "title": "Zelenskiy: Ukrayna, Türkiye'de liderler düzeyinde üçlü toplantıları destekliyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-ukrayna-turkiyede-liderler-duzeyinde-uclu-toplantilari-destekliyor/4107610",
+      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Türkiye'nin liderler düzeyinde üçlü toplantılara ev sahipliği yapabileceğini belirterek, \"Ukrayna, Türkiye'de liderler düzeyinde üçlü toplantıları destekliyor.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 18:51 UTC"
+    },
+    {
+      "title": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/who-is-arafat-minhas-pakistan-crickets-rising-star-all-rounder?traffic_source=rss",
+      "summary": "A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 18:50 UTC"
+    },
+    {
+      "title": "London police arrest 48 as hundreds protest Palestine Action ban",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
+      "summary": "Demonstrations in London and Edinburgh come days before a UK Supreme Court appeal challenging the group's proscription.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 18:48 UTC"
+    },
+    {
+      "title": "Borsa, altın fiyatları, dolar: Haftalık görünüm - Platin Dergisi",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNnYtekRKdlAtOUNsZDlhMU1wNVdRazlYNHZqN1JzRUtJLU1HZllYYmxjclZ1eHkxSF83dzJkbjlrMVFZNDVmcnlFckM0VlBpX1BRRHZDOXFoU2hkUG50VkRHS3AtZmQ2Qy1pdGluWnQxOUVERWpqLVR2VHVra3NEV2tpclZ3Q0s3YnVRaEpzZ1JRaXN6?oc=5",
+      "summary": "Borsa, altın fiyatları, dolar: Haftalık görünüm Platin Dergisi",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-31 18:46 UTC"
+    },
+    {
+      "title": "Rubio, Türkiye'nin Karadeniz'de tahıl sevkiyatı için ateşkes teklifini değerlendirdiklerini söyledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/rubio-turkiyenin-karadenizde-tahil-sevkiyati-icin-ateskes-teklifini-degerlendirdiklerini-soyledi/4107606",
+      "summary": "ABD Dışişleri Bakanı Rubio, uluslararası toplumun Karadeniz'de tahıl sevkiyatına ilişkin kısmi bir ateşkes sağlanmasına yönelik ilgisinin arttığını belirterek, Türkiye'nin bu yöndeki teklifini değerlendirdiklerini söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 18:42 UTC"
+    },
+    {
+      "title": "Ukrayna Devlet Başkanı Zelenskiy Fener Rum Patrikhanesi'ni ziyaret etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/ukrayna-devlet-baskani-zelenskiy-fener-rum-patrikhanesini-ziyaret-etti/4107602",
+      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Fener Rum Patrikhanesi'ni ziyaret ederek Fener Rum Patriği Bartholomeos ile görüştü.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 18:39 UTC"
+    },
+    {
+      "title": "İstanbul Maratonu'nda 590 emniyet personeli görev yapacak",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbul-maratonunda-590-emniyet-personeli-gorev-yapacak-961841.html",
+      "summary": "İstanbul'da yarın düzenlenecek 48. İstanbul Maratonu kapsamında 590 emniyet personeli görev yapacak.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 18:35 UTC"
+    },
+    {
+      "title": "Evacuees of Russian-occupied Oleshky reunited with families",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
+      "summary": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 18:32 UTC"
+    },
+    {
+      "title": "Tension and clashes as hundreds of thousands protest again in France",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
+      "summary": "Authorities say 320,000 march on third consecutive weekend of demonstrations over cost of living and state of schools.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 18:28 UTC"
+    },
     {
       "title": "Fenerbahçe, öne geçtiği müsabakada Göztepe'ye mağlup",
       "image": "",
@@ -137,6 +245,15 @@
       "published_at": "2026-10-31 17:29 UTC"
     },
     {
+      "title": "Fon soruşturmasında yeni gelişme: Borsa İstanbul Genel Müdürü Ergun gözaltına alındı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-borsa-istanbul-genel-muduru-ergun-gozaltina-alindi-961837.html",
+      "summary": "Borsa İstanbul AŞ Genel Müdürü Korkmaz Enes Ergun, sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında \"suç işlemek amacıyla kurulan örgüte üye olma\" ve \"rüşvet\" iddiasıyla gözaltına alındı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-10-31 17:25 UTC"
+    },
+    {
       "title": "Pakistan beat Sri Lanka as Zaman’s century turns thrilling tri-series final",
       "image": "",
       "link": "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss",
@@ -245,15 +362,6 @@
       "published_at": "2026-10-31 16:39 UTC"
     },
     {
-      "title": "ABD'nin Moskova Büyükelçiliğinden Tsaritsıno Müze ve Park Alanı'na yönelik saldırı tehdidi uyarısı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abdnin-moskova-buyukelciliginden-tsaritsino-muze-ve-park-alanina-yonelik-saldiri-tehdidi-uyarisi/4107539",
-      "summary": "ABD'nin Moskova Büyükelçiliği, Rusya'nın başkenti Moskova'daki Tsaritsıno Müze ve Park Alanı'na çok sayıda kişinin hayatını kaybedebileceği bir saldırı düzenlenebileceği uyarısında bulundu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 16:38 UTC"
-    },
-    {
       "title": "İstanbul Emniyet Müdürlüğünden nezarethanelerde verilen kumanyalara ilişkin açıklama",
       "image": "",
       "link": "https://www.aa.com.tr/tr/gundem/istanbul-emniyet-mudurlugunden-nezarethanelerde-verilen-kumanyalara-iliskin-aciklama/4107534",
@@ -299,15 +407,6 @@
       "published_at": "2026-10-31 16:21 UTC"
     },
     {
-      "title": "Türk Dünyası Diyalog Forumu kapsamında Küresel Ağ, Ortak Kimlik: Türk Dünyası Diasporası paneli yapıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-kuresel-ag-ortak-kimlik-turk-dunyasi-diasporasi-paneli-yapildi/4107523",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından \"Türk Dünyası Diyalog Forumu\" kapsamında \"Küresel Ağ, Ortak Kimlik: Türk Dünyası Diasporası\" başlıklı panel düzenlendi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 16:21 UTC"
-    },
-    {
       "title": "Cisco Talos, VOLTA Bilgi Hırsızının Büyük Dil Modeliyle Kurbanları Sıralama Aşamasını Ayrıntılandırıyor - Unite.AI",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVVlycFdNR29zTWJqRHRYZm5VZ2wxTU5YeTYxNWdfSFJxWTVBZUFweVJJWUd0N09QQ1RVMXNCbXJJY2dDM2xIeFkzZW5xX3RxWEgzWnZhUXc2OC1YODc5R3djYjJUWEZxWnJ2SUhlT01NTk9vT3JadDBMUk1fLUdtaHY5RzFsSGVicEc0Q21ubWVOQQ?oc=5",
@@ -315,24 +414,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-10-31 16:21 UTC"
-    },
-    {
-      "title": "Meteorolojiden İzmir, Aydın ve Muğla için şiddetli yağış uyarısı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-izmir-aydin-ve-mugla-icin-siddetli-yagis-uyarisi-/4107506",
-      "summary": "Meteoroloji Genel Müdürlüğü, İzmir, Aydın ve Muğla için şiddetli yağış uyarısında bulundu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 16:13 UTC"
-    },
-    {
-      "title": "Zelenskiy: Cumhurbaşkanı Erdoğan ile Karadeniz Tahıl Koridoru üzerinde çalışmak konusunda mutabık kaldık",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-cumhurbaskani-erdogan-ile-karadeniz-tahil-koridoru-uzerinde-calismak-konusunda-mutabik-kaldik/4107497",
-      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, \"Bugün Erdoğan ile Karadeniz Tahıl Koridoru üzerinde çalışma konusunda mutabık kaldık. Amacımız bu koridorun varlığını sürdürmesini ve etkin bir şekilde işlemesini sağlamaktır.\" ifadelerini kullandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 16:10 UTC"
     },
     {
       "title": "İngiltere Merkez Bankası yüksek riskli ipotek eşiğini beş kat gelire çıkarmayı değerlendiriyor - Investing.com Türkiye",
@@ -407,24 +488,6 @@
       "published_at": "2026-10-31 15:16 UTC"
     },
     {
-      "title": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss",
-      "summary": "Goals from Morgan Rogers and Cole Palmer give Chelsea a 2-0 win over Manchester United in the Premier League.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 15:09 UTC"
-    },
-    {
-      "title": "Türk Dünyası Diyalog Forumu'nda Türk dünyasındaki dil ve kültür mirası ele alındı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumunda-turk-dunyasindaki-dil-ve-kultur-mirasi-ele-alindi/4107424",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından düzenlenen \"Türk Dünyası Diyalog Forumu\" kapsamında \"Gaspıralı’nın İzinde: Türk Dünyasında Dil, Kültür ve Hafıza\" başlıklı panel gerçekleştirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 14:48 UTC"
-    },
-    {
       "title": "Ajan yasağının arkasındaki 1,6 trilyon dolar",
       "image": "https://geoim.bloomberght.com/l/2026/10/31/ver1793457534/3792988/jpg/320x180",
       "link": "https://www.bloomberght.com/ajan-yasaginin-arkasindaki-1-6-trilyon-dolar-3792988",
@@ -432,15 +495,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-31 14:34 UTC"
-    },
-    {
-      "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
-      "summary": "Iran’s Foreign Minister Abbas Araghchi tells Al Jazeera Tehran doesn't rule out attack, is ‘prepared for all scenarios’.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 14:31 UTC"
     },
     {
       "title": "Ethiopian PM puts ministers through military training",
@@ -459,15 +513,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 14:23 UTC"
-    },
-    {
-      "title": "Syria considering entry into Mecca defence pact, says foreign minister",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
-      "summary": "Damascus 'evaluating' whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 14:20 UTC"
     },
     {
       "title": "İran Dışişleri Bakanı Arakçi: ABD makamları ile görüşme planımız yok",
@@ -495,15 +540,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 13:44 UTC"
-    },
-    {
-      "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
-      "summary": "Despite genocide, regional war and isolation, Israel's election revealed little appetite for political alternatives.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 13:35 UTC"
     },
     {
       "title": "Rusya dizel ihracatı yasağını Ocak sonuna kadar uzattı",
@@ -542,33 +578,6 @@
       "published_at": "2026-10-31 12:54 UTC"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'dan şehit ailesine başsağlığı mesajı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-sehit-ailesine-bassagligi-mesaji-961826.html",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, şehit Piyade Sözleşmeli Er Yusuf Sait Ünlü'nün ailesine başsağlığı diledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 12:43 UTC"
-    },
-    {
-      "title": "Sosyal medyada yaş sınırlamasına ilişkin yönetmelik yarın yürürlüğe giriyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/sosyal-medyada-yas-sinirlamasina-iliskin-yonetmelik-yarin-yururluge-giriyor-961825.html",
-      "summary": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, sosyal ağ platformlarında çocukların güvenliğinin sağlanması amacıyla hazırlanan ve yaş doğrulama zorunluluğu getiren yönetmeliğin yarın yürürlüğe gireceğini açıkladı. Düzenleme kapsamında, sosyal ağ platformlarında yeni açılacak hesaplarda yaş doğrulaması zorunlu hale geldi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 12:36 UTC"
-    },
-    {
-      "title": "Bakan Memişoğlu: Ultrason cihazlarımızı bu topraklarda üreteceğiz",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-memisoglu-ultrason-cihazlarimizi-bu-topraklarda-uretecegiz-961824.html",
-      "summary": "Sağlık Bakanı Kemal Memişoğlu, sağlık sanayiini ülkenin lokomotif sektörlerinden biri haline getirdiklerini belirterek, \"Yerli solunum cihazlarımızı 45 ülkeye, otomatik şok cihazlarımızı 16 ülkeye ihraç ediyoruz. İnşallah iki yılın sonunda her parçası yerli olacak ultrason cihazlarımızı bu topraklarda üreteceğiz\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 12:27 UTC"
-    },
-    {
       "title": "US approves sale of 500 Patriot missiles to Ukraine",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
@@ -576,15 +585,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 12:21 UTC"
-    },
-    {
-      "title": "Piyasalarda geçtiğimiz haftanın görünümü - Borsa Gundem",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VVTIwZk56OFp6ZlU4Z0FOR3lhVXAzSUlrT013ZzYteTQyTHJLaDhwemtOUTVPVUl1NmlEbkxxd21OYVJWQmtIRllNNnNlYzU5d0NPWEZUMzduMHpVbFdGV0tTQndsQi1nc1hNeWlYS1dKbEVtbUQxcnUzQkRtZw?oc=5",
-      "summary": "Piyasalarda geçtiğimiz haftanın görünümü Borsa Gundem",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-31 10:30 UTC"
     },
     {
       "title": "EPDK meskenlere yönelik elektrik tüketim limitinde değişikliğe gitti",
@@ -621,15 +621,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 10:03 UTC"
-    },
-    {
-      "title": "Borsa İstanbul'da yeni iş ilişkisi açıklayan şirketler - Borsa Gundem",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3FXeUFBOVBlMU12SWNrenZrYmJ1V013dGxIZ2RIUktYN0V1N3g3eHdsaEdkU1U3ZEJkU1N0WTV5Y1Q4eGRHaU5IdHk1SnN4OGY2WTFJbGVmQ3JGaXVfUFctZXg3NzBqb3F3R25mWmFOLXY1MW0zUmlqSW9nWlVJUGlmcGdYYllMdHRxMw?oc=5",
-      "summary": "Borsa İstanbul'da yeni iş ilişkisi açıklayan şirketler Borsa Gundem",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-31 10:00 UTC"
     },
     {
       "title": "Altın Fiyatlarında Düşüş! Afyonkarahisar’da Gram ve Çeyrek Altın Ne Kadar Oldu? - Afyon Türkeli Gazetesi",
@@ -693,6 +684,15 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-10-31 08:13 UTC"
+    },
+    {
+      "title": "Borsa ve altın değer kaybederken dolar değer kazandı - Borsa Gundem",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNlBMZVYyMk9MQ1JiYWdVMWJNa1FJMVNNQkVCR0V2YVBJQ3NjdG83bDVRc054UGVkSDlDcFRUamdRZGMtTTUwQ293WllDNXpZSTBaRzFJRWJOcDV6LXZuU21UMG9YbnhZbjdxek5JOXRWUGVKUUxvcFRuQnVpalJiWXpTYktDVW9VRjhF?oc=5",
+      "summary": "Borsa ve altın değer kaybederken dolar değer kazandı Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-31 08:10 UTC"
     },
     {
       "title": "Türk markalarının rekabet gücünü artıracak destekler devrede",
