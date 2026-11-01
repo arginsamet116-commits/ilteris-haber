@@ -1,12 +1,237 @@
 {
-  "updated_at": "2026-11-01 06:42 UTC",
+  "updated_at": "2026-11-01 07:49 UTC",
   "items": [
+    {
+      "title": "Rusya, Ukrayna'da askeri amaçla kullanılan tren istasyonu ve gemiyi vurduğunu bildirdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-askeri-amacla-kullanilan-tren-istasyonu-ve-gemiyi-vurdugunu-bildirdi/4107771",
+      "summary": "Rusya Savunma Bakanlığı, Ukrayna'da askeri amaçlarla kullanılan tren istasyonu ve bir gemiyi vurduklarını bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:45 UTC"
+    },
+    {
+      "title": "Shops looted as German cost of living protests turn violent",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:36 UTC"
+    },
+    {
+      "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
+      "image": "",
+      "link": "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss",
+      "summary": "From Hebron to Gaza to southern Lebanon, Israel is tearing down homes, and, with them, families' hopes of return.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:34 UTC"
+    },
+    {
+      "title": "Bulgaristan'da cumhurbaşkanı seçiminin ikinci turu için oy verme işlemi başladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/bulgaristanda-cumhurbaskani-seciminin-ikinci-turu-icin-oy-verme-islemi-basladi/4107763",
+      "summary": "Bulgaristan'da seçmenler, cumhurbaşkanı seçiminin ikinci turu için sandık başına gidiyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:25 UTC"
+    },
+    {
+      "title": "Brezilya'da seçimleri kaybeden Bolsonaro'nun Mossad'ın eski ajanıyla kaçtığı iddiası",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/brezilyada-secimleri-kaybeden-bolsonaronun-mossadin-eski-ajaniyla-kactigi-iddiasi/4107762",
+      "summary": "Brezilya'da sağcı Senatör Flavio Bolsonaro'nun devlet başkanlığı seçimlerini kaybettikten sonra ABD'ye \"İsrail istihbarat servisi Mossad'ın eski ajanı eşliğinde kaçtığı\" iddia edildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:24 UTC"
+    },
+    {
+      "title": "Bahçeli 100 il 1000 ilçe projesini kamuoyuyla paylaştı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/bahceli-100-il-1000-ilce-projesini-kamuoyuyla-paylasti-961859.html",
+      "summary": "MHP Genel Başkanı Devlet Bahçeli, 100 il 1000 ilçe projesini kamuoyuyla paylaştı. Bahçeli, artan nüfus ve ihtiyaçlara dikkat çekerek 9 yeni il ve 78 yeni ilçe kurulması gerektiğini belirtti.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:24 UTC"
+    },
+    {
+      "title": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/1/gaza-doctors-struggle-with-bereavement-overwork-trauma-amid-genocidal-war?traffic_source=rss",
+      "summary": "Doctors and nurses struggle to cope with the horrors they endured during the height of the Gaza war.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:24 UTC"
+    },
+    {
+      "title": "NBA'de Rockets, Alperen Şengün'ün \"triple-double\"a yaklaştığı maçta Thunder'ı yendi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-triple-doublea-yaklastigi-macta-thunderi-yendi/4107758",
+      "summary": "Milli basketbolcu Alperen Şengün, Rockets'ın 119-98 kazandığı mücadelede 16 sayı, 9 ribaunt, 9 asistle oynadı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:18 UTC"
+    },
+    {
+      "title": "TOBB Nefes Kredisi'nde yeni dilim başvuruları 3 Kasım'da başlayacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/tobb-nefes-kredisinde-yeni-dilim-basvurulari-3-kasimda-baslayacak/4107757",
+      "summary": "Türkiye Odalar ve Borsalar Birliği (TOBB) Nefes Kredisi başvuruları 3 Kasım itibarıyla yeniden başlayacak, krediler 6 ay anapara ödemesiz dönem dahil azami 48 ay vadeli olacak.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:17 UTC"
+    },
+    {
+      "title": "Fren yerine gaza bastı, otomobiliyle bahçeye uçtu",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/fren-yerine-gaza-basti-otomobiliyle-bahceye-uctu-961858.html",
+      "summary": "İstanbul Beşiktaş'ta alkollü olduğu iddia edilen sürücünün kullandığı otomobil, önce yol kenarındaki direğe çarptı. Panikle fren yerine gaza basan sürücünün kullandığı otomobil, geri giderek yaklaşık 3 metre derinliğindeki bahçeye düştü. Kazanın güvenlik kamerası görüntüleri ortaya çıktı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:14 UTC"
+    },
+    {
+      "title": "Sosyal medyada çocuklar için yeni dönem",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/sosyal-medyada-cocuklar-icin-yeni-donem-961860.html",
+      "summary": "Sosyal medyada çocukları korumaya yönelik yeni dönem bugün başladı. 15 yaşından küçüklere sosyal medya hizmeti sunulmayacak, 1517 yaş grubunda ise canlı yayın ve sonsuz kaydırma gibi özellikler sınırlandırılacak.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:12 UTC"
+    },
+    {
+      "title": "Police storm Portugal housing protest camps",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/1/police-storm-portugal-housing-protest-camps?traffic_source=rss",
+      "summary": "Dozens of officers, some accompanied by police dogs, moved into Rossio Square in Lisbon early on Sunday.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:06 UTC"
+    },
+    {
+      "title": "Kuzey Kore, taktik balistik füzeler için misket bombası başlığını test etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/kuzey-kore-taktik-balistik-fuzeler-icin-misket-bombasi-basligini-test-etti/4107745",
+      "summary": "Kuzey Kore'nin, taktik balistik füzelerde kullanılmak üzere tasarlanan misket bombası başlığını test ettiği ve yıl sonuna kadar askeri birliklerin bu silahların 4 farklı türünü kullanabilmesini hedeflediği bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:05 UTC"
+    },
+    {
+      "title": "A Gulf non-aggression pact could be the path forward",
+      "image": "",
+      "link": "https://www.aljazeera.com/opinions/2026/11/1/a-gulf-non-aggression-pact-could-be-the-path-forward?traffic_source=rss",
+      "summary": "Oman is in a unique position to mediate talks on a security arrangement that could stabilise the region.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:03 UTC"
+    },
+    {
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 07:00 UTC"
+    },
+    {
+      "title": "Deniz Öncü, Dünya Moto2 Şampiyonası'nın Malezya ayağını tamamlayamadı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/deniz-oncu-dunya-moto2-sampiyonasinin-malezya-ayagini-tamamlayamadi/4107743",
+      "summary": "Milli motosikletçi Deniz Öncü, Dünya Moto2 Şampiyonası'nın Malezya ayağında kaza yaparak yarış dışı kaldı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 06:59 UTC"
+    },
+    {
+      "title": "Kuzey Kore, taktik balistik füzeler için misket bombası başlığını test etti",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/kuzey-kore-taktik-balistik-fuzeler-icin-misket-bombasi-basligini-test-etti-961857.html",
+      "summary": "Kuzey Kore'nin, taktik balistik füzelerde kullanılmak üzere tasarlanan misket bombası başlığını test ettiği ve yıl sonuna kadar askeri birliklerin bu silahların 4 farklı türünü kullanabilmesini hedeflediği bildirildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 06:52 UTC"
+    },
+    {
+      "title": "İran, İngiltere'nin deniz ve hava kuvvetlerini terör örgütü ilan etti",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/iran-ingilterenin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti-961856.html",
+      "summary": "İran Dışişleri Bakanlığı, İngiltere Kraliyet Donanması Royal Navy ile Kraliyet Hava Kuvvetlerini Royal Air Force \"terör örgütü\", İngiliz dış istihbarat servisi MI6'yı ise \"düşman grup\" olarak tanımladığını duyurdu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 06:50 UTC"
+    },
+    {
+      "title": "Bakan Ersoy duyurdu: ABD'den yeni eserler geldi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/kultur-sanat/bakan-ersoy-duyurdu-abdden-yeni-eserler-geldi-961855.html",
+      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, \"Bu hafta ABD'den yeni eserlerimiz geldi. Bunun açıklamasını yapacağız. Kültür varlıklarımızın izini sürmeye ve onları doğdukları topraklarla buluşturmaya devam edeceğiz.\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 06:47 UTC"
+    },
+    {
+      "title": "İran, İngiltere'nin deniz ve hava kuvvetlerini \"terör örgütü\" ilan etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-ingilterenin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti/4107739",
+      "summary": "İran Dışişleri Bakanlığı, İngiltere Kraliyet Donanması (Royal Navy) ile Kraliyet Hava Kuvvetlerini (Royal Air Force) \"terör örgütü\", İngiliz dış istihbarat servisi MI6'yı ise \"düşman grup\" olarak tanımladığını duyurdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 06:46 UTC"
+    },
+    {
+      "title": "Kontrolden çıkan hafif ticari araç şarampole yuvarlandı: 1 ölü, 3 yaralı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/kontrolden-cikan-hafif-ticari-arac-sarampole-yuvarlandi-1-olu-3-yarali-961853.html",
+      "summary": "Bingöl'de kontrolden çıkan hafif ticari araç şarampole yuvarlandı. Meydana gelen kazada 1 kişi yaşamını yitirdi, 3 kişi yaralandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 06:45 UTC"
+    },
+    {
+      "title": "Bakan Ersoy: Türkiye, turizmde yıllardır yaptığı yatırımların karşılığını almayı başardı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/kultur/bakan-ersoy-turkiye-turizmde-yillardir-yaptigi-yatirimlarin-karsiligini-almayi-basardi/4107736",
+      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, turistlerin kişi başı gecelik harcamalarının artmaya devam ettiğini belirterek, \"9 ayda yabancı ziyaretçilerin kişi başı ortalama gecelik harcaması 119,9 dolara ulaştı.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 06:42 UTC"
+    },
+    {
+      "title": "İnşaat çalışması sırasında çatlak paniği: 4 bina boşaltıldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/insaat-calismasi-sirasinda-catlak-panigi-4-bina-bosaltildi-961852.html",
+      "summary": "İstanbul Bağcılar'da inşaat alanındaki çalışmalar sırasında çevredeki bazı binalarda çatlaklar oluşması üzerine 4 bina tedbiren tahliye edildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 06:38 UTC"
+    },
+    {
+      "title": "FBI, 6,3 milyar dolarlık kripto hırsızlığından Kuzey Kore'yi sorumlu tuttu",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/fbi-63-milyar-dolarlik-kripto-hirsizligindan-kuzey-koreyi-sorumlu-tuttu-961854.html",
+      "summary": "ABD Federal Soruşturma Bürosu FBI, Kuzey Kore'yi, kripto para borsası Binance'den 6,3 milyar dolar değerinde dijital varlık çalmakla suçladı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 06:35 UTC"
+    },
     {
       "title": "FBI, 6,3 milyar dolarlık kripto hırsızlığından Kuzey Kore'yi sorumlu tuttu",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/fbi-6-3-milyar-dolarlik-kripto-hirsizligindan-kuzey-koreyi-sorumlu-tuttu/4107734",
       "summary": "ABD Federal Soruşturma Bürosu (FBI), Kuzey Kore'yi, kripto para borsası Binance'den 6,3 milyar dolar değerinde dijital varlık çalmakla suçladı.",
       "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 06:34 UTC"
+    },
+    {
+      "title": "Rubio says Trump administration did not help Bolsonaro flee Brazil to US",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss",
+      "summary": "Trump says defeated presidential candidate, who faces investigation in Brazil, can stay in the US 'as long as he wants'.",
+      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-01 06:34 UTC"
     },
@@ -18,15 +243,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-01 06:32 UTC"
-    },
-    {
-      "title": "Shops looted as German cost of living protests turn violent",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-01 06:30 UTC"
     },
     {
       "title": "Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh",
@@ -41,7 +257,7 @@
       "title": "Golden State Valkyries defeat Atlanta Dream to capture first WNBA crown",
       "image": "",
       "link": "https://www.aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss",
-      "summary": "Gabby Williams, named Most Valuable Player, set records for most points (137) and most steals (18) in the WNBA Finals.",
+      "summary": "Gabby Williams, named Most Valuable Player, sets records for most points (137) and most steals (18) in the WNBA Finals.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-01 06:17 UTC"
@@ -155,40 +371,13 @@
       "published_at": "2026-11-01 03:19 UTC"
     },
     {
-      "title": "The murder of Javits Frimpong, a bullied schoolboy in The Bronx",
+      "title": "Yapay zekâ siber güvenliğe tehdit - Yeni Şafak",
       "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/the-murder-of-javits-frimpong-a-bullied-schoolboy-in-the-bronx?traffic_source=rss",
-      "summary": "Thousands of people have held vigils for a 15-year-old Ghanaian boy who was chased down and killed in New York.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-01 03:18 UTC"
-    },
-    {
-      "title": "FBI blames North Korea for record $6.3bn crypto heist from Binance",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
-      "summary": "Crypto firm Binance says it has covered 90 percent of losses from the multibillion-dollar hack.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-01 02:28 UTC"
-    },
-    {
-      "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
-      "summary": "In a counterprotest, Netanyahu supporters demand that Israel should not have a government with 'terrorists'.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-01 02:05 UTC"
-    },
-    {
-      "title": "Talarico draws a packed campus rally, but can he win over young voters?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss",
-      "summary": "Al Jazeera’s @EmmaWithrow attended a packed rally for Democrat Senate Candidate James Talarico at Texas A&M.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-01 01:14 UTC"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUW5pSnRKVnROeFJuaXoyMWVFdFJ1dzRJa1BWTTU4Q051bjROdHNnSXRTTnA0bE9vUFlJU3lvTTdzRGc3YjVtdUJQSHQtS21xOWlzYnhRdkRYNTR5bVN0bjYyM2hZRGM4MWVOMnJUaGRicEFxRnJCOGZkYUlQZklGcVN5UQ?oc=5",
+      "summary": "Yapay zekâ siber güvenliğe tehdit Yeni Şafak",
+      "source": "Google News - Teknoloji",
+      "category": "Teknoloji ve Bilim",
+      "published_at": "2026-11-01 01:00 UTC"
     },
     {
       "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
@@ -209,33 +398,6 @@
       "published_at": "2026-11-01 00:45 UTC"
     },
     {
-      "title": "Polish president holds crisis talks in court standoff",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss",
-      "summary": "A dispute over the politicisation of Poland's constitutional court is deepening, with no side appearing to back down.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-01 00:30 UTC"
-    },
-    {
-      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-01 00:12 UTC"
-    },
-    {
-      "title": "Türk Dünyası Diyalog Forumu tamamlandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-tamamlandi/4107697",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanlığınca, Türk Devletleri Teşkilatı (TDT) 13. Zirvesi marjında düzenlenen \"Türk Dünyası Diyalog Forumu\" başlıklı uluslararası etkinlik sona erdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 23:45 UTC"
-    },
-    {
       "title": "Afrika kıtasının ilk olimpik organizasyonu Dakar 2026 başladı",
       "image": "",
       "link": "https://www.aa.com.tr/tr/spor/afrika-kitasinin-ilk-olimpik-organizasyonu-dakar-2026-basladi/4107696",
@@ -243,24 +405,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 23:43 UTC"
-    },
-    {
-      "title": "İngiltere'de yasaklanan Palestine Action'a destek eyleminde gözaltı sayısı 139'a çıktı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/ingilterede-yasaklanan-palestine-actiona-destek-eyleminde-gozalti-sayisi-139a-cikti/4107695",
-      "summary": "İngiltere'nin başkenti Londra'da, ülkede İsrail ile iş yapan şirketlere yönelik eylemleri nedeniyle yasaklı örgüt ilan edilen Palestine Action'a destek için dün düzenlenen gösteride gözaltına alınanların sayısı 139'a yükseldi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 23:43 UTC"
-    },
-    {
-      "title": "Filistin asıllı milletvekili Tıybi, Eisenkot liderliğindeki hükümeti destekleyeceklerini duyurdu",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/filistin-asilli-milletvekili-tiybi-eisenkot-liderligindeki-hukumeti-destekleyeceklerini-duyurdu/4107687",
-      "summary": "İsrail vatandaşı Filistinli milletvekili Ahmed Tıybi, genel seçimde 11 sandalye elde etmeyi başaran Ortak Liste'nin, Gadi Eisenkot liderliğinde kurulacak bir koalisyon hükümetine dışarıdan destek vermeye hazır olduğunu duyurdu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 22:28 UTC"
     },
     {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -299,57 +443,12 @@
       "published_at": "2026-10-31 21:29 UTC"
     },
     {
-      "title": "Yamaç paraşütünde Avrupa şampiyonu Kübra Cengiz'in hedefi Dünya Kupası",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/yamac-parasutunde-avrupa-sampiyonu-kubra-cengizin-hedefi-dunya-kupasi/4107674",
-      "summary": "Erzincan'da yaşayan milli yamaç paraşütü sporcusu Kübra Cengiz, Avrupa şampiyonluğunun ardından Dünya Kupası'nda da altın madalya kazanmayı hedefliyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 21:23 UTC"
-    },
-    {
-      "title": "Üniversiteliler \"İKA F481\"i savunma sanayisine kazandırmayı hedefliyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/universiteliler-ika-f481i-savunma-sanayisine-kazandirmayi-hedefliyor/4107672",
-      "summary": "Konya Teknik Üniversitesinden (KTÜN) 11 öğrenci, TEKNOFEST'te tasarımıyla ödül alan insansız kara aracı \"İKA F481\"i daha da geliştirerek savunma sanayisine kazandırmayı hedefliyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 21:22 UTC"
-    },
-    {
-      "title": "Niğde Teknopark'ta geliştirilen tohum ve nesneleri sayma makinesi TEKNOFEST'te ödül aldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/nigde-teknoparkta-gelistirilen-tohum-ve-nesneleri-sayma-makinesi-teknofestte-odul-aldi/4107671",
-      "summary": "Niğde Ömer Halisdemir Üniversitesi (NÖHÜ) Bilgisayar Mühendisliği Bölümü Dr. Öğr. Üyesi Hakan Aktaş'ın geliştirdiği tohum ve nesneleri sayma makinesi TEKNOFEST'ten ödülle döndü.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 21:20 UTC"
-    },
-    {
-      "title": "Yerel yönetimlerdeki personelin niteliğini artırmaya yönelik eğitimler verilecek",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/yerel-yonetimlerdeki-personelin-niteligini-artirmaya-yonelik-egitimler-verilecek/4107669",
-      "summary": "Yerel yönetimlerdeki personelin mesleki niteliğinin ve uzmanlaşma düzeyinin artırılması amacıyla 2027 yılında başta büyükşehir belediyelerinde olmak üzere eğitimler verilmesi planlanıyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 21:19 UTC"
-    },
-    {
       "title": "Resmi Gazete'de bugün (01.11.2026)",
       "image": "https://geoim.bloomberght.com/l/2026/11/01/ver1793481561/3792995/jpg/320x180",
       "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-01112026-3792995",
       "summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-10-31 21:16 UTC"
-    },
-    {
-      "title": "İsrailli muhalefet lideri, meclisteki çoğunluğu hükümete karşı derhal kullanacaklarını açıkladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/israilli-muhalefet-lideri-meclisteki-cogunlugu-hukumete-karsi-derhal-kullanacaklarini-acikladi/4107667",
-      "summary": "İsrail'deki parlamento seçimlerinde muhalefetin en güçlü ismi olarak çıkan Yashar Partisi lideri Gadi Eisenkot, elde ettikleri milletvekili çoğunluğunu Başbakan Binyamin Netanyahu liderliğindeki mevcut hükümete karşı derhal kullanacaklarını belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 21:16 UTC"
     },
     {
@@ -371,15 +470,6 @@
       "published_at": "2026-10-31 21:06 UTC"
     },
     {
-      "title": "Dışişleri Bakanı Fidan: Rusya ve Ukrayna, bir anlaşmaya varmak zorundalar",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-rusya-ve-ukrayna-bir-anlasmaya-varmak-zorundalar/4107662",
-      "summary": "Dışişleri Bakanı Hakan Fidan, Rusya-Ukrayna Savaşı'na ilişkin, \"Bu savaş başlayalı yaklaşık 5 yıl olmuş. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, bir anlaşmaya varmak zorundalar.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 21:02 UTC"
-    },
-    {
       "title": "Katil Netanyahu'ya karşı mecliste güç birliği",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/katil-netanyahuya-karsi-mecliste-guc-birligi-961846.html",
@@ -398,15 +488,6 @@
       "published_at": "2026-10-31 20:17 UTC"
     },
     {
-      "title": "Bakan Fidan: Uluslararası barış ve istikrarın tesisine katkıda bulunmaya devam edeceğiz",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-uluslararasi-baris-ve-istikrarin-tesisine-katkida-bulunmaya-devam-edecegiz-961844.html",
-      "summary": "Dışişleri Bakanı Hakan Fidan, \"Türkiye olarak, küresel konularda sorumluluk almaya; çok taraflılığı, iş birliğini ve diplomasiyi savunarak uluslararası barış ve istikrarın tesisine katkıda bulunmaya devam edeceğiz\" ifadesini kullandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 19:55 UTC"
-    },
-    {
       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
@@ -414,24 +495,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 19:22 UTC"
-    },
-    {
-      "title": "İzmir, Aydın ve Muğla için şiddetli yağış uyarısı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/izmir-aydin-ve-mugla-icin-siddetli-yagis-uyarisi-961842.html",
-      "summary": "Meteoroloji Genel Müdürlüğü, İzmir, Aydın ve Muğla için şiddetli yağış uyarısında bulundu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 19:01 UTC"
-    },
-    {
-      "title": "Suriye'nin başkenti Şam'da tarihi Süleymaniye Tekkesi restore edilerek yeniden açıldı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/suriyenin-baskenti-samda-tarihi-suleymaniye-tekkesi-restore-edilerek-yeniden-acildi-961843.html",
-      "summary": "Suriye'nin başkenti Şam'da, Osmanlı padişahı Kanuni Sultan Süleyman tarafından Mimar Sinan'a yaptırılan tarihi Süleymaniye Tekkesi, restorasyon çalışmalarının tamamlanmasının ardından düzenlenen törenle yeniden açıldı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 19:00 UTC"
     },
     {
       "title": "Borsa, altın fiyatları, dolar: Haftalık görünüm - Platin Dergisi",
@@ -443,15 +506,6 @@
       "published_at": "2026-10-31 18:46 UTC"
     },
     {
-      "title": "İstanbul Maratonu'nda 590 emniyet personeli görev yapacak",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbul-maratonunda-590-emniyet-personeli-gorev-yapacak-961841.html",
-      "summary": "İstanbul'da yarın düzenlenecek 48. İstanbul Maratonu kapsamında 590 emniyet personeli görev yapacak.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 18:35 UTC"
-    },
-    {
       "title": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67b0/live/c08b4a50-d550-11f1-bcb7-8f812b44c2e5.jpg",
       "link": "https://www.bbc.com/turkce/articles/cqz0vjm7rjedo?at_medium=RSS&at_campaign=rss",
@@ -459,15 +513,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-31 17:57 UTC"
-    },
-    {
-      "title": "BM Genel Sekreterliğine aday gösterilen Sinirlioğlu, vizyon belgesinde hedeflerini açıkladı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/bm-genel-sekreterligine-aday-gosterilen-sinirlioglu-vizyon-belgesinde-hedeflerini-acikladi-961840.html",
-      "summary": "Türkiye'nin Birleşmiş Milletler BM Genel Sekreterliği için aday gösterdiği Feridun Sinirlioğlu, kaleme aldığı vizyon belgesinde çatışmaların önlenmesi, uluslararası iş birliğinin güçlendirilmesi ve BM'nin daha etkin bir yapıya kavuşturulmasına yönelik hedeflerini ortaya koydu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 17:54 UTC"
     },
     {
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
@@ -479,15 +524,6 @@
       "published_at": "2026-10-31 17:53 UTC"
     },
     {
-      "title": "Dışişleri Bakanı Fidan, Meksika Dışişleri Bakanı Alvarez ile görüştü",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidan-meksika-disisleri-bakani-alvarez-ile-gorustu-961839.html",
-      "summary": "Dışişleri Bakanı Hakan Fidan, ABD'de Meksika Dışişleri Bakanı Roberto Velasco Alvarez ile bir araya geldi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 17:48 UTC"
-    },
-    {
       "title": "Borsa İstanbul Genel Müdürü gözaltında - Borsa Gundem",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MQ2wyYkZDTkxHSk9YQWJSOVhjSlNBbnU1NVRtcW9JY2d5UTB6YzA2dGdpQWZqZTU3QzR4RUZHRzlUT1p5R01uNG5mWmFja3J2a2xsRGN4aDVtcllHWnhoU2pocEc4UjZJTHpqOXdXekhTR1dzTFRFTw?oc=5",
@@ -495,24 +531,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-31 17:33 UTC"
-    },
-    {
-      "title": "Trump, G20 Zirvesi öncesinde RusyaUkrayna barış anlaşması konusunda umutlu",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/trump-g20-zirvesi-oncesinde-rusya-ukrayna-baris-anlasmasi-konusunda-umutlu-961838.html",
-      "summary": "ABD Başkanı Donald Trump, aralık ayında yapılacak G20 Zirvesi öncesinde Rusya ile Ukrayna arasında barış anlaşmasına varılması konusunda umutlu olduğunu belirtti.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 17:31 UTC"
-    },
-    {
-      "title": "Fon soruşturmasında yeni gelişme: Borsa İstanbul Genel Müdürü Ergun gözaltına alındı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-borsa-istanbul-genel-muduru-ergun-gozaltina-alindi-961837.html",
-      "summary": "Borsa İstanbul AŞ Genel Müdürü Korkmaz Enes Ergun, sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında \"suç işlemek amacıyla kurulan örgüte üye olma\" ve \"rüşvet\" iddiasıyla gözaltına alındı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 17:25 UTC"
     },
     {
       "title": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
@@ -596,15 +614,6 @@
       "published_at": "2026-10-31 16:05 UTC"
     },
     {
-      "title": "Ukrayna Devlet Başkanı Zelenski: Karadeniz Tahıl Koridoru üzerinde mutabık kaldık",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/ukrayna-devlet-baskani-zelenski-karadeniz-tahil-koridoru-uzerinde-mutabik-kaldik-961836.html",
-      "summary": "Ukrayna Devlet Başkanı Zelenski, \"Bugün Cumhurbaşkanı Erdoğan ile Karadeniz Tahıl Koridoru üzerinde çalışmak konusunda mutabık kaldık. Türkiye, Karadenizde güvenli seyrüseferi, normal yaşam koşulları sağlayabilecek adımları destekliyor.\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 16:00 UTC"
-    },
-    {
       "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
@@ -686,6 +695,15 @@
       "published_at": "2026-10-31 10:03 UTC"
     },
     {
+      "title": "Borsa İstanbul'da yeni iş ilişkisi açıklayan şirketler - Borsa Gundem",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3FXeUFBOVBlMU12SWNrenZrYmJ1V013dGxIZ2RIUktYN0V1N3g3eHdsaEdkU1U3ZEJkU1N0WTV5Y1Q4eGRHaU5IdHk1SnN4OGY2WTFJbGVmQ3JGaXVfUFctZXg3NzBqb3F3R25mWmFOLXY1MW0zUmlqSW9nWlVJUGlmcGdYYllMdHRxMw?oc=5",
+      "summary": "Borsa İstanbul'da yeni iş ilişkisi açıklayan şirketler Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-31 10:00 UTC"
+    },
+    {
       "title": "ABD, Ukrayna'ya 500 adet Patriot füzesi satışını onayladı",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.com/turkce/articles/ck87zqz878ydo?at_medium=RSS&at_campaign=rss",
@@ -731,13 +749,13 @@
       "published_at": "2026-10-31 08:13 UTC"
     },
     {
-      "title": "Yatırımcının haftalık bilançosu açıklandı! Borsa, altın ve euroda son durum - Haber 7",
+      "title": "Borsa ve altın değer kaybederken dolar değer kazandı - Borsa Gundem",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFZCYWh3d19Xc2hibTY4UThBN095akdtbHdLRHluUUtCSkVvSFlIeFU4NFhlU1I4TE5KSzVBWTNLZEJmN3Fud2xjOGMtQ2kxOWxSZVZPaHFEZlVQMmhJRjZvU2lwYm1PMXFOT3hJT04xc0c4dm5FV3VjVUd6ajZuNnFicXJJYUpCcWFCNTVoTk1BNjF6LTFRNktiNUJsLUprOG9TeDU5MGxRNGloblRwX1poX21oQzdzbmp1VkI3Z9IBwgFBVV95cUxNTzBVWnBLSVc4eDFiQzAybFJpVzBXamxwQnpSODFXbzZncm9qREx1U3Y4d2JXblJmRWo0ZzdsMk5xWHR4WlZMa2FXUEdzV1hRTlV1ZHFjRVd3Qi0tUWl4Y2dVU1lfLXNkYjN6cTlxWWZIZGRjdDRwbl9WdjRFZWdMZFpsc3NMMGRkbkZQSmJHaTdiMXNXUWVPWVVmcWRZcUxZdVp2N1lXREtsVThlUGlSY3lYNEtCZXlkSXpkSXhjQWZwQQ?oc=5",
-      "summary": "Yatırımcının haftalık bilançosu açıklandı! Borsa, altın ve euroda son durum Haber 7",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNlBMZVYyMk9MQ1JiYWdVMWJNa1FJMVNNQkVCR0V2YVBJQ3NjdG83bDVRc054UGVkSDlDcFRUamdRZGMtTTUwQ293WllDNXpZSTBaRzFJRWJOcDV6LXZuU21UMG9YbnhZbjdxek5JOXRWUGVKUUxvcFRuQnVpalJiWXpTYktDVW9VRjhF?oc=5",
+      "summary": "Borsa ve altın değer kaybederken dolar değer kazandı Borsa Gundem",
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
-      "published_at": "2026-10-31 07:28 UTC"
+      "published_at": "2026-10-31 08:10 UTC"
     },
     {
       "title": "Türk markalarının rekabet gücünü artıracak destekler devrede",
@@ -848,15 +866,6 @@
       "published_at": "2026-10-30 22:11 UTC"
     },
     {
-      "title": "Piyasalarda gün ortası: Borsa düştü, altın geriledi, Brent petrol yükseldi - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0FmWlVCUjM0T3pKb0hJRnNSazVDdzNnUElNSDl6akIyQzR1dUZvaXFxbDZCcU83OF9OQW9JU2JjNDM3eGRUeWUyN2lfRlJlRkk0ekYwbW5TZWgyM2FEcWNjcm9PclBVNXViVGJyNkI5SUxwdnRZcWcwTlFscUZSTmtOcmFuSlU0YWNDeEktSkFfSGlfU2lEamVtNmZnYXRNMTFZ?oc=5",
-      "summary": "Piyasalarda gün ortası: Borsa düştü, altın geriledi, Brent petrol yükseldi EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-30 20:59 UTC"
-    },
-    {
       "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b85a/live/484c0a90-d4b8-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
@@ -891,15 +900,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-10-30 16:26 UTC"
-    },
-    {
-      "title": "Bu hafta hangi yatırım aracı kazandırdı? Borsa, altın ve dövizde son durum - Dünya Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWThrbzlEcG1ySmNfZ00wMUZZTlVMQy1xZGp4X0drYWR0NXYwNjM3QnlZdVA2X1ZMTEd2a194MklvYUJjMlVEM1lReS1MMEtxMWZuNG9PQUNBZ0tQb2E0YllYMTE2MzRLY3JFOFZhaWNjeExsYXN0cEZsZWFIWmp2TDE3UnljTXpPVzhrWkNka0dabERTc0Z4RWZIVFFvWkh6cHNyM0hrMTBPSTAxZEVrZ2lKaGs0Q2Y4S0pWLUg0YTRranZ2QXNB?oc=5",
-      "summary": "Bu hafta hangi yatırım aracı kazandırdı? Borsa, altın ve dövizde son durum Dünya Gazetesi",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-30 16:23 UTC"
     }
   ]
 }
