@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-01 16:36 UTC",
+  "updated_at": "2026-11-01 17:24 UTC",
   "items": [
+    {
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 17:06 UTC"
+    },
+    {
+      "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond?traffic_source=rss",
+      "summary": "The anniversary coincides with a significant restructuring of Al Jazeera Media Network’s Arabic-language news services.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 16:59 UTC"
+    },
+    {
+      "title": "Bangladesh workers clash with police in protests over low pay",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss",
+      "summary": "Dozens of garment workers in Bangladesh clashed with police in the capital Dhaka.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 16:52 UTC"
+    },
+    {
+      "title": "Kütahya'da kamyonet ile ticari araç çarpıştı: 1 ölü",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/kutahyada-kamyonet-ile-ticari-arac-carpisti-1-olu-961894.html",
+      "summary": "Kütahya'nın Altıntaş ilçesinde kamyonet ile hafif ticari aracın çarpışması sonucu 1 kişi öldü, 3 kişi yaralandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 16:45 UTC"
+    },
+    {
+      "title": "India protesters march with 1km banner of deleted voters’ names",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
+      "summary": "Protesters in New Delhi carried a one-kilometre banner bearing the names of people removed from India’s voter rolls.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 16:42 UTC"
+    },
+    {
+      "title": "Mithat Sancar: 'Öcalan İmralı'da yapılan yeni yere geçti'",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ee1/live/42a76970-d60e-11f1-93e1-3b657b665bcf.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c9146ym5302eo?at_medium=RSS&at_campaign=rss",
+      "summary": "DEM Parti İmralı Heyeti üyesi Mithat Sancar, PKK lideri Abdullah Öcalan'ın İmralı'da kendisi için hazırlanan yeni bir yere geçtiğini açıkladı. Sancar, bu gelişmenin yürütülen sürecin hızlandırılmasını gerektirdiğini savundu.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 16:40 UTC"
+    },
     {
       "title": "Taha Akgül'den Dünya Güreş Şampiyonası sonrası özeleştiri",
       "image": "",
@@ -20,6 +74,15 @@
       "published_at": "2026-11-01 16:24 UTC"
     },
     {
+      "title": "BM: Yemen'de çatışmalar nedeniyle yerinden edilenlerin sayısı 300 bini aştı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/bm-yemende-catismalar-nedeniyle-yerinden-edilenlerin-sayisi-300-bini-asti-961893.html",
+      "summary": "Birleşmiş Milletler Uluslararası Göç Örgütü, Yemen'de tırmanan çatışmalar nedeniyle 300 binden fazla kişinin yerinden edildiğini, bunların neredeyse tamamının son 2 ayda gerçekleştiğini duyurdu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 16:21 UTC"
+    },
+    {
       "title": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate?traffic_source=rss",
@@ -27,6 +90,15 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-01 16:19 UTC"
+    },
+    {
+      "title": "2026 Dünya Güreş Şampiyonası'nın \"enleri\"",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/2026-dunya-gures-sampiyonasinin-enleri/4108137",
+      "summary": "2026 Dünya Güreş Şampiyonası'nda müsabakalar tamamlandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 16:18 UTC"
     },
     {
       "title": "Al Jazeera Balkans relaunches in new digital-first format",
@@ -45,6 +117,15 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-01 16:12 UTC"
+    },
+    {
+      "title": "İsrail Cumhurbaşkanı, liderlerle istişarelerde koalisyon uzlaşması için çaba göstereceğini söyledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-cumhurbaskani-liderlerle-istisarelerde-koalisyon-uzlasmasi-icin-caba-gosterecegini-soyledi/4108127",
+      "summary": "İsrail Cumhurbaşkanı Isaac Herzog, ülkede 27 Ekim'de sandıktan koalisyon belirsizliğinin çıktığı seçimlerin ardından liderlerle yapacağı istişare toplantılarında, koalisyon uzlaşması sağlanması yönünde çaba sarf edeceğini söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-01 16:03 UTC"
     },
     {
       "title": "Beştepe Millet Ormanı'nda hafta sonu yoğunluğu",
@@ -308,33 +389,6 @@
       "published_at": "2026-11-01 13:48 UTC"
     },
     {
-      "title": "Macklemore concludes ‘Free Palestine’ tour with solidarity message",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/macklemore-concludes-free-palestine-tour-with-solidarity-message?traffic_source=rss",
-      "summary": "Macklemore’s ‘Free Palestine’ tour ended with a sold-out show in London.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-01 13:47 UTC"
-    },
-    {
-      "title": "Ireland’s European athletics champion Ciara Mageean dies aged 34",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/11/1/irelands-european-athletics-champion-ciara-mageean-dies-aged-34?traffic_source=rss",
-      "summary": "Mageean, runner who competed at two Olympic Games, lost her battle with cancer a year after revealing her diagnosis.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-01 13:43 UTC"
-    },
-    {
-      "title": "US midterms live: Trump, Democrats in last-ditch efforts before polls",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections?traffic_source=rss",
-      "summary": "All 435 seats in the House of Representatives and 35 of the Senate’s 100 seats are being contested on Tuesday.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-01 13:42 UTC"
-    },
-    {
       "title": "ABD'de maç sonrası stadyum yakınındaki silahlı saldırıda bir kişi öldü, 8 kişi yaralandı",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/abdde-mac-sonrasi-stadyum-yakinindaki-silahli-saldirida-bir-kisi-oldu-8-kisi-yaralandi-961886.html",
@@ -342,15 +396,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-01 13:40 UTC"
-    },
-    {
-      "title": "ABD'deki Kongre ara seçimleri yaklaşırken anketlerdeki tablo netleşiyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abddeki-kongre-ara-secimleri-yaklasirken-anketlerdeki-tablo-netlesiyor/4108032",
-      "summary": "Seçimlerde 435 sandalyeli Temsilciler Meclisinin tamamı ile 100 sandalyeli Senatodaki 35 koltuk için seçime gidilecek.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-01 13:29 UTC"
     },
     {
       "title": "Trabzon'da trafikte saldırı girişimine 180 bin lira ceza",
@@ -378,15 +423,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-01 13:06 UTC"
-    },
-    {
-      "title": "Anadolu Ajansı Spor Kulübü, İstanbul Maratonu'nda yer aldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/anadolu-ajansi-spor-kulubu-istanbul-maratonunda-yer-aldi/4108011",
-      "summary": "Anadolu Ajansı Genel Yayın Yönetmeni Yusuf Özhan, \"Uluslararası turizm açısından, İstanbul'un tanıtımı açısından, Türkiye'mizin tanıtımı açısından İstanbul Maratonu, önemli bir değer.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-01 12:53 UTC"
     },
     {
       "title": "Irak'tan dolar kotası iddialarına yalanlama - Kurdistan24",
@@ -459,24 +495,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-01 11:41 UTC"
-    },
-    {
-      "title": "Bulgaristan'da halk cumhurbaşkanı seçiminin ikinci turu için sandık başında",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/bulgaristanda-halk-cumhurbaskani-seciminin-ikinci-turu-icin-sandik-basinda-961879.html",
-      "summary": "Bulgaristan'da seçmenler, cumhurbaşkanı seçiminin ikinci turu için sandık başına gidiyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-01 11:25 UTC"
-    },
-    {
-      "title": "KOBİ'lere 50 milyar liralık yeni Nefes Kredisi imkanı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/kobilere-50-milyar-liralik-yeni-nefes-kredisi-imkani-961878.html",
-      "summary": "Türkiye Odalar ve Borsalar Birliği TOBB, Kredi Garanti Fonu KGF ve bankaların iş birliğiyle yürütülen Nefes Kredisi'nde yeni dönem başvuruları 3 Kasım'da başlayacak. Yeni dilim kapsamında KOBİ'lere 50 milyar lira finansman sağlanırken, firma başına kredi limiti 5 milyon liraya yükseltildi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-01 11:22 UTC"
     },
     {
       "title": "Çocuklara yönelik sosyal medya yasağı yürürlüğe girdi",
@@ -722,6 +740,15 @@
       "published_at": "2026-10-31 17:53 UTC"
     },
     {
+      "title": "Borsa İstanbul Genel Müdürü gözaltında - Borsa Gundem",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MQ2wyYkZDTkxHSk9YQWJSOVhjSlNBbnU1NVRtcW9JY2d5UTB6YzA2dGdpQWZqZTU3QzR4RUZHRzlUT1p5R01uNG5mWmFja3J2a2xsRGN4aDVtcllHWnhoU2pocEc4UjZJTHpqOXdXekhTR1dzTFRFTw?oc=5",
+      "summary": "Borsa İstanbul Genel Müdürü gözaltında Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-10-31 17:33 UTC"
+    },
+    {
       "title": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
       "image": "https://geoim.bloomberght.com/l/2026/10/31/ver1793467625/3792993/jpg/320x180",
       "link": "https://www.bloomberght.com/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-3792993",
@@ -812,24 +839,6 @@
       "published_at": "2026-10-31 10:03 UTC"
     },
     {
-      "title": "Suriye'de geçim krizi: 'Nüfusun önemli kısmı Esad dönemine kıyasla daha kötü durumda'",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/acad/live/bd8904b0-d20c-11f1-b3b6-c1e79e957e40.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cwy8l23nylm0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Suriye'de yakıt fiyatlarındaki artış ve geçim krizi nedeniyle artan hoşnutsuzluk, Ahmed Şara yönetiminin önündeki en büyük sorun olarak görülüyor.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-31 08:40 UTC"
-    },
-    {
-      "title": "Borsa ve altın değer kaybederken dolar değer kazandı - Borsa Gundem",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNlBMZVYyMk9MQ1JiYWdVMWJNa1FJMVNNQkVCR0V2YVBJQ3NjdG83bDVRc054UGVkSDlDcFRUamdRZGMtTTUwQ293WllDNXpZSTBaRzFJRWJOcDV6LXZuU21UMG9YbnhZbjdxek5JOXRWUGVKUUxvcFRuQnVpalJiWXpTYktDVW9VRjhF?oc=5",
-      "summary": "Borsa ve altın değer kaybederken dolar değer kazandı Borsa Gundem",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-10-31 08:10 UTC"
-    },
-    {
       "title": "Türkiye Siber Vatan Programı 2027 Dönemi Başvuruları 6 Kasım’a 2026 Tarihine Kadar Uzatıldı - Yeşil Iğdır Gazetesi",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMXJ4TkVMSUEzZl9RVmZEUzBDbkVNamZJWG1kMThBdFpvdkpyMVd4amswekpzaGVTR3V3SmlPbHM1R2hMcXZvQnBiaEpnZ2h0bHFONTRNdTJ0VkxmaWFuQ1FoS3ktVXk0Q3ZWcFF0eFliZlFiOWpxZ0hOQWx0cnlfQlhHMlJ0UTQ1UlFodllVOHFIVGQzenlfT25pOFdZRG9GYU9mUG9iRDBsOXZZM1ljMDExSEtUSXhh?oc=5",
@@ -884,19 +893,10 @@
       "published_at": "2026-10-31 01:11 UTC"
     },
     {
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-10-30 22:11 UTC"
-    },
-    {
-      "title": "Piyasalar hareketlendi: Borsa yükseliyor, altın parlıyor, petrol geriliyor - EKOTÜRK",
+      "title": "Piyasalarda gün ortası: Borsa düştü, altın yükseldi, Brent petrol geriledi - EKOTÜRK",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRkVXX29VaVlpbE9JeTVlbkJkYUwyZThSbnRpOWRWd202YXR2elZCMlZvdjlqZDY1WHBrUXk3eFVYQkZGYlRVRnlxeHJLVVIzV1BZYWpfU3BXZzZYRHZEUEhRUzRHQlpyaGt3c2ptdnA1bEdDRFMxQW5XNUpMa1RfTFlqaDQ1QlQ1czdhUmFtS3BjVWZHRmVqeDdYQm5ZblNKVlE5dERmUDFJeld4OTZJUG1QNW9qc3ln?oc=5",
-      "summary": "Piyasalar hareketlendi: Borsa yükseliyor, altın parlıyor, petrol geriliyor EKOTÜRK",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkJ4RVBfNlFsS2IzQkROc0VxUlk2R18zSnB1aHNtZHZJN0VyaGJETXFpVktHT1FZOWtuS294c2w0LWlGV0gyVTRoVTFnd0lrdXJfTVZ2VW9NZkVuVTJHQjJmWWI0a2NSc0o4ZWZETmtlVnhhTDBvaTNQbFNsR0RIQVFQb21ja0ZZV0dvTzNKaXRDYzZFMGFiclp0U0dUWDRWYjNn?oc=5",
+      "summary": "Piyasalarda gün ortası: Borsa düştü, altın yükseldi, Brent petrol geriledi EKOTÜRK",
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-10-30 20:59 UTC"
