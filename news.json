@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-11-02 23:06 UTC",
+  "updated_at": "2026-11-02 23:59 UTC",
   "items": [
+    {
+      "title": "İsrail askerlerinin Batı Şeria'daki baskınlarında 2 Filistinli yaralandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-askerlerinin-bati-seriadaki-baskinlarinda-2-filistinli-yaralandi/4109252",
+      "summary": "İsrail askerlerinin işgal altındaki Batı Şeria’nın çeşitli bölgelerine düzenlediği baskınlarda darbedilen 2 Filistinli yaralandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-02 23:50 UTC"
+    },
+    {
+      "title": "Ukrayna ve Rusya heyetleri ABD ara buluculuğunda bir araya gelecek",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/ukrayna-ve-rusya-heyetleri-abd-ara-buluculugunda-bir-araya-gelecek-962006.html",
+      "summary": "Rusya ve Ukrayna arasında yeni bir müzakere turu başlıyor. ABD Özel Temsilcisi Steve Witkoff, tarafların ABD ara buluculuğunda 1011 Kasım'da Abu Dabi'de bir araya geleceğini açıkladı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-02 23:42 UTC"
+    },
+    {
+      "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+      "summary": "Hit hard by Trump's tariffs and the war on Iran, countries in the Asia-Pacific want 'enormous changes' in US policies.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-02 23:41 UTC"
+    },
+    {
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-02 23:37 UTC"
+    },
+    {
+      "title": "İngiltere'de göçmenlerin kalıcı oturum alma süresi uzatıldı",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/86ce/live/f1ae8130-d710-11f1-a701-fddedf244c16.png",
+      "link": "https://www.bbc.com/turkce/articles/c6x2qj0y0ypro?at_medium=RSS&at_campaign=rss",
+      "summary": "İngiltere'de İçişleri Bakanı Shabana Mahmood parlamentoda, çeşitli kategorilerdeki yasal göçmenlerin ülkede ömür boyu oturum (ILR) alabilmesi için gereken süreyi uzatan yeni kuralları açıkladı.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-02 23:23 UTC"
+    },
+    {
+      "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
+      "summary": "Only 32 percent of voters approve of Trump's job performance in the latest Reuters/Ipsos poll.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-02 23:05 UTC"
+    },
+    {
+      "title": "Powerful storm tears through beach resort on Italy’s southern coast",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/powerful-storm-tears-through-beach-resort-on-italys-southern-coast?traffic_source=rss",
+      "summary": "Surveillance footage captured the moment a tornado ripped through a beach resort restaurant in Castellaneta Marina",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-02 22:59 UTC"
+    },
     {
       "title": "İsrailli eski kadın askerden itiraf: \"Ordu, Gazze ve Batı Şeria'daki gerçekleri manipüle ediyor\"",
       "image": "",
@@ -180,6 +243,15 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-02 21:10 UTC"
+    },
+    {
+      "title": "'Daha şiddetlisini görmedim' diyerek paylaştı: İstanbul'daki TCMB Kulesi’ne yıldırım düştü: O anlar kamerada - Yeni Şafak",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOXzAtNWFyUkVJalF1YmZpZzhfWWdQSDRKYUxZd1JpSGU2WHBIVlM5eGtGUVB0WldPZ29QOFlpRVdZaTd0Z1RpTmdJbmN4bEFkTWFrWVl4NEE0YjFfeWl0YXRVaEdkeTRyS3FYanAxMzY0a2tIZUxLVUgxWUh4RGdIUDRocjFKbmctYUc4MTVJV19fWmdsSmhqWGJrYWF4aEp4YXZHR2diTTF2RW5KR2JtTFNCX2hDVE9wR3IyRXh4T2tFU2dqTDU5c0NkVzFqamJRUjEtbUhuaUpza25aRDF2U0RxVQ?oc=5",
+      "summary": "'Daha şiddetlisini görmedim' diyerek paylaştı: İstanbul'daki TCMB Kulesi’ne yıldırım düştü: O anlar kamerada Yeni Şafak",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-02 21:07 UTC"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan'dan MHP Genel Başkanı Bahçeliye başsağlığı mesajı",
@@ -506,15 +578,6 @@
       "published_at": "2026-11-02 19:39 UTC"
     },
     {
-      "title": "Trendyol Süper Lig'de görünüm",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/trendyol-super-ligde-gorunum/4109141",
-      "summary": "Trendyol Süper Lig'de 10. hafta mücadelesi tamamlandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 19:38 UTC"
-    },
-    {
       "title": "Trump to remove Rwanda and South Africa from US trade deal",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
@@ -531,15 +594,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-02 19:18 UTC"
-    },
-    {
-      "title": "Legal challenge to Australia's social media ban to start in High Court",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 19:12 UTC"
     },
     {
       "title": "Lindsay Clancy back in court seeking to have murder charges dismissed",
@@ -578,15 +632,6 @@
       "published_at": "2026-11-02 18:59 UTC"
     },
     {
-      "title": "Senegal hosts Africa’s first Olympics",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/2/senegal-hosts-africas-first-olympics?traffic_source=rss",
-      "summary": "The head of the International Olympic Committee discusses the significance of Africa hosting the Youth Olympic Games.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 18:56 UTC"
-    },
-    {
       "title": "Enerjisa'dan üçüncü çeyrekte beklentileri aşan net kâr",
       "image": "https://geoim.bloomberght.com/l/2026/11/02/ver1793645813/3793126/jpg/320x180",
       "link": "https://www.bloomberght.com/enerjisa-dan-ucuncu-ceyrekte-beklentileri-asan-net-kr-3793126",
@@ -594,15 +639,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-02 18:55 UTC"
-    },
-    {
-      "title": "Iran pushing accelerated plan for ceasefire talks with US",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
-      "summary": "Tehran says plan has been condensed and can be implemented within two days as it continues talks with mediators.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 18:49 UTC"
     },
     {
       "title": "Siber Vatan Programı başvuruları 6 Kasım'a uzatıldı - Saray Medya",
@@ -623,15 +659,6 @@
       "published_at": "2026-11-02 18:47 UTC"
     },
     {
-      "title": "German unions launch wave of strikes over cost-of-living pressures",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/2/german-unions-launch-wave-of-strikes-over-cost-of-living-pressures?traffic_source=rss",
-      "summary": "The expanded industrial action comes amid a wave of strikes and protests that have sparked unrest across Europe.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 18:47 UTC"
-    },
-    {
       "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b47a/live/2a240410-d6c9-11f1-ac20-7783925c811f.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
@@ -639,24 +666,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-02 18:34 UTC"
-    },
-    {
-      "title": "Filistin'den İngiltere'ye Balfour Deklarasyonu'nun yol açtığı haksızlıkları düzeltme çağrısı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/filistinden-ingiltereye-balfour-deklarasyonunun-yol-actigi-haksizliklari-duzeltme-cagrisi-961990.html",
-      "summary": "Filistin yönetimi, İngiltere'yi Balfour Deklarasyonu'nun Filistin'in sömürgeleştirilmesinde oynadığı role ilişkin tarihi ve siyasi sorumluluğunu kabul etmeye ve bunun yol açtığı haksızlığı düzeltmek için pratik adımlar atmaya çağırdı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 18:21 UTC"
-    },
-    {
-      "title": "İngiltere'de göçmenlerin kalıcı oturum alma süresi uzatıldı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49d2/live/48f59b30-d6e0-11f1-93e1-3b657b665bcf.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c6x2qj0y0ypro?at_medium=RSS&at_campaign=rss",
-      "summary": "İngiltere'de İçişleri Bakanı Shabana Mahmood parlamentoda, çeşitli kategorilerdeki yasal göçmenlerin ülkede ömür boyu oturum (ILR) alabilmesi için gereken süreyi uzatan yeni kuralları açıkladı.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 17:47 UTC"
     },
     {
       "title": "42AI, İnsan Kararlarını Tahmin Etmek İçin Davranışsal Bir Dünya Modeli Geliştiriyor - Unite.AI",
@@ -792,15 +801,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-02 14:29 UTC"
-    },
-    {
-      "title": "Merkez Bankası rezervleri 6,9 milyar dolar azaldı - Memurlar.Net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3k2ZzdhU1ZMOVUzcTdhaWlaTm1vWlNfVFJXbkxwLWRNUmNvdENiNW0tOHBlSWJfaTFIZng5SzBEUHNfbnFlS25DOGVXTDRvMThNY3F2UmFhNFh0LURlcU5hdk9Gc0dZZ0tmMXEwY2FjTF9QYzlYVzdpeDY0RTVCblJERENwOUFyaURnaktOcFlCY1RqVmh0R9IBoAFBVV95cUxPb3o0RUtPZ3dFVnhzSW1NV19VYmVCTmpWY1hQbHJLMnl4UHl1T1BsdE84ZlJSdkRSUHJQYVlxN2FrVUFlUGJ0Ym5kcFh5UmhDLUh2Q0x5a0lBRUVZRWRNcURWRUFaR2JHUnlzZGh1Rkg0c28tMkJCRDc4dnZrTE43Z2dwUFlZUFllTE1VZ0hBMXplWmJ1SGhpMEt0Z2ZiSmYz?oc=5",
-      "summary": "Merkez Bankası rezervleri 6,9 milyar dolar azaldı Memurlar.Net",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-02 14:25 UTC"
     },
     {
       "title": "Bazı insanlar günde dört saat uykuyla nasıl yaşayabiliyor?",
