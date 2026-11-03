@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-03 01:52 UTC",
+  "updated_at": "2026-11-03 02:41 UTC",
   "items": [
+    {
+      "title": "US urges Venezuela to follow phased plan for democratic transition",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss",
+      "summary": "This comes as leading opposition leader returns to Venezuela and hints at criticism of Trump administration.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 02:27 UTC"
+    },
+    {
+      "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
+      "summary": "Several explosions heard in Qeshm Island and Bandar Lengeh as US media say the US military had carried out the strikes.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 02:25 UTC"
+    },
+    {
+      "title": "Thousands displaced as homes are bulldozed in India’s Assam state",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss",
+      "summary": "Hundreds of homes have been bulldozed in the Dhubri district of Assam state in northeastern India.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 02:15 UTC"
+    },
+    {
+      "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss",
+      "summary": "At least 150 Afghans are facing deportation to Pakistan and on to Afghanistan.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 02:12 UTC"
+    },
+    {
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a969/live/dd51e9c0-d729-11f1-9b56-c9b433d51ba8.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 01:57 UTC"
+    },
+    {
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 01:56 UTC"
+    },
     {
       "title": "Trump'tan Amerikalı seçmenlere 'sandığa gidin' çağrısı",
       "image": "",
@@ -110,7 +164,7 @@
       "published_at": "2026-11-03 00:04 UTC"
     },
     {
-      "title": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+      "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
       "image": "",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
       "summary": "Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached.",
@@ -362,15 +416,6 @@
       "published_at": "2026-11-02 21:11 UTC"
     },
     {
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 21:10 UTC"
-    },
-    {
       "title": "'Daha şiddetlisini görmedim' diyerek paylaştı: İstanbul'daki TCMB Kulesi’ne yıldırım düştü: O anlar kamerada - Yeni Şafak",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOXzAtNWFyUkVJalF1YmZpZzhfWWdQSDRKYUxZd1JpSGU2WHBIVlM5eGtGUVB0WldPZ29QOFlpRVdZaTd0Z1RpTmdJbmN4bEFkTWFrWVl4NEE0YjFfeWl0YXRVaEdkeTRyS3FYanAxMzY0a2tIZUxLVUgxWUh4RGdIUDRocjFKbmctYUc4MTVJV19fWmdsSmhqWGJrYWF4aEp4YXZHR2diTTF2RW5KR2JtTFNCX2hDVE9wR3IyRXh4T2tFU2dqTDU5c0NkVzFqamJRUjEtbUhuaUpza25aRDF2U0RxVQ?oc=5",
@@ -479,15 +524,6 @@
       "published_at": "2026-11-02 20:45 UTC"
     },
     {
-      "title": "What’s the future of the Western Sahara conflict?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
-      "summary": "The UN is ending its peacekeeping mission in the disputed territory after the US and Russia blocked its extension.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 20:43 UTC"
-    },
-    {
       "title": "Ukrayna: Rusya'nın Komişuvaha köyüne düzenlediği saldırılarda 24 kişi hayatını kaybetti",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-komisuvaha-koyune-duzenledigi-saldirilarda-24-kisi-hayatini-kaybetti-961997.html",
@@ -495,33 +531,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-02 20:38 UTC"
-    },
-    {
-      "title": "US to suspend South Africa and Rwanda from duty-free trade access",
-      "image": "",
-      "link": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
-      "summary": "South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 20:38 UTC"
-    },
-    {
-      "title": "UK bookshop helps meet demand for Sally Rooney novels",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/uk-bookshop-helps-meet-demand-for-sally-rooney-novels?traffic_source=rss",
-      "summary": "Novels by Irish author Sally Rooney are in high demand after her publisher, Faber, halted supplies in the United Kingdom",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 20:31 UTC"
-    },
-    {
-      "title": "Mamdani-endorsed progressives fight to join Congress",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/mamdani-endorsed-progressives-fight-to-join-congress?traffic_source=rss",
-      "summary": "Zohran Mamdani is championing a slate of Congressional candidates who want to take progressive policies national.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 20:28 UTC"
     },
     {
       "title": "Katil İsrail'in Gazze'ye saldırılarında 7 Filistinli daha hayatını kaybetti",
@@ -569,6 +578,15 @@
       "published_at": "2026-11-02 20:11 UTC"
     },
     {
+      "title": "BIST 100 günü yüzde 1,88 yükselişle tamamladı. Altının kilogram fiyatı yüzde 1,2 gerilerken Brent petrolün ocak vadeli varili yüzde 6,6 düşüşle 106 dolar oldu. - EKOTÜRK",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3dDUkRPTl9fc0cyam1pWkZheU9BNEFaUkl4aXNzcjZKQ3VWWVd5VGdqeTNnQkd1U3lhTC0teUF5YWdOeFpBTGZiTnJVcEV6eE4yVE5WVlBKQkczMVZ1aXpqajJxVlY5bTRyLV9RRXNwamtHNmhBOUZ6bFFqR1Vyd2NaWjlrTFNRSkpTVTZQQnh5dFJ5WVhlajNTSkdVUzhQMkQxSWdrWWY2dw?oc=5",
+      "summary": "BIST 100 günü yüzde 1,88 yükselişle tamamladı. Altının kilogram fiyatı yüzde 1,2 gerilerken Brent petrolün ocak vadeli varili yüzde 6,6 düşüşle 106 dolar oldu. EKOTÜRK",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-02 20:11 UTC"
+    },
+    {
       "title": "Çin Merkez Bankası gecelik ters repo operasyonlarına başladı - EKOTÜRK",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTY1bUluSEtRZ2tIbEt5dzNROU5ZYWFyRFJIUzU4R0UxMmtvZkNKWmhwZXQ2VG1VUmpfUlFUUWg4WDFJM0l3OEZXY3BrbW5GUzJsc3lZTXYtSDhCSHZxbWZUeHZPYmZwQ2wyUVVpcm9RemtPR3dSM19yWExKNXUwamRnaTBZYnVLU3pNREV1SVBVem1qcEtRY0x3?oc=5",
@@ -600,6 +618,15 @@
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDJSSFRlbHpGVU5sWlBVbGp0NGRZaTdZNy1YMTBTMklKZ3hjNmZ0Q3NJZ3FaeWJLV1FWVGU2eXRWOFpGdzhUV0o3MHJrN3JDcnhyVnR6S24tTTRRenZ4RTRmZXo3VkRHSVBNX0dDcmdHWkZQRlBNSDZuRFM3R1FKTXZPVWZDWkZ2MFhmQVhNLURMY05tWlJ4Yk5wam1pa3dNQUp0eGtOamxuZi1uTms5VE9vUDhLQQ?oc=5",
       "summary": "Borsa İstanbul’da 41 şirket için bilanço takvimi: 2–9 Kasım’da kimler açıklayacak? EKOTÜRK",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-02 20:10 UTC"
+    },
+    {
+      "title": "BIST 100 endeksi güne yatay seyirle başladı - EKOTÜRK",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFVHWnJ6Z2RBUXlheUFTLTJ0Ui1FMkhzSkxJWEkxV3c1VmFjZUlTVmJpUVZCWHV4R2I1VmRvRGo3eEJzT0FMbm5LRXB6Y2ZoVi1FQVZvVFYtaFQ0eTB1bWYtbUxGR3FVRFBTc2dVOVhHMU11VGZZTDBYa0tYMzh0QXVSS1FINWJ6cGhkRm0zTUJvaVpvQWc?oc=5",
+      "summary": "BIST 100 endeksi güne yatay seyirle başladı EKOTÜRK",
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-02 20:10 UTC"
@@ -776,15 +803,6 @@
       "published_at": "2026-11-02 16:40 UTC"
     },
     {
-      "title": "Piyasalarda gün sonu notları - Borsa Gundem",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QYkxNbFVvQTZvWGpBcVA1dHc1bV9RUVF0d2hmWGZUQmwzM3M4NV9GOFYyanlCQlVHLTYtMHN1ejZZYnM4TWlRSWxZenh4YXNNbF82Zk92Ymtod085NzM1N011aTlja0ZIbEh4TUpZaVI?oc=5",
-      "summary": "Piyasalarda gün sonu notları Borsa Gundem",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-02 16:25 UTC"
-    },
-    {
       "title": "Avrupa genelinde süpermarket soğutucularına siber saldırı",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f2ab/live/a3865ef0-d6d0-11f1-ac20-7783925c811f.jpg",
       "link": "https://www.bbc.com/turkce/articles/cmx23e2dexndo?at_medium=RSS&at_campaign=rss",
@@ -882,24 +900,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-11-02 13:36 UTC"
-    },
-    {
-      "title": "Merkez Bankası rezervlerinde düşüş devam ediyor: 158,1 milyar dolara geriledi - T24",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0Z5c1VZUDZQQ25VT1RjNnlrLUJMOXZpU1FQbkVBZGxUQ2dKNkd5akgzLTVkRzNNeF9WbkJ6SjJEUjF0U1ZUNkgxT0Q1d05Hc25BMkJBaXNRblNQd2NieTUxMHJHc0Fpek5LWHBoQ2NqZ3lEdDRNVnZwX2VGa3ZXVVl0Yk1iZTN1cDBwSGtQTXpQNS16VzJMQWVRREdsLXRhMEczSU5jYWphbVYwb21z?oc=5",
-      "summary": "Merkez Bankası rezervlerinde düşüş devam ediyor: 158,1 milyar dolara geriledi T24",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-02 13:18 UTC"
-    },
-    {
-      "title": "Bahçeli'den 19 yeni il önerisi: Bir ilçenin il olması ne anlama geliyor?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a66c/live/e4731180-d6bf-11f1-aacc-5b5f23abff4b.png",
-      "link": "https://www.bbc.com/turkce/articles/cwe9l7g8z9d7o?at_medium=RSS&at_campaign=rss",
-      "summary": "MHP lideri Devlet Bahçeli Türkiye'de 19 yeni il ve 78 yeni ilçe kurulmasını önerdi. Bir ilçenin il olması ne anlama geliyor? İl olan bir ilçede neler değişiyor?",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 13:15 UTC"
     }
   ]
 }
