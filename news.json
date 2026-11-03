@@ -1,12 +1,93 @@
 {
-  "updated_at": "2026-11-03 21:34 UTC",
+  "updated_at": "2026-11-03 22:31 UTC",
   "items": [
+    {
+      "title": "İsrail ordusunun Batı Şeria'da düzenlediği baskınlarında 2 Filistinli yaralandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-bati-seriada-duzenledigi-baskinlarinda-2-filistinli-yaralandi/4110623",
+      "summary": "İsrail ordusunun, işgal altındaki Batı Şeria'da düzenlediği baskınlarda 2 Filistinlinin yaralandığı ve 6 kişinin gözaltına alındığı bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 22:23 UTC"
+    },
+    {
+      "title": "İspanya Ulaştırma Bakanı, 69 kişinin öldüğü tren kazasının ardından istifa etti",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ece1/live/e88a6500-d37e-11f1-b5f4-fd541fd21001.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
+      "summary": "İspanya Ulaştırma Bakanı Oscar Puente, en az 69 kişinin hayatını kaybettiği hızlı tren kazasından yaklaşık bir hafta sonra istifasını açıkladı.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 22:08 UTC"
+    },
     {
       "title": "Spanish transport minister resigns days after deadly train crash",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
       "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
       "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 22:04 UTC"
+    },
+    {
+      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c38/live/b5b1d720-d7cb-11f1-b441-2b33b063138f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+      "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 21:53 UTC"
+    },
+    {
+      "title": "President Zelenskyy says US elections will impact war in Ukraine",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+      "summary": "Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 21:43 UTC"
+    },
+    {
+      "title": "Texans vote in most expensive Senate race in US history",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/3/texans-vote-in-most-expensive-senate-race-in-us-history?traffic_source=rss",
+      "summary": "Pivotal Texas race for US Senate breaks spending records, with $573.2m poured into Paxton and Talarico campaigns.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 21:41 UTC"
+    },
+    {
+      "title": "Bakan Işıkhan: İşsizlik Sigortası Fonu'nun tasfiye edilen fonlarla ilgisi yok",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-isikhan-issizlik-sigortasi-fonunun-tasfiye-edilen-fonlarla-ilgisi-yok-962148.html",
+      "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, İşsizlik Sigortası Fonu'nun tasfiye edilen fonlarla hiçbir bağlantısının bulunmadığını belirterek, \"İşsizlik Sigortası Fonu işçilerimizin alın teridir, işçilerimizin hakkıdır. Biz emekçimizin, işçimizin bir kuruş hakkını dahi kimseye yedirmedik ve yedirmeyiz\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 21:37 UTC"
+    },
+    {
+      "title": "Ferrari'nin ilk elektrikli modeli 2027 için şimdiden tükendi",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793741739/3793357/jpg/320x180",
+      "link": "https://www.bloomberght.com/ferrari-nin-ilk-elektrikli-modelinde-2027-siparisleri-doldu-3793357",
+      "summary": "Ferrari CEO'su Benedetto Vigna, şirketin ilk tamamen elektrikli modeli Luce'ye yönelik siparişlerin, 2027 yılı için planlanan satışların tamamını şimdiden karşıladığını açıkladı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-03 21:35 UTC"
+    },
+    {
+      "title": "Müslümanları hedef alan İsrail bağlantılı ve dev bütçeli dezenformasyon kampanyası ortaya çıkarıldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/muslumanlari-hedef-alan-israil-baglantili-ve-dev-butceli-dezenformasyon-kampanyasi-ortaya-cikarildi-962147.html",
+      "summary": "Dünya üzerinde 30 ülkede Müslümanları ve göçmenleri hedef alan, İsrail merkezli kuruluşlarla bağlantılı ve dev bütçeli bir dezenformasyon kampanyası ortaya çıkarıldı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 21:33 UTC"
+    },
+    {
+      "title": "Netanyahu’s eight-seat problem",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
+      "summary": "Netanyahu’s Likud-led bloc won the most seats in the general election, but forming a government is another battle",
+      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-03 21:19 UTC"
     },
@@ -34,6 +115,15 @@
       "link": "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-455-bin-yatirimcinin-onemli-bir-kisminin-anaparasi-odenecek-962146.html",
       "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fon tasfiye sürecinde küçük yatırımcılara yönelik ödemelerin sürdüğünü belirterek, 455 bin yatırımcının önemli bir kısmının anaparasını alacağını, ödemelerin kasım ayının ortalarına kadar büyük ölçüde tamamlanmasının beklendiğini söyledi.",
       "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 21:15 UTC"
+    },
+    {
+      "title": "Palestinian families return home after Israeli siege of Hebron",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
+      "summary": "Palestinian families return home after Israeli siege of Hebron",
+      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-03 21:15 UTC"
     },
@@ -299,15 +389,6 @@
       "published_at": "2026-11-03 19:21 UTC"
     },
     {
-      "title": "Süper Lig'den 7 takım, PFDK'ye sevk edildi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/super-ligden-7-takim-pfdkye-sevk-edildi/4110470",
-      "summary": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Trendyol Süper Lig'den 7 takımı Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 19:18 UTC"
-    },
-    {
       "title": "Merkez bankaları, altın fiyatlarındaki düşüşü alım fırsatına çevirdi",
       "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793733504/3793354/jpg/320x180",
       "link": "https://www.bloomberght.com/merkez-bankalari-altin-fiyatlarindaki-dususu-alim-firsatina-cevirdi-3793354",
@@ -408,7 +489,7 @@
     },
     {
       "title": "ABD'nin ilk Müslüman senatörü olabilecek Abdul El-Sayed kimdir?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/60b8/live/99ed9820-d795-11f1-801d-cf196dc7232c.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4911/live/f658cc20-d7d0-11f1-93e1-3b657b665bcf.jpg",
       "link": "https://www.bbc.com/turkce/articles/cmwyqjz313ggo?at_medium=RSS&at_campaign=rss",
       "summary": "Michigan eyaletinde yapılan anketler, Demokrat Parti adayı Abdul El-Sayed'in ülkenin ilk Müslüman senatörü olacağını gösteriyor.",
       "source": "BBC Türkçe",
@@ -452,24 +533,6 @@
       "published_at": "2026-11-03 18:05 UTC"
     },
     {
-      "title": "Selden etkilenen işletmelere 24 ay vadeli, 6 ay ödemesiz kredi desteği",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/selden-etkilenen-isletmelere-24-ay-vadeli-6-ay-odemesiz-kredi-destegi-962133.html",
-      "summary": "Sel ve taşkınlardan etkilenen KOBİ'ler için KOSGEB aracılığıyla Acil Durumlar Desteği hayata geçirildi. Destek kapsamında küçük işletmelere 1 milyon TL, mikro işletmelere ise 500 bin TL'ye kadar kredi sağlanacak.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 17:57 UTC"
-    },
-    {
-      "title": "Grönland Parlamentosu, ABD ile güvenlik anlaşmasını onayladı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/gronland-parlamentosu-abd-ile-guvenlik-anlasmasini-onayladi-962132.html",
-      "summary": "Grönland Parlamentosunda ABD'nin Ada'daki askeri varlığının genişletilmesinin önünü açan güvenlik anlaşmasının onaylandığı bildirildi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 17:55 UTC"
-    },
-    {
       "title": "Garanti BBVA'dan pay geri alım kararı",
       "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793728296/3793346/jpg/320x180",
       "link": "https://www.bloomberght.com/garanti-bbva-dan-pay-geri-alim-karari-3793346",
@@ -506,15 +569,6 @@
       "published_at": "2026-11-03 17:24 UTC"
     },
     {
-      "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
-      "summary": "Shrimpers worry about fuel costs, tariffs and Trump's proposed cuts to the agency that provides vital weather data.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 17:22 UTC"
-    },
-    {
       "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0120/live/ab031c10-d796-11f1-801d-cf196dc7232c.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
@@ -531,24 +585,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-11-03 17:04 UTC"
-    },
-    {
-      "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
-      "image": "",
-      "link": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
-      "summary": "Survivors of attacks on displacement camps in Darfur recall the lives they built, and violence that forced them to flee.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 17:03 UTC"
-    },
-    {
-      "title": "Barcelona vs Aston Villa LIVE: Champions League",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/3/barcelona-vs-aston-villa-live-champions-league?traffic_source=rss",
-      "summary": "Follow updates from the league stage clash, including the build-up, analysis, and live text commentary of the game.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 17:00 UTC"
     },
     {
       "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
@@ -576,15 +612,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-03 16:50 UTC"
-    },
-    {
-      "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
-      "summary": "With neither bloc near a majority, Arab and ultra-Orthodox parties hold the key to Israel’s next government..",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 16:49 UTC"
     },
     {
       "title": "Küresel altın fiyatlarında seçim öncesi düşüş: Gözler ABD'ye çevrildi - EKOTÜRK",
@@ -713,13 +740,13 @@
       "published_at": "2026-11-03 14:35 UTC"
     },
     {
-      "title": "Trump'tan İsrail'e yardım durdurma kararı",
-      "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793714854/3793315/jpg/320x180",
-      "link": "https://www.bloomberght.com/trump-tan-israil-e-yardimi-durdurma-karari-3793315",
-      "summary": "ABD Başkanı Donald Trump, ABD'nin İsrail'e yapacağı 4 milyar dolarlık yardımın durdurulacağını açıkladı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-03 14:07 UTC"
+      "title": "LO:TECH, kripto ticaretini ABD ve Asya'ya genişletmek için 12 milyon dolar fon topladı - CoinDesk",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUEd2MWk4Tm1NNUZJdXRtcG44bXdYNTY0TGd6YUhGSXF0QzRocFlYUmpRTXZkZ3ZaUEdsdXZVS0JqTjJCaGllLVBRMmdTQmpUV1dVUHRhaDN0RG5pTnNRaHNvdEk5SXVVT21xUUhJRHNSeldWbVB5U0otMEV0V3hxVlhncHdwc3B3ZTRfY2JqLUZqWmotOW13clU2dExKZDAzcnJOSDBrMWt6aDItYW82VG1qTkFLWFg5Rkc0?oc=5",
+      "summary": "LO:TECH, kripto ticaretini ABD ve Asya'ya genişletmek için 12 milyon dolar fon topladı CoinDesk",
+      "source": "Google News - Küresel Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-03 14:00 UTC"
     },
     {
       "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
@@ -731,17 +758,8 @@
       "published_at": "2026-11-03 13:55 UTC"
     },
     {
-      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 13:26 UTC"
-    },
-    {
       "title": "Memur ve memur emeklilerine 2027'de yüzde 5 ve yüzde 4 toplu sözleşme zammı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5858/live/48a73760-d780-11f1-a701-fddedf244c16.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/41fa/live/a0753dc0-d7d5-11f1-8cb0-d304936875f3.jpg",
       "link": "https://www.bbc.com/turkce/articles/cwzd6m2y21r8o?at_medium=RSS&at_campaign=rss",
       "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, 2027 yılında memur ve memur emeklileri için yüzde beş ve yüzde dört oranında artış yapılacağını söyledi.",
       "source": "BBC Türkçe",
@@ -882,24 +900,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-03 07:43 UTC"
-    },
-    {
-      "title": "Borsa İstanbul günün ilk yarısını yükselişle tamamladı - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcDlNRHRzenF4ODE2bnJVbGFDT0lDeHpkcHBSb0NQMDYzNE5hNElZd1MtUHVsaHZucWtnTDg1UTdwVW1DN2tuWmNrWjB4eU84ZGxkWnlINHZKTlhrNGhWcFkwQzBqbExMeXNRTG5YTC1ZVXlQcTdWZmppOVJ2bmJPUEFESThSMGsxV0xqdHotTQ?oc=5",
-      "summary": "Borsa İstanbul günün ilk yarısını yükselişle tamamladı EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-03 07:29 UTC"
-    },
-    {
-      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9647/live/0ce22d10-d754-11f1-8bf4-5f3ca896096e.jpg",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 07:15 UTC"
     }
   ]
 }
