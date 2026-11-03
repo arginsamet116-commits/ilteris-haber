@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-11-03 00:55 UTC",
+  "updated_at": "2026-11-03 01:52 UTC",
   "items": [
+    {
+      "title": "Trump'tan Amerikalı seçmenlere 'sandığa gidin' çağrısı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/trumptan-amerikali-secmenlere-sandiga-gidin-cagrisi-962009.html",
+      "summary": "ABD Başkanı Donald Trump, 3 Kasım Salı günü yapılacak Kongre ara seçimleri öncesinde seçmenlere son kez seslenerek \"sandığa gitmeleri\" çağrısında bulundu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 01:28 UTC"
+    },
+    {
+      "title": "Manisa'da ambulans ve traktör çarpıştı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/manisada-ambulans-ve-traktor-carpisti-962008.html",
+      "summary": "Manisa'nın Köprübaşı ilçesinde hasta taşıyan ambulansla traktörün çarpışması sonucu 6 kişi yaralandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 01:26 UTC"
+    },
+    {
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 01:23 UTC"
+    },
+    {
+      "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
+      "summary": "At least 26 people were killed in Russian strikes on a school being used as a humanitarian aid centre.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 01:17 UTC"
+    },
+    {
+      "title": "TÜİK ekim ayı enflasyon verilerini açıklayacak",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd03/live/feb7c680-d723-11f1-93e1-3b657b665bcf.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cked3j59ld35o?at_medium=RSS&at_campaign=rss",
+      "summary": "Türkiye İstatistik Kurumu (TÜİK) bugün ekim ayı enflasyon verilerini açıklayacak",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 01:15 UTC"
+    },
+    {
+      "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss",
+      "summary": "US President Donald Trump urged supporters to turn out ahead of Election Day",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 01:01 UTC"
+    },
+    {
+      "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
+      "summary": "The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 00:50 UTC"
+    },
     {
       "title": "Enflasyon verileri bugün açıklanacak",
       "image": "",
@@ -506,15 +569,6 @@
       "published_at": "2026-11-02 20:11 UTC"
     },
     {
-      "title": "BIST 100 günü yüzde 1,88 yükselişle tamamladı. Altının kilogram fiyatı yüzde 1,2 gerilerken Brent petrolün ocak vadeli varili yüzde 6,6 düşüşle 106 dolar oldu. - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3dDUkRPTl9fc0cyam1pWkZheU9BNEFaUkl4aXNzcjZKQ3VWWVd5VGdqeTNnQkd1U3lhTC0teUF5YWdOeFpBTGZiTnJVcEV6eE4yVE5WVlBKQkczMVZ1aXpqajJxVlY5bTRyLV9RRXNwamtHNmhBOUZ6bFFqR1Vyd2NaWjlrTFNRSkpTVTZQQnh5dFJ5WVhlajNTSkdVUzhQMkQxSWdrWWY2dw?oc=5",
-      "summary": "BIST 100 günü yüzde 1,88 yükselişle tamamladı. Altının kilogram fiyatı yüzde 1,2 gerilerken Brent petrolün ocak vadeli varili yüzde 6,6 düşüşle 106 dolar oldu. EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-02 20:11 UTC"
-    },
-    {
       "title": "Çin Merkez Bankası gecelik ters repo operasyonlarına başladı - EKOTÜRK",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTY1bUluSEtRZ2tIbEt5dzNROU5ZYWFyRFJIUzU4R0UxMmtvZkNKWmhwZXQ2VG1VUmpfUlFUUWg4WDFJM0l3OEZXY3BrbW5GUzJsc3lZTXYtSDhCSHZxbWZUeHZPYmZwQ2wyUVVpcm9RemtPR3dSM19yWExKNXUwamRnaTBZYnVLU3pNREV1SVBVem1qcEtRY0x3?oc=5",
@@ -551,15 +605,6 @@
       "published_at": "2026-11-02 20:10 UTC"
     },
     {
-      "title": "BIST 100 endeksi güne yatay seyirle başladı - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFVHWnJ6Z2RBUXlheUFTLTJ0Ui1FMkhzSkxJWEkxV3c1VmFjZUlTVmJpUVZCWHV4R2I1VmRvRGo3eEJzT0FMbm5LRXB6Y2ZoVi1FQVZvVFYtaFQ0eTB1bWYtbUxGR3FVRFBTc2dVOVhHMU11VGZZTDBYa0tYMzh0QXVSS1FINWJ6cGhkRm0zTUJvaVpvQWc?oc=5",
-      "summary": "BIST 100 endeksi güne yatay seyirle başladı EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-02 20:10 UTC"
-    },
-    {
       "title": "Man guilty of stealing cash from farm owned by South African president",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee6f/live/1399f160-d6fa-11f1-b983-c357054e4d1e.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
@@ -587,39 +632,12 @@
       "published_at": "2026-11-02 19:44 UTC"
     },
     {
-      "title": "İstanbul için sağanak uyarısı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbul-icin-saganak-uyarisi-961993.html",
-      "summary": "İstanbul için kuvvetli sağanak uyarısı yapıldı. Su baskını, ani sel ve ulaşımda aksamalar gibi olumsuzluklara karşı vatandaşlar uyarıldı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 19:43 UTC"
-    },
-    {
-      "title": "HRW calls on Zambia to halt post-election crackdown",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
-      "summary": "Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 19:40 UTC"
-    },
-    {
       "title": "ABD'nin LNG ihracatı Ekim'de rekor seviyelere yaklaştı",
       "image": "https://geoim.bloomberght.com/l/2026/11/02/ver1793648645/3793129/jpg/320x180",
       "link": "https://www.bloomberght.com/abd-nin-lng-ihracati-ekim-de-rekor-seviyelere-yaklasti-3793129",
       "summary": "ABD'nin sıvılaştırılmış doğalgaz (LNG) ihracatı, Avrupa'dan gelen güçlü talep ve yüksek doğalgaz fiyatlarının etkisiyle Ekim'de kayıtlardaki en yüksek ikinci aylık seviyesine ulaştı.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-02 19:39 UTC"
-    },
-    {
-      "title": "Protester’s ‘I support genocide’ sign appears to face no police action",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss",
-      "summary": "Holding a sign expressing support for genocide is not, in itself, grounds for arrest under UK law.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-02 19:39 UTC"
     },
     {
@@ -641,15 +659,6 @@
       "published_at": "2026-11-02 19:18 UTC"
     },
     {
-      "title": "Lindsay Clancy back in court seeking to have murder charges dismissed",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
-      "summary": "Defence argues that retrying Clancy would violate ⁠⁠her constitutional rights.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 19:11 UTC"
-    },
-    {
       "title": "Meta, tahvil ihracıyla en az 20 milyar dolar toplamayı hedefliyor",
       "image": "https://geoim.bloomberght.com/l/2026/11/02/ver1793646213/3793127/jpg/320x180",
       "link": "https://www.bloomberght.com/meta-tahvil-ihraciyla-en-az-20-milyar-dolar-toplamayi-hedefliyor-3793127",
@@ -657,15 +666,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-02 19:02 UTC"
-    },
-    {
-      "title": "Mülkiyede kariyer zirvesi 3 Kasım'da düzenlenecek",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/guncel/mulkiyede-kariyer-zirvesi-3-kasimda-duzenlenecek-961992.html",
-      "summary": "Mülkiye Mektepliler Derneği tarafından fakültedeki öğrenci toplulukları ile birlikte organize edilen Kariyer Zirvesi 3 Kasım 2026 tarihinde Ankara Üniversitesi Siyasal Bilgiler Fakültesinde gerçekleştirilecek. Programda öğrenciler mezun üst düzey bürokratlar ile kariyer yollarını konuşacak ve gelecek rotasını çizecek.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-02 18:59 UTC"
     },
     {
       "title": "Enerjisa'dan üçüncü çeyrekte beklentileri aşan net kâr",
@@ -776,6 +776,15 @@
       "published_at": "2026-11-02 16:40 UTC"
     },
     {
+      "title": "Piyasalarda gün sonu notları - Borsa Gundem",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QYkxNbFVvQTZvWGpBcVA1dHc1bV9RUVF0d2hmWGZUQmwzM3M4NV9GOFYyanlCQlVHLTYtMHN1ejZZYnM4TWlRSWxZenh4YXNNbF82Zk92Ymtod085NzM1N011aTlja0ZIbEh4TUpZaVI?oc=5",
+      "summary": "Piyasalarda gün sonu notları Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-02 16:25 UTC"
+    },
+    {
       "title": "Avrupa genelinde süpermarket soğutucularına siber saldırı",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f2ab/live/a3865ef0-d6d0-11f1-ac20-7783925c811f.jpg",
       "link": "https://www.bbc.com/turkce/articles/cmx23e2dexndo?at_medium=RSS&at_campaign=rss",
@@ -803,15 +812,6 @@
       "published_at": "2026-11-02 15:38 UTC"
     },
     {
-      "title": "Borsa İstanbul, BIST 100’den ibaret değil - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vdUJ5WTNTQ1ZrVUdFMnh2ZzhPQnJDTEpKVXdtU01TYWVEOHEta3JBbWRiTHRmZ2tDRmFPWTZmSzZRUEstMmpQeWZGd0l1cWFzRmtVVmdodmE4ZjA4MkMzZFRCVjE1alZvX2RCMkIzUnNUbjVtTmZ3?oc=5",
-      "summary": "Borsa İstanbul, BIST 100’den ibaret değil EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-02 14:45 UTC"
-    },
-    {
       "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4189/live/0af88b20-d6c8-11f1-ac20-7783925c811f.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
@@ -828,6 +828,15 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-02 14:29 UTC"
+    },
+    {
+      "title": "Merkez Bankası rezervleri 6,9 milyar dolar azaldı - Memurlar.Net",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3k2ZzdhU1ZMOVUzcTdhaWlaTm1vWlNfVFJXbkxwLWRNUmNvdENiNW0tOHBlSWJfaTFIZng5SzBEUHNfbnFlS25DOGVXTDRvMThNY3F2UmFhNFh0LURlcU5hdk9Gc0dZZ0tmMXEwY2FjTF9QYzlYVzdpeDY0RTVCblJERENwOUFyaURnaktOcFlCY1RqVmh0R9IBoAFBVV95cUxPb3o0RUtPZ3dFVnhzSW1NV19VYmVCTmpWY1hQbHJLMnl4UHl1T1BsdE84ZlJSdkRSUHJQYVlxN2FrVUFlUGJ0Ym5kcFh5UmhDLUh2Q0x5a0lBRUVZRWRNcURWRUFaR2JHUnlzZGh1Rkg0c28tMkJCRDc4dnZrTE43Z2dwUFlZUFllTE1VZ0hBMXplWmJ1SGhpMEt0Z2ZiSmYz?oc=5",
+      "summary": "Merkez Bankası rezervleri 6,9 milyar dolar azaldı Memurlar.Net",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-02 14:25 UTC"
     },
     {
       "title": "Bazı insanlar günde dört saat uykuyla nasıl yaşayabiliyor?",
@@ -891,15 +900,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-02 13:15 UTC"
-    },
-    {
-      "title": "Merkez Bankası rezervleri 162,2 milyar dolar oldu - TRT Haber",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcGxVdTVFTUtlNVBQVXVXUmQ1blNkejRKbzBwUW0zUy1sRm12YWN3NnpoelZ2b3kwTmNobXJlZ2FDVGZjR2g0LThENms3YWNQQU55NWVFbHlHMHpiYzFCVnZJTE9rcldRVVBHVUtHMWZudHNCOTJfVFNBLVFqQjk5YU8xOGdRa3lfOWp3aXlKeU9NTXJ1M3JpUzJ3RWlsWGlH?oc=5",
-      "summary": "Merkez Bankası rezervleri 162,2 milyar dolar oldu TRT Haber",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-02 12:27 UTC"
     }
   ]
 }
