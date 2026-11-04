@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-11-04 00:39 UTC",
+  "updated_at": "2026-11-04 01:50 UTC",
   "items": [
+    {
+      "title": "Kazakhstan releases second tiger into the wild",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss",
+      "summary": "Kazakhstan has released a second Siberian tiger, this time a male named Amur, into a nature reserve.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 01:39 UTC"
+    },
+    {
+      "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
+      "summary": "Roy Cooper beat out Republican Michael Whatley.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 01:36 UTC"
+    },
+    {
+      "title": "ABD'de ara seçimler: Kongre'nin kontrolü ve Trump'ın son iki yılı oylanıyor",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d474/live/4b806710-d7d8-11f1-8cb0-d304936875f3.jpg",
+      "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. Sonuçlar, Başkan Donald Trump'ın görev süresinin kalan iki yılında politikalarını ne ölçüde hayata geçirebileceğini de etkileyecek. Doğu ve orta kesim eyaletlerin pek çoğunda sandıklar kapanmaya başladı",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 01:24 UTC"
+    },
+    {
+      "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+      "summary": "US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 01:13 UTC"
+    },
+    {
+      "title": "UN elects five judges to International Court of Justice amid record cases",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
+      "summary": "The election, held at UN headquarters, required several rounds of voting to fill the fifth and final seat.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 01:03 UTC"
+    },
+    {
+      "title": "Democrat Jon Ossoff wins Georgia US Senate race",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
+      "summary": "Ossoff is re-elected to a second term, winning a key seat for Democrats as the party tries to retake the Senate.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 00:59 UTC"
+    },
+    {
+      "title": "Riyad'da erken uyarı sistemi devreye alındı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/riyadda-erken-uyari-sistemi-devreye-alindi-962152.html",
+      "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, başkent Riyad'da erken uyarı sisteminin tehlike alarmı verdiğini duyurdu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 00:48 UTC"
+    },
+    {
+      "title": "FBI arrests man for sending over 700 threatening letters to US officials",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/fbi-arrests-man-for-sending-700-white-powder-letters-to-us-officials?traffic_source=rss",
+      "summary": "The suspect, an Oklahoma City man, is accused of mailing hoax letters with white powder and treason warnings.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 00:44 UTC"
+    },
+    {
+      "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
+      "summary": "At least seven flights and an Israel-bound cruise ship received threats, but officials say searches found no explosives.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 00:35 UTC"
+    },
+    {
+      "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss",
+      "summary": "The Trump administration is doubling down on allegations Democrats stood up a 'spoiler' candidate against Republicans.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 00:33 UTC"
+    },
     {
       "title": "Trump, \"gerekirse\" Demokratların yönettiği şehirlere Ulusal Muhafız birliklerini göndereceğini söyledi",
       "image": "",
@@ -119,15 +209,6 @@
       "published_at": "2026-11-03 23:00 UTC"
     },
     {
-      "title": "ABD'de ara seçimler: Kongre'nin kontrolü ve Trump'ın son iki yılı oylanıyor",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d474/live/4b806710-d7d8-11f1-8cb0-d304936875f3.jpg",
-      "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
-      "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandık başında. Sonuçlar, Başkan Donald Trump'ın görev süresinin kalan iki yılında politikalarını ne ölçüde hayata geçirebileceğini de etkileyecek.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 22:45 UTC"
-    },
-    {
       "title": "Spanish transport minister resigns days after deadly train crash",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
@@ -155,10 +236,10 @@
       "published_at": "2026-11-03 22:35 UTC"
     },
     {
-      "title": "US midterm election results live: Polls start closing in some states",
+      "title": "US midterm election results live: Democrats up as vote count under way",
       "image": "",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
-      "summary": "Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.",
+      "summary": "Results are coming in from across the US as polls close in the midterm elections, with control of Congress at stake.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-03 22:30 UTC"
@@ -200,24 +281,6 @@
       "published_at": "2026-11-03 21:53 UTC"
     },
     {
-      "title": "President Zelenskyy says US elections will impact war in Ukraine",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
-      "summary": "Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 21:43 UTC"
-    },
-    {
-      "title": "Texans vote in most expensive Senate race in US history",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/3/texans-vote-in-most-expensive-senate-race-in-us-history?traffic_source=rss",
-      "summary": "Pivotal Texas race for US Senate breaks spending records, with $573.2m poured into Paxton and Talarico campaigns.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 21:41 UTC"
-    },
-    {
       "title": "Bakan Işıkhan: İşsizlik Sigortası Fonu'nun tasfiye edilen fonlarla ilgisi yok",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/bakan-isikhan-issizlik-sigortasi-fonunun-tasfiye-edilen-fonlarla-ilgisi-yok-962148.html",
@@ -245,15 +308,6 @@
       "published_at": "2026-11-03 21:33 UTC"
     },
     {
-      "title": "Netanyahu’s eight-seat problem",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
-      "summary": "Netanyahu’s Likud-led bloc won the most seats in the general election, but forming a government is another battle",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 21:19 UTC"
-    },
-    {
       "title": "UKMTO: Umman açıklarında bir tankere bilinmeyen 2 mühimmat isabet etti",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/ukmto-umman-aciklarinda-bir-tankere-bilinmeyen-2-muhimmat-isabet-etti/4110581",
@@ -277,15 +331,6 @@
       "link": "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-455-bin-yatirimcinin-onemli-bir-kisminin-anaparasi-odenecek-962146.html",
       "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fon tasfiye sürecinde küçük yatırımcılara yönelik ödemelerin sürdüğünü belirterek, 455 bin yatırımcının önemli bir kısmının anaparasını alacağını, ödemelerin kasım ayının ortalarına kadar büyük ölçüde tamamlanmasının beklendiğini söyledi.",
       "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 21:15 UTC"
-    },
-    {
-      "title": "Palestinian families return home after Israeli siege of Hebron",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
-      "summary": "Palestinian families return home after Israeli siege of Hebron",
-      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-03 21:15 UTC"
     },
@@ -335,15 +380,6 @@
       "published_at": "2026-11-03 21:03 UTC"
     },
     {
-      "title": "US astronauts vote from space in 2026 midterm elections",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss",
-      "summary": "NASA astronaut Anil Menon demonstrated on social media how he cast his ballot for Harris County in Texas, from space.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 21:03 UTC"
-    },
-    {
       "title": "Avrupa'da süpermarket dolaplarına siber saldırı: Asansörler ve trafik ışıkları da hedef olabilir",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/avrupada-supermarket-dolaplarina-siber-saldiri-asansorler-ve-trafik-isiklari-da-hedef-olabilir-962143.html",
@@ -368,15 +404,6 @@
       "summary": "ABD'de seçmenler, Kongre'nin kontrolünü belirleyecek ara seçimler için sandık başına gitti. Temsilciler Meclisi'nin 435 sandalyesinin tamamı ve Senato'daki 35 sandalye için yapılan seçimler, Başkan Donald Trump'ın görev süresinin kalan iki yılında Kongre'deki güç dengelerini belirleyecek. Seçimlere ilişkin tüm gelişmeleri canlı blog sayfamızdan takip edebilirsiniz.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-03 20:54 UTC"
-    },
-    {
-      "title": "Kyiv protest raises suspicions of possible Russian orchestration",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
-      "summary": "Ukraine is investigating clashes between protesters and authorities at a military dormitory near Kyiv.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-03 20:54 UTC"
     },
     {
@@ -479,15 +506,6 @@
       "published_at": "2026-11-03 20:07 UTC"
     },
     {
-      "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
-      "summary": "Michigan’s closely contested Senate race and voter concerns over the economy are putting Trump’s control of Washington.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 20:00 UTC"
-    },
-    {
       "title": "Fransa'da liselilerin eylemleri, üniversite öğrencilerinin desteğiyle devam ediyor",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/fransada-liselilerin-eylemleri-universite-ogrencilerinin-destegiyle-devam-ediyor/4110502",
@@ -504,15 +522,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-03 19:47 UTC"
-    },
-    {
-      "title": "Galatasaray, Stuttgart'ı iki golle geçti",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/galatasaray-stuttgarti-iki-golle-gecti-962137.html",
-      "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin 4. haftasında konuk ettiği Almanya'nın Stuttgart takımını 20 yenerek puanını 6'ya çıkardı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 19:41 UTC"
     },
     {
       "title": "OpenAI çalışanları kurum içi güvenlik riskleri konusunda yıllarca uyarıda bulundu - Unite.AI",
@@ -542,15 +551,6 @@
       "published_at": "2026-11-03 19:17 UTC"
     },
     {
-      "title": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
-      "summary": "Abdul El-Sayed hopes to become the first Muslim US senator as Michigan's Senate race reaches its critical final hours.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 19:13 UTC"
-    },
-    {
       "title": "İran'dan dört ülkeye Hürmüz'den geçiş muafiyeti",
       "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793731905/3793353/jpg/320x180",
       "link": "https://www.bloomberght.com/iran-dan-dort-ulkeye-hurmuz-den-gecis-muafiyeti-3793353",
@@ -558,15 +558,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-03 18:51 UTC"
-    },
-    {
-      "title": "Merkez Bankası anketine göre 1 Ocak'ta memur maaşları - Memurlar.Net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUjM5WFVuQUhDcF9JU0hyMGVVQ2hlUEduOEFhWGdoZWJzY1M3Y3lTRTJNb3dfcTF1T0dNbHZKNjFkWW5hLWowSVNWN2stMHNsXy01NDdMb0NOMHlqM0E5RzN4aXo4aUxhVi1LYnBDb19ad0VLNk1YemJLSWN5aTZZXy03UmtTcmNabzZZMFZNUlBmZU1DeUZHRnUtdVZCd9IBpgFBVV95cUxQVTk1WG5PdTRXOHdrLUctS2dtWTluY3g1UnNvMUZYWDBTTG1WVGJCUGhza2dKS1RyZ3YwWmcwb3dOb2VGVnNKc3ZWb3JpQUd4aUJNU2dwbTdVUUpXLVlWNWtfU0JFTkxZYmJNYkUzR09pc0dkZkZFbGc2RGF2cGlURW55aWI0ZHB6Qlg2aFB3MkhOUGRSR0puMDd0NUxOVVZhYUg2MzRR?oc=5",
-      "summary": "Merkez Bankası anketine göre 1 Ocak'ta memur maaşları Memurlar.Net",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-03 18:44 UTC"
     },
     {
       "title": "ABD'nin ilk Müslüman senatörü olabilecek Abdul El-Sayed kimdir?",
@@ -657,15 +648,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-03 16:54 UTC"
-    },
-    {
-      "title": "Küresel altın fiyatlarında seçim öncesi düşüş: Gözler ABD'ye çevrildi - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenZCVHJESmhBY1BoekNyYXEzVU1PdHVDVm9ZdC0wZVJFdFBoX0NIcHU2TlJ5R0NZZHIzaEp2WEVuN09FR3UzZ3JnOHZyb3Z1dlBGMlF5akZUTnpvV0tLYXlsMjJBQkV0azRZVV9lZGlHaG1fakR1Z0NROFNzcTY4ZVRsak1obXZCaFN2elNoS2ZLV0JNLWU1YjBabWdhdw?oc=5",
-      "summary": "Küresel altın fiyatlarında seçim öncesi düşüş: Gözler ABD'ye çevrildi EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-03 16:46 UTC"
     },
     {
       "title": "İsveç'te hükümet krizi derinleşiyor: Ringqvist de onay alamadı",
@@ -900,6 +882,24 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-03 07:49 UTC"
+    },
+    {
+      "title": "Merkez Bankası faiz kararı ne zaman açıklanacak? TCMB faiz indirecek mi? - Dünya Gazetesi",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWG16cjg3NGhBc0d0VFVCYVZVNExrM3ZzOFlfOXZzSGpiNnBiRW9Jb1pkWDYwdThSbjdWRnJUdFJrRGVDVXdNdHh1T3RqdXNtZzFoaHVlYjRtaG1sdmhPSlBjNERBaWF1cEV2WnNxR01MZHIwTFlYTm83bndMY1BHUVg2YTR4STU2TjMxc0wwODRtUktHc1NkNjhnYVJJb0ptaURSc0xIaUM2UkU1OHh3QUIxUjY?oc=5",
+      "summary": "Merkez Bankası faiz kararı ne zaman açıklanacak? TCMB faiz indirecek mi? Dünya Gazetesi",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-03 07:43 UTC"
+    },
+    {
+      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9647/live/0ce22d10-d754-11f1-8bf4-5f3ca896096e.jpg",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-03 07:15 UTC"
     }
   ]
 }
