@@ -1,32 +1,590 @@
 {
-  "updated_at": "2026-11-04 06:56 UTC",
+  "updated_at": "2026-11-04 08:13 UTC",
   "items": [
     {
-      "title": "Rusya'da e-ticaret şirketi Ozon'un lojistik merkezinde İHA saldırısı sonucu yangın çıktı",
+      "title": "Zorunlu kış lastiği uygulaması 15 Kasım'da başlıyor",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/rusyada-e-ticaret-sirketi-ozonun-lojistik-merkezinde-iha-saldirisi-sonucu-yangin-cikti/4110981",
-      "summary": "Rusya'nın Adıgey Cumhuriyeti'ndeki Adıgeysk şehrinde, e-ticaret şirketi Ozon'a ait lojistik merkezinde insansız hava aracı (İHA) saldırısı sonucu yangın çıktığı bildirildi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/zorunlu-kis-lastigi-uygulamasi-15-kasimda-basliyor/4111123",
+      "summary": "Şehirler arası yollarda yolcu ve eşya taşıyan tüm ticari araçlar için kış lastiği kullanım zorunluluğu 15 Kasım itibarıyla başlayacak.",
       "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 08:06 UTC"
+    },
+    {
+      "title": "Çiftçilere 9 ayda yaklaşık 115,5 milyar lira tarımsal destek ödemesi yapıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/ciftcilere-9-ayda-yaklasik-115-5-milyar-lira-tarimsal-destek-odemesi-yapildi/4111121",
+      "summary": "Tarım ve Orman Bakanlığı, ocak-eylül döneminde çiftçilere 115 milyar 496 milyon lira tarımsal destek ödemesi yaptı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 08:05 UTC"
+    },
+    {
+      "title": "Çiftçilere 9 ayda yaklaşık 115,5 milyar lira tarımsal destek ödemesi yapıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/ciftcilere-9-ayda-yaklasik-115-5-milyar-lira-tarimsal-destek-odemesi-yapildi/4111122",
+      "summary": "Tarım ve Orman Bakanlığı, ocak-eylül döneminde çiftçilere 115 milyar 496 milyon lira destekleme ödemesi yaptı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 08:05 UTC"
+    },
+    {
+      "title": "Siber suçlar ve dolandırıcılık operasyonlarında 230 şüpheliye işlem yapıldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/siber-suclar-ve-dolandiricilik-operasyonlarinda-230-supheliye-islem-yapildi-962198.html",
+      "summary": "İçişleri Bakanlığı, siber suçlar ve dolandırıcılığa yönelik 11 ilde gerçekleştirilen operasyonlarda 230 şüpheli hakkında adli işlem yapıldığını duyurdu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 08:03 UTC"
+    },
+    {
+      "title": "Rapor: Antalya'da yapılacak COP31'de sağlığın iklim kriziyle ilişkisi önemli başlık",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/rapor-antalyada-yapilacak-cop31de-sagligin-iklim-kriziyle-iliskisi-onemli-baslik/4111116",
+      "summary": "DSÖ, Antalya'nın 9-20 Kasım'da ev sahipliği yapacağı BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'na (COP31) yönelik sağlığın iklim kriziyle ilişkisinin önemli bir başlık olduğunu vurgulayan bir rapor yayımladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 08:02 UTC"
+    },
+    {
+      "title": "ABD ara seçimlerinde 7 Müslüman Kongreye seçildi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/abd-ara-secimlerinde-7-musluman-kongreye-secildi-962199.html",
+      "summary": "ABD'de düzenlenen ara seçimlerde resmi olmayan sonuçlara göre, Kongreye aday olan 7 Müslüman seçimlerden galip ayrılırken, Temsilciler Meclisinde 1 Müslüman adayın daha zafer kazanması bekleniyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 08:02 UTC"
+    },
+    {
+      "title": "Togg T10X otomobil pazarındaki liderliğini üçüncü aya taşıdı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/togg-t10x-otomobil-pazarindaki-liderligini-ucuncu-aya-tasidi/4111113",
+      "summary": "Togg T10X, geçen ay toplam otomobil satışlarında en çok tercih edilen model olurken, pazar liderliğini üst üste üçüncü aya taşıdı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 08:01 UTC"
+    },
+    {
+      "title": "Merkez Bankası'ndan 'fon tasfiyeleri' analizi: 3 bin şirketin 116 milyar liralık yatırımı var - Diken",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0w3cnF6M1g3bFgzVWNrb0RxNTk4Y0VzUEdBczhiVGVZb2FjZURkd1hld1d6TjBlQVNoaHdKdUh3cWZBVy1rMExXaFEydHV3OUQ2bUQxdVpVSW4tVTViMFdqb3BHTzc4UVFpRFA0c1NhUzdBQkctUm8wc0ZNSkdNUXFmcGl6MmRZd3cwM2V1bnY4YzBwT1F3V05ESlpEX1NsVkF5UnFoNW9xd2xZTFBULVp3ZzZ1Zw?oc=5",
+      "summary": "Merkez Bankası'ndan 'fon tasfiyeleri' analizi: 3 bin şirketin 116 milyar liralık yatırımı var Diken",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 07:58 UTC"
+    },
+    {
+      "title": "ABD'de ara seçimler: Demokratlar Kongre'nin iki kanadında da çoğunluğu kazandı",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/294e/live/34a98000-d821-11f1-a9b6-0f4245e849b7.jpg",
+      "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. Demokratlar, Senato ve Temsilciler Meclisi'nde Cumhuriyetçilerin sahip olduğu çoğunluğu ele geçirdi",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:55 UTC"
+    },
+    {
+      "title": "ABD ara seçimleri yenilenebilir enerji hisselerinde yükselişi tetikledi",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793778921/3793426/jpg/320x180",
+      "link": "https://www.bloomberght.com/abd-ara-secimleri-yenilenebilir-enerji-hisselerinde-yukselisi-tetikledi-3793426",
+      "summary": "ABD ara seçimlerinde Demokratların Kongre'nin her iki kanadının da kontrolünü kazanmasının ardından, küresel yenilenebilir enerji hisseleri yükselişe geçti. Bu sonuç, sektör için gelecekte daha elverişli politikaların destekleneceği şeklinde yorumlanıyor.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 07:54 UTC"
+    },
+    {
+      "title": "ABD Senatosu'na seçilen ilk Müslüman Abdul El-Sayed kimdir?",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eff5/live/81b5a990-d822-11f1-a9b6-0f4245e849b7.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cmwyqjz313ggo?at_medium=RSS&at_campaign=rss",
+      "summary": "Michigan eyaletindeki seçim sonuçları, Demokrat Parti adayı Abdul El-Sayed'in ülkenin ilk Müslüman senatörü olacağını gösteriyor.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:53 UTC"
+    },
+    {
+      "title": "‘We defeated Goliath’: Texas Democrat James Talarico wins Senate seat",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/we-defeated-goliath-texas-democrat-james-talarico-wins-senate-seat?traffic_source=rss",
+      "summary": "Democrat James Talarico wins the Texas Senate race in a historic midterm upset.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:53 UTC"
+    },
+    {
+      "title": "ABD'de Demokratların seçim zaferi Musk'ın şirketlerini vurdu",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793778446/3793425/jpg/320x180",
+      "link": "https://www.bloomberght.com/abd-de-demokratlarin-secim-zaferi-musk-in-sirketlerini-vurdu-3793425",
+      "summary": "ABD ara seçimlerinin ilk sonuçlarının Demokratların ezici bir zaferine işaret etmeye başlamasıyla birlikte, Cumhuriyetçi Parti'nin önde gelen destekçilerinden Elon Musk'ın şirketleri Tesla Inc. ve SpaceX'in hisseleri geriledi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 07:47 UTC"
+    },
+    {
+      "title": "Democrats deliver a historic routing to Republicans in US midterms",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms?traffic_source=rss",
+      "summary": "For the first time in nearly 30 years, a Democrat will now represent South Carolina in the US Senate.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:46 UTC"
+    },
+    {
+      "title": "Emine Erdoğan Seul'de Yunus Emre Enstitüsünü açtı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-seulde-yunus-emre-enstitusunu-acti-962196.html",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Yunus Emre Enstitüsünün YEE Seul'deki kültür merkezinin resmi açılışını gerçekleştirdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:44 UTC"
+    },
+    {
+      "title": "Türkiyenin nüfusu 86 milyon 502 bin oldu",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/turkiyenin-nufusu-86-milyon-502-bin-oldu-962195.html",
+      "summary": "Türkiyenin nüfusu, 1 Ekim itibarıyla 86 milyon 502 bin 286 kişi oldu. Nüfusun yüzde 50,02'sini erkekler, yüzde 49,98'ini ise kadınlar oluşturdu. En kalabalık yaş grubu 6 milyon 668 bin 482 kişiyle 2529 yaş grubu oldu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:44 UTC"
+    },
+    {
+      "title": "2026 ABD ara seçimlerinde sandıktan zaferle çıkan Sayed, ABD'nin ilk Müslüman senatörü oldu",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/2026-abd-ara-secimlerinde-sandiktan-zaferle-cikan-sayed-abdnin-ilk-musluman-senatoru-oldu/4111085",
+      "summary": "ABD'deki ara seçimlerde Michigan eyaletinde, Mısır asıllı Müslüman aday Abdul el-Sayed, Cumhuriyetçi rakibi Mike Rogers'a üstünlük sağlayarak ABD Senatosuna seçilen ilk Müslüman oldu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:43 UTC"
+    },
+    {
+      "title": "ABD'de ara seçimlerin ardından siyasetin önemli isimlerinden ilk açıklamalar geldi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/abdde-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-geldi-962194.html",
+      "summary": "ABD'de düzenlenen ara seçimlerde resmi olmayan sonuçlara göre Kongrede dengelerin Cumhuriyetçiler aleyhine değişmesinin ardından Barack Obama, Bernie Sanders gibi siyasetin önemli isimlerinden açıklamalar geldi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:41 UTC"
+    },
+    {
+      "title": "Emine Erdoğan, Yunus Emre Enstitüsünün Seul'deki kültür merkezinin resmi açılışını yaptı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-yunus-emre-enstitusunun-seuldeki-kultur-merkezinin-resmi-acilisini-yapti/4111082",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Yunus Emre Enstitüsünün (YEE) Seul'deki kültür merkezinin resmi açılışını gerçekleştirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:39 UTC"
+    },
+    {
+      "title": "Türkiye'nin nüfusu 1 Ekim itibarıyla 86 milyon 502 bini geçti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-nufusu-1-ekim-itibariyla-86-milyon-502-bini-gecti/4111081",
+      "summary": "Türkiye'nin nüfusu, 1 Ekim itibarıyla 86 milyon 502 bin 286 kişi oldu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:39 UTC"
+    },
+    {
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f657/live/383e2830-d810-11f1-bc0e-b5a9e0785e4b.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:39 UTC"
+    },
+    {
+      "title": "FIFA’s Infantino ineligible for re-election, says former governance chief",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/11/4/fifas-infantino-ineligible-for-re-election-says-former-governance-chief?traffic_source=rss",
+      "summary": "Miguel ⁠⁠Maduro insists Gianni Infantino cannot serve more than three terms, pointing to FIFA's statutes.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:39 UTC"
+    },
+    {
+      "title": "Türkiye'nin nüfusu 1 Ekim itibarıyla 86 milyon 502 bini geçti",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793778012/3793424/jpg/320x180",
+      "link": "https://www.bloomberght.com/turkiye-nin-nufusu-1-ekim-itibariyla-86-milyon-502-bini-gecti-3793424",
+      "summary": "Türkiye'nin nüfusu, 1 Ekim itibarıyla 86 milyon 502 bin 286 kişi oldu.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 07:37 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan Güney Kore temaslarını tamamladı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-guney-kore-temaslarini-tamamladi-962193.html",
+      "summary": "Cumhurbaşkanı Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un daveti üzerine gittiği Seul'deki resmi temaslarını tamamlayarak Türkiye'ye hareket etti. Ziyaret kapsamında iki ülke arasında nükleer enerji ve teknolojinin de aralarında bulunduğu 4 stratejik anlaşma imzalanırken, ikili ticaret hacmi için 15 milyar dolarlık hedef belirlendi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:37 UTC"
+    },
+    {
+      "title": "KOAH hastaları için iklim risklerine karşı erken uyarı modeli",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793777814/3793423/jpg/320x180",
+      "link": "https://www.bloomberght.com/koah-hastalari-icin-iklim-risklerine-karsi-erken-uyari-modeli-3793423",
+      "summary": "Sanofi ve Yuvam Dünya Derneği, Gaziantep Büyükşehir Belediyesi ve Gaziantep İl Sağlık Müdürlüğü iş birliğiyle, dünyada üçüncü ölüm nedeni olan KOAH'ın yükünü azaltmaya katkı sağlayacak bir erken uyarı modeli geliştirmek için harekete geçti.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 07:36 UTC"
+    },
+    {
+      "title": "4 Kasım borsa ve dövizde son durum! Dolar ve euro kaç TL oldu? - kayserihaber.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyUkZCM04tUkdCQzhxb2RILVpBdHh3Y3JQeHd5R3hYSWVQYno2enJfRWJhVU4zRGlYaU5vbjZCUDJtaTliTk9IWVV5LUM4UDlxYmFrTGpGNEFiR3lFdFl4VHlBM1BrYmpfMkNaclNR?oc=5",
+      "summary": "4 Kasım borsa ve dövizde son durum! Dolar ve euro kaç TL oldu? kayserihaber.com",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-04 07:35 UTC"
+    },
+    {
+      "title": "Bakırköy'de D-100 Topkapı istikameti yan yolu 15 gün trafiğe kapatılacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/bakirkoyde-d-100-topkapi-istikameti-yan-yolu-15-gun-trafige-kapatilacak/4111074",
+      "summary": "Bakırköy D-100 İncirli Köprüsü'nde yapılacak güçlendirme çalışmaları kapsamında, Topkapı istikameti yan yolu 8 Kasım Pazar günü saat 23.00 itibarıyla 15 gün süreyle trafiğe kapatılacak.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:34 UTC"
+    },
+    {
+      "title": "11 ildeki siber suçlar ve dolandırıcılık operasyonlarında 230 şüpheli hakkında işlem yapıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/11-ildeki-siber-suclar-ve-dolandiricilik-operasyonlarinda-230-supheli-hakkinda-islem-yapildi/4111068",
+      "summary": "İçişleri Bakanlığı, siber suçlar ve dolandırıcılığa yönelik 11 ilde gerçekleştirilen operasyonlarda 230 şüpheli hakkında adli işlem yapıldığını bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:33 UTC"
+    },
+    {
+      "title": "South Carolina elects Democratic senator for first time in almost three decades",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a3/live/caaae0c0-d822-11f1-93e1-3b657b665bcf.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:32 UTC"
+    },
+    {
+      "title": "El-Sayed defeats Rogers to win Senate seat in Michigan",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan?traffic_source=rss",
+      "summary": "This is a breaking news story.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:31 UTC"
+    },
+    {
+      "title": "ABD'de ara seçimlerin ardından siyasetin önemli isimlerinden ilk açıklamalar geldi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/abdde-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-geldi/4111054",
+      "summary": "ABD'de düzenlenen ara seçimlerde resmi olmayan sonuçlara göre Kongrede dengelerin Cumhuriyetçiler aleyhine değişmesinin ardından siyasetin önemli isimlerinden açıklamalar geldi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:28 UTC"
+    },
+    {
+      "title": "\"6. Korkut Ata Türk Dünyası Film Festivali\", İstanbul'da başladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/kultur/6-korkut-ata-turk-dunyasi-film-festivali-istanbulda-basladi/4111057",
+      "summary": "Kültür ve Turizm Bakanlığı himayesinde, Uluslararası Sinema Derneği tarafından düzenlenen \"6. Korkut Ata Türk Dünyası Film Festivali\", doğduğu şehir olan İstanbul'da yeniden sinemaseverlerle buluştu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:28 UTC"
+    },
+    {
+      "title": "Fenerbahçe Tarfin, Avrupa Ligi'nde yarın Baskonia'yı konuk edecek",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-avrupa-liginde-yarin-baskoniayi-konuk-edecek/4111050",
+      "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) 10. haftasında yarın sahasında İspanya ekibi Kosner ​​​​​​​Baskonia ile karşılaşacak.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:24 UTC"
+    },
+    {
+      "title": "UEFA Konferans Ligi'nde 3. hafta maçları yarın oynanacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/uefa-konferans-liginde-3-hafta-maclari-yarin-oynanacak/4111051",
+      "summary": "UEFA Konferans Ligi'nde 3. hafta maçları yarın yapılacak.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:24 UTC"
+    },
+    {
+      "title": "Güney Kore: Kuzey Kore, Doğu Denizine doğru çok sayıda füze fırlattı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/guney-kore-kuzey-kore-dogu-denizine-dogru-cok-sayida-fuze-firlatti-962192.html",
+      "summary": "Güney Kore ordusu, Kuzey Korenin Doğu Denizine doğru çok sayıda füze fırlattığını duyurdu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:23 UTC"
+    },
+    {
+      "title": "Democrats win Congress: How they did it, and what it means",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean?traffic_source=rss",
+      "summary": "With control of Congress, Democrats can challenge Trump’s agenda through subpoenas, confirmation votes.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:23 UTC"
+    },
+    {
+      "title": "ABD'de 2026 ara seçimleri ilklere sahne oldu",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793777220/3793422/jpg/320x180",
+      "link": "https://www.bloomberght.com/abd-de-2026-ara-secimleri-ilklere-sahne-oldu-3793422",
+      "summary": "ABD'de Başkan Donald Trump'ın ikinci döneminde düzenlenen ara seçimlerde ilk sonuçlar, Kongre'nin dengesinin değişeceğini gösterirken, aynı zamanda ülke genelinde temsil noktasında birçok ilk yaşandı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 07:20 UTC"
+    },
+    {
+      "title": "Merkez Bankası'ndan fon tasfiyesi raporu: Krediye erişim sürüyor - Bigpara",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWFgyUExoZTJaYlBLTnRUV05mUlNyRXpUbGhab2RESUk3Y1hNSVlpN1NORjlQcmtlV0VkcktUNTdvS0oyYTFNWG1GdC1jRnRuRkRBZ05ER25PZDZqTi1LSHl1a213T1JBX1hxcklJdTdWZUxZNm9lN09odEtweTdJN3BDdjdobDVzNjFhV3B0bWdwVE9WN2hZZExZWXItMi1YU1JUTy1nT0JGY3VNcFNHT0p4bWtDQ3pfbTZFbUdXc1E1c0lGUlBfY2M0QQ?oc=5",
+      "summary": "Merkez Bankası'ndan fon tasfiyesi raporu: Krediye erişim sürüyor Bigpara",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 07:20 UTC"
+    },
+    {
+      "title": "Zorlu: Rusya'nın olası talebi tüm üye devletlerin onayıyla değerlendirilecek",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/zorlu-rusyanin-olasi-talebi-tum-uye-devletlerin-onayiyla-degerlendirilecek-962190.html",
+      "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Rusya'nın Türk Devletleri Teşkilatı'na gözlemci üye olarak katılmasına yönelik olası bir talebin, tüm üye devletlerin onayı ve Türk dünyasının ortak çıkarları doğrultusunda değerlendirileceğini söyledi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:20 UTC"
+    },
+    {
+      "title": "Demokrat aday Abdul elSayed, ABD Senatosuna seçilen ilk Müslüman senatör oldu",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/guncel/demokrat-aday-abdul-el-sayed-abd-senatosuna-secilen-ilk-musluman-senator-oldu-962189.html",
+      "summary": "ABD'deki ara seçimlerde Michigan eyaletinde, Mısır asıllı Müslüman aday Abdul elSayed, Cumhuriyetçi rakibi Mike Rogers'a üstünlük sağlayarak ABD Senatosuna seçilen ilk Müslüman oldu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:19 UTC"
+    },
+    {
+      "title": "Trakya'da sağanak etkisini sürdürüyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/trakyada-saganak-etkisini-surduruyor/4111038",
+      "summary": "Edirne, Kırklareli ve Tekirdağ'da sağanak devam ediyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:18 UTC"
+    },
+    {
+      "title": "Spanish transport minister resigns after train crash killed 69 people",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people?traffic_source=rss",
+      "summary": "Oscar Puente says he could not 'continue in office' after two major train accidents in less than a year.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:18 UTC"
+    },
+    {
+      "title": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f99/live/34bf7e30-d80f-11f1-bc0e-b5a9e0785e4b.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's Islamic Revolutionary Guard Corps says the vessels had hit sea mines while trying to cross a prohibited route.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:17 UTC"
+    },
+    {
+      "title": "Dolar/TL 50 lirayı aştı: 55 seviyesi için kritik değerlendirme - Ekonomim",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGxtbHAzR2JpSlliWmFKZGwtX3dsLTBtRHdGaldVTUtkRW9ZRC14bDFTMFBzM1RJakpoZXhqV3Vpc0FhOUg2WDlINlQ4OF83Nm05SnMzal9OZjJ2TkswUXRMdUJkRG9vd1NBbnF5dmxVYzBJNzQxdnlsMUE4MWJ2N2d1dVRQekM5VU41eUZqWTc5T1Z0UjJZekhlcV81ZktfUElpWWczTy1BQ1BUV0QycjFCRzF0c3FYOVE?oc=5",
+      "summary": "Dolar/TL 50 lirayı aştı: 55 seviyesi için kritik değerlendirme Ekonomim",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-04 07:14 UTC"
+    },
+    {
+      "title": "ABD seçimlerinde 'Demokrat' dalgası altının yönünü yukarı çevirdi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/abd-secimlerinde-demokrat-dalgasi-altinin-yonunu-yukari-cevirdi-962188.html",
+      "summary": "ABD Kongre ara seçimlerinde Demokratların kontrolü ele geçirmesiyle artan siyasi ve ekonomik belirsizlikler, yatırımcıları güvenli limana yöneltti. Artan talebin etkisiyle güne yüzde 2,5 yükselişle başlayan altının gram fiyatı 6 bin 460 liraya, ons altın ise 4 bin 16 dolara çıktı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:12 UTC"
+    },
+    {
+      "title": "Florida Republicans fend off Democrats as state elects first black governor",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee47/live/138d4020-d80b-11f1-915d-779ac405bbbc.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+      "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:12 UTC"
+    },
+    {
+      "title": "US House Speaker Johnson rants about Marxism after Democrat gains",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/us-house-speaker-johnson-rants-about-marxism-after-democrat-gains?traffic_source=rss",
+      "summary": "US House Speaker Johnson rants about Marxism after Democrat gains",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:11 UTC"
+    },
+    {
+      "title": "Borsa İstanbul günü yükselişle tamamladı - hibya.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hYUllTkZfMFZBQUlSR2VpNHZHRm8zNFhHczVrUnpKTUlHc3FKbHZhampKTXV4bVdWYkFUWnlHUmJvMnEydVpKQTBlVGlRQ3RCWmJ3d242eUdaSmJyb3V4clB3aERMT1dTLTJ6Vm45TmF4VlBU?oc=5",
+      "summary": "Borsa İstanbul günü yükselişle tamamladı hibya.com",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-04 07:11 UTC"
+    },
+    {
+      "title": "Borsa güne yükselişle başladı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-962187.html",
+      "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 1,22 yükselişle 11.157,96 puandan başladı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:08 UTC"
+    },
+    {
+      "title": "Trump seçim sonuçlarından dolayı Fox News'i de suçladı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/trump-secim-sonuclarindan-dolayi-fox-newsi-de-sucladi-962186.html",
+      "summary": "ABD Başkanı Donald Trump, Demokratların önde götürdüğü Kongre ara seçimlerinin sonuçları açıklanmaya devam ederken Demokrat partiye yayınlarında \"sürekli\" yer verdiği gerekçesiyle Fox News kanalının \"kayıplardan sorumlu olduğunu\" öne sürdü.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:05 UTC"
+    },
+    {
+      "title": "Democrat Troy Jackson wins Maine US Senate seat in blow to Republicans",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democrat-troy-jackson-wins-maine-us-senate-seat-in-blow-to-republicans?traffic_source=rss",
+      "summary": "Longtime Republican Senator Susan Collins had held the seat for three decades, but was swept away in the blue wave.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 07:04 UTC"
+    },
+    {
+      "title": "Borsa İstanbul güne hızlı başladı: 4 Kasım 2026 BIST 100 - Manşet Haber",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMzI1UThHWlZHQzRMYlpxWHktMlFTM1lPZGpLZWhhWlRwQ1cwR0gyOW1WZk9hVEQ5VnZqVG5MZjZfMjBXTjNoSUN0MGMxX3U4aTJEdXQ2eE1qM1ZWRVlrdzVsOV9iOWJ5eW1GcERpd1hvczg4V2dTUE5ocHVpa2dxNTFxYlRMVkp0bDA4c3llbW0?oc=5",
+      "summary": "Borsa İstanbul güne hızlı başladı: 4 Kasım 2026 BIST 100 Manşet Haber",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-04 07:03 UTC"
+    },
+    {
+      "title": "Petrol fiyatlarında düşüş sürüyor - Haber Global",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kNV83V3pTbkh4Q2VHTWdxZmppVVVYOHhyN256ODJKNjYxVER5TmtuQkJJN19nMEx5Y1pHbG1yZWpwcWV3Q0kwMmh0VlJibHNla0dVRk1tQVIyUlVMTVlhOTNyamJYY3lId1ZncmttSk0yT25hcU5iTmRtOGQ?oc=5",
+      "summary": "Petrol fiyatlarında düşüş sürüyor Haber Global",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-04 07:03 UTC"
+    },
+    {
+      "title": "Gram altında son durum ne? 4 Kasım 2026 Çarşamba altın fiyatları…",
+      "image": "",
+      "link": "https://www.bloomberght.com/gram-altinda-son-durum-ne-4-kasim-2026-carsamba-altin-fiyatlari-pkh1-3793419",
+      "summary": "Gram altın serbest piyasada bugün (4 Kasım 2026 / saat: 10:00) 6.458,27 TL'den alınıp 6.459,24 TL'den satılıyor. Kapalıçarşı'da altın fiyatlarındaki en son durumu; gram altın ne kadar oldu, gram altın kaç TL, çeyrek altın ne kadar? gibi merak ettiğiniz tüm detayları sayfamızdan güncel olarak takip edebilirsiniz.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 07:00 UTC"
+    },
+    {
+      "title": "Borsa İstanbul'da yükseliş sürüyor - Haber Global",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkTG9FTTV2eWJIaGNzX2FjQ2ZRSmRnRFVxVnpxWWRQdHJZQlB2Ujc3STBmck1fcFhDaHRXYzd0OXgtaDFGZHhxRVZuNmZNRW11eXd3cnBiZXFtNmkzcXdlZmdESHMyUEpJX0d6RkRRMGxqWWxzNU03SkFWcGo?oc=5",
+      "summary": "Borsa İstanbul'da yükseliş sürüyor Haber Global",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-04 07:00 UTC"
+    },
+    {
+      "title": "Avrupa merkez bankası yetkililerinin çoğu Aralık ayında faiz artırımı yapılması çağrısında bulunuyor. - Vietnam.vn",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT2ZVdUhpRHNCbHhMTVNPcHp0eHQzTXZ6NmJheWVPSU04NkE5NVlWN3lIRlk3dFVMNWdmeFR6ekJjM0xsMEt3ajBGLWRrQzRKcXBjbTA0MVZBYjRRdmpNZnlJOF9QNDliZllPMDl6TjJjZmJDbDVqdGVTNGdaWERhREMyV1dwLW9KQzlGMkNWOFZpbGV0d2U0?oc=5",
+      "summary": "Avrupa merkez bankası yetkililerinin çoğu Aralık ayında faiz artırımı yapılması çağrısında bulunuyor. Vietnam.vn",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 06:58 UTC"
+    },
+    {
+      "title": "Deprem bölgesindeki kalıcı konutlarda peşin ödemeye yüzde 74 indirim",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/deprem-bolgesindeki-kalici-konutlarda-pesin-odemeye-yuzde-74-indirim-962184.html",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi, 6 Şubat depremlerinden etkilenen illerdeki kalıcı konutlar için peşin ödemelerde 31 Aralık 2026'ya kadar yüzde 74, iş yerleri için ise yüzde 48 indirim uygulanacağını, taksitli ödemelerde 2 yıl ödemesiz 18 yıl vade imkanı sunulacağını açıkladı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 06:57 UTC"
+    },
+    {
+      "title": "South Africans vote in local elections seen as test for embattled ANC",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc?traffic_source=rss",
+      "summary": "Polls suggest the governing party could fall below 40 percent as voters weigh failing services.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 06:57 UTC"
+    },
+    {
+      "title": "Borsa İstanbul güne yükselişle başladı - Borsa Gundem",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaR0ZmNGNFS1JjM2RfaTFVdWxlMlF2R2E0UmQ0Y2ZyVnlkbk5qWXpZNThGTWg4OFk1TzZ1Vi1POG9rcERJblo2NUdZSDNUWnRqRjhiNlRQblVkc242ajd0NzUtUU5RVGJhQXhwMFFXcTZVVEFpQkRXWVQ3VFZydw?oc=5",
+      "summary": "Borsa İstanbul güne yükselişle başladı Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-04 06:55 UTC"
+    },
+    {
+      "title": "Firsts for women and minorities in US midterm elections",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/firsts-for-women-and-minorities-in-us-midterm-elections?traffic_source=rss",
+      "summary": "The elections, which saw Democrats make big gains, also marked firsts for women and minorities in major offices.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 06:54 UTC"
+    },
+    {
+      "title": "Merkez Bankası'ndan tasfiye edilen fonlar çalışması: Reel sektör yatırımları merceğe alındı - Gazete Oksijen",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPXzdJMTdnbVlZeW41a1lwT2tmQWMwdzNrN1E5ZlUwRWRRZUJUQUFmVV82OGZsM3FuOHJCUU55WDNQeVZtOF9WREV5THY2aEhxektUcmZyeEZaS0lQTDBNazIxMnhjdW9zWnRVUzZyTmlYaXRQOUNRY2lFRl92YXB5alBkZ1hqM1h5SDFRTEV2dlo4bWJqOTBjbVdOaFBEcGFHMEJSdjJpdEVoVWVmUFJtbDVVcWJ6RVQ5ejh3SVJySkhFYXBraGw4ZnJR?oc=5",
+      "summary": "Merkez Bankası'ndan tasfiye edilen fonlar çalışması: Reel sektör yatırımları merceğe alındı Gazete Oksijen",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 06:50 UTC"
+    },
+    {
+      "title": "COP31'de ana salonlara Anadolu ve Gazze isimleri verildi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/cop31de-ana-salonlara-anadolu-ve-gazze-isimleri-verildi-962183.html",
+      "summary": "Antalya'da dünya liderleri dahil 1,5 milyon kişinin katılımıyla düzenlenecek COP31 İklim Zirvesi'nde salon isimleri belli oldu. Zirvenin Genel Kurul salonuna 'Anadolu', Türkiye'nin Filistin hassasiyetini yansıtan 5 bin kişilik en büyük salonuna ise 'Gazze' adı verildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 06:50 UTC"
+    },
+    {
+      "title": "Democrat Amy Acton makes history in Ohio",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-amy-acton-makes-history-in-ohio?traffic_source=rss",
+      "summary": "Democrat Amy Acton defeats Republican Vivek Ramaswamy to become the first ever woman to be elected as governor in Ohio.",
+      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 06:49 UTC"
     },
     {
-      "title": "Gümrükler Muhafaza ekipleri 4 ayrı operasyonda 459 kilogramı aşkın uyuşturucuya el koydu",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/gumrukler-muhafaza-ekipleri-4-ayri-operasyonda-459-kilogrami-askin-uyusturucuya-el-koydu/4110974",
-      "summary": "Gümrükler Muhafaza ekipleri, Edirne ve İstanbul'da yürüttükleri 4 ayrı operasyonda 459 kilo 599 gram uyuşturucu madde ele geçirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 06:42 UTC"
+      "title": "Fitch: Türkiye piyasalarındaki dalgalanmadan en çok aracı kurumlar etkileniyor",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793775122/3793417/jpg/320x180",
+      "link": "https://www.bloomberght.com/fitch-turkiye-piyasalarindaki-dalgalanmadan-en-cok-araci-kurumlar-etkileniyor-3793417",
+      "summary": "Fitch Ratings, Türk piyasalarındaki dalgalanmanın aracı kurumların gelir görünümünü zayıflattığını açıkladı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 06:47 UTC"
     },
     {
-      "title": "Beşiktaş, UEFA Avrupa Ligi'nde yarın Celtic'in konuğu olacak",
+      "title": "Gazze'nin gönüllü doktoru, New Jersey'de Kongre üyesi seçilen ilk Müslüman oldu",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-yarin-celticin-konugu-olacak/4110967",
-      "summary": "Beşiktaş, UEFA Avrupa Ligi'nin dördüncü haftasında yarın İskoçya temsilcisi Celtic'in konuğu olacak.",
-      "source": "Anadolu Ajansı",
+      "link": "https://www.trthaber.com/haber/dunya/gazzenin-gonullu-doktoru-new-jerseyde-kongre-uyesi-secilen-ilk-musluman-oldu-962181.html",
+      "summary": "ABD Kongre ara seçimlerinde Gazze'ye gönüllü giden plastik cerrah Demokrat Adam Hamawy, New Jersey eyaletinde Temsilciler Meclisi üyesi olarak seçilen ilk Müslüman oldu.",
+      "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 06:37 UTC"
+      "published_at": "2026-11-04 06:44 UTC"
     },
     {
       "title": "ABD'de Demokratların seçim zaferi: 'Cumhuriyetçilerin kalelerine girdiler'",
@@ -38,6 +596,15 @@
       "published_at": "2026-11-04 06:36 UTC"
     },
     {
+      "title": "Democratic Party gains US House majority in 2026 midterm elections",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections?traffic_source=rss",
+      "summary": "All 435 seats in the lower chamber of Congress were on the ballot in Tuesday's midterm race.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 06:34 UTC"
+    },
+    {
       "title": "116 milyar liralık yatırım mercek altında! Merkez Bankası açıkladı - Haber 7",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWFzSkZyamlnU3ZwU0hJV0lYa0ZtaTZtX2s5VXV6OVhEcjZHZTd6NEVBTjZuaE9IbXp6TFdlNkQwXzN3YkRBZXA2b0pZZ0pqUHhXZ1RxejZSMkk2RHY0ejBLZDVGTVZWMzhDSnFzX3RRQmw4TnNYZGtNbWpycjBjMkE5c0UyVVFiQU1YNU9uNGFGbEEyeVhUelo3bDZvSW9GRDJhQk52cmFqRmcwN3RtVFhPVFLSAbcBQVVfeXFMUGZxOGNTeUhqZHEyV0tpbkJWckkxbzcwY3JZQW5tdzJZZkNYaTludnFRNHhIZExmTldKZzhDd19rWEF2MUdXb3p0dTRTN2RzX29RamZXbUFreVhXd2NiS0VPd2MyRXB3NjJlRkt4c3huLTZvSXk0TURBeWlpeUJ6cTdzSUF5aE9WNGFJVnRZRGM3MHUzaXZKWXllR3EtRlR0OHdPNWNLc253YnEweTh1LWNleDVqeWp3?oc=5",
@@ -45,24 +612,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-04 06:32 UTC"
-    },
-    {
-      "title": "ABD'de Kongre ara seçimlerinde tüm sandıklar kapandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/abdde-kongre-ara-secimlerinde-tum-sandiklar-kapandi-962178.html",
-      "summary": "ABD'de, Senatonun bir kısmının ve Temsilciler Meclisinin tamamının yenileneceği ara seçimler için oy kullanma işlemleri tüm eyaletlerde sona erdi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 06:31 UTC"
-    },
-    {
-      "title": "Dolar/TL'de son durum ne? 4 Kasım 2026 Euro ve döviz fiyatları…",
-      "image": "",
-      "link": "https://www.bloomberght.com/dolartlde-son-durum-ne-4-kasim-2026-euro-ve-doviz-fiyatlari-pkh2-3793413",
-      "summary": "Serbest piyasada dolar 50.0223 liradan güne başladı. Euro ise 56.2032 lirayı gördü. Dolar, euro ve diğer döviz kurlarıyla ile ilgili en son gelişmeler hakkında aradığınız tüm detayları; 1 dolar/euro kaç TL, dolar/euro ne kadar? gibi merak edilenleri sayfamızda bulabilirsiniz...",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-04 06:30 UTC"
     },
     {
       "title": "TCMB'den tasfiye edilen fonlar için kritik analiz - A Para",
@@ -74,15 +623,6 @@
       "published_at": "2026-11-04 06:28 UTC"
     },
     {
-      "title": "Michigan'da Senato yarışında Demokratların Müslüman adayı Abdul ElSayed önde",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/michiganda-senato-yarisinda-demokratlarin-musluman-adayi-abdul-el-sayed-onde-962177.html",
-      "summary": "ABD'de \"çekişmeli eyalet\" olarak bilinen ve en kritik ara seçim bölgelerinden biri olan Michigan'daki Senato yarışında, Demokratların Müslüman adayı Abdul ElSayed seçimi önde götürüyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 06:28 UTC"
-    },
-    {
       "title": "House Democratic leader Hakeem Jeffries hails midterm victory",
       "image": "",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss",
@@ -90,33 +630,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 06:26 UTC"
-    },
-    {
-      "title": "Brent petrolün varili 103,96 dolardan işlem görüyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-10396-dolardan-islem-goruyor-962176.html",
-      "summary": "Brent petrolün varili, uluslararası vadeli piyasalarda 103,96 dolardan işlem görüyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 06:24 UTC"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, Güney Kore'deki şirketlerin üst düzey yöneticilerini kabul etti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koredeki-sirketlerin-ust-duzey-yoneticilerini-kabul-etti/4110944",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, resmi ziyaret kapsamında bulunduğu Güney Kore'nin başkenti Seul'de, teknoloji, elektronik, biyoteknoloji ve kimya alanlarında faaliyet gösteren şirketlerin üst düzey yöneticilerini kabul etti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 06:22 UTC"
-    },
-    {
-      "title": "Jandarma komandolar \"Savaşçı Yarışması\"nda sınırlarını zorluyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/jandarma-komandolar-savasci-yarismasinda-sinirlarini-zorluyor/4110932",
-      "summary": "Jandarma Komando birliklerinin taktik becerilerini, durumsal farkındalıklarını, zihinsel ve fiziksel dayanıklılıklarını artırmak amacıyla bu yıl ikincisi düzenlenen \"Savaşçı Yarışması\" İzmir'de devam ediyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 06:12 UTC"
     },
     {
       "title": "Lula’s victory is a stress test for the Global South",
@@ -137,40 +650,13 @@
       "published_at": "2026-11-04 06:07 UTC"
     },
     {
-      "title": "İran Meclis Başkanı: ABD halkı savaşa hayır dedi ve biz bu mesajı destekliyoruz",
+      "title": "Küresel borsalar düşerken Borsa İstanbul yükselişle açıldı - EKOTÜRK",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-abd-halki-savasa-hayir-dedi-ve-biz-bu-mesaji-destekliyoruz/4110923",
-      "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD Kongre ara seçimlerinde resmi olmayan sonuçlara göre Demokratların Senato'da çoğunluğu elde etmesine ilişkin, \"ABD halkı savaşa hayır dedi ve biz bu mesajı destekliyoruz.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 06:05 UTC"
-    },
-    {
-      "title": "Küresel piyasalar ABD'deki ara seçim sonuçlarına odaklandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-abddeki-ara-secim-sonuclarina-odaklandi/4110919",
-      "summary": "Küresel piyasalarda ABD'deki Kongre ara seçimlerinin sonuçları öncesinde negatif seyir izlenirken, kesin olmayan sonuçlara göre Demokratların Temsilciler Meclisi'ni kazanması ve Senato'da çoğunluk elde etmesi bekleniyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 06:02 UTC"
-    },
-    {
-      "title": "ABD 2026 ara seçimlerinde seçim tarihinin ilkleri",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/abd-2026-ara-secimlerinde-secim-tarihinin-ilkleri-962175.html",
-      "summary": "ABD'de yapılan 2026 ara seçimlerinde sandıktan çıkan sonuçlar, eyalet ve federal düzeyde birçok tarihi ilke sahne oldu. ABD Başkanı Donald Trump'ın ikinci başkanlık döneminin ikinci yarısına girilirken, iki parti de temsil gücü yüksek yeni seçilmiş milletvekillerini ve valileri bünyesine kattı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPczZ3WmZzVmc1RkJjZUdEWmNvdkhDTVZDeEtDWFhhYVN0VHFWUm1SaGQ2YjViYXhaREFhWV9yYmZOQ2JGTWJqSTYyM2tBQWF1WnE4OGt0NHRfN0QxeUk5UFNibTlvRFZGcXRzRFNUZm5ILXl4UnN1MlMzQVBKVTJ1TGpMMVVKM193YmJKeV9qUkthZw?oc=5",
+      "summary": "Küresel borsalar düşerken Borsa İstanbul yükselişle açıldı EKOTÜRK",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
       "published_at": "2026-11-04 05:59 UTC"
-    },
-    {
-      "title": "İran'dan ABD'deki seçim sonuçlarına ilk yanıt",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/irandan-abddeki-secim-sonuclarina-ilk-yanit-962174.html",
-      "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD Kongre ara seçimlerinde resmi olmayan sonuçlara göre Demokratların Senato'da çoğunluğu elde etmesine ilişkin, \"Vicdan meselesi mi yoksa maliyet mi? ABD halkı savaşa hayır dedi ve biz bu mesajı destekliyoruz.\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 05:55 UTC"
     },
     {
       "title": "ABD seçim sonuçları altın Bitcoin borsa ve doları güne nasıl başlattı? - Nefes Gazetesi",
@@ -191,15 +677,6 @@
       "published_at": "2026-11-04 05:53 UTC"
     },
     {
-      "title": "Trump, ara seçimlerdeki kayıpların nedeninin İran savaşı olabileceğini söyledi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/trump-ara-secimlerdeki-kayiplarin-nedeninin-iran-savasi-olabilecegini-soyledi/4110909",
-      "summary": "ABD Başkanı Donald Trump, ülkede düzenlenen ara seçimlerde Cumhuriyetçilerin yaşadığı kayıpların nedeninin kısmen İran'a yönelik sürdürülen savaş olabileceğini belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 05:51 UTC"
-    },
-    {
       "title": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
       "image": "",
       "link": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
@@ -207,24 +684,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 05:49 UTC"
-    },
-    {
-      "title": "Dört ayrı operasyonda 459 kilo uyuşturucu ele geçirildi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/dort-ayri-operasyonda-459-kilo-uyusturucu-ele-gecirildi-962173.html",
-      "summary": "Ticaret Bakanlığı Gümrükler Muhafaza ekiplerince Edirne ili Kapıkule, Hamzabeyli ve İpsala Gümrük Kapıları ile İstanbul Havalimanı'nda gerçekleştirilen dört ayrı operasyonda toplam 459 kilo 599 gram uyuşturucu madde ele geçirildi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 05:43 UTC"
-    },
-    {
-      "title": "İstanbul'da trafik yoğunluğu yüzde 85'e çıktı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-trafik-yogunlugu-yuzde-85e-cikti-962172.html",
-      "summary": "İstanbul'da haftanın üçüncü iş gününde sabah saatlerinde trafik yoğunluğu Anadolu Yakası'nda yüzde 85'e çıktı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 05:41 UTC"
     },
     {
       "title": "Bursa'da altın piyasasında son durum! Gram altın kaç TL oldu? - bursa tv",
@@ -263,33 +722,6 @@
       "published_at": "2026-11-04 05:34 UTC"
     },
     {
-      "title": "ABD Başkanı Donald Trump İran konusunda aldığı kararı savundu",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/abd-baskani-donald-trump-iran-konusunda-aldigi-karari-savundu-962171.html",
-      "summary": "ABD Başkanı Donald Trump, Demokratların önde götürdüğü Kongre ara seçimlerinin sonuçlarını değerlendirirken, \"İran konusunda aldığı kararın kesinlikle doğru olduğuna emin olduğunu\" söyledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 05:28 UTC"
-    },
-    {
-      "title": "Democrats dominate NYC races, Hochul re-elected New York governor",
-      "image": "",
-      "link": "https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss",
-      "summary": "Brad Lander, Darializa Avila Chevalier and Claire Valdez sweep their congressional races in key Democratic districts.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 05:27 UTC"
-    },
-    {
-      "title": "ABD'de ara seçimler: Demokratlar Kongre'nin iki kanadında da çoğunluğu kazandı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fac3/live/863d4270-d7ff-11f1-a701-fddedf244c16.jpg",
-      "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
-      "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. Demokratlar, Senato ve Temsilciler Meclisi'nde Cumhuriyetçilerin sahip olduğu çoğunluğu ele geçirdi",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 05:24 UTC"
-    },
-    {
       "title": "Küresel piyasalarda Demokratların seçim başarısı risk iştahını vurdu",
       "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793769663/3793396/jpg/320x180",
       "link": "https://www.bloomberght.com/kuresel-piyasalarda-demokratlarin-secim-basarisi-risk-istahini-vurdu-3793396",
@@ -297,42 +729,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-04 05:19 UTC"
-    },
-    {
-      "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
-      "summary": "Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 05:11 UTC"
-    },
-    {
-      "title": "Erdoğan, Güney Kore'de küresel şirketlerin üst yöneticilerini kabul etti",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/erdogan-guney-korede-kuresel-sirketlerin-ust-yoneticilerini-kabul-etti-962170.html",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, resmi temaslarda bulunmak üzere gittiği Güney Kore'nin başkenti Seul'de, ülkenin önde gelen küresel teknoloji ve sanayi şirketlerinin üst yöneticileriyle CEO bir araya geldi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 05:09 UTC"
-    },
-    {
-      "title": "Keisha Lance Bottoms becomes Georgia’s first black governor",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/keisha-lance-bottoms-becomes-georgias-first-black-governor?traffic_source=rss",
-      "summary": "Democrat Keisha Lance Bottoms has been elected Governor-elect of Georgia becoming the state's first black governor",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 05:07 UTC"
-    },
-    {
-      "title": "Florida Republicans fend off Democrats as state elects first black governor",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee47/live/138d4020-d80b-11f1-915d-779ac405bbbc.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
-      "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 05:04 UTC"
     },
     {
       "title": "Fon gelişmelerinin reel sektör üzerindeki etkisi: TCMB araştırmacıları inceledi",
@@ -344,33 +740,6 @@
       "published_at": "2026-11-04 05:01 UTC"
     },
     {
-      "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda ABD yapımı MQ9 tipi İHA düşürüldü",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abd-yapimi-mq-9-tipi-iha-dusuruldu-962169.html",
-      "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı üzerinde uçan ABD yapımı MQ9 tipi insansız hava aracının İHA hava savunma sistemleri tarafından düşürüldüğünü öne sürdü.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 05:00 UTC"
-    },
-    {
-      "title": "Dolar 50 TL'nin üstünde! ABD seçim gelişmeleri izleniyor - Haber Global",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMm5wcm1nYmxLUGVjWElsclNoTG5MUnZzS1BtZk8wM0piZGNRRHpva3pZMXhFOUpKZW9zZk1jNTcwSW5OQXJiWU1UN3FMQUhWSzJLblFsYXVoLWJjbHk3bmNjMTVEVmRKcTRzOWZJU2w1SnFBM1FXUnBJR3hmZ0t2bVRyS2FneGE2LVRtNUdqMkpic24tTjlsWg?oc=5",
-      "summary": "Dolar 50 TL'nin üstünde! ABD seçim gelişmeleri izleniyor Haber Global",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-04 04:57 UTC"
-    },
-    {
-      "title": "Democrat Josh Turek flips Iowa Senate seat",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
-      "summary": "Turek beat Republican Ashley Hinson, a US House member.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 04:55 UTC"
-    },
-    {
       "title": "ABD tahvil getirilerinde seçim düşüşü",
       "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793767833/3793376/jpg/320x180",
       "link": "https://www.bloomberght.com/abd-tahvil-getirilerinde-secim-dususu-3793376",
@@ -380,24 +749,6 @@
       "published_at": "2026-11-04 04:49 UTC"
     },
     {
-      "title": "Trump and Republicans trampled in the midterms",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss",
-      "summary": "Al Jazeera’s Alan Fisher says Republicans are facing a worse-than-expected midterm performance.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 04:47 UTC"
-    },
-    {
-      "title": "ABD ara seçimleri: Demokratlar, Senato'da 51 sandalyeye ulaştı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/abd-ara-secimleri-demokratlar-senatoda-51-sandalyeye-ulasti-962168.html",
-      "summary": "ABD Kongre ara seçimlerinde Demokratlar, resmi olmayan sonuçlara göre Senato'da çoğunluğu elde ederek 51 sandalyeye ulaştı",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 04:40 UTC"
-    },
-    {
       "title": "Altın fiyatları güne yükselişle başladı: Gram ve çeyrek altında son durum - EKOTÜRK",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMm8zY29XWEtSNUlPRVN1SlhNX0I3UFJuZzg5ME1qUU5xZkdhLUJXUjFVYnhuMUx0T2RUZ2txZVZQaENhZHNEVUl6Zzc1a2JNUzc1RlVncXZ6c3JYd21IaEhpN3drWG02Q3ROVzVBb0RKbkhnTkw2WWxrWWhEdlNHaUZpR1A2VW92WG1yc1NDXzdzaWN3WTFoRk04RldIRzNrZXROMQ?oc=5",
@@ -405,69 +756,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-04 04:40 UTC"
-    },
-    {
-      "title": "Fenerbahçe, Şampiyonlar Ligi'nde Liverpool'u ağırlıyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/spor/fenerbahce-sampiyonlar-liginde-liverpoolu-agirliyor-962167.html",
-      "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 4. haftasında bugün İngiltere'nin Liverpool takımını konuk edecek.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 04:39 UTC"
-    },
-    {
-      "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
-      "summary": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 04:39 UTC"
-    },
-    {
-      "title": "Kansas elects first Democratic senator in almost a century",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
-      "summary": "Adam Hamilton beat Republican Roger Marshall in a highly competitive race.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 04:37 UTC"
-    },
-    {
-      "title": "Democratic Party wins US Senate in 2026 midterm elections",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
-      "summary": "The outcome is widely seen as a rebuke to Trump's Republican Party, which won control of the chamber in 2024.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 04:37 UTC"
-    },
-    {
-      "title": "Democrat Amy Acton beats Republican Vivek Ramaswamy in Ohio governor’s race",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race?traffic_source=rss",
-      "summary": "Acton is the first Democrat to become governor of Ohio since 2006.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 04:25 UTC"
-    },
-    {
-      "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda ABD yapımı MQ-9 tipi İHA düşürüldü",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abd-yapimi-mq-9-tipi-iha-dusuruldu/4110843",
-      "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı üzerinde uçan ABD yapımı MQ-9 tipi insansız hava aracının (İHA) hava savunma sistemleri tarafından düşürüldüğünü öne sürdü.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 04:20 UTC"
-    },
-    {
-      "title": "Sherrod Brown, an Ohio Democrat, wins return to US Senate",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss",
-      "summary": "More than $500m was spent on the contest, making it one of the most expensive Senate races in US history.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 04:19 UTC"
     },
     {
       "title": "Türkiye-Azerbaycan hattında gerginliğin nedenleri neler?",
@@ -486,51 +774,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 04:04 UTC"
-    },
-    {
-      "title": "ABD ara seçiminde Texas şoku: Demokrat parti zafer kazandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/abd-ara-seciminde-texas-soku-demokrat-parti-zafer-kazandi-962166.html",
-      "summary": "Demokrat Parti Temsilcisi James Talarico, Texas eyaletinde yapılan ABD Senatosu yarışında Cumhuriyetçi rakibi Ken Paxton'ı mağlup etti.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 04:03 UTC"
-    },
-    {
-      "title": "Talarico wins Senate race, ending decades of Republican dominance in Texas",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/4/talarico-wins-texas-senate-race-ending-decades-of-republican-dominance?traffic_source=rss",
-      "summary": "Democrats celebrate Talarico's and Hinojosa's victories, redefining Texas politics after decades of Republican reign.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 04:03 UTC"
-    },
-    {
-      "title": "Filistin asıllı Kongre üyesi Rashida Tlaib yeniden seçildi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/filistin-asilli-kongre-uyesi-rashida-tlaib-yeniden-secildi-962165.html",
-      "summary": "ABD Kongre ara seçimlerinde Temsilciler Meclisinin Filistin asıllı üyesi Rashida Tlaib, Michigan eyaletinden girdiği seçimleri kazandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 03:59 UTC"
-    },
-    {
-      "title": "2026 ABD ara seçimleri: Senato'da Cumhuriyetçiler 4, Demokratlar 11 sandalye kazandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/2026-abd-ara-secimleri-senatoda-cumhuriyetciler-4-demokratlar-11-sandalye-kazandi-962164.html",
-      "summary": "ABD'de 2026 Kongre ara seçimlerinde seçime giren Senato koltuklarından 4'ünü Cumhuriyetçiler, 11'ini Demokratlar aldı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 03:58 UTC"
-    },
-    {
-      "title": "Nervous Republicans await results at Paxton’s Texas election party",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/nervous-republicans-await-results-at-paxtons-texas-election-party-2?traffic_source=rss",
-      "summary": "Texas Republicans are anxiously waiting to see if the state’s attorney general can hold off his Democrat challenger.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 03:56 UTC"
     },
     {
       "title": "Altın, ara seçim sinyalleriyle yükseldi",
@@ -560,15 +803,6 @@
       "published_at": "2026-11-04 03:41 UTC"
     },
     {
-      "title": "South Carolina elects Democratic senator for first time in almost three decades",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e5f/live/0aeeffa0-d804-11f1-85f7-474f0be56cef.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 03:24 UTC"
-    },
-    {
       "title": "Öcalan'ın İmralı'da yeni yere geçişi ne anlama geliyor?",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b92/live/b4e5db20-d7f8-11f1-abc5-0dcba7a60c65.jpg",
       "link": "https://www.bbc.com/turkce/articles/cqe9lez7j1r8o?at_medium=RSS&at_campaign=rss",
@@ -576,15 +810,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 03:05 UTC"
-    },
-    {
-      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dde/live/6d838380-d7f9-11f1-afc1-71ff3c391379.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 02:38 UTC"
     },
     {
       "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
@@ -624,21 +849,12 @@
     },
     {
       "title": "Spanish transport minister resigns days after deadly train crash",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eee/live/c7353ed0-d81e-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
       "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-03 22:45 UTC"
-    },
-    {
-      "title": "Piyasalarda gün ortası: Borsa yükseldi, altın geriledi, Brent petrol arttı - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM3lsQ2ZwRUY3eDJXS19NQ3JTcGhaMlJDY2dMSWJ1RzJDQkc0cXM2MnJxa1dzS2plZ1BUV0lhMkpjLWlOVGZKSURCTHgzaUpoLW82UjNpZzhUQS0wc1FMUElHRGNvaWg1Y2djVG02TDFYWmIycnJRNnBrZ01CaGlsVUVBbnBnODZJcnVWV0pJZUxodlpXSDJUdlFZeTVneVFudXdCemNiNFo?oc=5",
-      "summary": "Piyasalarda gün ortası: Borsa yükseldi, altın geriledi, Brent petrol arttı EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-03 22:35 UTC"
     },
     {
       "title": "İspanya Ulaştırma Bakanı, 69 kişinin öldüğü tren kazasının ardından istifa etti",
@@ -668,24 +884,6 @@
       "published_at": "2026-11-03 21:35 UTC"
     },
     {
-      "title": "Resmi Gazete'de bugün (04.11.2026)",
-      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793740491/3793356/jpg/320x180",
-      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-04112026-3793356",
-      "summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-03 21:14 UTC"
-    },
-    {
-      "title": "ABD ara seçimlerinde Demokrat üstünlüğü: Canlı blog",
-      "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793739591/3793355/jpg/320x180",
-      "link": "https://www.bloomberght.com/abd-de-ara-secimler-3793355",
-      "summary": "ABD'de seçmenler, Kongre'nin kontrolünü belirleyecek ara seçimler için sandık başına gitti. Temsilciler Meclisi'nin 435 sandalyesinin tamamı ve Senato'daki 35 sandalye için yapılan seçimler, Başkan Donald Trump'ın görev süresinin kalan iki yılında Kongre'deki güç dengelerini belirleyecek. Seçimlere ilişkin tüm gelişmeleri canlı blog sayfamızdan takip edebilirsiniz.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-03 20:54 UTC"
-    },
-    {
       "title": "Emre Belözoğlu: Fenerbahçe'nin ikinci kez teknik direktörlük görevine getirdiği eski kaptanı",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f7c/live/a7482830-d79c-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.com/turkce/articles/cmy93wr2w2p0o?at_medium=RSS&at_campaign=rss",
@@ -702,204 +900,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-03 20:42 UTC"
-    },
-    {
-      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf3/live/42789f10-d7c0-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
-      "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 20:38 UTC"
-    },
-    {
-      "title": "Galatasaray, Şampiyonlar Ligi'nde evinde Stuttgart'ı 2-0 yendi",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d04/live/440b9090-d7bf-11f1-a719-bf3dc3a3d5b5.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin dördüncü hafta maçında Aleksey Batrakov'un attığı iki golle Almanya temsilcisi Stuttgart'ı 2-0 yendi",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 19:47 UTC"
-    },
-    {
-      "title": "OpenAI çalışanları kurum içi güvenlik riskleri konusunda yıllarca uyarıda bulundu - Unite.AI",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEk4NTZ0ekdSYUVVSDdUbEI0MHVXMWg3REFXd09aMVhHRWNjTVREVlVMOGVoZ2JpNzVjcGM5ZFRRT3E4aDFUNUp0clBTRndYZDRDM09pcFJyd0FGdUdqVWxtT1VJYWdjRHdfUXA3Rk10YWtjLXF0V2l3OS0wczNQTjBmcFExc3lkMWxraWY1MDduQQ?oc=5",
-      "summary": "OpenAI çalışanları kurum içi güvenlik riskleri konusunda yıllarca uyarıda bulundu Unite.AI",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-11-03 19:28 UTC"
-    },
-    {
-      "title": "Dünya Altın Konseyinden çarpıcı altın raporu: Merkez bankaları alım fırsatı olarak görüyor - Hürriyet",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQak9WNHhzb0ZQTkp4YU9RaE9aaVRoNXBSS1pPWUQ4WDdHRUpSQ1RmQ3R4YVVUa29NWWJUX0taOGg0ZFZsenlGeUVxZXkxTjNqNm5wOHR5TXJtTHBYRWJ4WkhtbkUyQ2l2X25YNjVRNmNEbkk4M3ZUNGYyNW1UaUZqdDZQNXhLLXR0OG1NWmZXbE0zWkpldXNfcXo0dGdOMk1neWVPUlJKQWpxSVBMbGlTSjJadzA3b2d4Q1ptSVdPYzVuRVlxQloza1hEM2Y?oc=5",
-      "summary": "Dünya Altın Konseyinden çarpıcı altın raporu: Merkez bankaları alım fırsatı olarak görüyor Hürriyet",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-03 19:25 UTC"
-    },
-    {
-      "title": "Merkez bankaları, altın fiyatlarındaki düşüşü alım fırsatına çevirdi",
-      "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793733504/3793354/jpg/320x180",
-      "link": "https://www.bloomberght.com/merkez-bankalari-altin-fiyatlarindaki-dususu-alim-firsatina-cevirdi-3793354",
-      "summary": "Dünya Altın Konseyi'nin raporuna göre, küresel altın talebi üçüncü çeyrekte yıllık bazda yüzde 1 gerileyerek 1.369 tona düştü. Altın fiyatlarındaki düşüşü alım fırsatı olarak değerlendiren merkez bankaları ise aynı dönemde alımlarını yüzde 42 artırarak 321,2 tona yükseltti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-03 19:17 UTC"
-    },
-    {
-      "title": "İran'dan dört ülkeye Hürmüz'den geçiş muafiyeti",
-      "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793731905/3793353/jpg/320x180",
-      "link": "https://www.bloomberght.com/iran-dan-dort-ulkeye-hurmuz-den-gecis-muafiyeti-3793353",
-      "summary": "İran, Hindistan, Çin, Irak ve Katar'a ait gemileri Hürmüz Boğazı'ndaki geçiş kısıtlamalarından muaf tuttuğunu açıkladı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-03 18:51 UTC"
-    },
-    {
-      "title": "Merkez Bankası anketine göre 1 Ocak'ta memur maaşları - Memurlar.Net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUjM5WFVuQUhDcF9JU0hyMGVVQ2hlUEduOEFhWGdoZWJzY1M3Y3lTRTJNb3dfcTF1T0dNbHZKNjFkWW5hLWowSVNWN2stMHNsXy01NDdMb0NOMHlqM0E5RzN4aXo4aUxhVi1LYnBDb19ad0VLNk1YemJLSWN5aTZZXy03UmtTcmNabzZZMFZNUlBmZU1DeUZHRnUtdVZCd9IBpgFBVV95cUxQVTk1WG5PdTRXOHdrLUctS2dtWTluY3g1UnNvMUZYWDBTTG1WVGJCUGhza2dKS1RyZ3YwWmcwb3dOb2VGVnNKc3ZWb3JpQUd4aUJNU2dwbTdVUUpXLVlWNWtfU0JFTkxZYmJNYkUzR09pc0dkZkZFbGc2RGF2cGlURW55aWI0ZHB6Qlg2aFB3MkhOUGRSR0puMDd0NUxOVVZhYUg2MzRR?oc=5",
-      "summary": "Merkez Bankası anketine göre 1 Ocak'ta memur maaşları Memurlar.Net",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-03 18:44 UTC"
-    },
-    {
-      "title": "Coca-Cola İçecek üçüncü çeyrekte 7,8 milyar TL net kâr açıkladı",
-      "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793729763/3793351/jpg/320x180",
-      "link": "https://www.bloomberght.com/coca-cola-icecek-ucuncu-ceyrekte-7-8-milyar-tl-net-kr-acikladi-3793351",
-      "summary": "Coca-Cola İçecek, 2026 yılının üçüncü çeyreğinde beklentilere paralel 7,8 milyar TL net kâr açıkladı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-03 18:15 UTC"
-    },
-    {
-      "title": "Binance, siber saldırının perde arkasını açıkladı",
-      "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793729139/3793350/jpg/320x180",
-      "link": "https://www.bloomberght.com/binance-siber-saldirinin-perde-arkasini-acikladi-3793350",
-      "summary": "Kripto para borsası Binance, geçen hafta maruz kaldığı siber saldırının çok aşamalı ve gelişmiş bir operasyon olduğunu açıkladı. FBI'ın saldırıdan Kuzey Kore'yi sorumlu tuttuğunu bildiren şirket, saldırının ardından 2,85 milyar dolarlık varlığın dondurulduğunu veya ele geçirildiğini duyurdu.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-03 18:05 UTC"
-    },
-    {
-      "title": "Binance, Saldırıdaki Sahte İş Görüşmelerini ve Yapay Zekâ Aracının Ele Geçirilmesini Ayrıntılarıyla Anlattı - Unite.AI",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTUxDNl9hbUpEWjNwb3Ruam01Z0pqUHR5al9fY3hpTDRUM1VuVENReGdYbmx6cDJCVWZ1dWEwVjRJb0lCcnF0VWxpUW52TmxVaFVuM0UwbnBBMDFrN1ZJeGJvVk5mZDRKRVN5RUFFTi1iWWdrMTkxLWJPMjRWdlN2Z0MtaUZDblhrWkI4UFRTaG82YUhVSGc?oc=5",
-      "summary": "Binance, Saldırıdaki Sahte İş Görüşmelerini ve Yapay Zekâ Aracının Ele Geçirilmesini Ayrıntılarıyla Anlattı Unite.AI",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-11-03 17:04 UTC"
-    },
-    {
-      "title": "Fransa Merkez Bankası büyüme tahminini düşürebilir - Investing.com Türkiye",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYTl4ODhyWU5lUWR5Yzd0VDZKTnI0a2V3T1ktbFB5TDhIZUVWZzdPQndZTE1JNmlxb2pLX2F1U0NFeW5Mb1hVeXl3Z19kM1d3RkNpUVRQc2JuMFpYcTJWVnI0VkN1R1RpaUF0WEI3VE1kNWVaSkZzRkNNblJqblQ2Z1AxX1J5cGZ0QXZhWFNDa3JXY1BMc2k1c0djckdxRnA3SHNiYUhn?oc=5",
-      "summary": "Fransa Merkez Bankası büyüme tahminini düşürebilir Investing.com Türkiye",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-03 17:01 UTC"
-    },
-    {
-      "title": "Mustafa Sarıgül: Partiler, polemikler, soruşturmalar ve yerelden ulusal siyasete uzanan kariyer",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a994/live/e297b930-d76c-11f1-88b3-31a86f29508d.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c6n9rnz9lnl5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mustafa Sarıgül, 1980'lerden bu yana sürekli gazete manşetlerinde yer almış bir siyasetçi. Son günlerde ise bir kara para aklama soruşturmasındaki iddialar nedeniyle gündemde. Peki Sarıgül kim ve nasıl bir siyasi geçmişe sahip?",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 16:54 UTC"
-    },
-    {
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 16:19 UTC"
-    },
-    {
-      "title": "Borsa İstanbul ve VİOP günü yükselişle tamamladı - Borsa Gundem",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT1ZSQ1FheFFycGg5amNMci1KT3hWSTJ4bTk5ZWFVemRPTVlqaXg1aXNsX1hfVE1CdVFMYklMQmhPRVA1TVdaX0xaRk53Qzl0WXR0U216RVA1Sk1xZ2o4M0prWTZRNWswWF9yMXppLUZTUkozUi1BY2tRYmJCYjRyczB3SkllTGtE?oc=5",
-      "summary": "Borsa İstanbul ve VİOP günü yükselişle tamamladı Borsa Gundem",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-03 15:10 UTC"
-    },
-    {
-      "title": "İngiltere Merkez Bankası'ndan 25 baz puanlık faiz artışı bekleniyor - Foreks.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOalZMRU5uakltazN3c2thR2E2Ul96WGo1QWhxRXBMMjcyTW5QSjNqYng0THRXME92Uk9PNGFMMDFWNjB1V2hhM3FIbGFrYi1PdzkxUF81Q2ZMV2ZHRXFtTk1FbmNpTmNJT25LU1o1Nm00UEFGVTJrM2t5S24yOE1DeHBoZVVfakc2UXdvSzJKYzhDZWFRQlRhV0s2MWRBUGdTeVhsSDlrc242bXpRa0IyRFhPa0ZkZFJ2Wno5UXQxejlkNGFmMzNpU0o4RThkelJycmwxQ0Y4NzctbUNpa0VyMWl3?oc=5",
-      "summary": "İngiltere Merkez Bankası'ndan 25 baz puanlık faiz artışı bekleniyor Foreks.com",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-03 14:41 UTC"
-    },
-    {
-      "title": "Memur ve memur emeklilerine 2027'de yüzde 5 ve yüzde 4 toplu sözleşme zammı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/41fa/live/a0753dc0-d7d5-11f1-8cb0-d304936875f3.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cwzd6m2y21r8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, 2027 yılında memur ve memur emeklileri için yüzde beş ve yüzde dört oranında artış yapılacağını söyledi.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 13:13 UTC"
-    },
-    {
-      "title": "Büyü, fal, ruhlar ve casuslar: İran siyasetinin doğaüstü dünyası",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b58d/live/2ad80ce0-cc78-11f1-bc2e-018d645d8d21.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cwly0xr8dmz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ali Hamaney’in falla ilgilenmesinden ilgilenmesinden, Ahmedinejad yönetiminin \"cin çıkaranlar ve falcılarla\" bağlantılı olduğu yönündeki suçlamalara ve İsrail’in büyü ve sihir kullandığına dair iddialara kadar doğaüstü inanışlar İran'da iktidarın en üst kademelerine nasıl sızdı?",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 12:08 UTC"
-    },
-    {
-      "title": "ABD'de ara seçimler başladı! Borsa İstanbul nasıl... - Hisse.net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNjBzR1loUy1ldUR3MGRIc3ZxbVhNRmlGcmtWNk12R0FWTWJhWkNfdUlrZTJ0enp0MjBfUDJvQ0lsUGhoSmVKSkJoWGk0cVI4RUxzR3BKZ0FMbFF0ZzJZcDZfTTFZbElWMkVrOXFqVzdOc1VyUmRzdDJfSFJaQ2NqS01tRjVfMmZINHEwNVNnMjVCcktFX1B6MHoxUdIBoAFBVV95cUxPRnBvY3ZxN2FzVFdDbXVIMVBpV1VMX3ZOcUJadll5bzEwMGtXVURmd3YzVG5wZm9hMTRQY1RJX0t2aE45MkhvZ2tYSlBzMFUwQ3JMaGNvVnZIdEM1SDRQWEtCQU01YzUzX2EtUXprcF9GQ3dDM0tTWUt1VV9ERzYzRURlNWtaaHJTbFlBVXFFVXVkSUNDeS1wN0ljUWdPa1dv?oc=5",
-      "summary": "ABD'de ara seçimler başladı! Borsa İstanbul nasıl... Hisse.net",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-03 12:06 UTC"
-    },
-    {
-      "title": "Özel Kılıçdaroğlu'nu neden eleştirdi, Emir Sarıgül'ün iddialarına ne yanıt verdi?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea84/live/86364a90-d770-11f1-a701-fddedf244c16.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cqglwjdx3043o?at_medium=RSS&at_campaign=rss",
-      "summary": "Yeni Parti Genel Başkanı Özgür Özel, CHP Genel Başkanı Kemal Kılıçdaroğlu'nu anayasa değişikliği ve dokunulmazlıkların kaldırılmaları konusunda eleştirdi: \"Nasıl Selahattin Başkanın [Demirtaş] anayasa değişikliğiyle içeriye girmesine sebep olduysa, gerekirse Yeni Partili kadrolar için de yaparım' diyor.\"",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 11:59 UTC"
-    },
-    {
-      "title": "30. yılında Susurluk skandalı: 3 Kasım 1996'daki kaza sonrası neler yaşandı?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3d9/live/c108c800-7d18-11ef-a8f7-6510b893a4f7.png",
-      "link": "https://www.bbc.com/turkce/articles/cq5e3z1edp9o?at_medium=RSS&at_campaign=rss",
-      "summary": "3 Kasım 1996'da yaşanan Susurluk kazasını, tetiklediği tartışmaları ve olayın bugüne kadar uzanan etkilerini inceledik.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-03 10:52 UTC"
-    },
-    {
-      "title": "İstanbul Finans Merkezi'nde Merkez Bankası binasına yıldırım düştü İstanbul'da dün akşam saatlerinde etkili olan gök gürültülü sağanak yağış sırasında, Ataşehir'deki İstanbul Finans Merkezi'nde bulunan ve Türkiye Cumhuriyet Merkez Bankası'n",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQR1doNlhWRlpNZjN5dnkyQW8tdEwtaTliX1V0dmNLSFJyajRrNTM5STZZQVNnRXpQTUhSRUdyeFlmcTdFU0ZMN0JsRV9vejctU1hZZk5n?oc=5",
-      "summary": "İstanbul Finans Merkezi'nde Merkez Bankası binasına yıldırım düştü İstanbul'da dün akşam saatlerinde etkili olan gök gürültülü sağanak yağış sırasında, Ataşehir'deki İstanbul Finans Merkezi'nde bulunan ve Türkiye Cumhuriyet Merkez Bankası'na ait olduğu b Instagram",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-03 10:43 UTC"
-    },
-    {
-      "title": "SABAH RAPORU: Borsa İstanbul'da sert dalgalanma, gözler enflasyon ve ABD ara seçimlerinde - Para Analiz",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFlpS2hLeG1kdEFRVGQ3M1RfakdWcTZ6ZjlkY0IyRHU4R2d6OW1iNGNRQUl2cFkzZU9ITWs1N3hmWGw5QUxpMHVwcGY1Nm1VWXhIMVZsa3pqbkxBcUNqSHpQZGwyRXZBR01UdHhHc2hKc1BuS1gyaGJ5M3hYT0I0UXlMVUR2SzQ0RWVlRTJkSTA2UzY2ZUdIRnpqQUpvYl9LY1BuNmduSkhuVnJ5YmIwRzJJZlNkSTg?oc=5",
-      "summary": "SABAH RAPORU: Borsa İstanbul'da sert dalgalanma, gözler enflasyon ve ABD ara seçimlerinde Para Analiz",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-03 06:04 UTC"
     }
   ]
 }
