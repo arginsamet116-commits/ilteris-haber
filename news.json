@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-11-04 20:20 UTC",
+  "updated_at": "2026-11-04 21:15 UTC",
   "items": [
+    {
+      "title": "Kardemir'in üçüncü çeyrek net kârı beklentilerin altında kaldı",
+      "image": "https://geoim.bloomberght.com/l/2026/11/05/ver1793826324/3793569/jpg/320x180",
+      "link": "https://www.bloomberght.com/kardemir-in-ucuncu-ceyrek-net-kri-beklentilerin-altinda-kaldi-3793569",
+      "summary": "Kardemir, 2026 yılının üçüncü çeyreğinde 269,3 milyon TL net kâr açıkladı ve 826 milyon TL'lik piyasa beklentisinin altında kaldı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 21:04 UTC"
+    },
+    {
+      "title": "US midterm election results live: Trump blames Iran war after losses",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+      "summary": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 21:00 UTC"
+    },
+    {
+      "title": "Süper Lig'de yayın ihalesi başladı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/super-ligde-yayin-ihalesi-basladi-962272.html",
+      "summary": "Türkiye Futbol Federasyonunun TFF, Süper Lig ve 1. Lig'in 202728 sezonundan itibaren 5 sezonluk yayın hakları için düzenleyeceği ihalenin şartnameleri satışa sunuldu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 20:59 UTC"
+    },
+    {
+      "title": "Türk futbolunda \"yayın ihalesi süreci\" başladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/turk-futbolunda-yayin-ihalesi-sureci-basladi/4112073",
+      "summary": "Türkiye Futbol Federasyonunun (TFF), Süper Lig ve 1. Lig'in 2027-28 sezonundan itibaren 5 sezonluk yayın hakları için düzenleyeceği ihalenin şartnameleri satışa sunuldu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 20:58 UTC"
+    },
+    {
+      "title": "NASA'nın Swift Gözlemevi Dünya'ya düşüyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/nasanin-swift-gozlemevi-dunyaya-dusuyor/4112068",
+      "summary": "ABD Havacılık ve Uzay Ajansının (NASA) Neil Gehrels Swift Gözlemevi'nin göreve başlamasından 22 yıl sonra kontrolsüz bir şekilde Dünya'ya doğru düşmeye başladığı bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 20:55 UTC"
+    },
+    {
+      "title": "Democrat leaders hail midterm election success",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
+      "summary": "The top Democrats in the two chambers of US Congress have been hailing their party’s resounding victory in the midterms.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 20:50 UTC"
+    },
+    {
+      "title": "31. Cumhurbaşkanlığı Kadınlar Basketbol finali Gaziantep'te oynanacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/31-cumhurbaskanligi-kadinlar-basketbol-finali-gaziantepte-oynanacak/4112063",
+      "summary": "31. Cumhurbaşkanlığı Kadınlar Basketbol Kupası finalinde Fenerbahçe Tarfin ile Galatasaray Çağdaş Factoring, Gaziantep'te karşılaşacak.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 20:47 UTC"
+    },
+    {
+      "title": "İsrail devlet televizyonu: ABD, envanterindeki iki casus uçağından birini Orta Doğu'ya gönderdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-devlet-televizyonu-abd-envanterindeki-iki-casus-ucagindan-birini-orta-doguya-gonderdi/4112061",
+      "summary": "ABD Hava Kuvvetleri envanterinde yalnızca iki adet bulunan stratejik casus uçaktan birinin son 24 saat içinde Orta Doğu'ya doğru yola çıktığı bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 20:46 UTC"
+    },
+    {
+      "title": "Gazze'deki Sağlık Bakanlığı: İsrail tıbbi tahliyeleri zaman tuzağına dönüştürdü",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/gazzedeki-saglik-bakanligi-israil-tibbi-tahliyeleri-zaman-tuzagina-donusturdu-962271.html",
+      "summary": "Gazze'deki Filistin Sağlık Bakanlığı, katil İsrail'in sürdürdüğü sıkı abluka ve kısıtlamaların tıbbi tahliyeleri birer \"zaman tuzağına\" dönüştürdüğünü, bu politikanın durumu kritik binlerce hastanın hayatta kalma şansını kaybetmesine neden olduğunu bildirdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 20:34 UTC"
+    },
+    {
+      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
+      "summary": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 20:31 UTC"
+    },
+    {
+      "title": "Adli Tıp: Kaşif Kozinoğlu'nun ölüm nedeni kalp hastalığı",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e87/live/bd89f910-acff-11f1-b1d1-571ed4d7ff2c.png",
+      "link": "https://www.bbc.com/turkce/articles/cwyzxq2g545o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'nun cezaevinde ölümüne ilişkin yeniden başlatılan soruşturmada gözaltına alınıp daha sonra serbest bırakılan eski cezaevi doktoru Turgay Tamer İstanbul'daki evinde ölü bulundu.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 20:28 UTC"
+    },
+    {
+      "title": "Will the US resume its attacks on Iran?",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
+      "summary": "Tehran says it's ready with a maximum deterrence plan.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 20:25 UTC"
+    },
+    {
+      "title": "Olağanüstü fon tasfiyelerinde 62,2 milyar TL ödeme yapıldı",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793823950/3793568/jpg/320x180",
+      "link": "https://www.bloomberght.com/olaganustu-fon-tasfiyelerinde-62-2-milyar-tl-odeme-yapildi-3793568",
+      "summary": "Fonların tasfiye sürecinde olağanüstü tasfiye kapsamında 390 bin 219 yatırımcıya 62,2 milyar lira, olağan tasfiye kapsamında ise 55 bin 821 yatırımcıya 55,4 milyar lira olmak üzere toplam 117,6 milyar lira ödeme yapıldı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 20:24 UTC"
+    },
+    {
+      "title": "Suriye ile Suudi Arabistan arasında 403,6 milyon dolarlık kalkınma finansmanı anlaşmaları imzalandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/suriye-ile-suudi-arabistan-arasinda-403-6-milyon-dolarlik-kalkinma-finansmani-anlasmalari-imzalandi/4112042",
+      "summary": "Suriye ile Suudi Arabistan arasında elektrik, sağlık, konut, su ve sivil savunma alanlarını kapsayan toplam 403,6 milyon dolarlık kalkınma finansmanı anlaşmaları imzalandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 20:22 UTC"
+    },
+    {
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6512/live/e94a10e0-d873-11f1-a364-a1fce50dd192.png",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 20:22 UTC"
+    },
+    {
+      "title": "SpaceX ve Qualcomm'dan 5G ağı için işbirliği",
+      "image": "",
+      "link": "https://www.bloomberght.com/spacex-ve-qualcomm-dan-5g-agi-icin-isbirligi-3793567",
+      "summary": "SpaceX, Starlink Mobile'ın ABD genelinde kurmayı planladığı karasal 5G ağı için Qualcomm ile işbirliğine gitti. Anlaşma kapsamında Qualcomm, baz istasyonları için Dragonwing Hücresel Altyapı platformlarını sağlayacak.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 20:13 UTC"
+    },
     {
       "title": "Olağanüstü tasfiye kapsamında 390 bin 219 yatırımcıya 62,2 milyar lira ödeme yapıldı",
       "image": "",
@@ -9,6 +153,33 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 20:10 UTC"
+    },
+    {
+      "title": "ABD'den İran petrolünü taşıyan Hintli denizcilik ağına yaptırım",
+      "image": "",
+      "link": "https://www.bloomberght.com/abd-den-iran-petrolunu-tasiyan-hintli-denizcilik-agina-yaptirim-3793566",
+      "summary": "ABD Hazine Bakanlığı, İran'ın yaptırımları aşarak petrol taşımacılığı yapmasına yardımcı olduğu öne sürülen Hindistan merkezli denizcilik ağını yaptırım listesine aldı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 20:05 UTC"
+    },
+    {
+      "title": "Iranians celebrate Democrat victory in US midterms",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
+      "summary": "US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 19:59 UTC"
+    },
+    {
+      "title": "Palandöken Dağı'nda kar yağışı etkili oldu",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/palandoken-daginda-kar-yagisi-etkili-oldu/4112030",
+      "summary": "Erzurum'daki Palandöken Dağı'nda kar yağışı etkili oldu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 19:58 UTC"
     },
     {
       "title": "SpaceX, ABD genelindeki 5G ağı için Qualcomm ile anlaştı",
@@ -36,6 +207,24 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 19:50 UTC"
+    },
+    {
+      "title": "Türk Telekom'dan üçüncü çeyrekte 7,7 milyar TL net kâr",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793821791/3793565/jpg/320x180",
+      "link": "https://www.bloomberght.com/turk-telekom-dan-ucuncu-ceyrekte-7-7-milyar-tl-net-kr-3793565",
+      "summary": "Türk Telekom, 2026 yılının üçüncü çeyreğinde 7,7 milyar TL net kâr açıklayarak 6,7 milyar TL'lik piyasa beklentisinin üzerinde bir performans sergiledi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 19:49 UTC"
+    },
+    {
+      "title": "İSO'nun yeni başkanı Dalgakıran: Egolarımızdan arınıp işbirliği yapmalıyız",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793821509/3793564/jpg/320x180",
+      "link": "https://www.bloomberght.com/iso-nun-yeni-baskani-dalgakiran-egolarimizdan-arinip-isbirligi-yapmaliyiz-3793564",
+      "summary": "Türkiye'nin en büyük sanayi odası olan İstanbul Sanayi Odası'nda seçimleri alarak başkanlık koltuğuna oturan Adnan Dalgakıran, yeni dönemde bütün bileşenlerin egolarından arınıp işbirliği içinde olmaları gerektiğini söyledi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 19:44 UTC"
     },
     {
       "title": "Kaşif Kozinoğlu'nun ölümüyle ilgili Adli Tıp raporu çıktı",
@@ -110,6 +299,15 @@
       "published_at": "2026-11-04 19:22 UTC"
     },
     {
+      "title": "Canva, çalışanlarının yüzde 22'sini işten çıkarıyor",
+      "image": "",
+      "link": "https://www.bloomberght.com/canva-calisanlarinin-yuzde-22-sini-isten-cikariyor-3793563",
+      "summary": "Avustralya merkezli grafik tasarım platformu Canva, büyümesinin son 10 yılda ilk kez yavaşlamasının ardından başlattığı yeniden yapılanma kapsamında çalışanlarının yüzde 22'sinin işten çıkarılacağını açıkladı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 19:21 UTC"
+    },
+    {
       "title": "ABD'den İran'ın petrol taşımacılığına destek veren denizcilik ağına yaptırım",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/abdden-iranin-petrol-tasimaciligina-destek-veren-denizcilik-agina-yaptirim/4111999",
@@ -146,13 +344,13 @@
       "published_at": "2026-11-04 19:15 UTC"
     },
     {
-      "title": "İsrail vatandaşı Filistinlileri temsil eden Raam Partisi, başbakanlık için Eisenkot'u önereceğini duyurdu",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/israil-vatandasi-filistinlileri-temsil-eden-raam-partisi-basbakanlik-icin-eisenkotu-onerecegini-duyurdu/4111955",
-      "summary": "İsrail vatandaşı Filistinlileri temsil eden Raam Partisi (Birleşik Arap Listesi), Cumhurbaşkanı Isaac Herzog'a hükümeti kurması için Gadi Eisenkot'un ismini önereceklerini duyurdu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 18:53 UTC"
+      "title": "İran: Trump, savaş nedeniyle yenilgiye uğradı",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793819235/3793561/jpg/320x180",
+      "link": "https://www.bloomberght.com/iran-trump-savas-nedeniyle-yenilgiye-ugradi-3793561",
+      "summary": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, ABD Başkanı Donald Trump'ın başlattığı İran savaşının kendisi için siyasi yenilgiye yol açtığını savundu.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 19:06 UTC"
     },
     {
       "title": "Merkez Bankası Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı haberi - Borsanın Gündemi",
@@ -171,6 +369,15 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 18:52 UTC"
+    },
+    {
+      "title": "Sabancı Holding'in üçüncü çeyrek net kârı 4,3 milyar TL'ye yükseldi",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793817990/3793557/jpg/320x180",
+      "link": "https://www.bloomberght.com/sabanci-holding-in-ucuncu-ceyrek-net-kri-4-3-milyar-tl-ye-yukseldi-3793557",
+      "summary": "Sabancı Holding, 2026'nın üçüncü çeyreğinde 4,3 milyar TL ana ortaklık net kârı açıkladı. Holdingin net kârı, geçen yılın aynı dönemindeki 880,6 milyon TL'ye kıyasla yüzde 384 arttı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 18:45 UTC"
     },
     {
       "title": "Trump, seçim yenilgisinde İran savaşı ve benzin fiyatlarının rol oynadığını kabul etti",
@@ -209,13 +416,13 @@
       "published_at": "2026-11-04 18:38 UTC"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan, Güney Kore'deki temaslarının ardından yurda döndü",
+      "title": "TMSF, Peker GYO'ya kayyum olarak atandı",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koredeki-temaslarinin-ardindan-yurda-dondu/4111939",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'ın davetine icabetle resmi ziyaret gerçekleştirdiği Seul'deki temaslarını tamamlayarak yurda döndü.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 18:37 UTC"
+      "link": "https://www.bloomberght.com/tmsf-peker-gyo-ya-kayyum-olarak-atandi-3793556",
+      "summary": "Tasarruf Mevduatı Sigorta Fonu (TMSF), mahkeme kararıyla Peker Gayrimenkul Yatırım Ortaklığına (GYO) kayyum olarak atandı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 18:34 UTC"
     },
     {
       "title": "Beşiktaş'ta teknik direktör Italiano, Celtic maçında sinirli bir rakip görebileceklerini söyledi",
@@ -227,6 +434,15 @@
       "published_at": "2026-11-04 18:26 UTC"
     },
     {
+      "title": "Trump: Azil konusunda endişeli değilim",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793816734/3793555/jpg/320x180",
+      "link": "https://www.bloomberght.com/trump-azil-konusunda-endiseli-degilim-3793555",
+      "summary": "ABD Başkanı Donald Trump, Cumhuriyetçilerin Kongre ara seçimlerindeki yenilgisinde İran savaşının etkili olduğunu kabul ederken, asıl nedenin fiyatlar olduğunu savundu.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 18:25 UTC"
+    },
+    {
       "title": "Trump: Kaybetmemizin sebebi İran savaşı",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/trump-kaybetmemizin-sebebi-iran-savasi-962265.html",
@@ -234,15 +450,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 18:20 UTC"
-    },
-    {
-      "title": "Trump, Demokratlara karşı seçimleri kaybetmelerini \"İran'la savaş\" ve \"hayat pahalılığına\" bağladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/trump-demokratlara-karsi-secimleri-kaybetmelerini-iranla-savas-ve-hayat-pahaliligina-bagladi/4111910",
-      "summary": "ABD Başkanı Donald Trump, Kongre ara seçimlerinde Demokratlara karşı yaşadıkları yenilginin büyük ölçüde \"İran savaşı\" ve savaşın yol açtığı \"hayat pahalılığından\" kaynaklandığını söyledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 18:15 UTC"
     },
     {
       "title": "Key moments as Democrats sweep to victories in US midterms",
@@ -254,15 +461,6 @@
       "published_at": "2026-11-04 18:13 UTC"
     },
     {
-      "title": "İstanbul'daki kara para aklama soruşturmasında tutuklanan Emir Sarıgül'e \"ev hapsi\" şartıyla tahliye",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-kara-para-aklama-sorusturmasinda-tutuklanan-emir-sarigule-ev-hapsi-sartiyla-tahliye/4111899",
-      "summary": "Yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin soruşturma kapsamında tutuklanan Emir Sarıgül, \"ev hapsi\" şeklinde adli kontrol tedbiri uygulanarak tahliye edildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 18:11 UTC"
-    },
-    {
       "title": "Sarıgül ailesine soruşturmada Emir Sarıgül ev hapsi şartıyla serbest",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/77ce/live/468fc940-d2c3-11f1-a701-fddedf244c16.png",
       "link": "https://www.bbc.com/turkce/articles/cmn04q2lnnrxo?at_medium=RSS&at_campaign=rss",
@@ -270,6 +468,15 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 18:05 UTC"
+    },
+    {
+      "title": "Vance'in \"savaş\" yorumu sonrası petrolde sert düşüş",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793815444/3793551/jpg/320x180",
+      "link": "https://www.bloomberght.com/vance-in-savas-yorumu-sonrasi-petrolde-sert-dusus-3793551",
+      "summary": "Brent petrolün varil fiyatı, ABD'deki Kongre ara seçimlerinin ardından yaklaşık yüzde 9 düşüşle 94,28 dolara geriledi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 18:03 UTC"
     },
     {
       "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
@@ -290,13 +497,13 @@
       "published_at": "2026-11-04 17:54 UTC"
     },
     {
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6512/live/e94a10e0-d873-11f1-a364-a1fce50dd192.png",
-      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 17:45 UTC"
+      "title": "Vance: Seçimleri kaybetmemizin nedeni İran savaşı",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793814368/3793548/jpg/320x180",
+      "link": "https://www.bloomberght.com/vance-secimleri-kaybetmemizin-nedeni-iran-savasi-3793548",
+      "summary": "ABD Başkan Yardımcısı JD Vance, Cumhuriyetçi Partinin Kongre ara seçimlerindeki yenilgisini İran'la yürütülen savaşa bağladı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 17:43 UTC"
     },
     {
       "title": "ABD Senatosu Azınlık Lideri Demokrat Schumer: İran'la savaşı sona erdireceğiz",
@@ -333,6 +540,15 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 17:37 UTC"
+    },
+    {
+      "title": "İstanbul'un 1600 yıllık tarihi Londra'da sergilenecek",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793813932/3793547/jpg/320x180",
+      "link": "https://www.bloomberght.com/istanbul-un-1600-yillik-tarihi-londra-da-sergilenecek-3793547",
+      "summary": "Koç Holding'in desteğiyle Londra'daki Victoria and Albert Müzesi'nde düzenlenen \"Konstantinopolis'ten İstanbul'a: Bir Şehir, İki İmparatorluk\" sergisi, 7 Kasım'da ziyarete açılacak.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 17:36 UTC"
     },
     {
       "title": "Pangram, Yapay Zekâ Tarafından Oluşturulan Görsel ve Videoları Tespit Etmek İçin İki Model Çıkardı - Unite.AI",
@@ -389,76 +605,22 @@
       "published_at": "2026-11-04 17:30 UTC"
     },
     {
-      "title": "BM İnsan Hakları Yüksek Komiseri Türk: Hesap sorulabilirliği mümkün kılan kurumları savunmalıyız",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/bm-insan-haklari-yuksek-komiseri-turk-hesap-sorulabilirligi-mumkun-kilan-kurumlari-savunmaliyiz-962257.html",
-      "summary": "Birleşmiş Milletler BM İnsan Hakları Yüksek Komiseri Volker Türk, Uluslararası Ceza Mahkemesinin UCM uluslararası insan hakları ekosisteminin vazgeçilmez bir parçası olduğunu belirterek, hesap sorulabilirliği mümkün kılan kurumların savunulması gerektiğini vurguladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 17:29 UTC"
-    },
-    {
-      "title": "ABD Senatosu Azınlık Lideri Demokrat Schumer: İran'la savaşı sona erdireceğiz",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abd-senatosu-azinlik-lideri-demokrat-schumer-iranla-savasi-sona-erdirecegiz/4111873",
-      "summary": "Demokratların Kongre'de üstünlüğü sağladığı ara seçimleri değerlendiren Senato Azınlık Lideri Chuck Schumer, Amerikan halkının İran'da ne uğruna savaşıldığını bilmediğini ve bu savaşı bitireceklerini söyledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 17:23 UTC"
-    },
-    {
       "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
-      "summary": "Vance cited trusted pollster saying Iran war, Israel ties were top of mind for Trump voters swinging to Democrats.",
+      "summary": "US VP Vance cites trusted pollster saying Iran war, Israel ties were top of mind for Trump voters swinging to Democrats.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 17:18 UTC"
     },
     {
-      "title": "İsrail ordusu ve istihbarat birimlerinin 7 Ekim öncesi kritik istihbaratları görmezden geldiği ortaya çıktı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ve-istihbarat-birimlerinin-7-ekim-oncesi-kritik-istihbaratlari-gormezden-geldigi-ortaya-cikti/4111869",
-      "summary": "İsrail ordusu ve istihbarat birimlerinin 7 Ekim 2023'ten bir gece önce Gazze Şeridi'ndeki hareketliliğe ilişkin çok sayıda kritik istihbarat almasına rağmen durumu \"rutin\" olarak değerlendirdiği ortaya çıktı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 17:14 UTC"
-    },
-    {
-      "title": "AB Komisyonu üyesi Kos, Karadağ, Arnavutluk, Moldova ve Ukrayna için üyelik yol haritalarını açıkladı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/ab-komisyonu-uyesi-kos-karadag-arnavutluk-moldova-ve-ukrayna-icin-uyelik-yol-haritalarini-acikladi-962256.html",
-      "summary": "Avrupa Birliği AB Komisyonunun Genişlemeden Sorumlu Üyesi Marta Kos, Karadağ'ın katılım antlaşması imzalanana kadar atması gereken adımları ve Arnavutluk, Moldova ile Ukraynanın üyelik müzakerelerinde gelecek bir yıl içerisinde ulaşmaları öngörülen hedefleri belirleyen yol haritalarını hazırladıklarını bildirdi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 17:14 UTC"
-    },
-    {
-      "title": "Palestinian citizens of Israel face intimidation after election success",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
-      "summary": "After winning a record number of parliament seats, Palestinian-led parties face campaign against them.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 17:14 UTC"
-    },
-    {
-      "title": "Owono enduring ‘hardest days of my life’ after De Miguel death",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/11/4/owono-enduring-hardest-days-of-my-life-after-de-miguel-death?traffic_source=rss",
-      "summary": "Tenerife striker De Miguel died on Tuesday as a result of injuries from a collision with FC Andorra goalkeeper Owono.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 17:05 UTC"
-    },
-    {
-      "title": "The new Congress may struggle to push a progressive agenda",
-      "image": "",
-      "link": "https://www.aljazeera.com/opinions/2026/11/4/the-new-congress-may-struggle-to-push-a-progressive-agenda?traffic_source=rss",
-      "summary": "Major change on key issues, such as Israel-Palestine, will be limited by the president and the Democratic establishment.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 17:05 UTC"
+      "title": "HP'nin yeni CEO'su Emma Walmsley oldu",
+      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793812060/3793546/jpg/320x180",
+      "link": "https://www.bloomberght.com/hp-nin-yeni-ceo-su-emma-walmsley-oldu-3793546",
+      "summary": "ABD'li bilgisayar üreticisi HP, İngiliz ilaç şirketi GSK'nin eski Üst Yöneticisi (CEO) ve Microsoft Yönetim Kurulu Üyesi Emma Walmsley'yi yeni CEO olarak atadı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-04 17:06 UTC"
     },
     {
       "title": "Iran's chief negotiator says Americans voted 'no to war'",
@@ -497,15 +659,6 @@
       "published_at": "2026-11-04 16:38 UTC"
     },
     {
-      "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
-      "image": "",
-      "link": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss",
-      "summary": "Tehran rallies see slogans, flag burnings and claims of US-Israeli defeats amid historic embassy takeover anniversary.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 16:37 UTC"
-    },
-    {
       "title": "TCMB: Enflasyonun ana eğilimi Ekim'de yataya yakın seyretti - Bloomberght",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVMzeExUUndETHFVdzh6M1hQd3RicU5FY3NPTjBrd1owWWdPeWxYYzZiYV9PQlFPZE92eWZOSGNvN2VJUml3UG1WcEJiQk1jb0g0NXlwM2NUY1c1d0Z2WTJ2Tk9YYzRYSlJwUlZOeEZ4YkdVMFNHS2ZzTjl1OGhSTmxmdy1tZ2lxMnh5SWQ0X3MxYVdNX0dyNnB3?oc=5",
@@ -524,15 +677,6 @@
       "published_at": "2026-11-04 16:26 UTC"
     },
     {
-      "title": "Ukrainian strikes kill three in Russia’s Belgorod region",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
-      "summary": "Russian strikes also cut power to Ukrainian cities as Moscow claims 700 Ukrainian drones downed across multiple regions.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 16:20 UTC"
-    },
-    {
       "title": "Israel's president begins consultations with parties after election deadlock",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/4104b7f0-d869-11f1-93e1-3b657b665bcf.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
@@ -540,15 +684,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 16:18 UTC"
-    },
-    {
-      "title": "Altın ve Borsa Yükseldi, Petrol Düştü: Piyasalarda Pozitif Hava - www.isindetayi.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjlNMERub0J3Z2JjaUhVNmw0ZWpIRjh2d2FyUzU1cWR0akJtMWpkaVd0RXAtTlV3Y1gtSnJPOW9tWnJtWEdONVJwblVCek05TUx4Vy1TdDk1ZXgyRFN3c1IwRmRjaHNPVElMM2JzNUlqOTRSV05td0lkbHAwUXRYQmdRRHRMM0FFcjNnc3VJM2ZoZw?oc=5",
-      "summary": "Altın ve Borsa Yükseldi, Petrol Düştü: Piyasalarda Pozitif Hava www.isindetayi.com",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-04 16:06 UTC"
     },
     {
       "title": "Weebit Nano, Bellek İçi Yapay Zekâ Hesaplaması için Matrix ReRAM Araştırma Programı’nı Başlattı - Unite.AI",
@@ -593,7 +728,7 @@
       "summary": "Polonya merkez bankası 2026 enflasyonunu %3,1-3,2 öngörüyor Investing.com Türkiye",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-04 15:18 UTC"
+      "published_at": "2026-11-04 15:19 UTC"
     },
     {
       "title": "Fatma Betül Sayan Kaya, eşi İlyas Kaya ve Gönül yeni ifade verecek",
@@ -765,141 +900,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-04 11:37 UTC"
-    },
-    {
-      "title": "Borsa İstanbul'da ABD seçimleri dopingi: BIST 100 endeksi günün ilk yarısında yükseldi - Yeni Şafak",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlVXVmdJQzA1NVc1VGR4RlNqd0RRYVowZDh3YnNlQWZVRlZ2cGVEdnRGWFYwNGhtX18yXzZHaU9DT29Ya3V4aDZyVERGbExZNkE1OWY3b3FaSXZNeHV4Wko4UkZCZzVHdG1jdVcwTkpnekhmSUs2UF9XNlZRZ1NvaHM3ekZGVkU4V3NWZ2E4ODNEYzl3Wkgxc3NWMTZkamt0UldHWkFfZTAyVG8xVmdoZlN3VUFyNk1ZUUVkeG9sR1JjQklz?oc=5",
-      "summary": "Borsa İstanbul'da ABD seçimleri dopingi: BIST 100 endeksi günün ilk yarısında yükseldi Yeni Şafak",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-04 10:47 UTC"
-    },
-    {
-      "title": "Euro Bölgesi enflasyonu üç yılın zirvesinde",
-      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793788611/3793460/jpg/320x180",
-      "link": "https://www.bloomberght.com/euro-bolgesi-nde-enflasyon-hedefin-iki-katina-cikti-3793460",
-      "summary": "Euro Bölgesi'nde yıllık enflasyon Ekim ayında yüzde 4'e yükselerek Eylül 2023'ten bu yana en yüksek seviyesine ulaştı. Enflasyonun Avrupa Merkez Bankası'nın (AMB) yüzde 2'lik hedefinin iki katına çıkması, bankanın faiz artırımlarına devam edebileceği beklentilerini güçlendirdi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-04 10:36 UTC"
-    },
-    {
-      "title": "\"COP31 'uygulama COP'u' olacak\"",
-      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793788747/3793458/jpg/320x180",
-      "link": "https://www.bloomberght.com/cop31-uygulama-copu-olacak-3793458",
-      "summary": "Türkiye'nin ev sahipliği yapacağı COP31 İklim Zirvesi öncesinde sanayi ve finans sektöründeki yeşil dönüşüm çalışmaları ivme kazanıyor.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-04 10:35 UTC"
-    },
-    {
-      "title": "Borsa İstanbul'da yükseliş yüzde 4,5'i aştı! - Haber Global",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUDRRSGtZamctcDh5ck5KWFlHM1lkcERBNGZEU25NSlU4dEFPcEhxZHNJc2lYd3ppek9UQTJ4MTA0NnAwWXVnOHVoUFkzeFBKYm8zT3d5TWd2TVBCeTNsc0JfWEhRTDl3dFkwbnBZQmFLMVh5Vzd2TEh2SDhIM1BPdUMzVjJVdw?oc=5",
-      "summary": "Borsa İstanbul'da yükseliş yüzde 4,5'i aştı! Haber Global",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-04 10:17 UTC"
-    },
-    {
-      "title": "İTO Başkanlığına yeniden Avdagiç seçildi",
-      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793786211/3793448/jpg/320x180",
-      "link": "https://www.bloomberght.com/ito-baskanligina-yeniden-avdagic-secildi-3793448",
-      "summary": "İstanbul Ticaret Odası'nın (İTO) 22'nci dönem başkanlığına Şekib Avdagiç, 270 Meclis üyesinin 251'sinin oyunu alarak yeniden seçildi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-04 09:55 UTC"
-    },
-    {
-      "title": "Penta Teknoloji 2026'nın ilk 9 ayında 28 milyar TL ciro kaydetti",
-      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793782670/3793436/jpg/320x180",
-      "link": "https://www.bloomberght.com/penta-teknoloji-2026-nin-ilk-9-ayinda-28-milyar-tl-ciro-kaydetti-3793436",
-      "summary": "Penta Teknoloji'nin 2026 yılının 9 aylık konsolide cirosu, geçen yılın aynı dönemine kıyasla yüzde 26 artış göstererek 28 milyar TL'ye yükseldi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-04 08:55 UTC"
-    },
-    {
-      "title": "THY'nin kârı yakıt baskısına rağmen beklentileri aştı",
-      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793782206/3793435/jpg/320x180",
-      "link": "https://www.bloomberght.com/thy-nin-kri-yakit-baskisina-ragmen-beklentileri-asti-3793435",
-      "summary": "Türk Hava Yolları, 2026 yılının üçüncü çeyreğinde 1,3 milyar dolar net kâr açıklayarak 1,1 milyar dolarlık piyasa beklentisinin üzerinde bir performans sergiledi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-04 08:49 UTC"
-    },
-    {
-      "title": "Takasbank'tan TP2 fonuyla ilgili açıklama",
-      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793781634/3793434/jpg/320x180",
-      "link": "https://www.bloomberght.com/takasbank-tan-tp2-fonuyla-ilgili-aciklama-3793434",
-      "summary": "Takasbank, Tera'nın TP2 fonuyla herhangi bir borç ilişkisi bulunmadığını belirtti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-04 08:39 UTC"
-    },
-    {
-      "title": "Rowan Skye, Telekomünikasyon ve Bağlantılılıkta Yapay Zeka, Yapay Zeka Araştırma Ajanı - Unite.AI",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uN0VOVTVsYzA0aEEzR3AzNDAxTEhRRmJ3NlV6RUF3cEpydGwxQTEyaWR6NWZqYlUwUkhVQmdkQWgtWXF6RmVacW15MHJKYmdUaWhZ?oc=5",
-      "summary": "Rowan Skye, Telekomünikasyon ve Bağlantılılıkta Yapay Zeka, Yapay Zeka Araştırma Ajanı Unite.AI",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-11-04 08:38 UTC"
-    },
-    {
-      "title": "ABD'de ara seçimlerin ardından siyasetin önemli isimlerinden ilk açıklamalar",
-      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793779532/3793427/jpg/320x180",
-      "link": "https://www.bloomberght.com/abd-de-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-3793427",
-      "summary": "ABD'de düzenlenen ara seçimlerde resmi olmayan sonuçlara göre Kongrede dengelerin Cumhuriyetçiler aleyhine değişmesinin ardından siyasetin önemli isimlerinden açıklamalar geldi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-04 08:01 UTC"
-    },
-    {
-      "title": "Merkez Bankası'ndan 'fon tasfiyeleri' analizi: 3 bin şirketin 116 milyar liralık yatırımı var - Diken",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0w3cnF6M1g3bFgzVWNrb0RxNTk4Y0VzUEdBczhiVGVZb2FjZURkd1hld1d6TjBlQVNoaHdKdUh3cWZBVy1rMExXaFEydHV3OUQ2bUQxdVpVSW4tVTViMFdqb3BHTzc4UVFpRFA0c1NhUzdBQkctUm8wc0ZNSkdNUXFmcGl6MmRZd3cwM2V1bnY4YzBwT1F3V05ESlpEX1NsVkF5UnFoNW9xd2xZTFBULVp3ZzZ1Zw?oc=5",
-      "summary": "Merkez Bankası'ndan 'fon tasfiyeleri' analizi: 3 bin şirketin 116 milyar liralık yatırımı var Diken",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-04 07:58 UTC"
-    },
-    {
-      "title": "ABD ara seçimleri yenilenebilir enerji hisselerinde yükselişi tetikledi",
-      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793778921/3793426/jpg/320x180",
-      "link": "https://www.bloomberght.com/abd-ara-secimleri-yenilenebilir-enerji-hisselerinde-yukselisi-tetikledi-3793426",
-      "summary": "ABD ara seçimlerinde Demokratların Kongre'nin her iki kanadının da kontrolünü kazanmasının ardından, küresel yenilenebilir enerji hisseleri yükselişe geçti. Bu sonuç, sektör için gelecekte daha elverişli politikaların destekleneceği şeklinde yorumlanıyor.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-04 07:54 UTC"
-    },
-    {
-      "title": "Merkez Bankası'ndan 'Fon Tasfiyeleri ve Reel Sektör' analizi - Ekonomi Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHlzMjZ2RldiZWdFdDhydk9UVXViRXB3aXAxdEo4dVI4Q2lxQ3JOWE5xcDhGWGpta29WTElfcjhxb1BtWm9oRTVwbGNHdFFjNDZVNUtnX21WbHdfY1pMY0dSaktnM2EwN2cxZ0hqYUZOWnVQY1ZOdThqYWZBRC1pQTgxMm9TRmZlM2E5dDhwcm84V3JXN1pEckxBdmExZElLMEgwQzlB?oc=5",
-      "summary": "Merkez Bankası'ndan 'Fon Tasfiyeleri ve Reel Sektör' analizi Ekonomi Gazetesi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-04 07:53 UTC"
-    },
-    {
-      "title": "Piyasalara Trump etkisi: Petrol düştü, altın ve gümüş yükselişe geçti! - Haber 7",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZGw3czhPYlMwR1BxRklaeUFoSnJSTmlmajMyV0dzX0MxN3BmdHg0NHdXZVJ4LTFkcDRmRmtRa1JqUnVXcGJkWm9jVkZoMS1uRGhWY1pjcFUtR3ZFczFPVjlYdHowRENWT1BmSDl5UW9nbktvWnNMRWc2UDNfZXByejVFNU9nazRHUkVlVm5yWFFXeWwzWW40bUdkbGM4ZmxmckxPVFNDR3U4Zzd5UjNUYXlRUHIybknSAboBQVVfeXFMT3Z2WnI5ckxZdGxCem1UeUNNMmdMaEp6MDAydmdZN3RHUHFfMnAwbHl5eE81RVdnVVJCa0lxZG42djZfdzlEOUpYY1NJa0VaOUVPMEkwTlg4NDJmcWhGbW9HNjRWb0psUnlkelBlMy0zR3dQQ3BpRlM4U0ZMUFltd1NtVnBRQWc0aUxlYU9OUmE3d3JsN3ZlVU9qQ2FRS1VLNklaSzQ5cXIweEVPWGlUdkdVUUZlVEdweEJR?oc=5",
-      "summary": "Piyasalara Trump etkisi: Petrol düştü, altın ve gümüş yükselişe geçti! Haber 7",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-04 07:52 UTC"
-    },
-    {
-      "title": "ABD'de Demokratların seçim zaferi Musk'ın şirketlerini vurdu",
-      "image": "https://geoim.bloomberght.com/l/2026/11/04/ver1793778446/3793425/jpg/320x180",
-      "link": "https://www.bloomberght.com/abd-de-demokratlarin-secim-zaferi-musk-in-sirketlerini-vurdu-3793425",
-      "summary": "ABD ara seçimlerinin ilk sonuçlarının Demokratların ezici bir zaferine işaret etmeye başlamasıyla birlikte, Cumhuriyetçi Parti'nin önde gelen destekçilerinden Elon Musk'ın şirketleri Tesla Inc. ve SpaceX'in hisseleri geriledi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-04 07:47 UTC"
     }
   ]
 }
