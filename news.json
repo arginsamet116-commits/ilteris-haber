@@ -1,6 +1,213 @@
 {
-  "updated_at": "2026-11-05 16:30 UTC",
+  "updated_at": "2026-11-05 17:49 UTC",
   "items": [
+    {
+      "title": "Iraklı hava yolu şirketi Fly Erbil, İstanbul Havalimanı'na uçuş başlattı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/irakli-hava-yolu-sirketi-fly-erbil-istanbul-havalimanina-ucus-baslatti/4113323",
+      "summary": "Irak'ın Erbil şehri merkezli uçuşlar düzenleyen hava yolu şirketi Fly Erbil, İstanbul Havalimanı'na tarifeli seferlerine başladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 17:46 UTC"
+    },
+    {
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12e6/live/3ccd15c0-d93a-11f1-95ea-8df9a040b6bf.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 17:40 UTC"
+    },
+    {
+      "title": "Paraguay Devlet Başkanı Pena bankacılık krizinin ardından istifa etti",
+      "image": "https://geoim.bloomberght.com/l/2026/11/05/ver1793900504/3793694/jpg/320x180",
+      "link": "https://www.bloomberght.com/paraguay-devlet-baskani-pena-bankacilik-krizinin-ardindan-istifa-etti-3793694",
+      "summary": "Paraguay Devlet Başkanı Santiago Pena, yaklaşık 3 milyon müşterinin banka hesaplarına erişimini kaybetmesine yol açan dijital banka Ueno'nun çöküşünün ardından artan siyasi baskılar üzerine istifa etti.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-05 17:38 UTC"
+    },
+    {
+      "title": "Japonya Ulusal Polis Teşkilatı ve Google, Çinli şirketin arka kapı yazılımını devre dışı bıraktı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/japonya-ulusal-polis-teskilati-ve-google-cinli-sirketin-arka-kapi-yazilimini-devre-disi-birakti/4113308",
+      "summary": "Japonya Ulusal Polis Teşkilatı (NPA) ve Google, Çin merkezli Videostrong şirketinin 1 milyondan fazla internet bağlantılı cihazı proxy sunucusuna dönüştüren arka kapı yazılımını devre dışı bıraktığını açıkladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 17:32 UTC"
+    },
+    {
+      "title": "İsrail vatandaşı Filistinlileri temsil eden Ortak Liste, Eisenkot'un hükümet kurmakla görevlendirilmesini önerdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-vatandasi-filistinlileri-temsil-eden-ortak-liste-eisenkotun-hukumet-kurmakla-gorevlendirilmesini-onerdi/4113303",
+      "summary": "İsrail vatandaşı Filistinlileri temsil eden Ortak Liste, Cumhurbaşkanı Isaac Herzog'a hükümet kurma yetkisini muhalefet lideri Gadi Eisenkot'a vermesini önerdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 17:28 UTC"
+    },
+    {
+      "title": "İngiliz The Independent gazetesi: ABD Dışişleri Bakanı Rubio, başkanlık yarışı için istifa edecek",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/ingiliz-the-independent-gazetesi-abd-disisleri-bakani-rubio-baskanlik-yarisi-icin-istifa-edecek-962366.html",
+      "summary": "ABD Dışişleri Bakanı Marco Rubio'nun, 2028'de ABD başkanlık seçimlerinde aday olmak için görevinden istifa edeceği iddia edildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 17:22 UTC"
+    },
+    {
+      "title": "İngiliz The Independent gazetesi: ABD Dışişleri Bakanı Rubio, başkanlık yarışı için istifa edecek",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/ingiliz-the-independent-gazetesi-abd-disisleri-bakani-rubio-baskanlik-yarisi-icin-istifa-edecek/4113300",
+      "summary": "ABD Dışişleri Bakanı Marco Rubio'nun 2028'de ABD başkanlık seçimlerinde aday olmak için görevinden istifa edeceği iddia edildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 17:21 UTC"
+    },
+    {
+      "title": "Pizzaya ananas koymayan şef işinden oldu",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/pizzaya-ananas-koymayan-sef-isinden-oldu-962365.html",
+      "summary": "Avustralyanın Queensland eyaletindeki lüks bir İtalyan restoranında baş aşçılık yapan Davide Tamburella, pizzaya ananas koymayı reddettiği için işten çıkarıldı. İş akdinin feshine karşı açtığı davayı kaybeden İtalyan şef, bu talebi kendi kültürüne yapılmış bir hakaret olarak gördüğünü savundu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 17:18 UTC"
+    },
+    {
+      "title": "Fitch, ABD'de veri merkezi projelerinin giderek artan zorluklarla karşı karşıya olduğuna işaret etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/fitch-abdde-veri-merkezi-projelerinin-giderek-artan-zorluklarla-karsi-karsiya-olduguna-isaret-etti/4113296",
+      "summary": "Fitch Ratings, ABD'deki yapay zeka veri merkezi projelerinin olası eyalet düzenlemeleri ve elektrik tedarikindeki gecikmeler nedeniyle giderek daha fazla zorlukla karşılaştığını bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 17:17 UTC"
+    },
+    {
+      "title": "Avrupa uçuşlarında bomba tehdidi: En az 21 uçuş etkilendi",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b549/live/72afb9f0-d90c-11f1-94c6-3f8050561bf5.jpg",
+      "link": "https://www.bbc.com/turkce/articles/ckz7xd2g9edqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Avrupa genelinde en az 21 uçak, güvenlik tehdidi ve bomba ihbarı sebebiyle acil durum alarmı verdi. Bazı uçaklar güzergah değiştirdi. Bazıları askeri kuvvetler eşliğinde iniş yapabildi. Bu hafta, Avrupa'nın farklı noktalarına uçan yedi yolcu uçağı da bomba ihbarları nedeniyle, güvenlik önlemleri kapsamında incelemeye alınmıştı",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 17:10 UTC"
+    },
+    {
+      "title": "Emniyet Genel Müdürlüğünden COP31 açıklaması: 25 bin 739 personel sahada aktif olarak görevlendirildi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/emniyet-genel-mudurlugunden-cop31-aciklamasi-25-bin-739-personel-sahada-aktif-olarak-gorevlendirildi/4113290",
+      "summary": "Emniyet Genel Müdürlüğü (EGM), 9-20 Kasım'da Antalya'da düzenlenecek COP31 kapsamında, toplam 25 bin 739 personelin sahada aktif olarak görevlendirildiğini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 17:08 UTC"
+    },
+    {
+      "title": "Jordanian officer killed in stabbing attack in Amman",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
+      "summary": "A Jordanian security officer has been killed and another one wounded near the Sri Lankan embassy in Amman.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 17:08 UTC"
+    },
+    {
+      "title": "Paraguay President Pena resigns in wake of bank collapse",
+      "image": "",
+      "link": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss",
+      "summary": "President Pena, a Trump ally, had faced an impeachment motion and protests after the collapse of digital lender ueno.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 17:08 UTC"
+    },
+    {
+      "title": "İran'dan UAEA Başkanı Grossi'ye bilgi sızdırma suçlaması",
+      "image": "https://geoim.bloomberght.com/l/2026/11/05/ver1793898092/3793693/jpg/320x180",
+      "link": "https://www.bloomberght.com/iran-dan-uaea-baskani-grossi-ye-bilgi-sizdirma-suclamasi-3793693",
+      "summary": "İran Atom Enerjisi Kurumu Başkanı Muhammed İslami, Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Mariano Grossi'yi gizli ve hassas bilgileri İran'ın düşmanlarıyla paylaşmakla suçladı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-05 17:00 UTC"
+    },
+    {
+      "title": "Arif Ahmet Denizolgun'un ölümüyle ilgili Adli Tıp raporu çıktı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/arif-ahmet-denizolgunun-olumuyle-ilgili-adli-tip-raporu-cikti-962364.html",
+      "summary": "Eski ulaştırma bakanlarından Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturma kapsamında, Adli Tıp Kurumunca veriler üzerinde yapılan incelemede ölümünün yüksek tansiyona bağlı beyin kanaması sonucu meydana geldiği belirlendi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 16:58 UTC"
+    },
+    {
+      "title": "İran: UAEA Başkanı Grossi, düşmanımızın bir unsuru haline geldi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-uaea-baskani-grossi-dusmanimizin-bir-unsuru-haline-geldi/4113283",
+      "summary": "İran Atom Enerjisi Kurumu Başkanı Muhammed İslami, Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Mariano Grossi'yi gizli veya hassas bilgileri İran'ın düşmanlarıyla paylaşmakla ve \"düşmanın bir unsuru haline gelmekle\" suçladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 16:57 UTC"
+    },
+    {
+      "title": "Bishara: US election deals a blow to warmongers",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_us-election-deals-a-blow-to-warmongers-051126?traffic_source=rss",
+      "summary": "Al Jazeera's senior political analyst Marwan Bishara says the US election is a setback for warmongers.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 16:48 UTC"
+    },
+    {
+      "title": "Gaza holds final of tournament honouring more than 1,000 slain athletes",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss",
+      "summary": "The final of Gaza’s ‘Thousand Martyrs’ Cup marks the return of organised football after nearly three years of war.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 16:46 UTC"
+    },
+    {
+      "title": "Piyasalarda gün ortası: Borsa geriledi, altın ve Brent petrol yükseldi - EKOTÜRK",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYW1NN0p3bl9vdF9zUlVsczdNSGppVElTcTh0cndTTEFrWHpHelF3bFF0MkdXdll3MkotbkswQzlxY09aR29pbFh6NjZDQkIyRFVtOTVDdFlIWlpvRFJzbkxwLXhmZm1yNkg3TDF1clJXMmduVEhranJ2VWNsY3pTcEZzOVJjTEk4dkV5UWJzNFdCXzVab3YwWTFYanJmVEpiWFE?oc=5",
+      "summary": "Piyasalarda gün ortası: Borsa geriledi, altın ve Brent petrol yükseldi EKOTÜRK",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-05 16:45 UTC"
+    },
+    {
+      "title": "Küresel altın fiyatları iki haftanın zirvesinde: ABD seçimleri yükselişi hızlandırdı - EKOTÜRK",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNkV6WDhrUmYtc0tTSDBRNGZtams4NnpLV2REWEZ2ZGZ6YW0zU0YteEFCS0xkOEdsU3BfNmc2dmJWdm9hLS13NXY5MU9teGJWS1dkRWhiR1JYSTZNVy0ycVMxSVFfN1NJV19WNDY1N0FBWmFuOHc0b3lnVWJ4QWhXSlc1RzdJdmJ4S2tmbWpzT0VTRGtUbGU4RVpZeFRUajAxNEMwdEpsNmR2cUdqZExpNk1UMA?oc=5",
+      "summary": "Küresel altın fiyatları iki haftanın zirvesinde: ABD seçimleri yükselişi hızlandırdı EKOTÜRK",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-05 16:44 UTC"
+    },
+    {
+      "title": "Şişecam üçüncü çeyrekte zarar açıkladı",
+      "image": "https://geoim.bloomberght.com/l/2026/11/05/ver1793897098/3793692/jpg/320x180",
+      "link": "https://www.bloomberght.com/sisecam-ucuncu-ceyrekte-zarar-acikladi-3793692",
+      "summary": "Şişecam, 2026'nın üçüncü çeyreğinde 295 milyon TL net zarar açıkladı ve 2,2 milyar TL'lik net kâr beklentisinin belirgin biçimde altında kaldı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-05 16:43 UTC"
+    },
+    {
+      "title": "Arif Ahmet Denizolgun'un ölümüne ilişkin Adli Tıp raporu çıktı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/arif-ahmet-denizolgunun-olumune-iliskin-adli-tip-raporu-cikti/4113260",
+      "summary": "Eski ulaştırma bakanlarından Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturma kapsamında, Adli Tıp Kurumunca veriler üzerinde yapılan incelemede ölümünün yüksek tansiyona bağlı beyin kanaması sonucu meydana geldiği belirlendi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 16:26 UTC"
+    },
+    {
+      "title": "Avrupa'da bomba ihbarları nedeniyle en az 17 uçak acil iniş yaptı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/avrupada-bomba-ihbarlari-nedeniyle-en-az-17-ucak-acil-inis-yapti-962363.html",
+      "summary": "Avrupa'da İtalya, Fransa, Belçika, Çekya ve Bulgaristan dahil birçok ülkede bomba ihbarları nedeniyle en az 17 yolcu uçağı acil iniş yaptı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 16:24 UTC"
+    },
     {
       "title": "Altında ibre yukarı döndü: Gram ve çeyrek altın kaç lira oldu? - EKOTÜRK",
       "image": "",
@@ -41,7 +248,7 @@
       "title": "Afyonkarahisar'da silahlı saldırı: 8 ölü",
       "image": "",
       "link": "https://www.trthaber.com/haber/turkiye/afyonkarahisarda-silahli-saldiri-8-olu-962362.html",
-      "summary": "Afyonkarahisar'ın İhsaniye ilçesinde silahla vurulan 8 kişi hayatını kaybetti.",
+      "summary": "Afyonkarahisar'da silahla vurulan 8 kişi hayatını kaybetti, 1 kişi ağır yaralandı.",
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-05 16:07 UTC"
@@ -146,24 +353,6 @@
       "published_at": "2026-11-05 15:43 UTC"
     },
     {
-      "title": "\"5. Göbeklitepe Uluslararası Film Festivali\" başladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/5-gobeklitepe-uluslararasi-film-festivali-basladi/4113209",
-      "summary": "Şanlıurfa Büyükşehir Belediyesi desteğiyle, Göbeklitepe Kültür Sanat Derneği tarafından bu yıl beşincisi düzenlenen \"Göbeklitepe Uluslararası Film Festivali\" başladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 15:41 UTC"
-    },
-    {
-      "title": "Yemen Başkanlık Konseyi: 5 Ekim'den bu yana operasyonlarda yaklaşık 20 bin Husi öldü veya yaralandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/yemen-baskanlik-konseyi-5-ekimden-bu-yana-operasyonlarda-yaklasik-20-bin-husi-oldu-veya-yaralandi/4113208",
-      "summary": "Yemen Başkanlık Konseyi, hükümet güçlerinin \"Yemen'in Şafağı\" adı verilen askeri operasyonun ilk ayında Husilere ait hedeflere 40 bin 761 saldırı düzenlediğini, yaklaşık 20 bin Husi mensubunun öldüğünü veya yaralandığını açıkladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 15:37 UTC"
-    },
-    {
       "title": "Merkez Bankası'nın toplam rezervleri 158,1 milyar dolara geriledi - Ekonomi Gazetesi",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlJNQWFTQkJpWkl6dzQ1ZlB0Q2k4eU5IWTNQeGR1S2otenFjcVNIUVdqVVU0WjRFZFpuTFJmLWoxT1FWeDE0LURlRUZSR3R2ZndlRTJ5a29xdUxrWmdia0FSbU14OFhkbHR3bm9hLXdlVXpzZzRiQ3RIUlZxZzdaUEZFWjRpakVPWmM5aEJ3TnJJTXI3N2lmMGREdkJtS1ZldGFDMmlFR0h1WVFsV1E?oc=5",
@@ -182,15 +371,6 @@
       "published_at": "2026-11-05 15:31 UTC"
     },
     {
-      "title": "Dünya Bankası: Gelişmekte olan ülkelerin dış borcu 9,4 trilyon dolarla rekor kırdı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasi-gelismekte-olan-ulkelerin-dis-borcu-9-4-trilyon-dolarla-rekor-kirdi/4113202",
-      "summary": "Dünya Bankası, gelişmekte olan ülkelerin dış borcunun 2025'te yüzde 5,5 artarak 9,4 trilyon dolarla rekor seviyeye ulaştığını, bu artışın 2021'den bu yana en hızlı yükseliş olduğunu bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 15:31 UTC"
-    },
-    {
       "title": "Altın fiyatlarında son durum",
       "image": "",
       "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-962361.html",
@@ -198,15 +378,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-05 15:29 UTC"
-    },
-    {
-      "title": "Borsa günü düşüşle tamamladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4113197",
-      "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,26 değer kaybederek 11.333,27 puandan tamamladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 15:28 UTC"
     },
     {
       "title": "Bakan Kurum: Önümüzdeki ay ilk 1071 kiralık konutumuzu teslim edeceğiz",
@@ -225,15 +396,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-05 15:14 UTC"
-    },
-    {
-      "title": "İsveç iç güvenlik tehdidi nedeniyle 6 ay geçici sınır kontrolleri uygulayacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/isvec-ic-guvenlik-tehdidi-nedeniyle-6-ay-gecici-sinir-kontrolleri-uygulayacak/4113173",
-      "summary": "İsveç hükümeti, kamu düzeni ve iç güvenliğe yönelik ciddi tehdit gerekçesiyle 6 ay süreyle geçici sınır kontrolü uygulama kararı aldığını bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 15:11 UTC"
     },
     {
       "title": "Jerusalem Daily: Settler pogroms in Hebron",
@@ -263,22 +425,13 @@
       "published_at": "2026-11-05 15:01 UTC"
     },
     {
-      "title": "Six dead and others injured in fire at New York City building",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a078/live/883819a0-d913-11f1-a81d-35e942472442.png",
-      "link": "https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The cause of the blaze is not yet clear, after 230 fire and emergency medical personnel went to the scene.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 15:00 UTC"
-    },
-    {
-      "title": "İranlı uzmanlara göre Trump'ın Kongre'de çoğunluğu kaybetmesi, İran'a saldırı ihtimalini ortadan kaldırmadı",
+      "title": "Gazzeli anne, eşi ve kızını tedavi için Mısır'a uğurladıktan sonra döndüğü çadırda İsrail ateşiyle öldürüldü",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/iranli-uzmanlara-gore-trumpin-kongrede-cogunlugu-kaybetmesi-irana-saldiri-ihtimalini-ortadan-kaldirmadi/4113153",
-      "summary": "İranlı uzmanlar, Demokratların ABD seçimlerinde Kongre'nin iki kanadında da çoğunluğu elde etmesinin Trump'ın İran'a yönelik olası saldırılarının siyasi maliyetini artıracağını, ancak sınırlı bir askeri saldırı ihtimalinin sürdüğünü belirtti.",
+      "link": "https://www.aa.com.tr/tr/dunya/gazzeli-anne-esi-ve-kizini-tedavi-icin-misira-ugurladiktan-sonra-dondugu-cadirda-israil-atesiyle-olduruldu/4113150",
+      "summary": "Gazze Şeridi'nde Filistinli kadın, tedavi için Mısır'a gidecek eşi ve kızıyla vedalaştıktan sonra döndüğü çadırında İsrail ordusunun açtığı ateş sonucu hayatını kaybetti.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 14:49 UTC"
+      "published_at": "2026-11-05 14:47 UTC"
     },
     {
       "title": "İran Ordusu: Hürmüz Boğazı'nın doğusunda 2 petrol tankeri deniz mayınlarına çarptı",
@@ -297,15 +450,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-05 14:45 UTC"
-    },
-    {
-      "title": "Avrupa'da en az 18 uçak bomba ihbarından etkilendi",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b549/live/72afb9f0-d90c-11f1-94c6-3f8050561bf5.jpg",
-      "link": "https://www.bbc.com/turkce/articles/ckz7xd2g9edqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Avrupa genelinde en az 18 uçak, güvenlik tehdidi ve bomba ihbarı sebebiyle acil durum alarmı verdi. Bazı uçaklar güzergah değiştirdi. Bazıları askeri kuvvetler eşliğinde iniş yapabildi. Bu hafta, Avrupa'nın farklı noktalarına uçan yedi yolcu uçağı da bomba ihbarları nedeniyle, güvenlik önlemleri kapsamında incelemeye alınmıştı.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 14:44 UTC"
     },
     {
       "title": "Yapı Kredi Reports Transformation of 105,000 Shares into Trading Shares - The Globe and Mail",
@@ -335,15 +479,6 @@
       "published_at": "2026-11-05 14:36 UTC"
     },
     {
-      "title": "Dışişleri Bakanı Fidan, İranlı mevkidaşı Erakçi ile telefonda görüştü",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-iranli-mevkidasi-erakci-ile-telefonda-gorustu/4113141",
-      "summary": "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Erakçi ile İran ile ABD arasındaki müzakere sürecini görüştü.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 14:35 UTC"
-    },
-    {
       "title": "Küresel enerji krizi İngiltere'yi vurdu: Merkez Bankası'ndan faiz artışı - Cumhuriyet",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenl1UjV3NTRFMnVkSG1fa2dyLUxlUG11QkFzbGdrOVdvNGQtZjd4YVdZSFZBQWZmVkRXQVFxUkVpU1hSMC1zZmpwVzhGOTlRMUVvLVZYMGlobUpzUExZazE4Z2J2SUlCTzJQQ3pVOEYwb2RJcV90bEpZc1E5YnZMYUlGN1dHcERwX25aT3pWWUhGT09Gc2tKbDJuVWJRcjdab2RXcXdKcXVMNTRfbDQyNERUcWI0dC1E?oc=5",
@@ -351,15 +486,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-05 14:32 UTC"
-    },
-    {
-      "title": "İran Ordusu: Hürmüz Boğazı'nın doğusunda 2 petrol tankeri deniz mayınlarına çarptı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinin-dogusunda-2-petrol-tankeri-deniz-mayinlarina-carpti/4113131",
-      "summary": "İran Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın doğusunda deniz mayınlarına çarpan 2 petrol tankerinin alev aldığını bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 14:30 UTC"
     },
     {
       "title": "Bakan Fidan, İran Dışişleri Bakanı Arakçi ile görüştü",
@@ -389,15 +515,6 @@
       "published_at": "2026-11-05 14:28 UTC"
     },
     {
-      "title": "İçişleri Bakanı Çiftçi, Suudi Arabistanlı mevkidaşıyla görüştü",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-suudi-arabistanli-mevkidasiyla-gorustu/4113118",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi, Suudi Arabistan İçişleri Bakanı Prens Abdülaziz bin Suud bin Nayif Al Suud ile bir araya geldi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 14:23 UTC"
-    },
-    {
       "title": "YÖK'ten Dijital Üniversite Platformu'na ek kontenjan",
       "image": "",
       "link": "https://www.trthaber.com/haber/egitim/yokten-dijital-universite-platformuna-ek-kontenjan-962357.html",
@@ -423,33 +540,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-05 14:20 UTC"
-    },
-    {
-      "title": "Could the US midterms further isolate Israel in Washington?",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
-      "summary": "The midterms showed that challenging support for Israel can win votes. But changing US foreign policy may be harder.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 14:19 UTC"
-    },
-    {
-      "title": "Burning rubbish chokes besieged Yemeni city of Taiz",
-      "image": "",
-      "link": "https://www.aljazeera.com/features/2026/11/5/burning-rubbish-chokes-besieged-yemeni-city-of-taiz?traffic_source=rss",
-      "summary": "Taiz residents face health risks as waste accumulates amid sniper fire, forcing people to burn it in the streets.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 14:17 UTC"
-    },
-    {
-      "title": "Joint List says it will back Eisenkot to form Israel’s next government",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss",
-      "summary": "Arab-led parties won a record 19 seats in Israel's 120-seat parliament in last week's general election.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 14:15 UTC"
     },
     {
       "title": "ABD'de işsizlik maaşı başvuruları düştü",
@@ -506,15 +596,6 @@
       "published_at": "2026-11-05 13:51 UTC"
     },
     {
-      "title": "What can Democrats do in Congress under President Trump?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/what-can-democrats-do-in-congress-under-president-trump?traffic_source=rss",
-      "summary": "What can the Democratic party actually change when it comes to Donald Trump’s decisions, policies and presidency?",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 13:43 UTC"
-    },
-    {
       "title": "Fatma Betül Sayan Kaya, eşi İlyas Kaya ve eski SPK başkanı Gönül İstanbul Adliyesi'nde ifade verdi",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b52c/live/6b6dbce0-c242-11f1-b2a8-994b2a5598cb.jpg",
       "link": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss",
@@ -542,15 +623,6 @@
       "published_at": "2026-11-05 13:28 UTC"
     },
     {
-      "title": "Borsa İstanbul'da yeni güne pozitif başlangıç: Madencilik öne çıktı - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVktc1VpTkpINDZZSXBUZEtTVFFmenVhVTloLTJvd2hmYmdlU0UtYUNGbjZkcGJoYTJqeGI2eFRfTG5hMXl4SnRaMGppZVBfMUdpanJ5dFVGYzk5UVVVbW9XRjRiWU4zQVR1WXR4dnk4cl9aQjNOQlMyRjNIcUM0cW9acl9UME1BTHNMMDBkdWF5R1lVOXpib3VoQQ?oc=5",
-      "summary": "Borsa İstanbul'da yeni güne pozitif başlangıç: Madencilik öne çıktı EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-05 13:19 UTC"
-    },
-    {
       "title": "Orman yangını sayısı bir önceki yıla göre yüzde 35 azaldı",
       "image": "",
       "link": "https://www.trthaber.com/haber/turkiye/orman-yangini-sayisi-bir-onceki-yila-gore-yuzde-35-azaldi-962354.html",
@@ -567,6 +639,15 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-05 13:14 UTC"
+    },
+    {
+      "title": "Merkez Bankası rezervleri 4 milyar dolar azaldı - Diken",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IUC1QSzdYMUhyYVBwNHZfb2NIa0hGZXhCRlU0WURlQnRjNV9ucUdtR2Y1d2N0S0k3M1Y0Y0d0Z2ZoN0hCTjRhbjZGNE13Tm51YzBnT2pQTTRsSmQxa1pkUHJwekpGRHF4T1ppdUpsb28yQzNnZmtiWWZWMXR0dw?oc=5",
+      "summary": "Merkez Bankası rezervleri 4 milyar dolar azaldı Diken",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-05 13:07 UTC"
     },
     {
       "title": "İzmir'de evde çıkan yangında dumandan etkilenen anne öldü",
@@ -623,6 +704,15 @@
       "published_at": "2026-11-05 12:29 UTC"
     },
     {
+      "title": "İngiltere Merkez Bankası politika faizini 25 baz puan artırarak yüzde 4'e çıkardı - Anadolu Ajansı",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1BSRG9Ma21mYzhHcUhISTBucDN3dGtzdFRsek4tYWtxTlVrVWs2bEdWTE44ODlHU3RuaENTT1hYZko2aUFpTm01UnBwWkRUUW5zNi1PQVdibWRQS3N1VmY4elFIalgzeFRDLU1wOFVYTFVNSTN4ZGcyUWxpd3RSMUk4Q2hCZ3hheE9BR0xNYzJ3R1kya0kwNVByLTNVVjROU2wxengwZmQ4Vi1mTjNNMDhpSWUxUGsyTTE0VUZR?oc=5",
+      "summary": "İngiltere Merkez Bankası politika faizini 25 baz puan artırarak yüzde 4'e çıkardı Anadolu Ajansı",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-05 12:25 UTC"
+    },
+    {
       "title": "Merkez Bankası rezervlerinde 4,1 milyar dolarlık düşüş - Foreks.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPem93d2p1SFNaYXhQUnFRNVJZaGpjM2VHSTdNQTRtNThrSzE5VHRqZlNVc2xCdkRrNnFQLWlRaVU1MVJReTFRa2k1VVN5S3kzTDZuWWRleEE4UjBHUWZCdlVmUmJZMkJnNHFILUlSeWxrbzY5V0ZDT1UxcC1kMjNLUXMzbThzbnRSajZaLVRyT29vMjhFWFlPUE1hZlVLU19QNjBoZkkyamdDNmhhMU9QWDVkR3J2cmhLWTFnUUJJVlptN1F1aFZDc0lRRXFYSkhY?oc=5",
@@ -641,15 +731,6 @@
       "published_at": "2026-11-05 12:18 UTC"
     },
     {
-      "title": "İngiltere Merkez Bankası politika faizini 25 baz puan artırarak yüzde 4'e çıkardı - Anadolu Ajansı",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1BSRG9Ma21mYzhHcUhISTBucDN3dGtzdFRsek4tYWtxTlVrVWs2bEdWTE44ODlHU3RuaENTT1hYZko2aUFpTm01UnBwWkRUUW5zNi1PQVdibWRQS3N1VmY4elFIalgzeFRDLU1wOFVYTFVNSTN4ZGcyUWxpd3RSMUk4Q2hCZ3hheE9BR0xNYzJ3R1kya0kwNVByLTNVVjROU2wxengwZmQ4Vi1mTjNNMDhpSWUxUGsyTTE0VUZR?oc=5",
-      "summary": "İngiltere Merkez Bankası politika faizini 25 baz puan artırarak yüzde 4'e çıkardı Anadolu Ajansı",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-05 12:09 UTC"
-    },
-    {
       "title": "Bakan Yumaklı: Orman yangını sayısında yüzde 35 azalma yaşandı",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/bakan-yumakli-orman-yangini-sayisinda-yuzde-35-azalma-yasandi-962352.html",
@@ -665,15 +746,6 @@
       "summary": "Merkez bankası rezervleri 158,1 milyar dolar oldu TRT Haber",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-05 12:06 UTC"
-    },
-    {
-      "title": "Merkez bankası rezervleri 158,1 milyar dolar oldu",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-rezervleri-1581-milyar-dolar-oldu-962351.html",
-      "summary": "Türkiye Cumhuriyet Merkez Bankasının TCMB toplam rezervleri, 30 Ekim haftasında bir önceki haftaya göre 4 milyar 84 milyon dolar azalarak 158 milyar 107 milyon dolar oldu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-05 12:06 UTC"
     },
     {
@@ -722,15 +794,6 @@
       "published_at": "2026-11-05 11:56 UTC"
     },
     {
-      "title": "Türkiye ile Katar arasında savunma sanayi iş birliğinde yeni dönem",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-katar-arasinda-savunma-sanayi-is-birliginde-yeni-donem-962350.html",
-      "summary": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün, Katar Başbakan Yardımcısı ve Savunma İşlerinden Sorumlu Devlet Bakanı Şeyh Suud Al Sani ve beraberindeki heyetle bir araya geldi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 11:55 UTC"
-    },
-    {
       "title": "Döviz mevduatlarında yükseliş",
       "image": "https://geoim.bloomberght.com/l/2026/11/05/ver1793882303/3793648/jpg/320x180",
       "link": "https://www.bloomberght.com/doviz-mevduatlarinda-yukselis-3793648",
@@ -740,67 +803,22 @@
       "published_at": "2026-11-05 11:52 UTC"
     },
     {
-      "title": "Bakan Yumaklı, orman yangınlarının bilançosunu açıkladı",
-      "image": "https://geoim.bloomberght.com/l/2026/11/05/ver1793879438/3793647/jpg/320x180",
-      "link": "https://www.bloomberght.com/tarim-ve-orman-bakani-yumakli-orman-yanginlarinin-bilancosunu-acikladi-3793647",
-      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, 2026'da 2 bin 111 orman yangınına müdahale edildiğini açıkladı. Yangınlarda 24 bin 527 hektar orman alanı zarar gördü. Yumaklı, geçen yıla göre orman yangını sayısının yüzde 35, yanan orman alanının ise yaklaşık yüzde 68 azaldığını söyledi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-05 11:50 UTC"
-    },
-    {
-      "title": "Merkez Bankası rezervlerinde son durum: Döviz ve altın varlıkları ne kadar? - T24",
+      "title": "TCMB rezervlerinde gerileme ivmesi sürüyor - Bloomberght",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcENIcXR1YzVKbFYtenJEYURRMllmSmVjbjdxdklaakROMnBESEdlSlNxLUNTbE8wU2E4U1VMWXlBMjBLZnA0ajlkYUxwRjdXYWZRQVF5WnJHdXo1anE4cWt2cnNJS0xBQTlKLXZ4dXdXbU1RRGplUUdoTTFWaHpFUjFkbUJqQlczeGxqTDQ5WkNIa0dYQmNxTDBlSU9yNzN6VWhnQS1CMlVvZEM0?oc=5",
-      "summary": "Merkez Bankası rezervlerinde son durum: Döviz ve altın varlıkları ne kadar? T24",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONUVMdDg0Y04zLUZnblQ5MEJnOG5RelctUTR4XzFRM1Y3RTBSejkya21EWk16S2pwNUhSOUc2MURXNjNhU01vVGZNb0picElIb2R5NUxIN0tHb0VkYy1PTEdKWVlXWHkwLTQ1QzJvYTRIV3lhcGFkWVdIX2JXOGxfbXFoSm8?oc=5",
+      "summary": "TCMB rezervlerinde gerileme ivmesi sürüyor Bloomberght",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-05 11:50 UTC"
+      "published_at": "2026-11-05 11:46 UTC"
     },
     {
-      "title": "Girişimcilik ekosistemine 604 milyon lira hibe verilecek",
+      "title": "Yabancılardan hisse ve tahvilde 816,7 milyon dolarlık satış - EKOTÜRK",
       "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/girisimcilik-ekosistemine-604-milyon-lira-hibe-verilecek-962349.html",
-      "summary": "ENHANCER PRO Ortak Kullanım Tesisleri Hibe Programı ile 17 ildeki 58 kuruma yaklaşık 604 milyon lira destek sağlanacak.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 11:49 UTC"
-    },
-    {
-      "title": "TCMB rezervlerinde gerileme ivmesi sürüyor",
-      "image": "https://geoim.bloomberght.com/l/2026/11/05/ver1793879205/3793646/jpg/320x180",
-      "link": "https://www.bloomberght.com/tcmb-rezervlerinde-gerileme-ivmesi-suruyor-3793646",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) brüt rezervleri 30 Ekim haftasında 158,1 milyar dolara geriledi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-05 11:45 UTC"
-    },
-    {
-      "title": "Ankara'nın ihracatı 10 ayda 15,7 milyar dolara yükseldi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/ankaranin-ihracati-10-ayda-157-milyar-dolara-yukseldi-962348.html",
-      "summary": "Ankara'dan bu yılın 10 aylık döneminde yapılan ihracat, geçen yılın aynı dönemine göre yüzde 21,2 artarak, 15 milyar 727 milyon 188 bin dolara yükseldi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 11:40 UTC"
-    },
-    {
-      "title": "Merkez Bankası rezervlerinde son durum: Döviz ve altın varlıkları ne kadar? - Dünya Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmF3X25QTWZYVG5CUllNdXcxNmFqbHYyaksxWkJaRTg0Q21xc2hoV0NyRTM4dktaWHYxMmhMQThzTkRjcV9oQ2JrRHV0VGRKUzkxQ29GNGl5a2ZpNE41YWh0QkV2cU1Va1dxQU03NjVpZXU0eWRwX2NpZ3lkaENKbFVsQ241SkNnWlpodkY5LW9SQW85TEd4NWpjQzNyTmlraXNfaVEtdGk5c3RJbjZrRUZJWkFHTzQ4?oc=5",
-      "summary": "Merkez Bankası rezervlerinde son durum: Döviz ve altın varlıkları ne kadar? Dünya Gazetesi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-05 11:31 UTC"
-    },
-    {
-      "title": "Yabancının tahvil satışı yedi ayın zirvesinde",
-      "image": "https://geoim.bloomberght.com/l/2026/11/05/ver1793878271/3793638/jpg/320x180",
-      "link": "https://www.bloomberght.com/yabanci-yatirimci-3793638",
-      "summary": "TCMB tarafından açıklanan verilere göre, yabancı yatırımcı 30 Ekim haftasında 66 milyon dolarlık hisse satarken tahvilde güçlü çıkış yaptı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-05 11:30 UTC"
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanMxLXlRcW5RZDg4eGw0eFRTRV9BbHZxX1hyZWZwbHpjUFk3VGMxdFBmMDlXa3g0NHpIdk9Na2duM1BRckxXY2RVTDJKZGR1UUIwNEI5OC1idUpnNEVLSHYzSjBLQkRxS2xZUEdMVlRaSllBZkhmeDZkcmZfZ2dGLUwwZ241RFVnN05XTWNZSFJqOXc?oc=5",
+      "summary": "Yabancılardan hisse ve tahvilde 816,7 milyon dolarlık satış EKOTÜRK",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-05 11:39 UTC"
     },
     {
       "title": "Borsa İstanbul güne yükselişle başladı: BIST 100 11.546 puanı gördü - EHA Medya",
@@ -830,13 +848,13 @@
       "published_at": "2026-11-05 11:04 UTC"
     },
     {
-      "title": "Borsa günün ilk yarısında negatif seyretti - Yeni Şafak",
+      "title": "Borsa İstanbul'da kâr satışları - Haber Global",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXRhYzJXUnZOdUdPdDVoY3dpTzFseWQyMWVVUTVmUzdaRjNMZ09VX0xlM0hLcG5ZOWVrUnZWdGNEOVVNMEFkTlFfRW9qUHlQUkdUanlDbVpJdkJyUjZ4NXpKVGdVdnZtUWR3SndYU1dsRGxuaExiUUtNZS16MkYtMGhyODhKNkgxdUdFNQ?oc=5",
-      "summary": "Borsa günün ilk yarısında negatif seyretti Yeni Şafak",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJX3RxWE1HMW91bjhPZDJzcXJWUjBoaE85YWhmOWNycURRYTM1S0w2bkFZWXhvdkJMVUdQQllOc1RDNF9MbGJmNlkyZ1JxbVQ5Wm9OSmJjQVhFT2JDZ0ZuMldNRnkyNGUyRXpCMlhhcE9HVERLWGRvZQ?oc=5",
+      "summary": "Borsa İstanbul'da kâr satışları Haber Global",
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
-      "published_at": "2026-11-05 11:02 UTC"
+      "published_at": "2026-11-05 10:40 UTC"
     },
     {
       "title": "OpenAI, Toplum Mutabakatı ve Yapay Zekâ Kampüsü Politika Taslağını Yayımladı - Unite.AI",
@@ -882,24 +900,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-05 10:07 UTC"
-    },
-    {
-      "title": "Borsa İstanbul’da yükselişi tetikleyen 3 gelişme - Alanya Postası",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnNkcktqSW9MRko3ZzJhSUpvMS1pelNQWUdsQ2oxRDd0T2xlWWNMNFc2eHZkN1h1Q0k3S3Y1Z3FDaXM2eFV5bzJ3T2pqQzlyUEhjQUR6ZGpwWk9TaHN4UWNjTlA2dFdSenU2T1Q4bW51akdqUmFJbE5wOFp3c2ZlSmlEa0ZrMFU?oc=5",
-      "summary": "Borsa İstanbul’da yükselişi tetikleyen 3 gelişme Alanya Postası",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-05 09:48 UTC"
-    },
-    {
-      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/891f/live/5dbe2290-d932-11f1-93e1-3b657b665bcf.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 09:04 UTC"
     }
   ]
 }
