@@ -1,14 +1,86 @@
 {
-  "updated_at": "2026-11-05 00:02 UTC",
+  "updated_at": "2026-11-05 01:40 UTC",
   "items": [
     {
-      "title": "Fenerbahçe'nin Liverpool galibiyeti için İngiliz basını ne yazıyor?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49e1/live/6cdcc350-d895-11f1-bffe-b94c467713ac.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
-      "summary": "Fenerbahçe, Şampiyonlar Ligi'ndeki dördüncü maçında İngiliz temsilcisi Liverpool'u Kadıköy'de 3-2 yendi.",
+      "title": "Çin Merkez Bankası PBOC, USD/CNY referans kurunu önceki 6,7180 seviyesine kıyasla 6,7156 olarak belirledi - TradingView",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15YWI4YUREVW5DdHViYjZrNTJ5ZEUtMFZzSGxtb01zdUdVZVFoOVp1MVktM2lIMGd5djdRbU1weXFNZkwwaWRIelQ1VENueXh5OGxNMlRTUl9lcW0tWUs2YXFkOUxTWEtJ?oc=5",
+      "summary": "Çin Merkez Bankası PBOC, USD/CNY referans kurunu önceki 6,7180 seviyesine kıyasla 6,7156 olarak belirledi TradingView",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-05 01:15 UTC"
+    },
+    {
+      "title": "Afyonkarahisar'da 4,1 büyüklüğünde deprem",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/afyonkarahisarda-41-buyuklugunde-deprem-962277.html",
+      "summary": "Afyonkarahisar'ın Dinar ilçesinde saat 03.23'te 4,1 büyüklüğünde deprem meydana geldi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 00:49 UTC"
+    },
+    {
+      "title": "Africa’s richest man launches mega oil tank farm in Namibia",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
+      "summary": "Nigerian billionaire Aliko Dangote launched a fuel storage facility in Namibia to future-proof Southern Africa's supply.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 00:39 UTC"
+    },
+    {
+      "title": "Ohio’s voters tell Republicans: don’t take us for granted",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
+      "summary": "Democrats flipped a Senate seat and recaptured the governor’s mansion in Ohio.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 00:36 UTC"
+    },
+    {
+      "title": "Afyonkarahisar'da 4,1 büyüklüğünde deprem",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/afyonkarahisarda-4-1-buyuklugunde-deprem/4112132",
+      "summary": "Afyonkarahisar'ın Dinar ilçesinde saat 03.23'te 4,1 büyüklüğünde deprem meydana geldi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 00:33 UTC"
+    },
+    {
+      "title": "Fenerbahçe'nin Liverpool galibiyeti Ada basınında: 'Premier Lig maçı havası vardı'",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5ca6/live/b8b76860-d8af-11f1-b8f1-81560a402f3c.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cmwy7zwxw7k2o?at_medium=RSS&at_campaign=rss",
+      "summary": "İngiltere basınında Fenerbahçe maçını yerinde izleyen spor yazarları, Liverpool'un savunma hatalarına ve sarı-lacıvertlilerin Premier Lig kökenli kadrosuna dikkat çekiyor.",
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 23:52 UTC"
+      "published_at": "2026-11-05 00:31 UTC"
+    },
+    {
+      "title": "Democrats won Congress. But can they deliver on their promises?",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss",
+      "summary": "Despite their midterm election victories, Democrats face major obstacles to reining in Trump on Iran, tariffs and more.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 00:25 UTC"
+    },
+    {
+      "title": "Historic firsts redraw US political map in 2026 midterm elections",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/historic-firsts-redraw-us-political-map-in-2026-midterm-elections?traffic_source=rss",
+      "summary": "The 2026 US midterms delivered a wave of historic firsts for women, Black, Muslim, gay and Native American politicians.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 00:24 UTC"
+    },
+    {
+      "title": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
+      "summary": "President Trump admits Iran war 'largely' caused Republicans' US election wipeout, but says he 'had to do it'.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 00:00 UTC"
     },
     {
       "title": "Who gets to vote in the US?",
@@ -29,13 +101,22 @@
       "published_at": "2026-11-04 23:44 UTC"
     },
     {
-      "title": "Sudan, Ethiopia order tit-for-tat diplomatic expulsions",
+      "title": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
-      "summary": "Sudan accuses Ethiopia of aiding RSF attacks, while Ethiopia claims Sudan backs Tigray rebels.",
+      "summary": "Move comes after Sudan lodged official complaints against Ethiopia, accusing Addis Ababa of supporting the RSF group.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 23:43 UTC"
+    },
+    {
+      "title": "Manisa'da otomobil şarampole devrildi: 5 yaralı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/manisada-otomobil-sarampole-devrildi-5-yarali-962276.html",
+      "summary": "Manisa'nın Kırkağaç ilçesinde otomobilin şarampole devrildiği kazada 2'si çocuk 5 kişi yaralandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 23:35 UTC"
     },
     {
       "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
@@ -245,15 +326,6 @@
       "published_at": "2026-11-04 20:55 UTC"
     },
     {
-      "title": "Democrat leaders hail midterm election success",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
-      "summary": "The top Democrats in the two chambers of US Congress have been hailing their party’s resounding victory in the midterms.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 20:50 UTC"
-    },
-    {
       "title": "31. Cumhurbaşkanlığı Kadınlar Basketbol finali Gaziantep'te oynanacak",
       "image": "",
       "link": "https://www.aa.com.tr/tr/spor/31-cumhurbaskanligi-kadinlar-basketbol-finali-gaziantepte-oynanacak/4112063",
@@ -281,15 +353,6 @@
       "published_at": "2026-11-04 20:34 UTC"
     },
     {
-      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-      "summary": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 20:31 UTC"
-    },
-    {
       "title": "Adli Tıp: Kaşif Kozinoğlu'nun ölüm nedeni kalp hastalığı",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e87/live/bd89f910-acff-11f1-b1d1-571ed4d7ff2c.png",
       "link": "https://www.bbc.com/turkce/articles/cwyzxq2g545o?at_medium=RSS&at_campaign=rss",
@@ -297,15 +360,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 20:28 UTC"
-    },
-    {
-      "title": "Will the US resume its attacks on Iran?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
-      "summary": "Tehran says it's ready with a maximum deterrence plan.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 20:25 UTC"
     },
     {
       "title": "Olağanüstü fon tasfiyelerinde 62,2 milyar TL ödeme yapıldı",
@@ -353,15 +407,6 @@
       "published_at": "2026-11-04 20:05 UTC"
     },
     {
-      "title": "Iranians celebrate Democrat victory in US midterms",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
-      "summary": "US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 19:59 UTC"
-    },
-    {
       "title": "Palandöken Dağı'nda kar yağışı etkili oldu",
       "image": "",
       "link": "https://www.aa.com.tr/tr/gundem/palandoken-daginda-kar-yagisi-etkili-oldu/4112030",
@@ -387,15 +432,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 19:52 UTC"
-    },
-    {
-      "title": "Democratic progressive wing notches win in California Central Valley",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
-      "summary": "Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 19:50 UTC"
     },
     {
       "title": "Türk Telekom'dan üçüncü çeyrekte 7,7 milyar TL net kâr",
@@ -450,15 +486,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 19:34 UTC"
-    },
-    {
-      "title": "ABD'de Cumhuriyetçilerin ara seçim yenilgisinde İsrail'e destek ve İran'la savaşın etkisi tartışılıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abdde-cumhuriyetcilerin-ara-secim-yenilgisinde-israile-destek-ve-iranla-savasin-etkisi-tartisiliyor/4112004",
-      "summary": "ABD'de ara seçimlerde Cumhuriyetçilerin yaşadığı büyük oy kaybını değerlendiren uzmanlar, bu sonuçta Washington yönetiminin İran'a yönelik saldırılarının ve İsrail'le yakın ilişkilerinin etkili olduğuna işaret etti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 19:27 UTC"
     },
     {
       "title": "Canva, çalışanlarının yüzde 22'sini işten çıkarıyor",
@@ -596,15 +623,6 @@
       "published_at": "2026-11-04 17:39 UTC"
     },
     {
-      "title": "ABD Başkan Yardımcısı JD Vance: Cumhuriyetçilerin seçimi kaybetme nedeni İran savaşı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/abd-baskan-yardimcisi-jd-vance-cumhuriyetcilerin-secimi-kaybetme-nedeni-iran-savasi-962262.html",
-      "summary": "ABD Başkan Yardımcısı JD Vance, Kongre ara seçimlerini Cumhuriyetçi Partinin kaybetmesinin nedenini İran'la savaş ve İsrail'le ilişkilere bağladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 17:37 UTC"
-    },
-    {
       "title": "Pangram, Yapay Zekâ Tarafından Oluşturulan Görsel ve Videoları Tespit Etmek İçin İki Model Çıkardı - Unite.AI",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzhrNnF3VE9YVWdNTHNVMDdDampsX3gwNS1ZN0Q0T0JXWmpRemZhZHVUOUNncW5EMEJ6RHJsV1QxLVNRWVRVdVV0bi03WkxKSkNBeE5tTWp2TXBhUThscU5KN1dURk1LQU4tc3RodldmUjkzN2RKaEN3TFdTTmZnVEJMeVlqOVVxNy1fMmxB?oc=5",
@@ -623,15 +641,6 @@
       "published_at": "2026-11-04 17:33 UTC"
     },
     {
-      "title": "İstanbul'da yağış nedeniyle yol çöktü",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-yagis-nedeniyle-yol-coktu-962261.html",
-      "summary": "İstanbul Sultangazi'de yağışın etkisiyle biri ambulans olmak üzere 4 araç yolda oluşan çukura düştü.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 17:33 UTC"
-    },
-    {
       "title": "Iran's chief negotiator says Americans voted 'no to war'",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
@@ -641,7 +650,7 @@
       "published_at": "2026-11-04 16:59 UTC"
     },
     {
-      "title": "AB'den Türkiye'ye 'uçurum' uyarısı: AB'nin Türkiye raporunda neler var?",
+      "title": "Avrupa Birliği'nden Türkiye'ye 'uçurum' uyarısı",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1f79/live/adadc240-d85d-11f1-b441-2b33b063138f.jpg",
       "link": "https://www.bbc.com/turkce/articles/c98rz6e7z6exo?at_medium=RSS&at_campaign=rss",
       "summary": "Brüksel'e göre Türkiye'nin AB'ye katılma hedefine ilişkin beyanlarıyla katılım için gerekli siyasi kriterlerdeki durum arasındaki \"uçurum\" daha da genişledi. Dışişleri Bakanlığı, AB raporunu \"ön yargılı ve hakkaniyetten uzak\" olarak niteledi.",
@@ -693,15 +702,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 16:18 UTC"
-    },
-    {
-      "title": "Altın ve Borsa Yükseldi, Petrol Düştü: Piyasalarda Pozitif Hava - İşin Detayı Haber",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjlNMERub0J3Z2JjaUhVNmw0ZWpIRjh2d2FyUzU1cWR0akJtMWpkaVd0RXAtTlV3Y1gtSnJPOW9tWnJtWEdONVJwblVCek05TUx4Vy1TdDk1ZXgyRFN3c1IwRmRjaHNPVElMM2JzNUlqOTRSV05td0lkbHAwUXRYQmdRRHRMM0FFcjNnc3VJM2ZoZw?oc=5",
-      "summary": "Altın ve Borsa Yükseldi, Petrol Düştü: Piyasalarda Pozitif Hava İşin Detayı Haber",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-04 16:06 UTC"
     },
     {
       "title": "Weebit Nano, Bellek İçi Yapay Zekâ Hesaplaması için Matrix ReRAM Araştırma Programı’nı Başlattı - Unite.AI",
@@ -767,15 +767,6 @@
       "published_at": "2026-11-04 15:17 UTC"
     },
     {
-      "title": "Küresel borsalar düşerken Borsa İstanbul yükselişle açıldı - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPczZ3WmZzVmc1RkJjZUdEWmNvdkhDTVZDeEtDWFhhYVN0VHFWUm1SaGQ2YjViYXhaREFhWV9yYmZOQ2JGTWJqSTYyM2tBQWF1WnE4OGt0NHRfN0QxeUk5UFNibTlvRFZGcXRzRFNUZm5ILXl4UnN1MlMzQVBKVTJ1TGpMMVVKM193YmJKeV9qUkthZw?oc=5",
-      "summary": "Küresel borsalar düşerken Borsa İstanbul yükselişle açıldı EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-04 15:13 UTC"
-    },
-    {
       "title": "Merkez Bankası'nın enflasyon raporu yayımlandı: İki grupta dikkat çeken artış - CNBC-e",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSzcydktUdnRHZnFYQl9pOTNqcFh4czdjTHRaN2dtNGN2ckU3YjFxVVFmNUdyYWc5b1pFOE5aQ193TlBEeC13TXJyUWtMamc1TnhURzJoSHlzRkplcnBfOEZsdzNfa1V3dmdUd1JHQ3RvUTd5SkhoM0d4NmlGZzYxRjNwUjV6c1kzd29TZUhDMGdibXk1RUVOODd2LTJReTB5ZHJBOVpzR0NVbk9rUWEzWlhhVQ?oc=5",
@@ -792,15 +783,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 14:58 UTC"
-    },
-    {
-      "title": "Merkez Bankası Fon Skandalının Reel Sektörü Nasıl Etkilediğini Araştırdı - Stratejik Düşünce Enstitüsü",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd2xHWG5GdzgwZUhLUG5Nc3RqZ2E4eUItXzBaNWx5UlY1V1dVdFd6QWlQSzg5cW41TDdzaUlMYm9ydU1VNUl3RXBEZHFvQ3pxWUdON2RSa0JGN3FjaU1SSXdCMTlvZmF2eHJEUVFwbS1ZTUtEeFpsaXgyazUxMnBBV2tfV3Z4eDBZR1IxSkhkdHgyMkJYc1laMWIwUE5WUVgydmNiZ3E0ODM3akdNVEVrQVdwby11M0pFeGlYTzl1dzlKWFYz?oc=5",
-      "summary": "Merkez Bankası Fon Skandalının Reel Sektörü Nasıl Etkilediğini Araştırdı Stratejik Düşünce Enstitüsü",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-04 14:33 UTC"
     },
     {
       "title": "İstifa Eden Avrupa Merkez Bankası Başkanı Christine Lagarde Fransa’da Siyasete mi Dönüyor? - https://perspektif.eu/",
@@ -866,6 +848,15 @@
       "published_at": "2026-11-04 13:21 UTC"
     },
     {
+      "title": "Borsa İstanbul’da yükseliş yüzde 5’e yaklaştı - Haber Ekspres",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaEpOV0FWa1JoR0VTaWczZ2dQQlNYaWZlTUMwd0JnQW1nQzc4MHp3dHFhakIydFlodjhNM3RlWk54VXd2amx4MVJUbHRkWnAwblF0aTJiNlJZdmV2SDVvM2dITXR3OF9Kd3hvME55MzR4cGVtSWxXZEFTVDlUVDE0dg?oc=5",
+      "summary": "Borsa İstanbul’da yükseliş yüzde 5’e yaklaştı Haber Ekspres",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-04 13:09 UTC"
+    },
+    {
       "title": "Merkez Bankası açıkladı: TL’nin reel değeri 6,5 yılın zirvesinde - Paratic Haber",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMENXWENydjJ1MHdxckxUT1hVdHpBQWk3YzRoMWtSaFdZb09oMU51RDJGTjJQY01vVjhKRE9ocGw3eC1QY2ZBeXMwcWR3Zm5CXzdYN3VxN2laNjJlS1VmNVphVnVybThqbnM1WEtkSUgzUVRUcWdDUUh6aGkwRWVqc0VaZm81bHp0X0M4?oc=5",
@@ -900,6 +891,15 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-04 11:47 UTC"
+    },
+    {
+      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6062/live/1ba36940-d830-11f1-be97-417dbcdedd32.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-04 11:46 UTC"
     }
   ]
 }
