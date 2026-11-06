@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-11-06 22:30 UTC",
+  "updated_at": "2026-11-06 23:28 UTC",
   "items": [
+    {
+      "title": "İran basını: Keşm Adası'nda patlama sesleri duyuldu",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/iran-basini-kesm-adasinda-patlama-sesleri-duyuldu-962483.html",
+      "summary": "ABDİran hattında tansiyon yüksek. İran basını, Keşm Adası'na iki füzenin isabet ettiğini, patlama sesleri duyulduğunu bildirdi. İran ordusu, ada üzerinde ABD'ye ait bir insansız hava aracını düşürdüklerini açıkladı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 23:12 UTC"
+    },
+    {
+      "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+      "summary": "Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 23:07 UTC"
+    },
+    {
+      "title": "Gazze'de şiddetli yağışlar nedeniyle yerinden edilen Filistinlilerin çadırlarını su bastı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/gazzede-siddetli-yagislar-nedeniyle-yerinden-edilen-filistinlilerin-cadirlarini-su-basti/4114827",
+      "summary": "İsrail ordusunun soykırıma varan saldırılarıyla büyük yıkıma uğrattığı Gazze Şeridi'nde etkili olan şiddetli yağışlar, yerinden edilen Filistinlilerin çadırlarını sular altında bıraktı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 23:05 UTC"
+    },
+    {
+      "title": "Fenerbahçe otobüsüne saldırı iddianamesi: 5 şüpheliye ceza isteniyor",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb73/live/bd8e0cd0-59b2-11f1-a4b7-619c279792a3.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cn5p9xwe9glo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trabzon Cumhuriyet Başsavcılığı, Fenerbahçe futbol takımını taşıyan otobüse 4 Nisan 2015 tarihinde düzenlenen silahlı saldırıya ilişkin yürütülen soruşturmanın tamamlandığını açıkladı.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 23:00 UTC"
+    },
+    {
+      "title": "US urges China to honour Busan trade deal commitments",
+      "image": "",
+      "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+      "summary": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 23:00 UTC"
+    },
+    {
+      "title": "Donald Trump ara seçim yenilgisi sonrası özel kalemini değiştirdi",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f45c/live/b31258a0-da32-11f1-9fbd-45a32d24ae34.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cwp9ggvdg7rdo?at_medium=RSS&at_campaign=rss",
+      "summary": "ABD Başkanı Donald Trump, ABD ara seçimlerinde yaşanan tarihi kayıpların ardından, sert göçmenlik siyasetinin mimarı Stephen Miller'ı yeni Beyaz Saray Özel Kalem Müdürü olarak atadı. Cumhuriyetçilerin Kongre'yi kaybetmesinin ardından Susie Wiles istifa etmişti.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 22:41 UTC"
+    },
+    {
+      "title": "ABD'den Kanadalı 8 şirkete yaptırım",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/abdden-kanadali-8-sirkete-yaptirim-962482.html",
+      "summary": "ABD Hazine Bakanlığı, İran yönetiminin yaptırımları aşmasına yardımcı oldukları ve yasa dışı finansal faaliyetlere aracılık ettikleri gerekçesiyle Kanada merkezli 8 para hizmetleri şirketini yaptırım listesine aldı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 22:28 UTC"
+    },
     {
       "title": "Katar, ABD ile İran arasında anlaşmaya varılamadığı yönündeki iddiaları yalanladı",
       "image": "",
@@ -9,6 +72,15 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-06 22:16 UTC"
+    },
+    {
+      "title": "ABD'den Kanadalı 8 şirkete İran ile bağlantılı işlemler nedeniyle yaptırım",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/abdden-kanadali-8-sirkete-iran-ile-baglantili-islemler-nedeniyle-yaptirim/4114818",
+      "summary": "ABD Hazine Bakanlığı, İran yönetiminin yaptırımları aşmasına yardımcı oldukları ve yasa dışı finansal faaliyetlere aracılık ettikleri gerekçesiyle Kanada merkezli 8 para hizmetleri şirketini yaptırım listesine aldı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 22:05 UTC"
     },
     {
       "title": "İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz patlama sesleri duyuldu",
@@ -20,6 +92,15 @@
       "published_at": "2026-11-06 22:05 UTC"
     },
     {
+      "title": "Güneydoğu Anadolu'nun kalkınmasında GAP imzası",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/guneydogu-anadolunun-kalkinmasinda-gap-imzasi/4114817",
+      "summary": "Sanayi ve Teknoloji Bakanlığına bağlı Güneydoğu Anadolu Projesi (GAP) Bölge Kalkınma İdaresi Başkanlığı, tarımdan sanayiye, enerjiden turizme kadar farklı alanlarda yaptığı yatırımlarla bölgenin ekonomik ve sosyal kalkınmasına katkı sağlıyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 22:04 UTC"
+    },
+    {
       "title": "Palamudun lezzeti salamurayla yaz sofralarına taşınıyor",
       "image": "",
       "link": "https://www.aa.com.tr/tr/gundem/palamudun-lezzeti-salamurayla-yaz-sofralarina-tasiniyor/4114816",
@@ -29,12 +110,48 @@
       "published_at": "2026-11-06 22:03 UTC"
     },
     {
+      "title": "Yeni Zelanda, kendine has seçim sistemiyle bugün sandık başına gidiyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/yeni-zelanda-kendine-has-secim-sistemiyle-bugun-sandik-basina-gidiyor/4114811",
+      "summary": "Yeni Zelanda'da seçmenler, 7 Kasım'da yapılacak genel seçimlerde, parlamentodaki temsilcileri belirlemek için kendine has özellikleri olan, karma nispi temsil (MMP) olarak adlandırılan seçim sistemi kapsamında iki ayrı oy kullanacak.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 21:59 UTC"
+    },
+    {
+      "title": "Uzmanlar, Etiyopya'nın \"deniz kapısı\" arayışında bölgesel uzlaşıyı zor görüyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/uzmanlar-etiyopyanin-deniz-kapisi-arayisinda-bolgesel-uzlasiyi-zor-goruyor/4114810",
+      "summary": "Mısır ile Etiyopya arasında son dönemde \"deniz kapısı\" konusunda yaşanan tartışmaları değerlendiren iki ülkeden uzmanlar, Addis Ababa yönetimi ile bölge ülkeleri arasında kısa vadede uzlaşı sağlanmasını zor görüyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 21:59 UTC"
+    },
+    {
+      "title": "Gençlik olimpiyatlarında Türkiye'ye yüzmede ilk madalyasını kazandıran Kırhan Yılmaz'a göre başarının sırrı disiplin",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/genclik-olimpiyatlarinda-turkiyeye-yuzmede-ilk-madalyasini-kazandiran-kirhan-yilmaza-gore-basarinin-sirri-disiplin/4114812",
+      "summary": "Senegal'de düzenlenen 4. Yaz Gençlik Olimpiyat Oyunları'nda (Dakar 2026) bronz madalyaya ulaşan milli sporcu Kırhan Yılmaz, organizasyon tarihinde yüzmede madalya kazanan ilk Türk sporcu olmanın gururunu yaşadığını söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 21:59 UTC"
+    },
+    {
       "title": "SPK'dan üç şirketin pay işlemlerine ilişkin suç duyurusu ve işlem yasağı kararı",
       "image": "https://geoim.bloomberght.com/l/2026/11/07/ver1794002338/3793866/jpg/320x180",
       "link": "https://www.bloomberght.com/spk-dan-uc-sirketin-pay-islemlerine-iliskin-suc-duyurusu-ve-islem-yasagi-karari-3793866",
       "summary": "Sermaye Piyasası Kurulu (SPK), Temapol Polimer Plastik ve İnşaat Sanayi Ticaret A.Ş., İsvea Seramik ve Banyo Ürünleri Sanayi A.Ş. ve Tera Yatırım Menkul Değerler A.Ş. paylarında gerçekleştirilen işlemler nedeniyle suç duyurusu, işlem yasağı ve lisans iptali kararı açıkladı.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-06 21:57 UTC"
+    },
+    {
+      "title": "Yeni Zelanda'daki genel seçimlerde oy verme işlemi başladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/yeni-zelandadaki-genel-secimlerde-oy-verme-islemi-basladi/4114809",
+      "summary": "Okyanusya ülkesi Yeni Zelanda'da yeni hükümeti belirlemek üzere düzenlenen genel seçimlerde oy verme işleminin başladığı bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-06 21:57 UTC"
     },
     {
@@ -254,15 +371,6 @@
       "published_at": "2026-11-06 20:38 UTC"
     },
     {
-      "title": "ABD'de tüketici kredilerindeki artış eylülde beklentileri aştı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/abdde-tuketici-kredilerindeki-artis-eylulde-beklentileri-asti-/4114769",
-      "summary": "ABD'de tüketici kredileri eylülde 27,8 milyar dolarla piyasa beklentilerinin üzerinde artış kaydetti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 20:38 UTC"
-    },
-    {
       "title": "Borsa İstanbul’da BIST 100 yeniden 11.400 puanın üzerinde - EKOTÜRK",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTExHLVEyeGpmVnRObWVsaXZtS0dwMmpuVXc4VmZ6OTI3VHRBRnA2TFNUeWRINEpsajVJZUN3TGxfYWdUTUJwdlVSdWh1aFpJUXRwVlVfa2c4NHFOZzdrWDBnTG9QaFk4bi04aVRONVVqRlcyUWJLa2lKNHdOeUlqVWhnS1RSczlucW1BU1E0TQ?oc=5",
@@ -270,15 +378,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-06 20:38 UTC"
-    },
-    {
-      "title": "Üsküp'teki Osmanlı mirası Taşköprü dekoratif ve mimari aydınlatmaya kavuştu",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/uskupteki-osmanli-mirasi-taskopru-dekoratif-ve-mimari-aydinlatmaya-kavustu/4114764",
-      "summary": "Kuzey Makedonya'nın başkenti Üsküp'ün simge yapılarından tarihi Taşköprü'de Esenler Belediyesi ile Halkbank'ın destekleriyle gerçekleştirilen aydınlatma çalışmalarının tamamlanması vesilesiyle tören düzenlendi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 20:29 UTC"
     },
     {
       "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
@@ -290,15 +389,6 @@
       "published_at": "2026-11-06 20:28 UTC"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan, Malezya Başbakan Yardımcısı Hamidi'yi kabul etti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-malezya-basbakan-yardimcisi-hamidiyi-kabul-etti/4114762",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Malezya Başbakan Yardımcısı Ahmad Zahid Hamidi'yi kabul etti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 20:27 UTC"
-    },
-    {
       "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
       "image": "",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
@@ -306,15 +396,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-06 20:27 UTC"
-    },
-    {
-      "title": "ABD Başkanı Trump, İran'la görüşmelerin sürdüğünü belirtti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranla-gorusmelerin-surdugunu-belirtti/4114761",
-      "summary": "ABD Başkanı Donald Trump, İran'la görüşmelerin sürdüğünü belirterek, \"İran konusunda çok iyi gidiyoruz. İran ile görüşüyoruz.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 20:25 UTC"
     },
     {
       "title": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
@@ -353,15 +434,6 @@
       "published_at": "2026-11-06 20:16 UTC"
     },
     {
-      "title": "Bakan Ersoy: COP31 sahası etkinlik bittikten sonra Kültür ve Turizm Bakanlığının yönetimine devrediliyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/cop31/bakan-ersoy-cop31-sahasi-etkinlik-bittikten-sonra-kultur-ve-turizm-bakanliginin-yonetimine-devrediliyor/4114743",
-      "summary": "Kültür ve Turizm Bakanı Ersoy,\"COP31 sahası, etkinlik bittikten sonra aşamalı bir şekilde Kültür ve Turizm Bakanlığının yönetimine devrediliyor. TGA içinde kurduğumuz MICE Başkanlığı, buranın devrini almış olacak.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 20:09 UTC"
-    },
-    {
       "title": "Merkez Bankası Başkanından 'kira enflasyonu' açıklaması - Odatv",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHczOFFpaWktbFRHQXNqWEwwWTlTMkh3cTRRZmFwWFlWWl85bWZkZEZjbDVSVHF2d0stQV9JU2VlRXFXbzBSS05HNkFpTDRERm1CSzhjUlBRV21yX3IwT0JQZ1p4cmRiZFFWNGQ0WTFCenF5TlY1OGFCSG00VjBjN0QxUEhkRXlkUzZSYlRsU3ZaYmZESm1FcGhpd1lSN0phU2tKMTRGWC1Ydw?oc=5",
@@ -369,15 +441,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-06 20:05 UTC"
-    },
-    {
-      "title": "Gazze'de 500 kişi, İsrail saldırılarının ve ablukanın gölgesinde enkazların arasında dünyaevine girdi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/gazzede-500-kisi-israil-saldirilarinin-ve-ablukanin-golgesinde-enkazlarin-arasinda-dunyaevine-girdi/4114735",
-      "summary": "Filistinli damat Said en-Neccar, “Bu sevinç yalnızca bir damadın ya da 250 damadın değil, bütün Gazze halkının sevincidir.” dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 20:01 UTC"
     },
     {
       "title": "TRT World Forum 2026'da 'Türkiye: Bölgesel Güçten Bölgeler Arası Bir Aktöre' paneli düzenlendi",
@@ -515,15 +578,6 @@
       "published_at": "2026-11-06 19:08 UTC"
     },
     {
-      "title": "Armed men kill at least 33 in village in Ebola-hit eastern DRC",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/6/armed-men-kill-at-least-33-in-village-in-ebola-hit-eastern-drc?traffic_source=rss",
-      "summary": "Locals blame ADF armed group, which pledged allegiance to ISIL in 2019, for the deadly raids on North Kivu villages.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 19:07 UTC"
-    },
-    {
       "title": "İşgalci İsrail, Lübnan'da 16 bin hektardan fazla tarım arazisini yaktı",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-lubnanda-16-bin-hektardan-fazla-tarim-arazisini-yakti-962467.html",
@@ -542,15 +596,6 @@
       "published_at": "2026-11-06 18:55 UTC"
     },
     {
-      "title": "Why is Paraguay facing a banking and political crisis?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/6/why-is-paraguay-facing-a-banking-and-political-crisis?traffic_source=rss",
-      "summary": "Ueno collapse raises questions about state influence and accountability.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 18:54 UTC"
-    },
-    {
       "title": "Botpress İç Sistem İhlalini ve Müşteri Kimlik Bilgilerine Yönelik Riski Açıkladı - Unite.AI",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3NuM0NWWmZPTkhXejJIdjlGTVktVnQyLUNzb3hJdzlzel9ndUZXbW1WSjhwTDROaG9UREZtVkplc2dxZTBWVTA2YnB3Mi1iQ1dDZzlORnBDZnFXLTVwUjhva2Uybmx3TGdpOVdmcDNKeHRTek0xZGRpN253WFJ0bzFLcDJXVmpSbllENzgzWVhkdw?oc=5",
@@ -567,15 +612,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-11-06 18:41 UTC"
-    },
-    {
-      "title": "MİT Başkanı Kalın: Sorun Filistin değil sorun işgal",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalin-sorun-filistin-degil-sorun-isgal-962465.html",
-      "summary": "MİT Başkanı İbrahim Kalın, Gazze ve Filistin konusunda küresel kamuoyunun sesini yükseltmeye başladığını ve Filistin meselesinin küresel kitlesine kavuştuğunu belirterek, \"Filistin'de barış, onur ve özgürlük mücadelesi, aslında parçalanmış bir dünyada kaybettiğimiz ahlaki ve siyasi düzeni yeniden kazanmak anlamına geliyor\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 18:40 UTC"
     },
     {
       "title": "Tüpraş'tan 2026'nın en güçlü çeyreklik performansı",
@@ -603,15 +639,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-06 18:29 UTC"
-    },
-    {
-      "title": "Hakan Bahçetepe ve 8 sanığın yargılandığı davada karar",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/hakan-bahcetepe-ve-8-sanigin-yargilandigi-davada-karar/4114668",
-      "summary": "Tutuklanmasının ardından Gaziosmanpaşa Belediye Başkanlığı görevinden uzaklaştırılan Hakan Bahçetepe ile 8 sanığın yargılandığı dava karara bağlandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 18:18 UTC"
     },
     {
       "title": "Avrupa Merkez Bankası başkanlığı için iki aday: De Cos ve Knot - Bloomberght",
@@ -668,15 +695,6 @@
       "published_at": "2026-11-06 17:44 UTC"
     },
     {
-      "title": "Cumhurbaşkanı Yardımcısı Yılmaz'dan fon tasfiye süreciyle ilgili açıklama",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/cumhurbaskani-yardimcisi-yilmazdan-fon-tasfiye-sureciyle-ilgili-aciklama-962464.html",
-      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"13 Kasım'da önemli miktarda ödeme yapma konusunda hazırlık içindeyiz. En düşük yatırımcıdan en yükseğe doğru ödemeleri yaptırıyoruz\" açıklamasını yaptı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 17:30 UTC"
-    },
-    {
       "title": "Fon krizinde şimdiye kadar neler oldu, ne kadar ödeme yapıldı?",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95d7/live/f93ca920-c56f-11f1-bc2e-018d645d8d21.jpg",
       "link": "https://www.bbc.com/turkce/articles/cmzxjn4205xqo?at_medium=RSS&at_campaign=rss",
@@ -729,6 +747,15 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-06 16:12 UTC"
+    },
+    {
+      "title": "Bu hafta yatırımcısına en çok ne kazandırdı? Borsa, altın ve dövizde son durum - İş'te Mersin",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDU1cmFFMEktQnFFdDdDbGZ5ZU5jYWRTc2VaQWZQYk1aMC1rN2laUFhmLTJmUEg2VkptMXdOR1pRRzdHQlpLZFIyN2laNEg1OEZuWnV5czRaeDhTcFI0S0M4NHVxa3hteTY3WUhTNTgzd1d4dkFTRDFrdFV0Sk0xQWY3MGVFU0JoTVdaMVhEaXVqTm5scHU3bzZGTTZWQk1IbXdBNHFWMTNGLXN5azlxeDhrQkllazVO?oc=5",
+      "summary": "Bu hafta yatırımcısına en çok ne kazandırdı? Borsa, altın ve dövizde son durum İş'te Mersin",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-06 16:02 UTC"
     },
     {
       "title": "Dolar, altın, borsa… İşte haftanın en çok kazandıran yatırım araçları - Hürriyet",
@@ -866,15 +893,6 @@
       "published_at": "2026-11-06 12:51 UTC"
     },
     {
-      "title": "Avrupa'da yolcu uçaklarına sahte bomba ihbarlarının arkasında kim olabilir?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/feab/live/224ee450-d951-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cmvgxx5xn42qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Avrupa'da havayolu şirketleri ve havalimanlarına yönelik bomba tehditlerinini arkasında kim olduğu henüz bilinmiyor. Rusya ve İran'dan şüphelenilse de henüz bu iki ülke veya onlara bağlı grupları ihbarlara bağlayan bir kanıt ortaya çıkmadı. 5 Kasım'da sahte ihbarlar yüzünden 20'den fazla uçuş etkilendi.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 12:43 UTC"
-    },
-    {
       "title": "ISDER Electric CEO Visits Turkish Air Force Commander in Ankara to Discuss Defense Energy Infrastructure - ssbulten.com.tr",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaVAwTHhoeDFRSDlyRF84TGEzM2JhSExBMVdaWmNlNmUzM0l6NHN5NFNlMnY4bnFid1RDc2hnZFhpZVRfTWNEUEtwYnhDMjdCRnV0eV82dTJVZzc4dGVCcFFBTkI2ZTF1UkEzemJkVWNQWGl1Uk05c1NhOHh6c2RTc1hmZExTNi1uSlg1S2U1NmMxbkMtN1ZXX0RPQy1rcU5qcG4yYXN3T25FNUIxUlRRelRaWGstYVBGUm5CclpKWDhTSmM5MjVfcElYVll2aTZURmQ3czBEaGZEWDl6VWVXN0J6bmlVZw?oc=5",
@@ -882,24 +900,6 @@
       "source": "Google News - Uluslararası Savunma",
       "category": "Savunma",
       "published_at": "2026-11-06 12:38 UTC"
-    },
-    {
-      "title": "UBS'den İngiltere Merkez Bankası için yeni faiz tahmini - Foreks.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZjh5MF9XUlA2S2JnbEFkQ0tFN25WU2JMVFh2LUNWV3ZNMHlUbFktU3ItenB1c3p0VmRmaHAwTFhHU2FUSmttUDkwT1dKMHdnYk1JMWRlM1lRRHJrd0hjYWY2TVdNUmdYMUtHdGJFLVVsMzY1NlA3Z1dMNUlfcnI1ME9PN0JHUWdyMkhMa2VPMnZKQ3B0TnpHd0x1NmJlYUkwX0dTeW1lTHdwNjhValVhdzF2VmtuYWZvYXNqVzJIT0FkVC1BUl9oOGcxZ19OMWo4WWc?oc=5",
-      "summary": "UBS'den İngiltere Merkez Bankası için yeni faiz tahmini Foreks.com",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-06 12:35 UTC"
-    },
-    {
-      "title": "Franklin Templeton, Riskleri Öne Çıkarmak İçin Yapay Zekâ Destekli Araştırma İş Akışları Geliştiriyor - Unite.AI",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMHdLeUlvWFpNRHhjM1RRR1lNNEZsVGNwN0lnakQyVGVWV1JScXVBYlFFNV93T19QNXV2d3BGWFBfOXhsME1ja3daZ1RZU25yamhienM0dkFmWTNzT09oMzdWVGF6ejFiX2sweGtzNDFFMnlua0ZWUWFHWGI1VzJNR2EzTnpxdWhCWHZyRzZSYl94alRxMWVzaw?oc=5",
-      "summary": "Franklin Templeton, Riskleri Öne Çıkarmak İçin Yapay Zekâ Destekli Araştırma İş Akışları Geliştiriyor Unite.AI",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-11-06 11:36 UTC"
     }
   ]
 }
