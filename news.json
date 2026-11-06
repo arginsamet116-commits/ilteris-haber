@@ -1,11 +1,56 @@
 {
-  "updated_at": "2026-11-06 02:51 UTC",
+  "updated_at": "2026-11-06 03:44 UTC",
   "items": [
+    {
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6593/live/d5c2e140-d991-11f1-9ebf-51ca702e24e1.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 03:33 UTC"
+    },
+    {
+      "title": "Çin dizel ihracatını kısıtlamayı planlıyor",
+      "image": "https://geoim.bloomberght.com/l/2026/11/06/ver1793935220/3793721/jpg/320x180",
+      "link": "https://www.bloomberght.com/cin-dizel-ihracatini-kisitlamayi-planliyor-3793721",
+      "summary": "Çin'in devlet işletmesi rafinerilerinin, stokların kısıtlı olması nedeniyle bu ay dizel ihracatını azaltması bekleniyor. Energy Aspects'e göre ancak iç talebin zayıflaması durumunda bu kısıtlamaları gevşetebilirler.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-06 03:18 UTC"
+    },
+    {
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 02:57 UTC"
+    },
+    {
+      "title": "Ekonomi ve siyaset gündemi- 6 Kasım 2026",
+      "image": "https://geoim.bloomberght.com/l/2026/11/06/ver1793934040/3793720/jpg/320x180",
+      "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-6-kasim-2026-3793720",
+      "summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-06 02:56 UTC"
+    },
+    {
+      "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
+      "summary": "Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 02:48 UTC"
+    },
     {
       "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee7/live/6a397360-d97f-11f1-9ef8-af6a44fd33d8.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses.",
+      "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-06 02:08 UTC"
@@ -18,15 +63,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-06 02:03 UTC"
-    },
-    {
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 01:44 UTC"
     },
     {
       "title": "California governor commutes sentences of more than 500 people on death row",
@@ -45,15 +81,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-06 01:28 UTC"
-    },
-    {
-      "title": "Trump signs order preventing future presidents from changing Oval Office",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8beb/live/f899a990-d97f-11f1-bf3f-d5d9031d14b1.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-      "summary": "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 01:20 UTC"
     },
     {
       "title": "Çin Merkez Bankası PBOC, USD/CNY referans kurunu önceki 6,7156 seviyesine kıyasla 6,7168 olarak belirledi - TradingView",
@@ -317,6 +344,15 @@
       "published_at": "2026-11-05 21:05 UTC"
     },
     {
+      "title": "Mekke İttifakı kabul edildi! Üç ülke olası saldırılara karşı birlikte hareket edecek - Takvim",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUJuaEFVM3czZVd0QnpUWFpST2kzUGtRNXJxb2JMTm12VkxEejU5aUNCdlZwR2N2QVc2QkNVRWhNUTBZUE1aclh6UTE5OXlGTUhxVjFEUWVSZ0ZSYVpuZnpiNGFPQ2U3cFU5Wk1SUkFOVXpJOWpyTjZNZDhBN0JibjhkNXowNzlpVFpOYmFRakNZdGc?oc=5",
+      "summary": "Mekke İttifakı kabul edildi! Üç ülke olası saldırılara karşı birlikte hareket edecek Takvim",
+      "source": "Google News - Savunma",
+      "category": "Savunma",
+      "published_at": "2026-11-05 21:04 UTC"
+    },
+    {
       "title": "Filistin: Gazze Barış Planı, İsrail işgalinin sona erdirilmesi için temel oluşturuyor",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/filistin-gazze-baris-plani-israil-isgalinin-sona-erdirilmesi-icin-temel-olusturuyor/4113486",
@@ -369,15 +405,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-05 20:45 UTC"
-    },
-    {
-      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
-      "summary": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 20:43 UTC"
     },
     {
       "title": "ABD'den uluslararası dolandırıcılık ağına yeni yaptırımlar",
@@ -605,24 +632,6 @@
       "published_at": "2026-11-05 17:39 UTC"
     },
     {
-      "title": "Paraguay Devlet Başkanı Pena bankacılık krizinin ardından istifa etti",
-      "image": "https://geoim.bloomberght.com/l/2026/11/05/ver1793900504/3793694/jpg/320x180",
-      "link": "https://www.bloomberght.com/paraguay-devlet-baskani-pena-bankacilik-krizinin-ardindan-istifa-etti-3793694",
-      "summary": "Paraguay Devlet Başkanı Santiago Pena, yaklaşık 3 milyon müşterinin banka hesaplarına erişimini kaybetmesine yol açan dijital banka Ueno'nun çöküşünün ardından artan siyasi baskılar üzerine istifa etti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-05 17:38 UTC"
-    },
-    {
-      "title": "İran'dan UAEA Başkanı Grossi'ye bilgi sızdırma suçlaması",
-      "image": "https://geoim.bloomberght.com/l/2026/11/05/ver1793898092/3793693/jpg/320x180",
-      "link": "https://www.bloomberght.com/iran-dan-uaea-baskani-grossi-ye-bilgi-sizdirma-suclamasi-3793693",
-      "summary": "İran Atom Enerjisi Kurumu Başkanı Muhammed İslami, Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Mariano Grossi'yi gizli ve hassas bilgileri İran'ın düşmanlarıyla paylaşmakla suçladı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-05 17:00 UTC"
-    },
-    {
       "title": "Denizli Devlet Hastanesi'nin açılışı bugün yapılacak",
       "image": "",
       "link": "https://www.aa.com.tr/tr/gundem/denizli-devlet-hastanesinin-acilisi-bugun-yapilacak/4113233",
@@ -650,13 +659,13 @@
       "published_at": "2026-11-05 15:40 UTC"
     },
     {
-      "title": "Yapı Kredi Reports Transformation of 105,000 Shares into Trading Shares - The Globe and Mail",
+      "title": "Küresel enerji krizi İngiltere'yi vurdu: Merkez Bankası'ndan faiz artışı - Cumhuriyet",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSUIwTDJCTmpkSDRrZHJhVmlZY1pBUWtrVzBBTzEtRk5KVC1fV3VZeGQ0WG03bUg1SWpKZVNhcV80WE5fQjl6c01HTGpGLTZOdVF1YzdMYXFZM3VaQnk4RW85bWt6dmRfcUZyRUFTOWVyNEE3V2V5YTlkbTVia0JLdlduQkxaeUdxbkFtOElmeUY2aTQxcXJxNlhieEVmX2ZheXpoeDR6M3dvTTFJV0JjSkM4NmxFV0tlQk5TOG5DZWtJZGk0ZU91ZzlocUQxTVdPcWlPYml2TGhEZDRuQlQwakVUc1VYelk?oc=5",
-      "summary": "Yapı Kredi Reports Transformation of 105,000 Shares into Trading Shares The Globe and Mail",
-      "source": "Google News - Küresel Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-05 14:44 UTC"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenl1UjV3NTRFMnVkSG1fa2dyLUxlUG11QkFzbGdrOVdvNGQtZjd4YVdZSFZBQWZmVkRXQVFxUkVpU1hSMC1zZmpwVzhGOTlRMUVvLVZYMGlobUpzUExZazE4Z2J2SUlCTzJQQ3pVOEYwb2RJcV90bEpZc1E5YnZMYUlGN1dHcERwX25aT3pWWUhGT09Gc2tKbDJuVWJRcjdab2RXcXdKcXVMNTRfbDQyNERUcWI0dC1E?oc=5",
+      "summary": "Küresel enerji krizi İngiltere'yi vurdu: Merkez Bankası'ndan faiz artışı Cumhuriyet",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-05 14:32 UTC"
     },
     {
       "title": "Cristiano Ronaldo milli takım kariyerini noktaladı",
@@ -740,15 +749,6 @@
       "published_at": "2026-11-05 12:29 UTC"
     },
     {
-      "title": "Merkez Bankası duyurdu: Rezervlerde son durum ne? - Platin Dergisi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNkwxWm9WTDhibXJCTkdPb1F1NDc1d2NOaTR6WnRZRHBpNTJxcGpZNDlNUDdaNXBWR05ObXNkZVZHbVgxNUwtcHp1eVlsQzJrTjFuOTE0d2RMdHNvclpmSVdqUDZiNmh5UGgzanI4eE9UQ3dJWDUyeWZ0d2owczhneDhIRklXb3FqRnFCMmc1YnVOQ3c1cjBz?oc=5",
-      "summary": "Merkez Bankası duyurdu: Rezervlerde son durum ne? Platin Dergisi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-05 12:21 UTC"
-    },
-    {
       "title": "Merkez Bankası rezervleri 158,1 milyar dolar oldu - Gazete Oksijen",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUjEweDZIUFVRRHlTWHkzem5rUUNJbVY0aHBCVE9XMS1hekozc0lKX3hMSWFndUU4YU5WNVJGaVEtaHcxV1RBYkZxVEY3OVNoNWEzNklQd09xSWJyRzZNM0FHeGZXXzZPT1ZaU3JybDJKbEZZQ2RfN3ZrZzl5MkRFU0RfZC1ZLVZ6YnM3clJPdUVtblVV?oc=5",
@@ -821,15 +821,6 @@
       "published_at": "2026-11-05 11:04 UTC"
     },
     {
-      "title": "Mekke Anlaşması TBMM'de kabul edildi - BBC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZWRQNHJaanhPMktRYUtNRzAwMkxfS1l2Wk0zQjJiUmhjdkFKU2JxSFdHWFZsMGVoSEp0a3J6VkRlMlZ4MGVaT0o0UDRUUk10U0IwVnl6dGlqYWFFZ3fSAWNBVV95cUxOZFdIVGVJNVZ0NGNlemRibllvRzlOZzJlbVhTT3JPdF9BV21CeFhFN1BYRFJOMVB3SkU4U2p6bi1tQ2owTE1kZ0NsS2lTWjFOclRjOUtmRkFUaVluZGdBamdxMmM?oc=5",
-      "summary": "Mekke Anlaşması TBMM'de kabul edildi BBC",
-      "source": "Google News - Savunma",
-      "category": "Savunma",
-      "published_at": "2026-11-05 10:45 UTC"
-    },
-    {
       "title": "Borsa İstanbul'da kâr satışları - Haber Global",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJX3RxWE1HMW91bjhPZDJzcXJWUjBoaE85YWhmOWNycURRYTM1S0w2bkFZWXhvdkJMVUdQQllOc1RDNF9MbGJmNlkyZ1JxbVQ5Wm9OSmJjQVhFT2JDZ0ZuMldNRnkyNGUyRXpCMlhhcE9HVERLWGRvZQ?oc=5",
@@ -900,6 +891,15 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-05 07:57 UTC"
+    },
+    {
+      "title": "BIST 100 için 2027’de 23-25 bin puan senaryosu: 400 dolar hedefi - Ekonomim",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPakV1MnJsVDNDcHl1Tk12NWZMQVlfNUlYbTFhNTJtNU1XNlZoekM3WHlCd0ZXNTFpS3RISEJkOE9uQk1nc0lMY2t2LUg4S0dpeFpEUkJlZW9pZlFFVXhTMG4tdl80Rk14S1lUbERMZ1lrOVdZUHg2T3JNQTdhZXBpOFNsSXFBZURxd3Z1UGljT3hiNDZJLWNmdW1PVHRrcmxwTlJhRzhtQVpxMzZQYmUzSlVyeXI1SEkxR1pzRg?oc=5",
+      "summary": "BIST 100 için 2027’de 23-25 bin puan senaryosu: 400 dolar hedefi Ekonomim",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-05 07:00 UTC"
     }
   ]
 }
