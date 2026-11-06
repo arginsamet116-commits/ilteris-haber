@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-11-05 23:37 UTC",
+  "updated_at": "2026-11-06 00:44 UTC",
   "items": [
+    {
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 00:41 UTC"
+    },
+    {
+      "title": "İsrail ordusu ve Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da 4 Filistinliyi yaraladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ve-filistin-topraklarini-gasbeden-israilliler-bati-seriada-4-filistinliyi-yaraladi/4113555",
+      "summary": "İsrail ordusu ve Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'da çiftçilere yönelik saldırılarında 4 Filistinli yaralandı, onlarca zeytin ağacı yakıldı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 00:25 UTC"
+    },
+    {
+      "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+      "summary": "Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 00:19 UTC"
+    },
+    {
+      "title": "Yeni Parti ilk kurultayına hazırlanıyor: Özel'den kapsamlı kadro revizyonu",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5881/live/06a85390-d928-11f1-93e1-3b657b665bcf.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c6d7q9128xqvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Yeni Parti Genel Başkan Özgür Özel, partisinin 14-15 Kasım'da yapılacak ilk olağan kurultayına hazırlanıyor. Özel, kuruluş sürecinde oluşturulan geçici yönetim yapısını geride bırakarak partiyi iktidar hedefine taşıyacak daha geniş ve işlevsel bir kadro oluşturmayı hedefliyor. Ankara'dan Ayşe Sayın'ın haberi.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 00:15 UTC"
+    },
+    {
+      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+      "summary": "Parliament's approval lays the groundwork for further Turkish involvement in Saudi Arabia's conflict with the Houthis.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 00:15 UTC"
+    },
+    {
+      "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+      "summary": "Trump again said a major Russia-Ukraine deal is 'very close', but gave no specifics.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 00:06 UTC"
+    },
+    {
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f5/live/a7b86be0-d96d-11f1-9fd0-cdf612d1539f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 00:02 UTC"
+    },
+    {
+      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+      "summary": "Trump says the US may have to 'destroy' the rest of Iran, adding that people will 'know soon enough'.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 00:00 UTC"
+    },
+    {
+      "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
+      "summary": "DSA-backed Raman will lead the second-largest US city, promising action on homelessness and affordable housing.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 23:46 UTC"
+    },
     {
       "title": "Trump, sadece 18 kayıpla Hürmüz Boğazı'nda kontrolü sağlayabildiğini öne sürdü",
       "image": "",
@@ -11,8 +92,17 @@
       "published_at": "2026-11-05 23:33 UTC"
     },
     {
+      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b37/live/0e287b40-d96e-11f1-9fd0-cdf612d1539f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+      "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-05 23:31 UTC"
+    },
+    {
       "title": "Fatma Betül Sayan Kaya tutuklandı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e49/live/6fc84870-d96f-11f1-93e1-3b657b665bcf.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/863b/live/360e67e0-d979-11f1-9d09-0b0d91ffc0a2.jpg",
       "link": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss",
       "summary": "Savcılığın, \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından tutuklama talep ettiği eski AKP'li bakan Fatma Betül Sayan Kaya, çıkarıldığı nöbetçi mahkemece tutuklandı.",
       "source": "BBC Türkçe",
@@ -20,13 +110,13 @@
       "published_at": "2026-11-05 23:23 UTC"
     },
     {
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
-      "source": "BBC World",
+      "title": "Hazine ve Maliye Bakanı Şimşek: Düzenleme tüm emeklilerimizi kapsayacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-duzenleme-tum-emeklilerimizi-kapsayacak/4113546",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Yapılacak artışın emeklilerimizin yaş ve prim ödeme gün sayısına göre farklılaşmasının doğru olacağını düşünüyoruz. Çünkü bu daha adaletli bir yaklaşım olur. Seyyanen olsa da bu husus gözetilecek.\" dedi.",
+      "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 23:21 UTC"
+      "published_at": "2026-11-05 23:13 UTC"
     },
     {
       "title": "California governor commutes sentences for state's 548 death row inmates",
@@ -254,6 +344,15 @@
       "published_at": "2026-11-05 20:42 UTC"
     },
     {
+      "title": "Meksika merkez bankası faiz oranını %6,25’e indirdi - Investing.com Türkiye",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFd3TXl1SDh2YkYtRXBmT1lYNnUyNWRjYk5iT2pTOEZVb3JsSmJyM1ZrRGlIdTY0TmVkWU90TEJuRFUtRDJETFkyR09nV3JwT0ZWWk15dTdGQU5ZZVRaNGJPQjg1azVrci1lOHl6WkpzcjNFOVc1R0FELTMyLS1ZVVZEMWlRWXI0MlpjTE9yUjVvTTBLT2p2TE1qUFlKZ3pobC1J?oc=5",
+      "summary": "Meksika merkez bankası faiz oranını %6,25’e indirdi Investing.com Türkiye",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-05 20:31 UTC"
+    },
+    {
       "title": "Bitcoin 76 bin doların altını gördü",
       "image": "",
       "link": "https://www.aa.com.tr/tr/ekonomi/bitcoin-76-bin-dolarin-altini-gordu/4113454",
@@ -335,15 +434,6 @@
       "published_at": "2026-11-05 19:48 UTC"
     },
     {
-      "title": "Top US civil rights official resigns",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
-      "summary": "New Democratic Congress expected to probe Trump Justice Department office's handling of Epstein files and ICE killings.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 19:48 UTC"
-    },
-    {
       "title": "Eight killed in series of shootings in western Turkey",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06a9/live/afaf1b30-d947-11f1-93e1-3b657b665bcf.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
@@ -358,15 +448,6 @@
       "link": "https://www.bbc.com/turkce/articles/cm8xzzl5q98xo?at_medium=RSS&at_campaign=rss",
       "summary": "Afyonkarahisar Valiliği, ilde meydana gelen silahlı saldırılarda sekiz kişinin hayatını kaybettiğini ve bir kişinin de yaralandığını duyurdu. Eskişehir Valiliği saldırganın yakalandığını duyurdu.",
       "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 19:31 UTC"
-    },
-    {
-      "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
-      "summary": "US first lady hosts Russian, Ukrainian officials at the White House, urges two sides to build on recent local truce.",
-      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-05 19:31 UTC"
     },
@@ -398,15 +479,6 @@
       "published_at": "2026-11-05 19:19 UTC"
     },
     {
-      "title": "Fransa'da polis maaş artışı talep eden göstericilere biber gazıyla müdahale etti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/fransada-polis-maas-artisi-talep-eden-gostericilere-biber-gaziyla-mudahale-etti-/4113401",
-      "summary": "Fransa'da hayat pahalılığına karşı ve maaş artışı talebiyle sendikaların düzenlediği gösterilerde polis, göstericilere biber gazıyla müdahalede bulundu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 19:17 UTC"
-    },
-    {
       "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b7/live/4ad22690-d955-11f1-b7f4-8bd3c0617693.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
@@ -432,42 +504,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-05 19:07 UTC"
-    },
-    {
-      "title": "Division among US Democrats over Schumer’s leadership role",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role?traffic_source=rss",
-      "summary": "Some Democratic senators – and the very voters that swept them into power – are demanding new leadership.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 18:53 UTC"
-    },
-    {
-      "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
-      "summary": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 18:47 UTC"
-    },
-    {
-      "title": "Trabzonspor, Thomas Reis yönetiminde ilk yenilgisini aldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-thomas-reis-yonetiminde-ilk-yenilgisini-aldi/4113374",
-      "summary": "UEFA Konferans Ligi'nin 3. haftasında Almanya'nın Freiburg takımına 1-0 mağlup olan Trabzonspor, teknik direktör Thomas Reis yönetiminde ilk yenilgisini aldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 18:41 UTC"
-    },
-    {
-      "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
-      "summary": "Arab-majority party Ra’am and the Democrats have backed Gadi Eisenkot in a bid to form Israel’s next government.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 18:30 UTC"
     },
     {
       "title": "Rubio'nun başkanlık yarışı için istifa edeceği iddiası",
@@ -594,15 +630,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-05 15:23 UTC"
-    },
-    {
-      "title": "Küresel enerji krizi İngiltere'yi vurdu: Merkez Bankası'ndan faiz artışı - Cumhuriyet",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenl1UjV3NTRFMnVkSG1fa2dyLUxlUG11QkFzbGdrOVdvNGQtZjd4YVdZSFZBQWZmVkRXQVFxUkVpU1hSMC1zZmpwVzhGOTlRMUVvLVZYMGlobUpzUExZazE4Z2J2SUlCTzJQQ3pVOEYwb2RJcV90bEpZc1E5YnZMYUlGN1dHcERwX25aT3pWWUhGT09Gc2tKbDJuVWJRcjdab2RXcXdKcXVMNTRfbDQyNERUcWI0dC1E?oc=5",
-      "summary": "Küresel enerji krizi İngiltere'yi vurdu: Merkez Bankası'ndan faiz artışı Cumhuriyet",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-05 14:32 UTC"
     },
     {
       "title": "Cristiano Ronaldo milli takım kariyerini noktaladı",
@@ -776,6 +803,15 @@
       "published_at": "2026-11-05 11:04 UTC"
     },
     {
+      "title": "Mekke Anlaşması TBMM'de kabul edildi - BBC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZWRQNHJaanhPMktRYUtNRzAwMkxfS1l2Wk0zQjJiUmhjdkFKU2JxSFdHWFZsMGVoSEp0a3J6VkRlMlZ4MGVaT0o0UDRUUk10U0IwVnl6dGlqYWFFZ3fSAWNBVV95cUxOZFdIVGVJNVZ0NGNlemRibllvRzlOZzJlbVhTT3JPdF9BV21CeFhFN1BYRFJOMVB3SkU4U2p6bi1tQ2owTE1kZ0NsS2lTWjFOclRjOUtmRkFUaVluZGdBamdxMmM?oc=5",
+      "summary": "Mekke Anlaşması TBMM'de kabul edildi BBC",
+      "source": "Google News - Savunma",
+      "category": "Savunma",
+      "published_at": "2026-11-05 10:45 UTC"
+    },
+    {
       "title": "Borsa İstanbul'da kâr satışları - Haber Global",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJX3RxWE1HMW91bjhPZDJzcXJWUjBoaE85YWhmOWNycURRYTM1S0w2bkFZWXhvdkJMVUdQQllOc1RDNF9MbGJmNlkyZ1JxbVQ5Wm9OSmJjQVhFT2JDZ0ZuMldNRnkyNGUyRXpCMlhhcE9HVERLWGRvZQ?oc=5",
@@ -821,15 +857,6 @@
       "published_at": "2026-11-05 10:07 UTC"
     },
     {
-      "title": "Borsa İstanbul’da yükselişi tetikleyen 3 gelişme - Alanya Postası",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnNkcktqSW9MRko3ZzJhSUpvMS1pelNQWUdsQ2oxRDd0T2xlWWNMNFc2eHZkN1h1Q0k3S3Y1Z3FDaXM2eFV5bzJ3T2pqQzlyUEhjQUR6ZGpwWk9TaHN4UWNjTlA2dFdSenU2T1Q4bW51akdqUmFJbE5wOFp3c2ZlSmlEa0ZrMFU?oc=5",
-      "summary": "Borsa İstanbul’da yükselişi tetikleyen 3 gelişme Alanya Postası",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-05 09:48 UTC"
-    },
-    {
       "title": "Borsa İstanbul’da ralli: 2 sektörde yoğun para girişleri var - Hisse.net",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMi0yVGRySmZCcm9jblkzeERaWnF1djR1MThNM2d3WGN1a3J5X2E1bG5qX1l5MTdDQmk1N1Z5YmdwcWc0ZjRjM1czOURoTUFNcWl5SVdhbi1vM0MzbHg5LVpMTW85WnlxSXlNNFhzd1NwclJiSlpFTDdUZjZ2eUtwYXgwV1JYQlNxU20xblFuTi0xSnBLOWNOV2Vn0gGfAUFVX3lxTFA0Nk0tRWt1WjVNMm16UHlqbDZsVzRka0tEU0tyUnoyZUgtcm4yTnQ1VE4yMzV5Qjk1Wkg3V1M4aDZqdDVQZTgwM1FTaEtzZXIyTjBWaHg3TnZpaUlXTjUwZ2psaWNZR0tMN2FybTVfNkJ2c2JVSGFjRWtCTi01MG9MUk96eC1RcHVtbUl1ZlpFSThGN1UwSHJlNGpnekJWVQ?oc=5",
@@ -857,6 +884,15 @@
       "published_at": "2026-11-05 06:55 UTC"
     },
     {
+      "title": "Borsa İstanbul 100 Endeksi yüzde 4,12 yükselişle 11.478 puandan kapandı - hibya.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOFE5b0tweHR3REhxU3I2c2dHUUEwemlHQnd2cFcxYjhqZTdRbGV6ZUNoNGYycDU1UlNSYS1wbjRCdDhWUm1CUEdERlhDSU1JWW1mZjY0bmtuQUFfMUwtdWdld2NFd1JiTW1MRmJLYWs0MmJ6ZURWVnM0djBaQ3RRb3BoY1ZtbmJBQjdhSEFpZEdDelc4V2QxVzN0NA?oc=5",
+      "summary": "Borsa İstanbul 100 Endeksi yüzde 4,12 yükselişle 11.478 puandan kapandı hibya.com",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-05 05:52 UTC"
+    },
+    {
       "title": "Borsa İstanbul 7 hafta sonra yükseldi: 12,7 milyar TL’lik tasfiye satışı tamamlandı - Ekonomim",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTzJ2c0pRNnZITHZkcjgyOEJmeGZIT184YU5QcFBpcHVRZW8xSW9yUy1WWVZHX09jUWVQYS1fSmF3VnFNMG15S1RPX0xGSER2cmppT0ZQSGRaZng2WkRsZFZ2NzJZbWlaWDhwY29HZ2t6T0ZRQ1VzN2l6RjBiZzNCU09lSEtuaGV3bUotaUVDMjgwVktOdEFFOFd1dWIxa2NkNzBvaGVON3RfX1FURU9MZ21FRXhyQXJra2g0bjNPaU51R3AzWjdMWjZnaEpNUEUyQWRMZw?oc=5",
@@ -864,42 +900,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-05 04:30 UTC"
-    },
-    {
-      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/063d/live/7f72f330-d8eb-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 02:09 UTC"
-    },
-    {
-      "title": "Australia's oldest department store David Jones folds after 188 years",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e5e/live/f37ce860-d8ac-11f1-8b97-dd854ec90424.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-      "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 00:59 UTC"
-    },
-    {
-      "title": "Avrupa Birliği'nden Türkiye'ye 'uçurum' uyarısı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1f79/live/adadc240-d85d-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c98rz6e7z6exo?at_medium=RSS&at_campaign=rss",
-      "summary": "Brüksel'e göre Türkiye'nin AB'ye katılma hedefine ilişkin beyanlarıyla katılım için gerekli siyasi kriterlerdeki durum arasındaki \"uçurum\" daha da genişledi. Dışişleri Bakanlığı, AB raporunu \"ön yargılı ve hakkaniyetten uzak\" olarak niteledi.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-04 16:55 UTC"
-    },
-    {
-      "title": "Borsa, altın, dolar: 4 Kasım piyasalarda gün sonu rakamları - Platin Dergisi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnZyR3M4LU5lSnhZWnRkR3VnS3ZzYm9HVTJsRE04enl3MnVxb3hpZW9fM0dOcmc2MmRvY2Z2UVdQemFTdDJPUzE3WENDa1ZRZ0JXUVdTZDZXNjhWb3gxNVBWUlBCQlk3b1FNTzRQaW9XVUFVbXdKNzRCdEhnQ1p2anI5OFdub3NYY29PeHk2SVJDbW5UenZRSXdhT3FCZ3ZB?oc=5",
-      "summary": "Borsa, altın, dolar: 4 Kasım piyasalarda gün sonu rakamları Platin Dergisi",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-04 15:50 UTC"
     }
   ]
 }
