@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 03:44 UTC",
+  "updated_at": "2026-11-06 04:49 UTC",
   "items": [
     {
       "title": "Trump signs order preventing future presidents from changing Oval Office",
@@ -8,6 +8,51 @@
       "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 04:29 UTC"
+    },
+    {
+      "title": "Building wind turbines out of parts found in Gaza’s rubble",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
+      "summary": "Palestinians in Gaza have made wind turbines to generate electricity, using scraps found in the rubble.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 04:20 UTC"
+    },
+    {
+      "title": "Petrol, İran belirsizliği nedeniyle artışa devam ediyor",
+      "image": "https://geoim.bloomberght.com/l/2026/11/06/ver1793938812/3793730/jpg/320x180",
+      "link": "https://www.bloomberght.com/petrol-iran-belirsizligi-nedeniyle-artisa-devam-ediyor-3793730",
+      "summary": "Petrol fiyatları, ABD ara seçimlerinde Demokratların ezici zaferinin tetiklediği keskin satış dalgasının ardından yükselişe geçti. Yatırımcılar Orta Doğu'daki savaşın sona erip ermeyeceği ile ilgili belirsizlikleri değerlendiriyor.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-06 04:17 UTC"
+    },
+    {
+      "title": "Altın, Ağustos'tan beri en büyük haftalık kazanca hazırlanıyor",
+      "image": "https://geoim.bloomberght.com/l/2026/11/06/ver1793938029/3793723/jpg/320x180",
+      "link": "https://www.bloomberght.com/altin-agustos-tan-beri-en-buyuk-haftalik-kazanca-hazirlaniyor-3793723",
+      "summary": "Altın, ABD ara seçimlerinin dolar ve tahvil getirilerini aşağı çekmesinin ardından ivme kaybetmesine rağmen, Ağustos ayından bu yana en büyük haftalık kazancını kaydetmeye hazırlanıyor.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-06 04:06 UTC"
+    },
+    {
+      "title": "Paraguay’s president impeached amid bank collapse crisis",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
+      "summary": "Lawmakers have voted to impeach Paraguay’s President Santiago Pena amid a banking collapse that has roiled the country.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 03:49 UTC"
+    },
+    {
+      "title": "Bakır Temmuz'dan beri en düşük seviyesine geriledi",
+      "image": "https://geoim.bloomberght.com/l/2026/11/06/ver1793936098/3793722/jpg/320x180",
+      "link": "https://www.bloomberght.com/bakir-temmuz-dan-beri-en-dusuk-seviyesine-geriledi-3793722",
+      "summary": "Bakır fiyatları, ABD'de ara seçimlerin yapay zeka altyapısının hızlı şekilde genişletilmesinin engellenme endişesi ve ABD'nin ithalat vergisi uygulama riski nedeniyle Temmuz ayından bu yana en düşük seviyesine geriledi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
       "published_at": "2026-11-06 03:33 UTC"
     },
     {
@@ -21,7 +66,7 @@
     },
     {
       "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
       "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
       "source": "BBC World",
@@ -380,15 +425,6 @@
       "published_at": "2026-11-05 20:53 UTC"
     },
     {
-      "title": "Saudi coalition intercepts missile fired towards Medina",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
-      "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 20:48 UTC"
-    },
-    {
       "title": "İran Devrim Muhafızları: Hürmüz Boğazı'ndaki Keşm Adası'nda ABD'ye ait MQM-170 tipi İHA düşürüldü",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazindaki-kesm-adasinda-abdye-ait-mqm-170-tipi-iha-dusuruldu/4113466",
@@ -396,15 +432,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-05 20:47 UTC"
-    },
-    {
-      "title": "Why are wealthy countries failing developing nations?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
-      "summary": "UN report warns climate adaptation funding is falling far short of needs.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-05 20:45 UTC"
     },
     {
       "title": "ABD'den uluslararası dolandırıcılık ağına yeni yaptırımlar",
@@ -560,15 +587,6 @@
       "published_at": "2026-11-05 18:34 UTC"
     },
     {
-      "title": "Rubio'nun başkanlık yarışı için istifa edeceği iddiası",
-      "image": "https://geoim.bloomberght.com/l/2026/11/05/ver1793903343/3793698/jpg/320x180",
-      "link": "https://www.bloomberght.com/rubio-nun-baskanlik-yarisi-icin-istifa-edecegi-iddiasi-3793698",
-      "summary": "ABD Dışişleri Bakanı Marco Rubio'nun, 2028 başkanlık seçimlerinde Cumhuriyetçi Partinin adayı olmak amacıyla görevinden istifa etmeye hazırlandığı öne sürüldü.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-05 18:28 UTC"
-    },
-    {
       "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ac/live/89154780-d945-11f1-a701-fddedf244c16.png",
       "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
@@ -587,15 +605,6 @@
       "published_at": "2026-11-05 18:09 UTC"
     },
     {
-      "title": "Ford Otosan'dan üçüncü çeyrekte beklentileri aşan net kâr",
-      "image": "",
-      "link": "https://www.bloomberght.com/ford-otosan-dan-ucuncu-ceyrekte-beklentileri-asan-net-kr-3793697",
-      "summary": "Ford Otosan, 2026 yılının üçüncü çeyreğinde 8,4 milyar TL net kâr açıklayarak 7,3 milyar TL'lik piyasa konsensüsünün üzerinde bir performans sergiledi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-05 18:07 UTC"
-    },
-    {
       "title": "French protests see numbers surge as unions join strikes over high cost of living",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f641/live/977c1840-d91c-11f1-b441-2b33b063138f.jpg",
       "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
@@ -603,15 +612,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-05 17:59 UTC"
-    },
-    {
-      "title": "Fitch'ten ABD'deki veri merkezi yatırımlarına ilişkin uyarı",
-      "image": "https://geoim.bloomberght.com/l/2026/11/05/ver1793901130/3793695/jpg/320x180",
-      "link": "https://www.bloomberght.com/fitch-ten-abd-deki-veri-merkezi-yatirimlarina-iliskin-uyari-3793695",
-      "summary": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, ABD'deki yapay zeka veri merkezi yatırımlarının olası düzenleyici kısıtlamalar ve elektrik tedarikindeki gecikmeler nedeniyle artan risklerle karşı karşıya olduğunu bildirdi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-05 17:51 UTC"
     },
     {
       "title": "Paraguay President Santiago Peña resigns after bank collapse",
@@ -657,6 +657,15 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-05 15:40 UTC"
+    },
+    {
+      "title": "Yapı Kredi Reports Transformation of 105,000 Shares into Trading Shares - The Globe and Mail",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSUIwTDJCTmpkSDRrZHJhVmlZY1pBUWtrVzBBTzEtRk5KVC1fV3VZeGQ0WG03bUg1SWpKZVNhcV80WE5fQjl6c01HTGpGLTZOdVF1YzdMYXFZM3VaQnk4RW85bWt6dmRfcUZyRUFTOWVyNEE3V2V5YTlkbTVia0JLdlduQkxaeUdxbkFtOElmeUY2aTQxcXJxNlhieEVmX2ZheXpoeDR6M3dvTTFJV0JjSkM4NmxFV0tlQk5TOG5DZWtJZGk0ZU91ZzlocUQxTVdPcWlPYml2TGhEZDRuQlQwakVUc1VYelk?oc=5",
+      "summary": "Yapı Kredi Reports Transformation of 105,000 Shares into Trading Shares The Globe and Mail",
+      "source": "Google News - Küresel Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-05 14:44 UTC"
     },
     {
       "title": "Küresel enerji krizi İngiltere'yi vurdu: Merkez Bankası'ndan faiz artışı - Cumhuriyet",
@@ -821,6 +830,15 @@
       "published_at": "2026-11-05 11:04 UTC"
     },
     {
+      "title": "Mekke Anlaşması TBMM'de kabul edildi - BBC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZWRQNHJaanhPMktRYUtNRzAwMkxfS1l2Wk0zQjJiUmhjdkFKU2JxSFdHWFZsMGVoSEp0a3J6VkRlMlZ4MGVaT0o0UDRUUk10U0IwVnl6dGlqYWFFZ3fSAWNBVV95cUxOZFdIVGVJNVZ0NGNlemRibllvRzlOZzJlbVhTT3JPdF9BV21CeFhFN1BYRFJOMVB3SkU4U2p6bi1tQ2owTE1kZ0NsS2lTWjFOclRjOUtmRkFUaVluZGdBamdxMmM?oc=5",
+      "summary": "Mekke Anlaşması TBMM'de kabul edildi BBC",
+      "source": "Google News - Savunma",
+      "category": "Savunma",
+      "published_at": "2026-11-05 10:45 UTC"
+    },
+    {
       "title": "Borsa İstanbul'da kâr satışları - Haber Global",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJX3RxWE1HMW91bjhPZDJzcXJWUjBoaE85YWhmOWNycURRYTM1S0w2bkFZWXhvdkJMVUdQQllOc1RDNF9MbGJmNlkyZ1JxbVQ5Wm9OSmJjQVhFT2JDZ0ZuMldNRnkyNGUyRXpCMlhhcE9HVERLWGRvZQ?oc=5",
@@ -882,24 +900,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-05 09:48 UTC"
-    },
-    {
-      "title": "Borsa İstanbul’da ralli: 2 sektörde yoğun para girişleri var - Hisse.net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMi0yVGRySmZCcm9jblkzeERaWnF1djR1MThNM2d3WGN1a3J5X2E1bG5qX1l5MTdDQmk1N1Z5YmdwcWc0ZjRjM1czOURoTUFNcWl5SVdhbi1vM0MzbHg5LVpMTW85WnlxSXlNNFhzd1NwclJiSlpFTDdUZjZ2eUtwYXgwV1JYQlNxU20xblFuTi0xSnBLOWNOV2Vn0gGfAUFVX3lxTFA0Nk0tRWt1WjVNMm16UHlqbDZsVzRka0tEU0tyUnoyZUgtcm4yTnQ1VE4yMzV5Qjk1Wkg3V1M4aDZqdDVQZTgwM1FTaEtzZXIyTjBWaHg3TnZpaUlXTjUwZ2psaWNZR0tMN2FybTVfNkJ2c2JVSGFjRWtCTi01MG9MUk96eC1RcHVtbUl1ZlpFSThGN1UwSHJlNGpnekJWVQ?oc=5",
-      "summary": "Borsa İstanbul’da ralli: 2 sektörde yoğun para girişleri var Hisse.net",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-05 07:57 UTC"
-    },
-    {
-      "title": "BIST 100 için 2027’de 23-25 bin puan senaryosu: 400 dolar hedefi - Ekonomim",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPakV1MnJsVDNDcHl1Tk12NWZMQVlfNUlYbTFhNTJtNU1XNlZoekM3WHlCd0ZXNTFpS3RISEJkOE9uQk1nc0lMY2t2LUg4S0dpeFpEUkJlZW9pZlFFVXhTMG4tdl80Rk14S1lUbERMZ1lrOVdZUHg2T3JNQTdhZXBpOFNsSXFBZURxd3Z1UGljT3hiNDZJLWNmdW1PVHRrcmxwTlJhRzhtQVpxMzZQYmUzSlVyeXI1SEkxR1pzRg?oc=5",
-      "summary": "BIST 100 için 2027’de 23-25 bin puan senaryosu: 400 dolar hedefi Ekonomim",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-05 07:00 UTC"
     }
   ]
 }
