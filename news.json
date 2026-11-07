@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-07 17:59 UTC",
+  "updated_at": "2026-11-07 18:39 UTC",
   "items": [
+    {
+      "title": "Paraguay’s ousted president charged over banking scandal",
+      "image": "",
+      "link": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
+      "summary": "Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 18:35 UTC"
+    },
+    {
+      "title": "What we know about Krakow mass shooting so far",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 18:22 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, yarın Azerbaycan'a gidecek",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yarin-azerbaycana-gidecek/4115459",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, yarın Azerbaycan'a gidecek.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 18:18 UTC"
+    },
+    {
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 18:14 UTC"
+    },
+    {
+      "title": "Bakan Murat Kurum TRT Haberde",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-murat-kurum-trt-haberde-962556.html",
+      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, TRT Haberde gündeme ilişkin soruları yanıtlıyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 18:10 UTC"
+    },
+    {
+      "title": "BM İnsani İşler Koordinasyon Ofisi: Gazze'ye kışlık malzeme ve iş makinelerinin girişine izin verilmeli",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/bm-insani-isler-koordinasyon-ofisi-gazzeye-kislik-malzeme-ve-is-makinelerinin-girisine-izin-verilmeli/4115447",
+      "summary": "OCHA, İsrail'in yıllardır sürdürdüğü abluka ve saldırılar nedeniyle ağır insani krizin yaşandığı Gazze Şeridi'nde etkili olan şiddetli yağışlar nedeniyle kışlık malzemeler ile ağır iş makinelerinin acilen girişine izin verilmesini istedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 18:01 UTC"
+    },
+    {
+      "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
+      "summary": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 18:00 UTC"
+    },
+    {
+      "title": "Erdoğan, telefonda Trump ile görüştü",
+      "image": "https://geoim.bloomberght.com/l/2026/11/07/ver1794074095/3793882/jpg/320x180",
+      "link": "https://www.bloomberght.com/erdogan-telefonda-trump-ile-gorustu-3793882",
+      "summary": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-07 17:54 UTC"
+    },
     {
       "title": "Cumhurbaşkanı Erdoğan Azerbaycan'a gidecek",
       "image": "",
@@ -65,6 +137,15 @@
       "published_at": "2026-11-07 17:22 UTC"
     },
     {
+      "title": "Başakşehir, deplasmandan 3 puanla ayrıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/basaksehir-deplasmandan-3-puanla-ayrildi/4115381",
+      "summary": "Trendyol Süper Lig'in 11. haftasında İstanbul Başakşehir, deplasmanda Göztepe'yi 2-1 mağlup etti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 17:16 UTC"
+    },
+    {
       "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
       "image": "",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
@@ -72,6 +153,15 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-07 17:16 UTC"
+    },
+    {
+      "title": "Galatasaray, sahasından galibiyetle ayrıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/galatasaray-sahasindan-galibiyetle-ayrildi/4115380",
+      "summary": "Trendyol Süper Lig'in 11. haftasında Galatasaray, konuk ettiği Amed Sportif Faaliyetler'i 4-3 yendi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 17:14 UTC"
     },
     {
       "title": "MotoGP Katar Grand Prix'sinde sprint yarışını Marc Marquez kazandı",
@@ -107,6 +197,15 @@
       "summary": "Fon soruşturmaları kapsamında daha önce adli kontrol tedbiri uygulanan Eski Takasbank Genel Müdürü Yunus Arıncı hakkında yeniden gözaltı kararı verildi.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-07 17:09 UTC"
+    },
+    {
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-07 17:09 UTC"
     },
     {
@@ -254,10 +353,10 @@
       "published_at": "2026-11-07 16:15 UTC"
     },
     {
-      "title": "Polonya'nın Krakov kentinde düzenlenen silahlı saldırıda 5 kişi öldü, 10'dan fazla kişi yaralandı",
+      "title": "Polonya'nın Krakov kentinde düzenlenen silahlı saldırıda 6 kişi öldü, 15 kişi yaralandı",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/polonyanin-krakov-kentinde-duzenlenen-silahli-saldirida-5-kisi-oldu-10dan-fazla-kisi-yaralandi/4115349",
-      "summary": "Polonya'nın Krakov kentinin merkezinde düzenlenen silahlı saldırıda 5 kişi hayatını kaybetti, 10'dan fazla kişi yaralandı.",
+      "link": "https://www.aa.com.tr/tr/dunya/polonyanin-krakov-kentinde-duzenlenen-silahli-saldirida-6-kisi-oldu-15-kisi-yaralandi/4115349",
+      "summary": "Polonya'nın Krakov kentinin merkezinde düzenlenen silahlı saldırıda 6 kişi hayatını kaybetti, 15 kişi yaralandı.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-07 16:14 UTC"
@@ -299,15 +398,6 @@
       "published_at": "2026-11-07 16:05 UTC"
     },
     {
-      "title": "AK Parti Genel Sekreteri İnan: Siyaset kurumu olarak milletin parasına göz dikenlerin üzerine demir yumruk gibi ineceğiz",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-sekreteri-inan-siyaset-kurumu-olarak-milletin-parasina-goz-dikenlerin-uzerine-demir-yumruk-gibi-inecegiz/4115336",
-      "summary": "AK Parti Genel Sekreteri Eyyüp Kadir İnan, fon soruşturmasına ilişkin, \"Siyaset kurumu olarak öyle düzenlemeler hayata geçireceğiz ki, milletimizin parasına göz dikenlerin üzerine bir demir yumruk gibi ineceğiz.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 15:56 UTC"
-    },
-    {
       "title": "No clear winner after tight New Zealand general election",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
@@ -315,15 +405,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-07 15:56 UTC"
-    },
-    {
-      "title": "İran'ın en üst düzey güvenlik yetkilisi Rızai: Vance yenilgiyi kabul etti, Rubio ayrılmak üzere",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/iranin-en-ust-duzey-guvenlik-yetkilisi-rizai-vance-yenilgiyi-kabul-etti-rubio-ayrilmak-uzere/4115331",
-      "summary": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai,, “ABD Başkan Yardımcısı)Vance yenilgiyi kabul etti, Dışişleri Bakanı Marco Rubio ayrılmak üzere” iddiasında bulundu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 15:50 UTC"
     },
     {
       "title": "TRT World Forum 2026'da çatışmaların ekonomik etkileri ve yeniden inşa süreci ele alındı",
@@ -342,15 +423,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-07 15:45 UTC"
-    },
-    {
-      "title": "Filistin bakanlıkları, şiddetli yağışın etkili olduğu Gazze'dekiler için acil yardım çağrısı yaptı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/filistin-bakanliklari-siddetli-yagisin-etkili-oldugu-gazzedekiler-icin-acil-yardim-cagrisi-yapti/4115324",
-      "summary": "Filistin Sağlık ve Kadın İşleri Bakanlıkları, Gazze'de etkili olan sağanak yağışın çadırlarda yaşayan binlerce Filistinlinin sağlığını tehdit ettiğini belirtti ve uluslararası camiaya acil müdahale çağrısı yaptı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 15:41 UTC"
     },
     {
       "title": "İslam Memiş'ten 2027 uyarısı! Altın, gümüş, dolar, Bitcoin ve konut için tarih verdi - Boyoz Haber",
@@ -373,15 +445,6 @@
     {
       "title": "TRT World Forum'da enerji krizleri ve güvenliği ele alındı",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/trt-world-forumda-enerji-krizleri-ve-guvenligi-ele-alindi/4115317",
-      "summary": "Milli İstihbarat Akademisi Başkanı Köse, finansal, savunma, diplomatik ve arabuluculuk kabiliyetleriyle Türkiye'nin Orta Doğu, Orta Asya ve Hazar ülkelerinde enerji merkezi olma hedefini ortaya koyduğunu belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 15:33 UTC"
-    },
-    {
-      "title": "TRT World Forum'da enerji krizleri ve güvenliği ele alındı",
-      "image": "",
       "link": "https://www.trthaber.com/haber/gundem/trt-world-forumda-enerji-krizleri-ve-guvenligi-ele-alindi-962548.html",
       "summary": "İstanbul'da TRT World Forum kapsamında \"Enerji Krizlerinin Artçı Sarsıntıları: Baskı Altındaki Kurumlar\" başlıklı panel düzenlendi.",
       "source": "TRT Haber",
@@ -398,7 +461,7 @@
       "published_at": "2026-11-07 15:29 UTC"
     },
     {
-      "title": "At least five people killed in shooting in Poland’s Krakow",
+      "title": "At least six people killed in shooting in Poland’s Krakow",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
       "summary": "Polish Prime Minister Donald Tusk says police are investigating after 'tragic shooting' in second-largest city.",
@@ -452,24 +515,6 @@
       "published_at": "2026-11-07 14:24 UTC"
     },
     {
-      "title": "CENTCOM, yeni görev gücüyle İran'ın kara yoluyla silah ve malzeme naklini engellemeyi hedefliyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/centcom-yeni-gorev-gucuyle-iranin-kara-yoluyla-silah-ve-malzeme-naklini-engellemeyi-hedefliyor-962544.html",
-      "summary": "ABD Merkez Kuvvetler Komutanlığı CENTCOM bünyesinde İran'ın gelişmiş silahları ve diğer malzemeleri kara yolu üzerinden nakletmesini engellemek için \"Iron Gate\" isimli bir görev gücünün kurulduğu bildirildi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 14:11 UTC"
-    },
-    {
-      "title": "New Zealand’s prime minister says election is ‘too close to call’",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss",
-      "summary": "New Zealand prime minister Christopher Luxon says he has a pathway to form the next government.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 14:03 UTC"
-    },
-    {
       "title": "Batı Şeria'da \"Nekbe\" mağduru Filistinli aileler, ikinci kez sürgün acısı yaşıyor",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/bati-seriada-nekbe-magduru-filistinli-aileler-ikinci-kez-surgun-acisi-yasiyor/4115250",
@@ -477,15 +522,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-07 13:57 UTC"
-    },
-    {
-      "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
-      "summary": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 13:50 UTC"
     },
     {
       "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
@@ -821,15 +857,6 @@
       "published_at": "2026-11-06 21:36 UTC"
     },
     {
-      "title": "İran'dan iyot tableti dağıtıldığı iddialarına ilişkin açıklama",
-      "image": "https://geoim.bloomberght.com/l/2026/11/07/ver1794000514/3793864/jpg/320x180",
-      "link": "https://www.bloomberght.com/iran-dan-iyot-tableti-dagitildigi-iddialarina-iliskin-aciklama-3793864",
-      "summary": "İran Sağlık Bakanlığı, İsfahan'daki Kazma Dağı çevresinde olası nükleer saldırıya karşı iyot tabletlerinin dağıtıldığına ilişkin iddiaları yalanladı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-06 21:27 UTC"
-    },
-    {
       "title": "Borsa mı altın mı dolar mı? İşte haftanın en çok kazandıran yatırım aracı - Bursa Saati Gazetesi",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd08tN2hMS096S25qVDJ1LXZiRk1PckRueG9PV2ZtWk9LSHJpMFhObm8weWxocmN3aTVlRWwwUHFSTWlSVnMwbU1xcDliVnJnQlNFV0Jod18ySXVhdHM5TW5OaExXdEI0MmFKaTAwT01VQmx4RWFuaEJRUGR2MHI2TG5hRUxWdkpIYXRkMDdncmVqVExyUGZTYnMydVU4cG1GTXkzRQ?oc=5",
@@ -873,33 +900,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-11-06 18:41 UTC"
-    },
-    {
-      "title": "Avrupa Merkez Bankası başkanlığı için iki aday çıktı - Anadolu Ajansı",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVYtRHYwVlRFNzZVVUpwYXVxdDM1RnhJNG1Wck9vcGNYZGF4NHRyY3N2MC02d3ZZUTF2WVVKZF9VSE1GdlFfMHNpbFp1X3dkNzFtUl9WN3k4dlhuRGF3MHp4SDNhckIxNDE5bGNGdkFDdFpZREFuNTA4bWZJTUo0VWc1MkZDdEh4YnoycG5PUWRncUk?oc=5",
-      "summary": "Avrupa Merkez Bankası başkanlığı için iki aday çıktı Anadolu Ajansı",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-06 17:55 UTC"
-    },
-    {
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ed/live/81d3a0d0-d9ee-11f1-bbe5-797ee05bee69.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 17:44 UTC"
-    },
-    {
-      "title": "Sergen Yalçın'ın ilk A Milli Takım seçkisi ve Serhat Öztaşdelen'in sevinci",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d91/live/1d1488e0-da06-11f1-a701-fddedf244c16.png",
-      "link": "https://www.bbc.com/turkce/articles/c6x299pm5zrxo?at_medium=RSS&at_campaign=rss",
-      "summary": "A Milli Takım Teknik Direktörü Sergen Yalçın, A Milli Takım'da ilk seçkisini yaptı.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 17:11 UTC"
     }
   ]
 }
