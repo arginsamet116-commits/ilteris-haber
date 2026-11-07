@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-11-07 09:37 UTC",
+  "updated_at": "2026-11-07 10:33 UTC",
   "items": [
+    {
+      "title": "Hürmüz Boğazı'nda bir petrol tankeri mayına çarptı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti/4115085",
+      "summary": "İran Ordusu Deniz Kuvvetleri Komutanlığı, Hürmüz Boğazı’nın doğusunda bir tankerin mayına çarptığını duyurdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 10:27 UTC"
+    },
+    {
+      "title": "Gazze'deki hükümet: Yerinden edilenlerin kaldığı 70 bin çadır yağışlarda su altında kaldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/gazzedeki-hukumet-yerinden-edilenlerin-kaldigi-70-bin-cadir-yagislarda-su-altinda-kaldi-962525.html",
+      "summary": "Gazze'deki hükümet, bölgede etkili olan şiddetli yağışların sürdüğü 12 saat içinde yerinden edilen Filistinlilerin kaldığı 70 bin çadırın su altında kaldığını ve yaklaşık 3 milyon dolarlık maddi zararın oluştuğunu bildirdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 10:25 UTC"
+    },
+    {
+      "title": "COP31'de \"küresel iklim politikası\" Mavi Bölge'de şekillenecek",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cop31de-kuresel-iklim-politikasi-mavi-bolgede-sekillenecek/4115081",
+      "summary": "Türkiye'nin ev sahipliğinde gerçekleştirilecek BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'nda (COP31), dünya liderleri, iklimin geleceğini Mavi Bölge'de müzakere edecek.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 10:18 UTC"
+    },
+    {
+      "title": "Galatasaray'ın yıldızı Victor Osimhen, ameliyat edildi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/galatasarayin-yildizi-victor-osimhen-ameliyat-edildi/4115080",
+      "summary": "Galatasaray'ın Nijeryalı santrforu Victor Osimhen, sol dizinden operasyon geçirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 10:15 UTC"
+    },
+    {
+      "title": "Merz, Holokost'un tarihi sorumluluğuna uymayan Müslüman göçmenlerin ülkeyi terk etmelerini istedi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/merz-holokostun-tarihi-sorumluluguna-uymayan-musluman-gocmenlerin-ulkeyi-terk-etmelerini-istedi/4115070",
+      "summary": "Almanya Başbakanı Friedrich Merz, Almanya’nın Holokost karşısındaki tarihi sorumluluğuna uymayan Müslüman göçmenlerin ülkeyi terk etmeleri gerektiğini söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 10:06 UTC"
+    },
+    {
+      "title": "Fon soruşturmasında yeni tutukluluklar",
+      "image": "https://geoim.bloomberght.com/l/2026/11/07/ver1794045961/3793873/jpg/320x180",
+      "link": "https://www.bloomberght.com/fon-sorusturmasinda-yeni-tutukluluklar-3793873",
+      "summary": "Fon soruşturması kapsamında eski SPK Başkan Vekili Enver Usca'nın da aralarında bulunduğu 4 şüpheli tutuklandı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-07 10:05 UTC"
+    },
+    {
+      "title": "Bakan Fidan: Türkiye, bölgesel sahipliği korumaya çalışıyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-turkiye-bolgesel-sahipligi-korumaya-calisiyor-962524.html",
+      "summary": "Dışişleri Bakanı Hakan Fidan, \"Rotalar korunmalıdır. Çatışmalar kısıtlanmalıdır. Politik anlaşmazlıklar global ekonomileri sürdüren sistemleri paralize etmemelidir. Bu yüzden Türkiye bu enstrümanları kullanıyor. Sürdürülebilir diplomasi sağlamaya, bölgesel sahipliği korumaya çalışıyor\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 09:56 UTC"
+    },
+    {
+      "title": "Dışişleri Bakanı Fidan: Politik anlaşmazlıklar global ekonomileri sürdüren sistemleri paralize etmemeli",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-politik-anlasmazliklar-global-ekonomileri-surduren-sistemleri-paralize-etmemeli/4115057",
+      "summary": "Bakan Fidan, \"Rotalar korunmalı, çatışmalar kısıtlanmalıdır. Politik anlaşmazlıklar global ekonomileri sürdüren sistemleri paralize etmemelidir. Türkiye sürdürülebilir diplomasi sağlamaya, bölgesel sahipliği korumaya çalışıyor.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 09:52 UTC"
+    },
+    {
+      "title": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
+      "image": "",
+      "link": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins?traffic_source=rss",
+      "summary": "Palestinian citizens of Israel say Arab parties' success in recent elections has led to growing pressure.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 09:48 UTC"
+    },
+    {
+      "title": "Sığır karkasının pazar fiyatı sıcak ağırlığa göre belirlenecek",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/sigir-karkasinin-pazar-fiyati-sicak-agirliga-gore-belirlenecek/4115053",
+      "summary": "Karkas sığır etinin fiyatının belirlenmesinde \"sıcak karkas ağırlığı\" esas alınacak.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 09:44 UTC"
+    },
+    {
+      "title": "Bu hafta en çok ne kazandırdı? Altın mı, dolar mı, borsa mı? - Hamle Gazetesi",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMXc3RHBnU0RnZm1lYUdiVmpTNFJUcHVjN05wNW4yVGRCYkpCekVJLTlkSUNocm9ITXNlQnFhNkhHTTA2czhJRmZpXzU5YmI3Y3dPNzhzNGhjSU1Ka0xWb1dlQjBoRHZDOHZkeVVoRkNhTWlZYWdicEI5cktqZXZDZlFWQnhtekVhc3FacDc2bWpDdnc?oc=5",
+      "summary": "Bu hafta en çok ne kazandırdı? Altın mı, dolar mı, borsa mı? Hamle Gazetesi",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-07 09:42 UTC"
+    },
+    {
+      "title": "TRT World Forum 2026'da küresel ticaret yolları ve tedarik zincirlerinin geleceği ele alındı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/trt-world-forum-2026da-kuresel-ticaret-yollari-ve-tedarik-zincirlerinin-gelecegi-ele-alindi/4115045",
+      "summary": "TRT World Forum 2026 kapsamında düzenlenen oturumda, bölgesel çatışmaların ticaret yollarına etkileri, enerji arz güvenliği ve küresel tedarik zincirlerinde alternatif güzergah arayışları değerlendirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 09:35 UTC"
+    },
     {
       "title": "Fransa’da hükümet şehir merkezlerinde eylem yasağının sürdüğünü açıkladı",
       "image": "",
@@ -9,6 +117,15 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-07 09:31 UTC"
+    },
+    {
+      "title": "İsrail'in saldırıları altındaki Gazze'de can kaybı 74 bin 640'a yükseldi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israilin-saldirilari-altindaki-gazzede-can-kaybi-74-bin-640a-yukseldi/4115040",
+      "summary": "İsrail'in saldırılarını sürdürdüğü Gazze Şeridi'nde hayatını kaybedenlerin sayısı son 48 saatte 10 artarak 74 bin 640'a yükseldi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 09:30 UTC"
     },
     {
       "title": "China’s e-bikes boom as fuel prices rise",
@@ -47,15 +164,6 @@
       "published_at": "2026-11-07 09:24 UTC"
     },
     {
-      "title": "Meteorolojiden 19 il için sarı kodlu uyarı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-19-il-icin-sari-kodlu-uyari/4115029",
-      "summary": "Meteoroloji Genel Müdürlüğü, beklenen kuvvetli yağış nedeniyle bugün 19, yarın 9 il için sarı kodlu uyarıda bulundu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 09:19 UTC"
-    },
-    {
       "title": "US Senator Abdul El-Sayed launches ‘Habibi’ political action committee",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss",
@@ -63,15 +171,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-07 09:18 UTC"
-    },
-    {
-      "title": "Aydın'da mobilya fabrikasında çıkan yangına müdahale ediliyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/aydinda-mobilya-fabrikasinda-cikan-yangina-mudahale-ediliyor/4115027",
-      "summary": "Aydın'ın Kuşadası ilçesinde mobilya fabrikasının deposunda çıkan yangını itfaiye ekipleri söndürmeye çalışıyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 09:17 UTC"
     },
     {
       "title": "Paraguay'da bankacılık krizi: Devlet Başkanı görevden alındı ve ev hapsine konuldu",
@@ -92,15 +191,6 @@
       "published_at": "2026-11-07 09:16 UTC"
     },
     {
-      "title": "ABD'de Houston Belediye Başkanı Whitmire, eyalette polis ve ICE işbirliğini sınırlandıracak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abdde-houston-belediye-baskani-whitmire-eyalette-polis-ve-ice-isbirligini-sinirlandiracak/4115018",
-      "summary": "ABD'nin Texas eyaletinin Houston kentinin Belediye Başkanı John Whitmire, eyalet polisinin Göçmenlik ve Gümrük Muhafaza Dairesi (ICE) ile işbirliğinin sınırlandırılmasına ilişkin karar aldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 09:13 UTC"
-    },
-    {
       "title": "Borsa, altın ve döviz haftayı yükselişle kapattı! En çok kazandıran belli oldu - CNN Türk Finans",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOandObFlRc0J0enUwTEJZXzM1emNMUl91cy1GWi0wZ1dKVF93M0k3SE53TGppVFZFTUVURTNHc1ZWZzBLUncxSWpkRFFjTURhZndDTjZvTmJKWEtua3hVZXV2bjNQckhuQmpkUmp0QW1sM3hQanZQX1dTRjhralBMeU9tVWpkVUg4WU9MSS1yeTdQZFJpM0d6Z3gwNXlINURxajF3eFVOcnpFT1NRRFkyV3BBZ01jaVZpbVdQMVZYRW05TTg5LUE?oc=5",
@@ -119,15 +209,6 @@
       "published_at": "2026-11-07 09:06 UTC"
     },
     {
-      "title": "Rapçi Macklemore, Özgür Filistin Turnesi'nin 9 büyük ABD'li konser arenası tarafından reddedildiğini söyledi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/rapci-macklemore-ozgur-filistin-turnesinin-9-buyuk-abdli-konser-arenasi-tarafindan-reddedildigini-soyledi/4115010",
-      "summary": "Filistin'e destek açıklamaları nedeniyle Ed Sheeran'ın turnesinden çıkarılan ABD'li rapçi Macklemore, gelirini Filistin'i destekleyen kuruluşlara bağışlayacağı \"Özgür Filistin Turnesi\"nin 9 büyük ABD konser arenası tarafından reddedildiğini açıkladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 08:58 UTC"
-    },
-    {
       "title": "AMB başkanlığının güçlü adayından şahin uyarı",
       "image": "https://geoim.bloomberght.com/l/2026/11/07/ver1794041852/3793872/jpg/320x180",
       "link": "https://www.bloomberght.com/amb-baskanliginin-guclu-adayindan-sahin-uyari-3793872",
@@ -135,15 +216,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-07 08:56 UTC"
-    },
-    {
-      "title": "Sıfır Atık hedefini hızlandıracak iki girişim COP31 Liderler Zirvesi’nde duyurulacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/sifir-atik-hedefini-hizlandiracak-iki-girisim-cop31-liderler-zirvesi-nde-duyurulacak/4115005",
-      "summary": "İklim Değişikliği Başkanı Prof. Dr. Hasar, \"COP31'de 11 Kasım'da Döngüsellik Bilgi Paylaşım Ağı Girişimi ile Atıktan Kaynaklanan Metan Emisyonlarına İlişkin Küresel Üst Düzey Diyalog Girişimi duyurulacak.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 08:53 UTC"
     },
     {
       "title": "Çin Merkez Bankası altın alımını 24 aydır sürdürüyor - Rudaw",
@@ -263,24 +335,6 @@
       "published_at": "2026-11-07 08:28 UTC"
     },
     {
-      "title": "TRT World Forum 2026 devam ediyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/trt-world-forum-2026-devam-ediyor/4114983",
-      "summary": "TRT World Forum, 10. yılında \"Merkezsiz Dünya: Kurallar Geçersiz Kaldığında Kim Liderlik Eder?\" temasıyla son gününde devam ediyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 08:26 UTC"
-    },
-    {
-      "title": "Sosyal medya kentlerin deneyimlenme biçimini değiştirirken yerel kimliklerini de gölgeliyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/sosyal-medya-kentlerin-deneyimlenme-bicimini-degistirirken-yerel-kimliklerini-de-golgeliyor/4114981",
-      "summary": "Bir zamanlar sokaklarında yürünerek keşfedilen, yerel mekanları ve kendine özgü mimarisiyle hafızalara kazınan kentlerin artık daha çok dijital ekranlar üzerinden tanınması, şehirlerin yerel kimliklerinin arka planda kalmasına yol açabiliyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 08:24 UTC"
-    },
-    {
       "title": "Meghan Markle'ın babası çocuklara cinsel istismar görselleri nedeniyle mahkemeye çıktı",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2dd1/live/29892d20-da0a-11f1-93e1-3b657b665bcf.png",
       "link": "https://www.bbc.com/turkce/articles/cm70p18ldrwjo?at_medium=RSS&at_campaign=rss",
@@ -288,15 +342,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-07 08:23 UTC"
-    },
-    {
-      "title": "Türkiye 2013'ten bu yana yaklaşık 44 milyon e-vize verdi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/turkiye-2013ten-bu-yana-yaklasik-44-milyon-e-vize-verdi/4114977",
-      "summary": "Sınır kapıları ve havaalanlarındaki kuyrukları engellemek için hayata geçirilen Elektronik Vize Başvuru Sistemi'nin uygulanmaya başlandığı 17 Nisan 2013'ten bu yana yaklaşık 44 milyon e-vize verildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 08:22 UTC"
     },
     {
       "title": "44 milyon yabancı eVizeyi tercih etti",
@@ -326,24 +371,6 @@
       "published_at": "2026-11-07 08:17 UTC"
     },
     {
-      "title": "Trabzonspor ile Alanyaspor 21. randevuda",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-ile-alanyaspor-21-randevuda/4114966",
-      "summary": "Trabzonspor ile Corendon Alanyaspor, yarın Alanya'da yapacakları maçla ligde 21. kez karşı karşıya gelecek.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 08:14 UTC"
-    },
-    {
-      "title": "COP31, Antalya'nın akıllı sera teknolojilerindeki hedeflerine ivme kazandıracak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/cop31-antalyanin-akilli-sera-teknolojilerindeki-hedeflerine-ivme-kazandiracak/4114963",
-      "summary": "ASETAM Müdürü Doç. Dr. Nuri Çağlayan, COP31'in, Antalya'nın sera teknolojilerindeki birikimini uluslararası alana taşıması için önemli bir fırsat sunacağını belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 08:11 UTC"
-    },
-    {
       "title": "Yatmadan önce atıştırmalık mı istiyorsunuz? Nedenleri ve yapabileceğiniz şeyler",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd14/live/190b36a0-d9fb-11f1-84c1-dbcae60402d7.jpg",
       "link": "https://www.bbc.com/turkce/articles/cm62yy51ekgyo?at_medium=RSS&at_campaign=rss",
@@ -353,11 +380,20 @@
       "published_at": "2026-11-07 08:10 UTC"
     },
     {
-      "title": "Sayıştay: İBB'nin bazı araçları 3 aylık kira bedeliyle satın alınabilirdi",
+      "title": "COP31, Türkiye'nin elektrik çağında sanayi gücüne dönüşümüne katkı sağlayabilir",
       "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/sayistay-ibbnin-bazi-araclari-3-aylik-kira-bedeliyle-satin-alinabilirdi-962509.html",
-      "summary": "Sayıştay Başkanlığınca, İstanbul Büyükşehir Belediyesi'nin araç kiralama ihalesinde bazı araçların kira bedellerinin piyasa rayiçlerinin çok üzerinde belirlendiği, araçların üç aylık kiralama bedelinin satın alma fiyatına denk geldiği tespit edildi.",
-      "source": "TRT Haber",
+      "link": "https://www.aa.com.tr/tr/ekonomi/cop31-turkiyenin-elektrik-caginda-sanayi-gucune-donusumune-katki-saglayabilir/4114960",
+      "summary": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı Danışma Grubu Üyesi ve eski ExxonMobil yöneticisi Jean Baderschneider, COP31'in iklim hedeflerini somut projelere dönüştürmeye odaklanması gerektiğini belirtti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-07 08:10 UTC"
+    },
+    {
+      "title": "Beşiktaş ile Gençlerbirliği ligde 97. kez karşılaşacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-ile-genclerbirligi-ligde-97-kez-karsilasacak/4114961",
+      "summary": "Beşiktaş ile Gençlerbirliği, yarın yapacakları maçla Süper Lig'de 97. kez karşı karşıya gelecek.",
+      "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-07 08:10 UTC"
     },
@@ -398,22 +434,13 @@
       "published_at": "2026-11-07 08:09 UTC"
     },
     {
-      "title": "Trabzonspor, Corendon Alanyaspor ile yarın deplasmanda karşılaşacak",
+      "title": "Gençler COP31'de geleceğin iklim politikalarına katkı sunacak",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-corendon-alanyaspor-ile-yarin-deplasmanda-karsilasacak/4114952",
-      "summary": "Trabzonspor, Trendyol Süper Lig'in 11. haftasında yarın deplasmanda Corendon Alanyaspor ile karşılaşacak.",
+      "link": "https://www.aa.com.tr/tr/gundem/gencler-cop31de-gelecegin-iklim-politikalarina-katki-sunacak/4114956",
+      "summary": "Türkiye'nin ev sahipliğinde düzenlenecek Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'nda (COP31), farklı ülkelerden gençler iklim krizine çözüm üretmek ve ortak çalışmalar yürütmek için bir araya gelecek.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 08:05 UTC"
-    },
-    {
-      "title": "Emine Erdoğan: Dayanışma ruhu hünerli ellerde yaşamaya devam ediyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-dayanisma-ruhu-hunerli-ellerde-yasamaya-devam-ediyor-962508.html",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, 81 ilden kadın zanaatkarların eserlerinin yer aldığı \"ÖZGÜBize Özgü\" sergisine ilişkin, \"Anadoluda kadınlar yalnızca sanatlarını değil; birbirlerinin emeğini, sabrını ve zamanını da paylaşarak nice eserler meydana getirmiştir\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 07:50 UTC"
+      "published_at": "2026-11-07 08:06 UTC"
     },
     {
       "title": "Houston mayor curbs cooperation of US city’s police with ICE",
@@ -587,15 +614,6 @@
       "published_at": "2026-11-07 05:52 UTC"
     },
     {
-      "title": "Paraguay’s Pena under military protection in bank collapse chaos",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
-      "summary": "Paraguay moves ex-President Santiago Pena to military base for protection after dramatic day in Asuncion.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 05:51 UTC"
-    },
-    {
       "title": "Çin Merkez Bankası'nın altın alımları hız kesmiyor - Bloomberght",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzdrYkw0bUVOYTBfby1BdHIweTlsUmEtRDhVTmI1UDB6b2JQVEZsWHRDSnV4ZWdzMG5oVkVCUHRwNGE4MVRfU1NwUTM0bVFuWnNpZEYwVURYbm5pRnNaMGp6UUtiN1FBVDZqZjI1MFJMWlo4MWh3dzFoaXFvZ2RNYTVCSDdMUzltbDYxajFpbw?oc=5",
@@ -623,15 +641,6 @@
       "published_at": "2026-11-07 04:16 UTC"
     },
     {
-      "title": "Rusya Merkez Bankası, nitelikli olmayan yatırımcılara açık kripto paraları belirledi - Gazetem Rusyanin Acilis Sayfasi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYW9ORmlvbnZVRVFTTGJVd3k1YkFrX0tDNUFIMmROZUQ0d3Q1eDRwUi13RDdmYkJITTlicmFZWlRSaE16QjNaVGUwT0Z5Y1JXUF9nMFRrVXQwOG5GZDRBdV9JbXZoX004ZjFITnFmb3VOd2JxRmI0MTd6YWdSZE9MYzF6amFma1Q2YmpDeVFiR0RTN19nQUg0WGliRzlQYkp2a01vTWNMR1lHTUhGNGFQUVZEMFlUUGRTTVE?oc=5",
-      "summary": "Rusya Merkez Bankası, nitelikli olmayan yatırımcılara açık kripto paraları belirledi Gazetem Rusyanin Acilis Sayfasi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-07 02:25 UTC"
-    },
-    {
       "title": "ABD ara seçimleri, 2028 başkanlık seçimi için kimleri öne çıkardı?",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
       "link": "https://www.bbc.com/turkce/articles/c6x2ww024g40o?at_medium=RSS&at_campaign=rss",
@@ -648,6 +657,15 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-06 23:46 UTC"
+    },
+    {
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-06 23:24 UTC"
     },
     {
       "title": "Fenerbahçe otobüsüne saldırı iddianamesi: 5 şüpheliye ceza isteniyor",
@@ -785,15 +803,6 @@
       "published_at": "2026-11-06 20:38 UTC"
     },
     {
-      "title": "Bessent'tan Çin'e taahhütlerini yerine getirme çağrısı",
-      "image": "https://geoim.bloomberght.com/l/2026/11/06/ver1793996199/3793858/jpg/320x180",
-      "link": "https://www.bloomberght.com/bessent-tan-cin-e-taahhutlerini-yerine-getirme-cagrisi-3793858",
-      "summary": "ABD Hazine Bakanı Scott Bessent, Çin Başbakan Yardımcısı Hı Lifeıg ile yaptığı görüşmede, Pekin yönetiminin Busan Mutabakatı kapsamındaki taahhütlerini eksiksiz ve derhal yerine getirmesi gerektiğini vurguladı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-06 20:16 UTC"
-    },
-    {
       "title": "Altın, dolar, borsa… Bu hafta en çok hangisi kazandırdı? - Dünya Gazetesi",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUF3dm5iMVo0S3cyakRDNkVFcFJxNV9wUWttZ1RxZ3lVbkszRmZhOXQ2MHdUa0tKUmgxWDZrYlQ4dXo5SkhCcWYxNGllRUhYWWVNM2N0a2pQWlRQYzRybTc2RkRuamN0SE9BdGxSMnR2NHpkNTFiOGV0ZENrYVFQV09UWEMtdC1vaVU2NkxpYWZqTEVtd2lJdWpQbVdlWjZKZkl3SkdOeVdLWUxN?oc=5",
@@ -819,6 +828,15 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-11-06 18:41 UTC"
+    },
+    {
+      "title": "Avrupa Merkez Bankası başkanlığı için iki aday: De Cos ve Knot - Bloomberght",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONlRMN2dtakhlNUxCaUIxYjhHU09wWFJlc29sTTdvNS1LM0drMkdraWVFdTd4dHJybWFWMkk4WEZNQlQ4YzFWZVRnYVM4Q1NpTEFyWFdtcUUyYjdXbU1ZQUFmUDB4ckVMYUhtWFFqVFBFUThzaW1RVWdzOGdmLWxZcHlhUXpacmtpWjRHVDlBUVU5MEN5YXBHeGJTWVF5QQ?oc=5",
+      "summary": "Avrupa Merkez Bankası başkanlığı için iki aday: De Cos ve Knot Bloomberght",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-06 18:16 UTC"
     },
     {
       "title": "Altın, borsa, euro, dolarda rüzgar döndü! İşte haftanın en çok kazandıran yatırım araçları - Ekonomim",
@@ -875,15 +893,6 @@
       "published_at": "2026-11-06 16:33 UTC"
     },
     {
-      "title": "Four midterms takeaways for 2028 White House race",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 16:12 UTC"
-    },
-    {
       "title": "Dolar, altın, borsa… İşte haftanın en çok kazandıran yatırım araçları - Hürriyet",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFhRVjA0cGl6NjRITHJxVG84RElmX2h4cnp1ZGc5c011YWQ1eUpaZTl6T2JpeVREVktoZl9tQUpycUNjaVhjS2RZU2xQSGduWEgxdThYMXYta2FQOU1FQWo1Ny16T3VXc3FXWTZLZmJZN1FNTVMtZEI5eTNaOUJFaGxzMVU0VUVWaEQtNldpeFNEMkVpcGJZSlgtSFRtWmFhaFViSHQ0bnYzTy1hLWc?oc=5",
@@ -891,15 +900,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-06 15:45 UTC"
-    },
-    {
-      "title": "Two dead after bus crashes in France, officials say",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-06 15:33 UTC"
     }
   ]
 }
