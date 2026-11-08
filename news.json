@@ -1,14 +1,149 @@
 {
-  "updated_at": "2026-11-08 17:05 UTC",
+  "updated_at": "2026-11-08 17:58 UTC",
   "items": [
     {
-      "title": "Mısır'da tren kazası: En az yedi kişi öldü, onlarca kişi yaralı",
+      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+      "summary": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 17:44 UTC"
+    },
+    {
+      "title": "Trabzonspor, Corendon Alanyaspor'u 2-0 mağlup etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-corendon-alanyasporu-2-0-maglup-etti/4116256",
+      "summary": "Trendyol Süper Lig'in 11. haftasında Trabzonspor, deplasmanda Corendon Alanyaspor'u 2-0 mağlup etti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 17:36 UTC"
+    },
+    {
+      "title": "İsrail hapishanelerindeki Filistinli esirlerin yaklaşık yüzde 80'i uyuz hastalığından şikayet ediyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-hapishanelerindeki-filistinli-esirlerin-yaklasik-yuzde-80i-uyuz-hastaligindan-sikayet-ediyor/4116255",
+      "summary": "İsrail hapishanelerinde tutulan 9 bini aşkın Filistinli esirin yaklaşık yüzde 80'inin uyuz hastalığına yakalandığı bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 17:35 UTC"
+    },
+    {
+      "title": "İran Dışişleri Bakanı Erakçi: Şimdi seçim yapma sırası Beyaz Saray'da",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-erakci-simdi-secim-yapma-sirasi-beyaz-sarayda-962615.html",
+      "summary": "İran Dışişleri Bakanı Abbas Erakçi, ABD yönetimine, Tahran'ın \"2 günlük teklifini\" kabul etme çağrısında bulunarak, aksi halde İran'ın savaş seçeneğine karşılık vereceği mesajını gönderdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 17:34 UTC"
+    },
+    {
+      "title": "İran Ordusu: Hürmüz Boğazı'nda bir petrol tankeri mayına çarparak alev aldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carparak-alev-aldi/4116254",
+      "summary": "İran Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın doğusunda, izin verilmeyen bölgede hareket ettiği belirtilen bir petrol tankerinin deniz mayınına çarpması sonucu alev aldığını duyurdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 17:32 UTC"
+    },
+    {
+      "title": "Filistin Sağlık Bakanı: 1 milyar 300 doları aşan borcumuz sağlık hizmetlerini tehdit ediyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/filistin-saglik-bakani-1-milyar-300-dolari-asan-borcumuz-saglik-hizmetlerini-tehdit-ediyor/4116252",
+      "summary": "Filistin Sağlık Bakanı Macid Ebu Ramazan, bakanlığının borcunun 1 milyar 300 milyon doları aştığını belirterek, bu durumun artan tıbbi ve insani ihtiyaçların karşılanmasını tehdit ettiğini söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 17:27 UTC"
+    },
+    {
+      "title": "İran Dışişleri Bakanı Erakçi: Şimdi seçim yapma sırası Beyaz Saray'da",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-simdi-secim-yapma-sirasi-beyaz-sarayda/4116251",
+      "summary": "İran Dışişleri Bakanı Abbas Erakçi, ABD yönetimine, Tahran'ın \"2 günlük teklifini\" kabul etme çağrısında bulunarak, aksi halde İran'ın savaş seçeneğine karşılık vereceği mesajını gönderdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 17:26 UTC"
+    },
+    {
+      "title": "ABD'de Demokratların zaferi 1,5 trilyon dolarlık savunma bütçesini riske soktu",
+      "image": "https://geoim.bloomberght.com/l/2026/11/08/ver1794158547/3793889/jpg/320x180",
+      "link": "https://www.bloomberght.com/abd-de-demokratlarin-zaferi-1-5-trilyon-dolarlik-savunma-butcesini-riske-soktu-3793889",
+      "summary": "Cumhuriyetçilerin ara seçim yenilgisi, Orta Doğu'da kamuoyu desteğini kaybeden savaşın gölgesinde Başkan Donald Trump'ın 1,5 trilyon dolarlık rekor savunma bütçesi talebinin Kongre'den geçme umutlarını tamamen söndürdü.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-08 17:21 UTC"
+    },
+    {
+      "title": "İsrail'in Gazze'ye düzenlediği İHA saldırısında biri kadın, 2 Filistinli hayatını kaybetti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-duzenledigi-iha-saldirisinda-biri-kadin-2-filistinli-hayatini-kaybetti/4116243",
+      "summary": "İsrail ordusunun, Gazze Şeridi'nin güneyindeki Han Yunus kentine düzenlediği İHA saldırısında biri kadın, 2 kişi yaşamını yitirdi, çok sayıda kişi yaralandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 17:14 UTC"
+    },
+    {
+      "title": "Katil İsrail'in Gazze'ye saldırısında 2 Filistinli hayatını kaybetti",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-saldirisinda-2-filistinli-hayatini-kaybetti-962614.html",
+      "summary": "Katil İsrail ordusunun Gazze Şeridi'nin güneyindeki Han Yunus kentine düzenlediği İHA saldırısında biri kadın, 2 kişi yaşamını yitirdi, çok sayıda kişi yaralandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 17:14 UTC"
+    },
+    {
+      "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+      "summary": "Israel's president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 17:11 UTC"
+    },
+    {
+      "title": "Photos: Diwali celebrations light up India and its global diaspora",
+      "image": "",
+      "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
+      "summary": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 17:03 UTC"
+    },
+    {
+      "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
+      "summary": "Previews, team news and live text updates from Atletico Madrid vs Barcelona in football's La Liga.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 17:00 UTC"
+    },
+    {
+      "title": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss",
+      "summary": "India's Cockroach Janta Party is a youth movement demanding political accountability, employment and fair elections.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 16:59 UTC"
+    },
+    {
+      "title": "Mısır'da tren kazası: En az yedi kişi öldü, onlarca yaralı var",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e00/live/1dd44790-db94-11f1-9029-d35c55297624.jpg",
       "link": "https://www.bbc.com/turkce/articles/c6lyekwgg18jo?at_medium=RSS&at_campaign=rss",
       "summary": "Mısır'da iki yolcu treninin çarpışması sonucu en az yedi kişi hayatını kaybetti, onlarca kişi yaralandı. Ölenler arasında bir trenin makinisti de bulunuyor. Kazanın nedeni henüz bilinmiyor ancak kazanın yaşandığı bölge geçmişteki ölümcül tren kazalarıyla biliniyor.",
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 16:54 UTC"
+    },
+    {
+      "title": "Fan hospitalised after falling through stand at Norwegian football match",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss",
+      "summary": "A stand in the away end of Tromso's stadium gave way during a match against Bodo/Glimt, causing fans to fall through.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 16:53 UTC"
     },
     {
       "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
@@ -182,33 +317,6 @@
       "published_at": "2026-11-08 14:53 UTC"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan, Hocalı Soykırım Anıtı ile Hankendi Zafer Anıtı'nı ziyaret etti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-hocali-soykirim-aniti-ile-hankendi-zafer-anitini-ziyaret-etti/4116110",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Karabağ'da Hocalı Soykırım Anıtı ile Hankendi Zafer Anıtı'nı ziyaret etti.​​​​​​​",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 14:50 UTC"
-    },
-    {
-      "title": "SOLOTÜRK, 10 Kasım öncesi Anıtkabir üzerinde prova uçuşu gerçekleştirdi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/soloturk-10-kasim-oncesi-anitkabir-uzerinde-prova-ucusu-gerceklestirdi/4116108",
-      "summary": "Türk Hava Kuvvetlerinin gösteri ekibi SOLOTÜRK, 10 Kasım Atatürk'ü Anma Günü öncesinde Anıtkabir üzerinde prova uçuşu gerçekleştirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 14:49 UTC"
-    },
-    {
-      "title": "Bitlis'te karda mahsur kalan vatandaş UMKE ve 112 Acil Sağlık ekipleri tarafından kurtarıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/bitliste-karda-mahsur-kalan-vatandas-umke-ve-112-acil-saglik-ekipleri-tarafindan-kurtarildi/4116103",
-      "summary": "Sağlık Bakanı Kemal Memişoğlu, Bitlis'te Nemrut Krater Gölü yolunda kar nedeniyle mahsur kalan vatandaşı, bölgeye ulaşan Ulusal Medikal Kurtarma Ekibi (UMKE) ve 112 Acil Sağlık ekiplerinin kurtardığını bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 14:44 UTC"
-    },
-    {
       "title": "Yeni haftada hava nasıl olacak? İşte tahminler...",
       "image": "",
       "link": "https://www.trthaber.com/haber/turkiye/yeni-haftada-hava-nasil-olacak-iste-tahminler-962609.html",
@@ -216,6 +324,15 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 14:44 UTC"
+    },
+    {
+      "title": "Homes and temples glow across India to mark Diwali",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cd/live/cc05a720-d9d5-11f1-b441-2b33b063138f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 14:42 UTC"
     },
     {
       "title": "Türkiye'nin ev sahipliğindeki COP31, Antalya'da yarın başlıyor",
@@ -236,15 +353,6 @@
       "published_at": "2026-11-08 14:39 UTC"
     },
     {
-      "title": "What we know so far after Krakow gun attack",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 14:32 UTC"
-    },
-    {
       "title": "Tuvalet molaları takip edilen banka çalışanına mobbing tazminatı",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/tuvalet-molalari-takip-edilen-banka-calisanina-mobbing-tazminati-962607.html",
@@ -254,10 +362,10 @@
       "published_at": "2026-11-08 14:31 UTC"
     },
     {
-      "title": "Mısır'da meydana gelen tren kazasında en az 64 kişi yaralandı",
+      "title": "Mısır'da tren kazası: 7 ölü, 112 yaralı",
       "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/misirda-meydana-gelen-tren-kazasinda-en-az-64-kisi-yaralandi-962608.html",
-      "summary": "Mısır'ın Giza vilayetindeki Ayat kentinde meydana gelen tren kazasında ilk belirlemelere göre 64 kişi yaralandı.",
+      "link": "https://www.trthaber.com/haber/dunya/misirda-tren-kazasi-7-olu-112-yarali-962608.html",
+      "summary": "Mısır'ın Giza vilayetindeki Ayat kentinde meydana gelen tren kazasında 7 kişi öldü, 112 kişi yaralandı.",
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 14:30 UTC"
@@ -279,24 +387,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 14:06 UTC"
-    },
-    {
-      "title": "Fenerbahçe, deplasmandan 3 puanla ayrıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/-fenerbahce-deplasmandan-3-puanla-ayrildi/4116086",
-      "summary": "Trendyol Süper Lig'in 11. haftasında Fenerbahçe, deplasmanda Arca Çorum FK'yi 5-0 yendi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 14:05 UTC"
-    },
-    {
-      "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss",
-      "summary": "Spain has beaten Argentina at another world cup. The Spanish men’s and women’s team swept the Padel World Championships",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 14:02 UTC"
     },
     {
       "title": "COP31'in örnek köyü Solak, Sıfır Atık'la dönüşüyor",
@@ -326,15 +416,6 @@
       "published_at": "2026-11-08 13:52 UTC"
     },
     {
-      "title": "Bakan Kurum'dan Solak Köyü paylaşımı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/bakan-kurumdan-solak-koyu-paylasimi/4116076",
-      "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 için Antalya'ya gelenleri Sıfır Atık Köyü'ne dönüştürülen Solak Köyü'ne davet etti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 13:44 UTC"
-    },
-    {
       "title": "Merkez Bankası, bankalara yurt dışındaki elektronik kart işlemleri için dolar başına 1520 dinar kurunu benimsemeleri yönünde talimat verdi » Irak Haber Ajansı - وكالة الانباء العراقية (واع)",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQamFpczhHVkRvb3BwLUdJNHZfNnFnM3ZUTUgyaS1wYzdyVzdaNjU1VTlvUnkzZEx4VWRpaWktY1pQbGJNakdxaGNKMW1udTNqLWdoUXhmY2RjU2FHUEN0OUFnVlcxSGttN1hYQjhGM2RVVHpEckx2Zk5XdGxISkpSVUM1WVJDdUZZLVJsS1Z5OEt4emVCZjlrTm12LTJaSWZlNmozeUdKWm4zZGR2UFJra0ZraTd1NTJiWjJGM2xuNmRNRk5QNlNfNXFObnU2UGpuNDNuVzg3WWRCUElKaUtiV3dEVTZWWTNES0FGZVl5Tk5qQnBwZjA1NGRuWlk?oc=5",
@@ -342,6 +423,24 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-08 13:42 UTC"
+    },
+    {
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 13:40 UTC"
+    },
+    {
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d304/live/bfc281c0-db53-11f1-98f5-8d1276fd5e57.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 13:37 UTC"
     },
     {
       "title": "'Annem ve babam birlikte ötenaziyi seçti, onların yasını yalnız başıma tutuyorum'",
@@ -362,33 +461,6 @@
       "published_at": "2026-11-08 13:32 UTC"
     },
     {
-      "title": "At least 21 dead as small boat sinks off Senegal",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
-      "summary": "Senegalese Interior Ministry says one person rescued as search operation continues after migrant vessel capsized.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 13:32 UTC"
-    },
-    {
-      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-      "summary": "Former rivals in Libya are pushing for a unity government to end years of conflict.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 13:27 UTC"
-    },
-    {
-      "title": "Harşit Zaferi'nin 109. yıl dönümü dolayısıyla Gümüşhane'de anma töreni düzenlendi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/harsit-zaferinin-109-yil-donumu-dolayisiyla-gumushanede-anma-toreni-duzenlendi/4116060",
-      "summary": "Anma törenine Kara Kuvvetleri Komutanı Orgeneral Metin Tokel, Gümüşhane Valisi Cevdet Atay, AK Parti Gümüşhane Milletvekili Celalettin Köse ve MHP Gümüşhane Milletvekili Musa Küçük de katıldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 13:19 UTC"
-    },
-    {
       "title": "Suudi Arabistan'ın başkenti Riyad'daki Aramco binası saldırı sonrası hasar gördü",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanin-baskenti-riyaddaki-aramco-binasi-saldiri-sonrasi-hasar-gordu-962603.html",
@@ -398,29 +470,11 @@
       "published_at": "2026-11-08 13:17 UTC"
     },
     {
-      "title": "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/cctv-captures-streets-shaking-as-5-7-magnitude-earthquake-hits-japan?traffic_source=rss",
-      "summary": "A 5.7-magnitude earthquake struck central Japan, injuring more than 20 people.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 13:11 UTC"
-    },
-    {
       "title": "Ankara'da 247 kilometrelik akıllı ulaşım koridoru oluşturulacak",
       "image": "",
       "link": "https://www.trthaber.com/haber/turkiye/ankarada-247-kilometrelik-akilli-ulasim-koridoru-olusturulacak-962601.html",
       "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Ankara Çevre Otoyolu ile GölbaşıOğulbey ve Polatlı kesimlerini kapsayan toplam 247 kilometrelik akıllı ulaşım sistemi koridoru için proje çalışmalarının sürdüğünü aktardı.",
       "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 13:06 UTC"
-    },
-    {
-      "title": "Could Iraq’s Kurdish region return to two separate administrations?",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
-      "summary": "A political impasse between the KRG and PUK threatens to break up the semiautonomous northern region.",
-      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 13:06 UTC"
     },
@@ -434,40 +488,13 @@
       "published_at": "2026-11-08 13:00 UTC"
     },
     {
-      "title": "Erdoğan Azerbaycan'da: Aliyev ile ortak basın toplantısında 'birlik' mesajı",
+      "title": "Erdoğan'ın Azerbaycan ziyaretinde Aliyev ile 'birlik' mesajı verildi",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b107/live/e6e30840-db6e-11f1-9379-091c174aa659.jpg",
       "link": "https://www.bbc.com/turkce/articles/cw1m4dj30e05o?at_medium=RSS&at_campaign=rss",
       "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın başkenti Bakü'ye bir ziyarette bulunarak Azerbaycan Cumhurbaşkanı İlham Aliyev ile bir araya geldi. Ziyaret, Eylül'de basına yansıyan ve Ankara-Bakü ilişkilerinde gerilim başlığı haline gelen tartışmaların ardından liderler arasındaki ilk temas oldu.",
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 12:41 UTC"
-    },
-    {
-      "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
-      "summary": "'Terrorism' investigation launched after government officials say suspect likely influenced by far-right ideology.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 12:40 UTC"
-    },
-    {
-      "title": "İran Devrim Muhafızlarından Hürmüz Boğazı uyarısı: Mayınlar bekliyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlarindan-hurmuz-bogazi-uyarisi-mayinlar-bekliyor-962600.html",
-      "summary": "İran Devrim Muhafızları Ordusu Sözcüsü Hüseyin Muhibbi, Hürmüz Boğazı'nda \"mayınların beklediği\" uyarısında bulundu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 12:20 UTC"
-    },
-    {
-      "title": "Fon soruşturmasında BDDK daire başkanı tutuklandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasinda-bddk-daire-baskani-tutuklandi-962599.html",
-      "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon\" soruşturması kapsamında, Bankacılık Düzenleme ve Denetleme Kurumu BDDK daire başkanlarından Bilal Soysal tutuklandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 12:19 UTC"
     },
     {
       "title": "Krakow'da silahlı saldırı: Altı kişiyi öldüren saldırganın evinde de üç aile üyesinin cesedi bulundu",
@@ -585,24 +612,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 04:03 UTC"
-    },
-    {
-      "title": "Yapay zekâ cebimize yerleşti - Yeni Şafak",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2OHcyVF9QZUlBZTlNZkVrWFpSQnBzeWQyb29xcThnRUNtaGJSTnE1VUJydkdVTjlLMldJOEc4MWlYNGJtd3VmY3VPSDEyR1NqTDFxNmFIZ3dvM2oyMkJ6OFRrb3ktNWhxQl9ndUpLS3dRNkQwNzhlQTNMUFE?oc=5",
-      "summary": "Yapay zekâ cebimize yerleşti Yeni Şafak",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-11-08 01:00 UTC"
-    },
-    {
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 22:19 UTC"
     },
     {
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
@@ -828,15 +837,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-07 07:40 UTC"
-    },
-    {
-      "title": "Motorine indirim geldi",
-      "image": "https://geoim.bloomberght.com/l/2026/11/07/ver1794037158/3793870/jpg/320x180",
-      "link": "https://www.bloomberght.com/motorine-indirim-geldi-3793870",
-      "summary": "Uluslararası ürün fiyatlarında yaşanan düşüşün ardından motorinin litre fiyatına 7 Kasım tarihinden itibaren geçerli olmak üzere 5,44 TL indirim geldi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-07 07:38 UTC"
     },
     {
       "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
