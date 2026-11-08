@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-08 22:02 UTC",
+  "updated_at": "2026-11-08 23:02 UTC",
   "items": [
+    {
+      "title": "Lopez double fires Barcelona to win at Atletico Madrid",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+      "summary": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 22:42 UTC"
+    },
+    {
+      "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+      "summary": "Pope Leo XIV's visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 22:16 UTC"
+    },
+    {
+      "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+      "summary": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 22:16 UTC"
+    },
+    {
+      "title": "İsrail'de seçim yenilgisi sonrası Ultra-Ortodoks Şas Partisi liderinden milletvekilliğini devretme kararı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israilde-secim-yenilgisi-sonrasi-ultra-ortodoks-sas-partisi-liderinden-milletvekilligini-devretme-karari/4116381",
+      "summary": "İsrail'de 27 Ekim'deki genel seçimlerde milletvekili sayısı 11'den 6'ya düşen Ultra-Ortodoks (Haredi) Şas Partisinin lideri Aryeh Deri, İsrail Meclisi açılmadan milletvekilliği görevini partisinden bir başka isme devredeceğini duyurdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 22:14 UTC"
+    },
+    {
+      "title": "Why Trump wants UFC chief Dana White as his new White House press secretary",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+      "summary": "The two have business ties going back decades, and White has helped Trump reach out to younger voters.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 22:03 UTC"
+    },
     {
       "title": "Nvidia şirketi, CEO'sunun casus olduğundan şüphelenilen Çinli biriyle ilişkisini soruşturuyor",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
@@ -9,6 +54,33 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 21:53 UTC"
+    },
+    {
+      "title": "Nvidia, CEO'su Huang'ın yabancı istihbaratın hedefi olduğu haberleri üzerine soruşturma başlatıyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/nvidia-ceosu-huangin-yabanci-istihbaratin-hedefi-oldugu-haberleri-uzerine-sorusturma-baslatiyor/4116369",
+      "summary": "ABD'li çip üreticisi Nvidia, şirketin kurucusu ve üst yöneticisi (CEO) Jensen Huang'ın yabancı istihbarat faaliyetinin hedefi olduğuna ilişkin haberlerin ardından bağımsız soruşturma başlatacağını duyurdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 21:31 UTC"
+    },
+    {
+      "title": "Ankara'ya 247 kilometrelik akıllı ulaşım koridoru kuruluyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/ankaraya-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor/4116352",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, toplam 247 kilometrelik akıllı ulaşım sistemi koridoru oluşturulmasına yönelik proje çalışmalarına devam ettiklerini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 21:14 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanlığı Yatırım ve Finans Ofisi, COP31'de yeşil yatırımların hızlandırılmasına odaklanacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskanligi-yatirim-ve-finans-ofisi-cop31de-yesil-yatirimlarin-hizlandirilmasina-odaklanacak/4116351",
+      "summary": "Cumhurbaşkanlığı Yatırım ve Finans Ofisi, 31. Birleşmiş Milletler İklim Değişikliği Konferansı kapsamında yeşil yatırımlar, sürdürülebilir finansman ve uluslararası yatırım işbirliklerine odaklanan kapsamlı bir program gerçekleştireceğini duyurdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 21:09 UTC"
     },
     {
       "title": "Deadly sand cliff collapses on displaced families in Gaza",
@@ -191,24 +263,6 @@
       "published_at": "2026-11-08 19:58 UTC"
     },
     {
-      "title": "İran basını: Keşm Adası'nda dört patlama sesi duyuldu",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasinda-dort-patlama-sesi-duyuldu/4116313",
-      "summary": "İran'ın güneyinde Hürmüz Boğazı'na yakın Keşm Adası'nda dört patlama sesinin duyulduğu bildirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 19:56 UTC"
-    },
-    {
-      "title": "Tarihçi Prof. Dr. Engin Deniz Akarlı vefat etti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/tarihci-prof-dr-engin-deniz-akarli-vefat-etti/4116312",
-      "summary": "Osmanlı tarihi ve Orta Doğu üzerine çalışmalarıyla tanınan, Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülü sahibi Akarlı'nın cenazesi, 10 Kasım'da İstanbul'da defnedilecek.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 19:54 UTC"
-    },
-    {
       "title": "Yemen ordusu: Husilere yönelik 992 operasyonda 267 milis öldü veya yaralandı",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/yemen-ordusu-husilere-yonelik-992-operasyonda-267-milis-oldu-veya-yaralandi-/4116311",
@@ -225,15 +279,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 19:47 UTC"
-    },
-    {
-      "title": "Formula 1 Brezilya Grand Prix'sini Lando Norris kazandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/formula-1-brezilya-grand-prixsini-lando-norris-kazandi/4116299",
-      "summary": "Mercedes, bitime 3 yarış kala takımlar şampiyonluğunu garantiledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 19:37 UTC"
     },
     {
       "title": "Aydın'da cip devrildi: 1 ölü, 5 yaralı",
@@ -270,15 +315,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 19:09 UTC"
-    },
-    {
-      "title": "Batı Şeria'da gözaltına alınan İtalyanlar, İsrail güvenlik güçlerinden kötü muamele gördüklerini açıkladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/bati-seriada-gozaltina-alinan-italyanlar-israil-guvenlik-guclerinden-kotu-muamele-gorduklerini-acikladi/4116292",
-      "summary": "Filistin toprağı Batı Şeria'da zeytin hasadına katıldıkları sırada İsrail güvenlik güçlerince yasa dışı şekilde gözaltına alınıp, bu sabah sınır dışı edilen İtalyan aktivistler kötü muamele gördüklerini belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 19:08 UTC"
     },
     {
       "title": "Beşiktaş, sahasından galibiyetle ayrıldı",
@@ -335,24 +371,6 @@
       "published_at": "2026-11-08 18:12 UTC"
     },
     {
-      "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
-      "summary": "Kozo Tashima believes he has a '20 to 30 percent' chance of winning the FIFA presidency election against Infantino.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 18:01 UTC"
-    },
-    {
-      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
-      "summary": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 17:44 UTC"
-    },
-    {
       "title": "İran Dışişleri Bakanı Erakçi: Şimdi seçim yapma sırası Beyaz Saray'da",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-erakci-simdi-secim-yapma-sirasi-beyaz-sarayda-962615.html",
@@ -378,24 +396,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 17:14 UTC"
-    },
-    {
-      "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-      "summary": "Israel's president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 17:11 UTC"
-    },
-    {
-      "title": "Photos: Diwali celebrations light up India and its global diaspora",
-      "image": "",
-      "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
-      "summary": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 17:03 UTC"
     },
     {
       "title": "Mısır'da tren kazası: En az yedi kişi öldü, onlarca yaralı var",
@@ -441,6 +441,15 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 15:03 UTC"
+    },
+    {
+      "title": "Mesleklerde yapay zekâ kullanımına uzman denetimi vurgusu - İş'te Mersin",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVMxb1hXMFZTeXA0VmxGUGQwZFYxSnBNTGt2VXR4STlwYjc5ZEs0OVlSNmhUSl8wMUhwY0pTb3N0U1NhYVBVeGNNMXNlS05GSm1BTkhERkRNdUMtdXgzQmJtS19fZFNyeTNVdS1XZEdjSENCZGlmUktBd0VHejBUTmVYajllLVdHZzFfZmNBYXlsTlZIbDUydE9PNHFzMVU?oc=5",
+      "summary": "Mesleklerde yapay zekâ kullanımına uzman denetimi vurgusu İş'te Mersin",
+      "source": "Google News - Teknoloji",
+      "category": "Teknoloji ve Bilim",
+      "published_at": "2026-11-08 15:00 UTC"
     },
     {
       "title": "Antalya'da bazı güzergahlarda motosiklet ve bisiklet kısıtlamasına gidildi",
@@ -731,6 +740,15 @@
       "published_at": "2026-11-07 16:37 UTC"
     },
     {
+      "title": "İslam Memiş'ten 2027 uyarısı! Altın, gümüş, dolar, Bitcoin ve konut için tarih verdi - Boyoz Haber",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeGI1eXdiZ2x6SUFFMzYwMnpGWElnSnRvN0ZjRGRtd0pwOENGN2Nia3pJYzJuS211a1ZFTWRKUXpTV0tBWjJ3Z0hPUmlRWWpJTUY1MnV3M3U3QWJEV000VlRyM3gyZlhnOF9tdnVtTTlCT29oay1VWnoxUFhLaDRubHo4RlpKeGM0SnM5eEM4V05VeFI4OGVaZnFfeE1kTGZ4N1ZGNA?oc=5",
+      "summary": "İslam Memiş'ten 2027 uyarısı! Altın, gümüş, dolar, Bitcoin ve konut için tarih verdi Boyoz Haber",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-07 15:35 UTC"
+    },
+    {
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
@@ -882,24 +900,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-07 06:44 UTC"
-    },
-    {
-      "title": "Uzmanı değerlendirdi: Küresel satış dalgası, ‘fonzi krizi’ ve Borsa İstanbul’un geleceği - Ekonomim",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWFfTUNxRlJPSTd1Qk8zRjBZY0t5RVc0dTFjbFBtVUFsSkR4bnN4Sl9GMXNWTWcydmM0M21odVlnbjB6WmJlVWFZUlFpSXRMNnpWdkI5RkliRXNlTlphU3B6UVZvNmdnNFJydlAwTVgxd2VRWEJJYmJaVnJaTFFyMElVMEctUHYtMzVtWHR4RmtnS3pIakRtalMwUDBTRFkxVG04WTdRNnR5UWlVZjYwR1pOTlBja2pLa1NKX19Xc3MwOG1tVElVTVJB?oc=5",
-      "summary": "Uzmanı değerlendirdi: Küresel satış dalgası, ‘fonzi krizi’ ve Borsa İstanbul’un geleceği Ekonomim",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-07 05:52 UTC"
-    },
-    {
-      "title": "Çin Merkez Bankası'nın altın alımları hız kesmiyor - Bloomberght",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzdrYkw0bUVOYTBfby1BdHIweTlsUmEtRDhVTmI1UDB6b2JQVEZsWHRDSnV4ZWdzMG5oVkVCUHRwNGE4MVRfU1NwUTM0bVFuWnNpZEYwVURYbm5pRnNaMGp6UUtiN1FBVDZqZjI1MFJMWlo4MWh3dzFoaXFvZ2RNYTVCSDdMUzltbDYxajFpbw?oc=5",
-      "summary": "Çin Merkez Bankası'nın altın alımları hız kesmiyor Bloomberght",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-07 05:16 UTC"
     }
   ]
 }
