@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-08 03:43 UTC",
+  "updated_at": "2026-11-08 04:43 UTC",
   "items": [
+    {
+      "title": "18 il için 'sarı' kodlu uyarı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-kodlu-uyari-962571.html",
+      "summary": "Soğuk ve yağışlı hava yurt genelinde etkili oluyor. 18 il için Meteoroloji tarafından 'sarı' kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli olmaları istendi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 04:27 UTC"
+    },
+    {
+      "title": "Earthquake hits central Japan, injuring more than 20 people",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
+      "summary": "The magnitude 5.7 quake hit Shizuoka prefecture, and authorities warn of possible strong aftershocks in coming days.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 04:20 UTC"
+    },
+    {
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 04:03 UTC"
+    },
+    {
+      "title": "Bursa'da apartman dairesinde yangın",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/bursada-apartman-dairesinde-yangin-962570.html",
+      "summary": "Bursa'nın Osmangazi ilçesinde apartman dairesinde çıkan yangın söndürüldü, dumandan etkilenen 1 kişi hastaneye kaldırıldı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 03:54 UTC"
+    },
     {
       "title": "Trump asks UFC chief Dana White to be White House press secretary",
       "image": "",
@@ -18,6 +54,15 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 03:04 UTC"
+    },
+    {
+      "title": "Kolombiya'da askeri üsse bombalı saldırı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/kolombiyada-askeri-usse-bombali-saldiri-962569.html",
+      "summary": "Kolombiya'nın güneyindeki Bolivar yönetim bölgesinde askeri üsse düzenlenen bomba yüklü İHA saldırısında 5 asker hayatını kaybetti, 33 asker yaralandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 02:55 UTC"
     },
     {
       "title": "US launches task force to disrupt Iran’s land-based supply routes",
@@ -317,15 +362,6 @@
       "published_at": "2026-11-07 20:12 UTC"
     },
     {
-      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
-      "summary": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 20:10 UTC"
-    },
-    {
       "title": "Van'da tır ile minibüs çarpıştı: 9 kişi öldü, 5 kişi yaralandı",
       "image": "",
       "link": "https://www.trthaber.com/haber/turkiye/vanda-tir-ile-minibus-carpisti-9-kisi-oldu-5-kisi-yaralandi-962563.html",
@@ -434,15 +470,6 @@
       "published_at": "2026-11-07 17:09 UTC"
     },
     {
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 17:09 UTC"
-    },
-    {
       "title": "Fon soruşturmasında yeni gelişme: 4 kişi gözaltına alındı",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-4-kisi-gozaltina-alindi-962555.html",
@@ -450,15 +477,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-07 17:05 UTC"
-    },
-    {
-      "title": "DMM'nin 'Bir Kare Gerçek' Kısa Film Yarışması'na başvurular başladı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/dmmnin-bir-kare-gercek-kisa-film-yarismasina-basvurular-basladi-962554.html",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Dezenformasyonla Mücadele Merkezi tarafından düzenlenen \"Bir Kare Gerçek\" Kısa Film Yarışması başvurularının başladığını açıkladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 17:03 UTC"
     },
     {
       "title": "Italian foreign minister says hackers leaked his personal data",
@@ -497,15 +515,6 @@
       "published_at": "2026-11-07 16:27 UTC"
     },
     {
-      "title": "İletişim Başkanı Duran: TRT ve Anadolu Ajansı dezenformasyonla mücadelede yorulmadan çalışıyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-trt-ve-anadolu-ajansi-dezenformasyonla-mucadelede-yorulmadan-calisiyor-962552.html",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Dijital dünyanın geleceğini hiçbir zaman yalnızca birkaç güçlü aktörün eline bırakamayacağımıza yürekten inanıyorum. Bir millet, verilerini koruyabilecek, kültürel kimliğini muhafaza edebilecek ve kendi hikayesini dünyaya anlatabilecek kapasiteye sahip olmalıdır\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 16:25 UTC"
-    },
-    {
       "title": "No clear winner after tight New Zealand general election",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
@@ -513,15 +522,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-07 15:56 UTC"
-    },
-    {
-      "title": "TRT World Forum 2026'da çatışmaların ekonomik etkileri ve yeniden inşa süreci ele alındı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/trt-world-forum-2026da-catismalarin-ekonomik-etkileri-ve-yeniden-insa-sureci-ele-alindi-962553.html",
-      "summary": "TRT World Forum 2026 kapsamında düzenlenen oturumda, Orta Doğu'daki çatışmaların ekonomik etkileri, savaş sonrası yeniden inşa sürecinin finansmanı, küresel piyasalardaki belirsizlikler ve finansal istikrara yönelik riskler değerlendirildi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 15:45 UTC"
     },
     {
       "title": "İslam Memiş'ten 2027 uyarısı! Altın, gümüş, dolar, Bitcoin ve konut için tarih verdi - Boyoz Haber",
@@ -612,15 +612,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-07 09:42 UTC"
-    },
-    {
-      "title": "Paraguay'da bankacılık krizi: Devlet Başkanı görevden alındı ve ev hapsine konuldu - BBC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tMUVwOUxCTmtrTlFFTXZ4NWJtMGl4MENvVklVakVsYjhrMVU4dElmV0pXYmRNczA5QXE3X29OUGFiNktZRXp0cmxOR0VJd0xzNkpQbVkxcWpGV1ZzRmfSAWNBVV95cUxPZnR6Vy1FS0xBUmQwOV8zdmN2bXNLOHB1ZE9aM2lhNmlaX2VCVnFsaEFJZmp6Q2ZWUHZpeWU4RlB4TzdqNldJUjFwRXZvNTRPVVZ6YWN3YzJxU1BzQVpodXhyUVU?oc=5",
-      "summary": "Paraguay'da bankacılık krizi: Devlet Başkanı görevden alındı ve ev hapsine konuldu BBC",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-07 09:19 UTC"
     },
     {
       "title": "Paraguay'da bankacılık krizi: Devlet Başkanı görevden alındı ve ev hapsine konuldu",
@@ -900,6 +891,15 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-11-06 18:41 UTC"
+    },
+    {
+      "title": "Avrupa Merkez Bankası başkanlığı için iki aday çıktı - Anadolu Ajansı",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVYtRHYwVlRFNzZVVUpwYXVxdDM1RnhJNG1Wck9vcGNYZGF4NHRyY3N2MC02d3ZZUTF2WVVKZF9VSE1GdlFfMHNpbFp1X3dkNzFtUl9WN3k4dlhuRGF3MHp4SDNhckIxNDE5bGNGdkFDdFpZREFuNTA4bWZJTUo0VWc1MkZDdEh4YnoycG5PUWRncUk?oc=5",
+      "summary": "Avrupa Merkez Bankası başkanlığı için iki aday çıktı Anadolu Ajansı",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-06 17:55 UTC"
     }
   ]
 }
