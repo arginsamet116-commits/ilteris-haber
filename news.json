@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-08 16:02 UTC",
+  "updated_at": "2026-11-08 17:05 UTC",
   "items": [
+    {
+      "title": "Mısır'da tren kazası: En az yedi kişi öldü, onlarca kişi yaralı",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e00/live/1dd44790-db94-11f1-9029-d35c55297624.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c6lyekwgg18jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mısır'da iki yolcu treninin çarpışması sonucu en az yedi kişi hayatını kaybetti, onlarca kişi yaralandı. Ölenler arasında bir trenin makinisti de bulunuyor. Kazanın nedeni henüz bilinmiyor ancak kazanın yaşandığı bölge geçmişteki ölümcül tren kazalarıyla biliniyor.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 16:54 UTC"
+    },
+    {
+      "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
+      "summary": "Israeli opposition leader Gadi Eisenkot has been tasked by Israeli President Isaac Herzog with forming a new government.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 16:51 UTC"
+    },
+    {
+      "title": "Suriye Sağlık Bakanlığı, Deyrizor'da iki çocukta çocuk felci virüsü tespit edildiğini duyurdu",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/suriye-saglik-bakanligi-deyrizorda-iki-cocukta-cocuk-felci-virusu-tespit-edildigini-duyurdu/4116220",
+      "summary": "Suriye Sağlık Bakanı Musab el-Ali, \"İlk kampanya kapsamında, aralarında daha önce hiç aşılanmamış çocukların da bulunduğu 5 yaş altı 34 binden fazla çocuk aşılandı.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 16:46 UTC"
+    },
+    {
+      "title": "İletişim Başkanı Duran'dan COP31'e ilişkin paylaşım",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-cop31e-iliskin-paylasim/4116217",
+      "summary": "İletişim Başkanı Duran, \"İnanıyorum ki COP31, ülkeler arasındaki işbirliğini güçlendiren, ortak sorumluluk bilincini geliştiren ve iklim eylemini somut sonuçlara taşıyan önemli bir zirve olacaktır.\" ifadesini kullandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 16:41 UTC"
+    },
+    {
+      "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
+      "summary": "The passenger train was travelling from Egypt's capital to Aswan in the south when it derailed, overturning carriages.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 16:37 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanlığı İletişim Başkanlığı, COP31'de bir dizi etkinlik gerçekleştirecek",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-iletisim-baskanligi-cop31de-bir-dizi-etkinlik-gerceklestirecek/4116214",
+      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında bir dizi etkinlik düzenlenecek.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 16:31 UTC"
+    },
+    {
+      "title": "Four killed, 88 injured in train collision in Egypt",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
+      "summary": "Four killed, 88 injured in train collision in Egypt",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 16:31 UTC"
+    },
+    {
+      "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+      "summary": "Abed Abou Shhadeh says his detention was part of Israel's political measures 'to intimidate Arab society as a whole'.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 16:18 UTC"
+    },
     {
       "title": "İsrail Cumhurbaşkanı Herzog, hükümeti kurma görevini muhalefet lideri Eisenkot'a verdi",
       "image": "",
@@ -36,6 +108,15 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 15:42 UTC"
+    },
+    {
+      "title": "Filistinli gazeteci İsrail güçlerince gözaltına alınmasının \"siyasi baskının bir parçası\" olduğunu söyledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/filistinli-gazeteci-israil-guclerince-gozaltina-alinmasinin-siyasi-baskinin-bir-parcasi-oldugunu-soyledi/4116183",
+      "summary": "Abed Ebu Şehade: \"Bana yönelik saldırı bağlamından kopuk değil. Bu saldırı, aktivistlere, gazetecilere, yani aşırı sağ ana akıma uymayan herkese yönelik siyasi baskının bir parçası.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 15:40 UTC"
     },
     {
       "title": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans",
@@ -137,6 +218,15 @@
       "published_at": "2026-11-08 14:44 UTC"
     },
     {
+      "title": "Türkiye'nin ev sahipliğindeki COP31, Antalya'da yarın başlıyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-ev-sahipligindeki-cop31-antalyada-yarin-basliyor/4116101",
+      "summary": "Türkiye'nin ilk kez ev sahipliği yapacağı, iklim değişikliği ile mücadelede dünyanın en önemli organizasyonu olan BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31), Antalya COP31 Alanı'nda yarın başlıyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 14:41 UTC"
+    },
+    {
       "title": "Anadolu Grubu 3. çeyrekte beklentileri aşarken, geçen yılın gerisinde kaldı",
       "image": "https://geoim.bloomberght.com/l/2026/11/08/ver1794148885/3793888/jpg/320x180",
       "link": "https://www.bloomberght.com/anadolu-grubu-3-ceyrekte-beklentileri-asarken-gecen-yilin-gerisinde-kaldi-3793888",
@@ -180,15 +270,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 14:19 UTC"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, Azerbaycan'da Şuşa Kalesi'ni ziyaret etti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycanda-susa-kalesini-ziyaret-etti/4116092",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev ile birlikte Şuşa Kalesi'ni ziyaret etti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 14:18 UTC"
     },
     {
       "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
@@ -290,15 +371,6 @@
       "published_at": "2026-11-08 13:32 UTC"
     },
     {
-      "title": "İsrail, saldırıları ve yardımlara getirdiği kısıtlamalarla Gazze'de kış şartlarını çevre felaketine dönüştürüyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/israil-saldirilari-ve-yardimlara-getirdigi-kisitlamalarla-gazzede-kis-sartlarini-cevre-felaketine-donusturuyor/4116068",
-      "summary": "UNICEF Özel Temsilcisi Jonathan Fitch, \"Yağmur sularının kanalizasyon sularıyla karıştığı Şeyh Rıdvan Göleti'nin taşması halinde halk sağlığı açısından ciddi bir kriz yaşanabilir.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 13:28 UTC"
-    },
-    {
       "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
@@ -308,28 +380,10 @@
       "published_at": "2026-11-08 13:27 UTC"
     },
     {
-      "title": "Eski İsrail Başbakanı Barak'tan Eisenkot'a hükümeti kurma sürecini hızlandırma çağrısı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/eski-israil-basbakani-baraktan-eisenkota-hukumeti-kurma-surecini-hizlandirma-cagrisi/4116065",
-      "summary": "Eski İsrail Başbakanı Ehud Barak, hükümeti kurmakla görevlendirilen Yashar Partisi lideri Gadi Eisenkot'a süreci hızlandırma çağrısında bulunarak önceliğin Başbakan Binyamin Netanyahu liderliğindeki hükümeti değiştirmek olduğunu söyledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 13:26 UTC"
-    },
-    {
       "title": "Harşit Zaferi'nin 109. yıl dönümü dolayısıyla Gümüşhane'de anma töreni düzenlendi",
       "image": "",
       "link": "https://www.aa.com.tr/tr/gundem/harsit-zaferinin-109-yil-donumu-dolayisiyla-gumushanede-anma-toreni-duzenlendi/4116060",
       "summary": "Anma törenine Kara Kuvvetleri Komutanı Orgeneral Metin Tokel, Gümüşhane Valisi Cevdet Atay, AK Parti Gümüşhane Milletvekili Celalettin Köse ve MHP Gümüşhane Milletvekili Musa Küçük de katıldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 13:19 UTC"
-    },
-    {
-      "title": "Deprem sonrası yeniden yapılanan Malatya, çevreci yatırımlarla geleceğe hazırlanıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/deprem-sonrasi-yeniden-yapilanan-malatya-cevreci-yatirimlarla-gelecege-hazirlaniyor/4116061",
-      "summary": "Depremlerin ardından konut ve iş yerlerinin yanı sıra altyapı ve üstyapı yatırımlarıyla yeniden şekillenen Malatya'da atık su arıtma tesisleri ile yenilenebilir enerji projeleri hayata geçiriliyor.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 13:19 UTC"
@@ -342,15 +396,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 13:17 UTC"
-    },
-    {
-      "title": "Alman Meclisi önündeki Almanya bayrağı indirilerek yerine Filistin bayrağı asıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/alman-meclisi-onundeki-almanya-bayragi-indirilerek-yerine-filistin-bayragi-asildi/4116057",
-      "summary": "Almanya'nın başkenti Berlin'de, Federal Meclisin (Bundestag) önünde asılı bulunan Almanya bayrağı indirilerek yerine büyük bir Filistin bayrağı asıldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 13:15 UTC"
     },
     {
       "title": "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
@@ -380,13 +425,13 @@
       "published_at": "2026-11-08 13:06 UTC"
     },
     {
-      "title": "60 saniyede bugün (08 Kasım 2026)",
+      "title": "Rizespor, sahasından galibiyetle ayrıldı",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/-60-saniyede-bugun-08-kasim-2026/4116049",
-      "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
+      "link": "https://www.aa.com.tr/tr/spor/rizespor-sahasindan-galibiyetle-ayrildi/4116052",
+      "summary": "Trendyol Süper Lig'in 11. haftasında Çaykur Rizespor, konuk ettiği Erzurumspor FK'yi 2-1 yendi.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 12:57 UTC"
+      "published_at": "2026-11-08 13:00 UTC"
     },
     {
       "title": "Erdoğan Azerbaycan'da: Aliyev ile ortak basın toplantısında 'birlik' mesajı",
@@ -416,15 +461,6 @@
       "published_at": "2026-11-08 12:20 UTC"
     },
     {
-      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
-      "summary": "About 850,000 people lose power after Russian attacks on energy infrastructure in Ukraine's Dnipropetrovsk and Kharkiv.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 12:20 UTC"
-    },
-    {
       "title": "Fon soruşturmasında BDDK daire başkanı tutuklandı",
       "image": "",
       "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasinda-bddk-daire-baskani-tutuklandi-962599.html",
@@ -434,24 +470,6 @@
       "published_at": "2026-11-08 12:19 UTC"
     },
     {
-      "title": "South Africa’s ANC suffers setback in local elections",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
-      "summary": "With 99 percent of votes counted, President Cyril Ramaphosa's party wins 31 percent nationally.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 12:19 UTC"
-    },
-    {
-      "title": "Could UFC boss Dana White be next White House press secretary?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/could-ufc-boss-dana-white-be-next-white-house-press-secretary?traffic_source=rss",
-      "summary": "UFC chief Dana White says he’ll meet Trump after the US president urged him to become White House press secretary.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 11:57 UTC"
-    },
-    {
       "title": "Krakow'da silahlı saldırı: Altı kişiyi öldüren saldırganın evinde de üç aile üyesinin cesedi bulundu",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bbcb/live/7d2524e0-db57-11f1-ad76-19cbf76aebb9.jpg",
       "link": "https://www.bbc.com/turkce/articles/c83vqgrnr6ego?at_medium=RSS&at_campaign=rss",
@@ -459,15 +477,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 11:51 UTC"
-    },
-    {
-      "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
-      "summary": "Former army chief has 28 days to cobble together a ruling coalition after President chose him over incumbent Netanyahu.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-08 11:34 UTC"
     },
     {
       "title": "Buffett göstergesi alarmı mı? Berkshire'ın kasası Merkez Bankası gibi haberi - Borsanın Gündemi",
@@ -756,15 +765,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-07 09:42 UTC"
-    },
-    {
-      "title": "Paraguay'da bankacılık krizi: Devlet Başkanı görevden alındı ve ev hapsine konuldu",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cqy0rr0kn81no?at_medium=RSS&at_campaign=rss",
-      "summary": "Santiago Peña, milyonlarca insanın parasına erişememesine yol açan bir bankacılık krizi nedeniyle görevden uzaklaştırıldı.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 09:16 UTC"
     },
     {
       "title": "Borsa, altın ve döviz haftayı yükselişle kapattı! En çok kazandıran belli oldu - CNN Türk Finans",
