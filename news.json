@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-08 02:43 UTC",
+  "updated_at": "2026-11-08 03:43 UTC",
   "items": [
+    {
+      "title": "Trump asks UFC chief Dana White to be White House press secretary",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
+      "summary": "Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 03:12 UTC"
+    },
+    {
+      "title": "Egypt sacks winning football coach after wives’ scandal",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_egypt-sacks-winning-football-coach-after-scandal-071126?traffic_source=rss",
+      "summary": "The Egyptian Football Association has sacked national team coach Hossam Hassan, cutting short a promising tenure.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 03:04 UTC"
+    },
+    {
+      "title": "US launches task force to disrupt Iran’s land-based supply routes",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+      "summary": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 02:34 UTC"
+    },
+    {
+      "title": "Suudi Arabistan'ın 3 kentinde erken uyarı sistemi devreye alındı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanin-3-kentinde-erken-uyari-sistemi-devreye-alindi-962567.html",
+      "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, Dammam, Ahsa ve Bukayk kentlerinde erken uyarı sisteminin tehlike alarmı verdiğini, daha sonra tehlikenin geçtiğini duyurdu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 02:29 UTC"
+    },
     {
       "title": "Suudi Arabistan'ın Dammam, Ahsa ve Bukayk kentlerinde erken uyarı sistemi devreye alındı",
       "image": "",
@@ -36,6 +72,15 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-08 00:50 UTC"
+    },
+    {
+      "title": "Filistin'den Gazze'deki insani felaketin önlenmesi için uluslararası topluma çağrı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/filistinden-gazzedeki-insani-felaketin-onlenmesi-icin-uluslararasi-topluma-cagri-962566.html",
+      "summary": "Filistin, Gazze Şeridi'nde etkili olan şiddetli yağış ve fırtına nedeniyle derinleşen insani felaketin önlenmesi için uluslararası topluma acilen harekete geçme çağrısında bulunarak, İsrail'den tüm sınır kapılarını açmasını istedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-08 00:44 UTC"
     },
     {
       "title": "Paraguay'da azledilen eski Devlet Başkanı Pena hakkında tutuklama kararı",
@@ -281,15 +326,6 @@
       "published_at": "2026-11-07 20:10 UTC"
     },
     {
-      "title": "Paraguay’s ousted president appears before prosecutors after impeachment",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-paraguay-former-president-detained-appears?traffic_source=rss",
-      "summary": "Former Paraguayan President Santiago Pena has appeared before prosecutors.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 20:08 UTC"
-    },
-    {
       "title": "Van'da tır ile minibüs çarpıştı: 9 kişi öldü, 5 kişi yaralandı",
       "image": "",
       "link": "https://www.trthaber.com/haber/turkiye/vanda-tir-ile-minibus-carpisti-9-kisi-oldu-5-kisi-yaralandi-962563.html",
@@ -297,24 +333,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-07 19:55 UTC"
-    },
-    {
-      "title": "Masked protesters set off firecrackers and block roads in Albania",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
-      "summary": "Police used water cannons to disperse masked protesters in Albania’s capital, Tirana.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 19:49 UTC"
-    },
-    {
-      "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
-      "summary": "Trump lashed out at Democrats on Truth Social days after the party won control of Congress.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 19:42 UTC"
     },
     {
       "title": "İşgalci İsrail destekçisi Jeffries'e karşı imza kampanyası sürüyor",
@@ -486,24 +504,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-07 16:25 UTC"
-    },
-    {
-      "title": "Krakov'daki silahlı saldırıda 5 kişi öldü, 10'dan fazla kişi yaralandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/krakovdaki-silahli-saldirida-5-kisi-oldu-10dan-fazla-kisi-yaralandi-962551.html",
-      "summary": "Polonya'nın Krakov kentinde düzenlenen silahlı saldırıda 6 kişi hayatını kaybetti, 15 kişi yaralandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 16:21 UTC"
-    },
-    {
-      "title": "TRT World Forum 2026 sona erdi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/trt-world-forum-2026-sona-erdi-962550.html",
-      "summary": "TRT tarafından bu yıl 10'uncusu düzenlenen TRT World Forum sona erdi. Dünyanın dört bir yanından siyasetçiler, akademisyenler ve uzmanlar İstanbul'daki forumda bir araya geldi. Küresel güç dengelerinden yapay zekaya kadar pek çok konu iki gün boyunca ele alındı. Her yıl olduğu gibi bu yıl da foruma ilgi yoğundu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-07 16:18 UTC"
     },
     {
       "title": "No clear winner after tight New Zealand general election",
