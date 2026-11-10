@@ -1,77 +1,419 @@
 {
-  "updated_at": "2026-11-10 08:04 UTC",
+  "updated_at": "2026-11-10 09:17 UTC",
   "items": [
     {
-      "title": "Trump: FBI, Nvidia CEO'sunun Çin casusu olduğu iddia edilen kadınla ilişkisini soruşturuyor",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cm93z0e73435o?at_medium=RSS&at_campaign=rss",
-      "summary": "ABD'li teknoloji devi Nvidia, CEO'su Jensen Huang hakkında bağımsız bir soruşturma başlattı. Huang, casus olduğundan şüphelenilen Çinli bir kadınla ilişkisi olduğunu itiraf etti ve soruşturma kapsamında işbirliği yapacağını açıkladı.",
-      "source": "BBC Türkçe",
+      "title": "Basketbol Avrupa Ligi'nde 11. hafta heyecanı yarın başlayacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/basketbol-avrupa-liginde-11-hafta-heyecani-yarin-baslayacak/4118445",
+      "summary": "Fenerbahçe Tarfin, yarın Paris Basketbol'a konuk olacak.",
+      "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 08:01 UTC"
+      "published_at": "2026-11-10 09:11 UTC"
     },
     {
       "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "summary": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:58 UTC"
+      "published_at": "2026-11-10 09:07 UTC"
     },
     {
-      "title": "ABD Savunma Bakanı Hegseth, ordunun eğitim sisteminde reform talimatı verdi",
+      "title": "İsrail ordusunun ateşkese rağmen Gazze'de ateş açması sonucu 1 kişi hayatını kaybetti",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abd-savunma-bakani-hegseth-ordunun-egitim-sisteminde-reform-talimati-verdi/4118270",
-      "summary": "ABD Savunma Bakanı Pete Hegseth'in, ordudaki askeri eğitim sisteminde muharebe hazırlığı ve savaş becerilerine öncelik verilmesini hedefleyen reformlar yapılması talimatı verdiği bildirildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-ateskese-ragmen-gazzede-ates-acmasi-sonucu-1-kisi-hayatini-kaybetti/4118435",
+      "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'nde ateş açması sonucu 1 Filistinli yaşamını yitirdi, ikisi çocuk 4 kişi yaralandı.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:53 UTC"
+      "published_at": "2026-11-10 09:06 UTC"
+    },
+    {
+      "title": "İstinaf, kadın hakimi yaralayan savcıya verilen hapis cezasını az buldu",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/istinaf-kadin-hakimi-yaralayan-savciya-verilen-hapis-cezasini-az-buldu/4118425",
+      "summary": "İstinaf, Kartal'daki İstanbul Bölge Adliye Mahkemesinde görevli hakim A.K'yi silahla yaralayan savcı Muhammed Çağatay Kılıçarslan'a \"kadına karşı nitelikli kasten öldürmeye teşebbüs\" suçundan verilen 11 yıl 8 ay hapis cezasını 1 yıl 8 ay artırdı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 09:01 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan konuşuyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-962788.html",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Atatürk Kültür, Dil ve Tarih Yüksek Kurumu'nda düzenlenen anma töreninde konuşuyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:59 UTC"
+    },
+    {
+      "title": "Atatürk Selanik'te doğduğu evde törenle anıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/ataturk-selanikte-dogdugu-evde-torenle-anildi/4118419",
+      "summary": "Türkiye Cumhuriyeti'nin kurucusu Büyük Önder Mustafa Kemal Atatürk, ebediyete intikalinin 88. yılında, Yunanistan'ın Selanik kentinde dünyaya geldiği evde törenle anıldı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:58 UTC"
+    },
+    {
+      "title": "BofA: Fon krizinin Türkiye'de güven üzerindeki etkisi sürüyor",
+      "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794301081/3794056/jpg/320x180",
+      "link": "https://www.bloomberght.com/bofa-fon-krizinin-turkiye-de-guven-uzerindeki-etkisi-suruyor-3794056",
+      "summary": "BofA Securities ekonomistleri, sistemik risk perspektifinden kontrol altına alınmış olsa da fon krizinin güven ve iktisadi faaliyet üzerindeki etkisinin daha görünür hale geldiğini belirtti.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-10 08:57 UTC"
+    },
+    {
+      "title": "Brent petrolün varil fiyatı 90 doların altına geriledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-varil-fiyati-90-dolarin-altina-geriledi/4118412",
+      "summary": "Brent petrolün ocak vadeli varil fiyatı, ABD ile İran arasındaki gerilimin azalacağına yönelik beklentinin etkisiyle 90 doların altına geriledi",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:55 UTC"
+    },
+    {
+      "title": "GÖKTÜRK1, Anıtkabir'i görüntüledi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/gokturk-1-anitkabiri-goruntuledi-962787.html",
+      "summary": "Milli Savunma Bakanlığı MSB, Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı dolayısıyla Anıtkabir'in GÖKTÜRK1 uydusuyla çekilen görüntüsünü paylaştı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:55 UTC"
+    },
+    {
+      "title": "İran'dan ABD savaş ve yaptırımlarla sonuç alamaz mesajı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/irandan-abd-savas-ve-yaptirimlarla-sonuc-alamaz-mesaji-962793.html",
+      "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD'nin İran'a karşı savaş veya yaptırımlarla sonuç alamayacağını belirterek, tek çözüm yolunun diplomasi olduğunu ve bunun İran'ın sunduğu şartların kabul edilmesine bağlı bulunduğunu söyledi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:54 UTC"
+    },
+    {
+      "title": "Brent petrol 90 doların altına geriledi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/brent-petrol-90-dolarin-altina-geriledi-962786.html",
+      "summary": "Brent petrolün ocak vadeli varil fiyatı, ABD ile İran arasındaki gerilimin azalacağına yönelik beklentinin etkisiyle 90 doların altına geriledi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:54 UTC"
+    },
+    {
+      "title": "Altın, gümüş ve Bitcoin'de kritik seviyeler - Alanya Postası",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92MmJSTHh4RzR2OVNkb0hYVWViZml6WUdPWktpX0s4dUFkZ2pyZ2pscGptUDZxeGY2NjZOQW9WVzc0RUluYkJjczlRUUwwVmR0dlY2ZF93REF2OGRldjFQWjhLSUg3SERvdDFaLTZQODJHeS1odUZFTmNBR0JRRE0?oc=5",
+      "summary": "Altın, gümüş ve Bitcoin'de kritik seviyeler Alanya Postası",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-10 08:53 UTC"
+    },
+    {
+      "title": "Yeşil Mutabakat Eylem Planı güncellendi",
+      "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794300639/3794054/jpg/320x180",
+      "link": "https://www.bloomberght.com/yesil-mutabakat-eylem-plani-guncellendi-3794054",
+      "summary": "Türkiye ekonomisinin yeşil tedarik zincirlerine entegrasyonunun güçlendirilmesi, Avrupa Birliği (AB) ile Gümrük Birliği kapsamında devam eden ekonomik bütünleşme sürecinin ileriye taşınması amacıyla yürürlüğe konulan \"Yeşil Mutabakat Eylem Planı\", küresel ve bölgesel gelişmeler ile Türkiye'nin yeşil dönüşüm alanındaki politika ve öncelikleri doğrultusunda güncellendi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-10 08:50 UTC"
+    },
+    {
+      "title": "Almanyada aşırı soğuklarda gaz kıtlığı uyarısı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/almanyada-asiri-soguklarda-gaz-kitligi-uyarisi-962785.html",
+      "summary": "Almanya Gaz Depolama Girişimi INES, yaklaşan kış dönemi öncesinde doğal gaz depolama tesislerindeki doluluk oranının yüzde 61'e gerilediğini belirterek aşırı soğuklarda gaz kıtlığı yaşanabileceği uyarısında bulundu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:50 UTC"
+    },
+    {
+      "title": "ABD'de benzin fiyatları psikolojik seviyenin altına düştü",
+      "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794300626/3794052/jpg/320x180",
+      "link": "https://www.bloomberght.com/abd-de-benzin-fiyatlari-psikolojik-seviyenin-altina-dustu-3794052",
+      "summary": "ABD'de benzin fiyatları Temmuz ayından bu yana ilk kez galon başına 4 doların altına düştü. Ancak fiyatlar mevsimsel bazda hâlâ oldukça yüksek seviyelerde seyrediyor.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-10 08:49 UTC"
+    },
+    {
+      "title": "Besler'in konsolide cirosu 2026'nın ilk 9 ayında 31 milyar TL'yi aştı",
+      "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794300685/3794053/jpg/320x180",
+      "link": "https://www.bloomberght.com/beslerin-konsolide-cirosu-2026nin-ilk-9-ayinda-31-milyar-tlyi-asti-3794053",
+      "summary": "2026 ilk 9 ayında Besler'in konsolide cirosu 31,1 milyar TL'ye ulaşırken; aynı dönemde brüt kârı yüzde 9,1 artışla 7,4 milyar TL, konsolide dönem net kârı ise 816 milyon TL oldu.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-10 08:49 UTC"
+    },
+    {
+      "title": "Türkiye'deki yabancı misyonlardan \"10 Kasım Atatürk'ü Anma Günü\" mesajları",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/turkiyedeki-yabanci-misyonlardan-10-kasim-ataturku-anma-gunu-mesajlari/4118395",
+      "summary": "Türkiye'deki yabancı misyonlar ve temsilcileri, 10 Kasım Atatürk'ü Anma Günü vesilesiyle anma mesajları paylaştı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:49 UTC"
+    },
+    {
+      "title": "UFC CEO Dana White takes the White House podium during Washington visit",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss",
+      "summary": "During his visit to meet with US President Donald Trump in Washington, Dana White answers questions at the White House.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:49 UTC"
+    },
+    {
+      "title": "COP31 katılımcılarının rotası Sıfır Atık Köyü \"Solak\" oldu",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/kultur/cop31-katilimcilarinin-rotasi-sifir-atik-koyu-solak-oldu/4118389",
+      "summary": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) dolayısıyla Antalya'nın Aksu ilçesinde \"Sıfır Atık Köyü\"ne dönüştürülen Solak Mahallesi, yerli ve yabancı katılımcıların ilgisini çekiyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:46 UTC"
+    },
+    {
+      "title": "MSB, Anıtkabir'in GÖKTÜRK-1 uydusuyla çekilen görüntüsünü paylaştı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/msb-anitkabirin-gokturk-1-uydusuyla-cekilen-goruntusunu-paylasti/4118391",
+      "summary": "Milli Savunma Bakanlığı (MSB), Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı dolayısıyla Anıtkabir'in GÖKTÜRK-1 uydusuyla çekilen görüntüsünü paylaştı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:46 UTC"
+    },
+    {
+      "title": "Almanya'da gaz kıtlığı uyarısı",
+      "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794300223/3794051/jpg/320x180",
+      "link": "https://www.bloomberght.com/almanyada-gaz-kitligi-uyarisi-3794051",
+      "summary": "Almanya Gaz Depolama Girişimi (INES), yaklaşan kış dönemi öncesinde doğalgaz depolama tesislerindeki doluluk oranının yüzde 61'e gerilediğini belirterek aşırı soğuklarda gaz kıtlığı yaşanabileceği uyarısında bulundu.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-10 08:42 UTC"
+    },
+    {
+      "title": "Fransa Dışişleri Bakanı: Süpermarketlere siber saldırı yapanlara yaptırımda hiçbir seçeneği dışlamıyoruz",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/fransa-disisleri-bakani-supermarketlere-siber-saldiri-yapanlara-yaptirimda-hicbir-secenegi-dislamiyoruz/4118382",
+      "summary": "Fransa Dışişleri Bakanı Jean Noel Barrot, ülkedeki 700’den fazla süpermarketi hedef alan siber saldırının arkasında olduğunu duyurduğu İran Devrim Muhafızları Ordusuna karşı uygulanacak yaptırımlarda hiçbir seçeneği göz ardı etmeyeceklerini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:42 UTC"
+    },
+    {
+      "title": "Elleçlenen yük miktarında rekor seviyelerin korunması hedefleniyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/elleclenen-yuk-miktarinda-rekor-seviyelerin-korunmasi-hedefleniyor-962784.html",
+      "summary": "Türk limanları, elleçlenen yük miktarlarında geçen yıl kırdığı rekorları bu yıl sonunda ve 2027'de de sürdürmeyi hedefliyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:42 UTC"
+    },
+    {
+      "title": "76 ildeki uyuşturucu operasyonlarında 1204 şüpheli tutuklandı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/76-ildeki-uyusturucu-operasyonlarinda-1204-supheli-tutuklandi-962783.html",
+      "summary": "İçişleri Bakanlığı, 76 ilde uyuşturucu satıcılarına yönelik son iki haftada düzenlenen operasyonlarda yakalanan 2 bin 152 şüpheliden 1204'ünün tutuklandığını belirtti.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:40 UTC"
+    },
+    {
+      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1460/live/8ec95eb0-dce1-11f1-a8e1-e3454837ffc6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:39 UTC"
+    },
+    {
+      "title": "California voters reject billionaire tax",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss",
+      "summary": "The proposed measure would have imposed a one-time 5 percent tax on Californian billionaires to fund healthcare.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:38 UTC"
+    },
+    {
+      "title": "What powers does Netanyahu have as Israel’s interim PM?",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss",
+      "summary": "As Israel faces political gridlock, Netanyahu wields caretaker powers to manage security and disrupt his rivals.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:38 UTC"
+    },
+    {
+      "title": "AK Parti Sözcüsü Çelik: COP31, küresel adalet ve ortak gelecek adına tarihi bir eşiktir",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/ak-parti-sozcusu-celik-cop31-kuresel-adalet-ve-ortak-gelecek-adina-tarihi-bir-esiktir-962782.html",
+      "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, \"Antalya'da gerçekleştirilecek COP31, küresel adalet ve ortak gelecek adına tarihi bir eşiktir.\" ifadesini kullandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:31 UTC"
+    },
+    {
+      "title": "Cafer Mahiroğlu soruşturmasında ikinci dalga: 8 kişi için gözaltı kararı verildi",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2211/live/4114ab00-dcde-11f1-a8e1-e3454837ffc6.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cr78p8llqqzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Halk TV'nin sahibi Cafer Mahiroğlu hakkında yürütülen soruşturmada sekiz şüpheli hakkında daha gözaltı kararı verildi. Başsavcılık yedi şüphelinin gözaltına alındığını, bir kişinin ise firari olduğunu duyurdu.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:25 UTC"
+    },
+    {
+      "title": "Anabasis Kuzey Rotası, Anadolu'nun kadim tarihini Karadeniz'e taşıyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/kultur/anabasis-kuzey-rotasi-anadolunun-kadim-tarihini-karadenize-tasiyor/4118348",
+      "summary": "\"Kadim Şehirler Yolu\" projesinin üçüncü etabı olan Anabasis Kuzey Rotası, tarih ve kültür meraklılarını Anadolu'nun kadim yerleşimlerinden Karadeniz kıyılarına uzanan bir yolculuğa davet ediyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:25 UTC"
+    },
+    {
+      "title": "Gazze'deki UNRWA çalışanları işten çıkarılma, maaş ve hizmet kesintilerine tepkili",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-unrwa-calisanlari-isten-cikarilma-maas-ve-hizmet-kesintilerine-tepkili/4118344",
+      "summary": "Gazze Şeridi'ndeki Birleşmiş Milletler Yakın Doğu'daki Filistinli Mültecilere Yardım ve Bayındırlık Ajansı (UNRWA) çalışanları, yönetimin işten çıkarma, maaş ve hizmet kesintilerine karşı tepkilerini ifade ediyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:24 UTC"
+    },
+    {
+      "title": "Emine Erdoğan'ın COP31'de gündemi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/emine-erdoganin-cop31de-gundemi-962781.html",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan'ın, Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'ndaki COP31 gündemi \"sıfır atık ve iklim değişikliğiyle mücadele\" olacak.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:24 UTC"
+    },
+    {
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:23 UTC"
+    },
+    {
+      "title": "Aliyev, İzmir'deki patlama nedeniyle Cumhurbaşkanı Erdoğan'a taziye mesajı gönderdi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/aliyev-izmirdeki-patlama-nedeniyle-cumhurbaskani-erdogana-taziye-mesaji-gonderdi-962780.html",
+      "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev'in, İzmir'in Aliağa ilçesindeki demir çelik fabrikasında meydana gelen patlamada hayatını kaybedenler için Cumhurbaşkanı Recep Tayyip Erdoğan'a taziye mesajı gönderdiği bildirildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:22 UTC"
+    },
+    {
+      "title": "\"LNG kullanımındaki artış gemi filolarını büyüttü\"",
+      "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794298917/3794049/jpg/320x180",
+      "link": "https://www.bloomberght.com/lng-kullaniminin-artmasi-gemi-filolarini-buyuttu-3794049",
+      "summary": "Küresel doğalgaz ticaretinde önemli rol oynayan sıvılaştırılmış doğalgaz (LNG) taşımacılığında, artan enerji verimliliği ihtiyacı gemilerde yakıt tasarrufu sağlayan yeni teknolojilerin geliştirilmesini teşvik ediyor.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-10 08:20 UTC"
+    },
+    {
+      "title": "Borsa İstanbul pozitif açılışın ardından eksiye döndü - EKOTÜRK",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMGdJRmE1MEFxckVvZzFLeEtqVkNoVjFieWFaT0VSaWJDN0tYLTZ2UTFvd1pkeUY1OHBZYVRudEtoY19oVm5WR3VKZnRvYngyTDVHT0xIanNGeWswTGtpS1BLenJEUlJmTWQ4dkNSLWx6ZHY0Wno5WmpYX3hCWXJiaEd4elBOdTJtTDhr?oc=5",
+      "summary": "Borsa İstanbul pozitif açılışın ardından eksiye döndü EKOTÜRK",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-10 08:20 UTC"
+    },
+    {
+      "title": "Fatih Sultan Mehmet'in kütüphanesindeki İlyada nüshasının bilinmeyen özellikleri ortaya çıkarıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/kultur/fatih-sultan-mehmetin-kutuphanesindeki-ilyada-nushasinin-bilinmeyen-ozellikleri-ortaya-cikarildi/4118327",
+      "summary": "İstanbul Üniversitesinde (İÜ) yürütülen bilimsel çalışmada, Fatih Sultan Mehmet'in kütüphanesinde muhafaza edilen Homeros'un İlyada Destanı'nın 260 yapraklık el yazması nüshası incelendi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:16 UTC"
+    },
+    {
+      "title": "Gelecek yıl 5 bin 100 parti ürün denetlenecek",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/gelecek-yil-5-bin-100-parti-urun-denetlenecek-962779.html",
+      "summary": "Türkiye'de tüketicilerin sağlığını, güvenliğini ve ekonomik çıkarlarını korumak amacıyla gelecek yıl 5 bin 100 parti ürünün denetlenmesi öngörülüyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:16 UTC"
+    },
+    {
+      "title": "Trump: FBI, Nvidia CEO'sunun Çin casusu olduğu iddia edilen kadınla ilişkisini soruşturuyor",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cm93z0e73435o?at_medium=RSS&at_campaign=rss",
+      "summary": "ABD Başkanı Donald Trump, FBI'ın Nvidia'nın CEO'su Jensen Huang'ın ile Çin casusu olduğu iddia edilen bir kadın arasındaki ilişkiyi soruşturduğunu söyledi.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:15 UTC"
+    },
+    {
+      "title": "AMB/Lane: Veriler değişmezse Aralık'ta faiz artışı ihtiyatlı adım olur",
+      "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794298561/3794048/jpg/320x180",
+      "link": "https://www.bloomberght.com/amblane-veriler-degismezse-aralikta-faiz-artisi-ihtiyatli-adim-olur-3794048",
+      "summary": "Avrupa Merkez Bankası (AMB) Başekonomisti Philip Lane, önümüzdeki haftalarda verilerde bir değişiklik olmazsa AMB'nin sonraki toplantısında borçlanma maliyetlerini yeniden artırması gerektiğini söyledi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-10 08:14 UTC"
+    },
+    {
+      "title": "ABD'nin California eyaletinde milyarder vergisi önerisi reddedildi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/abdnin-california-eyaletinde-milyarder-vergisi-onerisi-reddedildi-962778.html",
+      "summary": "ABD'nin California eyaletinde, net serveti 1 milyar doların üzerinde olan kişilerin varlıklarına yüzde 5 oranında tek seferlik vergi uygulanmasını öngören teklif, seçmenlerin oylarıyla reddedildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:12 UTC"
+    },
+    {
+      "title": "LNG taşımacılığında rüzgar enerjisiyle yakıt tüketimini düşürme çalışmaları hız kazandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/lng-tasimaciliginda-ruzgar-enerjisiyle-yakit-tuketimini-dusurme-calismalari-hiz-kazandi/4118312",
+      "summary": "Küresel doğal gaz ticaretinde önemli rol oynayan sıvılaştırılmış doğal gaz (LNG) taşımacılığında, artan enerji verimliliği ihtiyacı gemilerde yakıt tasarrufu sağlayan yeni teknolojilerin geliştirilmesini teşvik ediyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:11 UTC"
+    },
+    {
+      "title": "Avustralya, yapay zeka şirketlerine yeni güvenlik kuralları getiriyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/avustralya-yapay-zeka-sirketlerine-yeni-guvenlik-kurallari-getiriyor-962777.html",
+      "summary": "Avustralya Başbakanı Anthony Albanese, ülkesinde faaliyet gösteren yapay zeka şirketlerini bazı güvenlik kurallarına uymakla yükümlü kılacak yeni bir düzenlemeyi hayata geçireceklerini bildirdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:09 UTC"
+    },
+    {
+      "title": "US moves aircraft from second UK base over ‘threat from Iran’",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss",
+      "summary": "Two refuelling tankers and several other aircraft diverted from RAF Mildenhall airbase ​to other locations, WSJ reports.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:08 UTC"
+    },
+    {
+      "title": "Avustralya'nın en büyük hava yolu şirketi Qantas, yaklaşık 850 kişiyi işten çıkaracak",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/avustralyanin-en-buyuk-hava-yolu-sirketi-qantas-yaklasik-850-kisiyi-isten-cikaracak-962776.html",
+      "summary": "Avustralyanın en büyük hava yolu şirketi Qantas'ın teknoloji şirketi Accenture ile yaptığı anlaşmanın ardından yaklaşık 850 çalışanının işine kademeli olarak son vereceği bildirildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 08:07 UTC"
     },
     {
       "title": "Financial Times: Netanyahu, İran'a yeni saldırılar başlatmaya ikna etmek için Trump'ı her gün arıyor",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/financial-times-netanyahu-irana-yeni-saldirilar-baslatmaya-ikna-etmek-icin-trumpi-her-gun-ariyor/4118267",
-      "summary": "İsrail Başbakanı Binyamin Netanyahu'nun ABD Başkanı Donald Trump'ı İran'a yeni saldırılar başlatması yönünde ikna etmek için her gün aradığı bildirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:52 UTC"
-    },
-    {
-      "title": "COP31'e 190'dan fazla ülkeden 4 bine yakın basın mensubu katıldı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/cop31e-190dan-fazla-ulkeden-4-bine-yakin-basin-mensubu-katildi-962774.html",
-      "summary": "Türkiye'nin ilk kez ev sahipliği yaptığı Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na COP31, 190'dan fazla ülkeden 4 bine yakın basın mensubu akredite oldu.",
+      "link": "https://www.trthaber.com/haber/dunya/financial-times-netanyahu-irana-yeni-saldirilar-baslatmaya-ikna-etmek-icin-trumpi-her-gun-ariyor-962775.html",
+      "summary": "İsrail'in soykırımcı Başbakanı Binyamin Netanyahu'nun ABD Başkanı Donald Trump'ı İran'a yeni saldırılar başlatması yönünde ikna etmek için her gün aradığı bildirildi.",
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:49 UTC"
-    },
-    {
-      "title": "Sayıştay 16 sözleşmeli personel alacak",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/sayistay-16-sozlesmeli-personel-alacak-962773.html",
-      "summary": "Sayıştay Başkanlığı, 3'ü çözümleyici, 13'ü programcı olmak üzere 16 sözleşmeli personel istihdam edecek.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:47 UTC"
-    },
-    {
-      "title": "Yasa dışı bahis gelirlerini sosyal medya fenomenleri aracılığıyla aklamaya çalışan 11 şüpheli yakalandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/yasa-disi-bahis-gelirlerini-sosyal-medya-fenomenleri-araciligiyla-aklamaya-calisan-11-supheli-yakalandi/4118260",
-      "summary": "Ankara merkezli 8 ilde yasa dışı bahis gelirlerinin sosyal medya fenomenleri üzerinden aklanmasına yönelik soruşturma kapsamında 11 şüpheli gözaltına alındı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:46 UTC"
-    },
-    {
-      "title": "TFF, Gazi Mustafa Kemal Atatürk'ü andı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/tff-gazi-mustafa-kemal-ataturku-andi-/4118256",
-      "summary": "Türkiye Futbol Federasyonu (TFF), Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yıl dönümü nedeniyle anma mesajı yayımladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:43 UTC"
+      "published_at": "2026-11-10 07:58 UTC"
     },
     {
       "title": "Öğretmenin maaşı Ocak 2027'de 86 bin liraya ulaşacak - Memurlar.Net",
@@ -81,24 +423,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-10 07:42 UTC"
-    },
-    {
-      "title": "Atatürk ebediyete intikalinin 88'inci yılında yurt genelinde saygıyla anıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/ataturk-ebediyete-intikalinin-88inci-yilinda-yurt-genelinde-saygiyla-anildi/4118254",
-      "summary": "Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk, ebediyete intikalinin 88'inci yılında saygıyla anıldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:42 UTC"
-    },
-    {
-      "title": "Avustralya'nın en büyük hava yolu şirketi Qantas, yaklaşık 850 kişiyi işten çıkaracak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/avustralyanin-en-buyuk-hava-yolu-sirketi-qantas-yaklasik-850-kisiyi-isten-cikaracak/4118250",
-      "summary": "Avustralya’nın en büyük hava yolu şirketi Qantas'ın teknoloji şirketi Accenture ile yaptığı anlaşmanın ardından yaklaşık 850 çalışanının işine kademeli olarak son vereceği bildirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:37 UTC"
     },
     {
       "title": "Borsa güne yükselişle başladı - Bursada Bugün",
@@ -119,101 +443,29 @@
       "published_at": "2026-11-10 07:28 UTC"
     },
     {
-      "title": "Cafer Mahiroğlu'na yönelik soruşturmada 7 şüpheli gözaltına alındı",
+      "title": "Cloudsmith, Yapay Zekâ Ajanı Becerilerini Artefakt Deposu Denetimleri Altına Alıyor - Unite.AI",
       "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/cafer-mahirogluna-yonelik-sorusturmada-7-supheli-gozaltina-alindi-962772.html",
-      "summary": "Cafer Mahiroğlu'na yönelik \"rüşvet\", \"ihaleye fesat karıştırma\" ve \"suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından yürütülen soruşturma kapsamında düzenlenen ikinci operasyonda 7 şüpheli gözaltına alındı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:26 UTC"
-    },
-    {
-      "title": "Ankara merkezli 8 ilde yasa dışı bahis operasyonu: 11 şüpheli yakalandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/ankara-merkezli-8-ilde-yasa-disi-bahis-operasyonu-11-supheli-yakalandi-962771.html",
-      "summary": "Ankara Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında, yasa dışı bahis gelirlerini sosyal medya fenomenleri aracılığıyla akladıkları tespit edilen 11 şüpheli, 8 ilde düzenlenen eş zamanlı operasyonla gözaltına alındı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSUlWcjFYZ18wRmYwWm9BLUJxc25rSUhLVTZTS3haMm14TnZLX01EN21qajR2RjRYVjFqRU9GLVgyTVo2VTdkeWZBaFMwV1VIWGhUMUE5eXp4RFRjSmJKN2FtOWp6WE16RXNFNmNabkh1SEVMZzIzVXJKbVFpamlwOVlnTjdBUFRDMnNUUl9zUlpMaXc?oc=5",
+      "summary": "Cloudsmith, Yapay Zekâ Ajanı Becerilerini Artefakt Deposu Denetimleri Altına Alıyor Unite.AI",
+      "source": "Google News - Teknoloji",
+      "category": "Teknoloji ve Bilim",
       "published_at": "2026-11-10 07:24 UTC"
     },
     {
-      "title": "Atatürk'ün manevi mirası Savarona Dolmabahçe açıklarında",
+      "title": "Büyük Önder Atatürk, Dolmabahçe Sarayı'ndaki odasında törenle anıldı",
       "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/ataturkun-manevi-mirasi-savarona-dolmabahce-aciklarinda-962770.html",
-      "summary": "Cumhuriyet'in kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinden önce yaklaşık iki ayını geçirdiği manevi mirası Savarona yatı, 10 Kasım Atatürkü Anma Günü dolayısıyla Büyük Önder'in hayata gözlerini yumduğu Dolmabahçe Sarayının açıklarına demirledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:24 UTC"
-    },
-    {
-      "title": "Sanayi üretim endeksi eylülde yıllık yüzde 2,6 arttı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/sanayi-uretim-endeksi-eylulde-yillik-yuzde-26-artti-962769.html",
-      "summary": "Sanayi üretim endeksi, eylülde aylık bazda yüzde 2,1, yıllık bazda yüzde 2,6 artış gösterdi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:22 UTC"
-    },
-    {
-      "title": "Emine Erdoğan'dan 10 Kasım Atatürk'ü Anma Günü mesajı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-10-kasim-ataturku-anma-gunu-mesaji/4118226",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı dolayısıyla mesaj yayımladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:20 UTC"
-    },
-    {
-      "title": "Emine Erdoğan'dan 10 Kasım Atatürk'ü Anma Günü mesajı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-10-kasim-ataturku-anma-gunu-mesaji-962767.html",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı dolayısıyla mesaj yayımladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:19 UTC"
-    },
-    {
-      "title": "İnşaat maliyet endeksi eylülde arttı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/insaat-maliyet-endeksi-eylulde-artti-962766.html",
-      "summary": "İnşaat maliyet endeksi, eylülde aylık bazda yüzde 1,81, yıllık yüzde 30,8 artış gösterdi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:19 UTC"
-    },
-    {
-      "title": "NBA'de Rockets, Alperen Şengün'ün \"double-double\" yaptığı maçı kazandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-double-double-yaptigi-maci-kazandi/4118222",
-      "summary": "Milli basketbolcu Alperen Şengün, Houston Rockets'ın Denver Nuggets'ı 110-100 yendiği karşılaşmada 20 sayı, 11 ribaunt, 8 asistle oynadı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:18 UTC"
-    },
-    {
-      "title": "HEKTAŞ sürdürülebilir tarımda verimliliği artıracak teknolojilere odaklandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/hektas-surdurulebilir-tarimda-verimliligi-artiracak-teknolojilere-odaklandi/4118218",
-      "summary": "HEKTAŞ Genel Müdürü Enis Emre Terzi, kuraklığa dayanıklı tohumlar, biyolojik tabanlı bitki besleme ürünleri ve su kullanımında verimliliği artıran teknolojiler geliştirmeye yönelik çalışmalar yürüttüklerini belirtti.",
+      "link": "https://www.aa.com.tr/tr/gundem/buyuk-onder-ataturk-dolmabahce-sarayindaki-odasinda-torenle-anildi/4118219",
+      "summary": "Türkiye Cumhuriyeti'nin kurucusu Büyük Önder Mustafa Kemal Atatürk, 88 yıl önce hayata gözlerini yumduğu Dolmabahçe Sarayı'ndaki odasında törenle anıldı.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-10 07:17 UTC"
     },
     {
-      "title": "Fotoğraflarla: Atatürk'ün 88. ölüm yıldönümünde Türkiye'de hayat durdu",
+      "title": "Fotoğraflarla: Atatürk'ün 88. ölüm yıldönümü",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d698/live/ac01fec0-dcd6-11f1-a8e1-e3454837ffc6.jpg",
       "link": "https://www.bbc.com/turkce/articles/cmwyvyk90xgko?at_medium=RSS&at_campaign=rss",
       "summary": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk, ölümünün 88. yıldönümünde ülke genelinde saygıyla anıldı.",
       "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:16 UTC"
-    },
-    {
-      "title": "A Milli Kadın Basketbol Takımı, yarın Karadağ'ı konuk edecek",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-basketbol-takimi-yarin-karadagi-konuk-edecek/4118216",
-      "summary": "Milliler, 2027 Avrupa Şampiyonası Elemeleri 2. Tur I Grubu ilk maçında yarın Karadağ ile karşı karşıya gelecek.",
-      "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-10 07:16 UTC"
     },
@@ -236,15 +488,6 @@
       "published_at": "2026-11-10 07:09 UTC"
     },
     {
-      "title": "Borsa İstanbul güne yükselişle başladı - Alanya Postası",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fUkZFazNmMU1fYWZPUTN1NkpvYjdoVHZKYjVhREJDamFNZC1uUDJ5Sm1vVExTTUIxeDNqNi1QWFBaREI0MkpQdmJEdEcwN3pCdDZVd3RYaXUzdnhkemlfVVJiLTIxLWNienAzUHdVTW85cFFwaUlNY1Buaw?oc=5",
-      "summary": "Borsa İstanbul güne yükselişle başladı Alanya Postası",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-10 07:09 UTC"
-    },
-    {
       "title": "Australia tightens AI oversight rules after OpenAI government breach",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
@@ -252,51 +495,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-10 07:05 UTC"
-    },
-    {
-      "title": "COP31'e, 190'dan fazla ülkeden 4 bine yakın basın mensubu akredite oldu",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cop31e-190dan-fazla-ulkeden-4-bine-yakin-basin-mensubu-akredite-oldu/4118209",
-      "summary": "Türkiye'nin ilk kez ev sahipliği yaptığı Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na (COP31), 190'dan fazla ülkeden 4 bine yakın basın mensubu akredite oldu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:03 UTC"
-    },
-    {
-      "title": "Borsa güne yükselişle başladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4118205",
-      "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,39 yükselişle 11.758,85 puandan başladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:01 UTC"
-    },
-    {
-      "title": "Trump, ABD Savunma Bakanı Hegseth'in azledilmek yerine övülmesi gerektiğini savundu",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/trump-abd-savunma-bakani-hegsethin-azledilmek-yerine-ovulmesi-gerektigini-savundu-962765.html",
-      "summary": "ABD Başkanı Donald Trump, Savunma Bakanı Pete Hegseth'in azledilmesine yönelik girişimlere tepki göstererek, Hegseth'in azledilmek yerine övgüyü hak ettiğini belirtti.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 07:01 UTC"
-    },
-    {
-      "title": "Gram altında son durum ne? 10 Kasım 2026 Salı altın fiyatları…",
-      "image": "",
-      "link": "https://www.bloomberght.com/gram-altinda-son-durum-ne-10-kasim-2026-sali-altin-fiyatlari-pkh1-3794038",
-      "summary": "Gram altın serbest piyasada bugün (10 Kasım 2026 / saat: 10:00) 6.656,24 TL'den alınıp 6.657,27 TL'den satılıyor. Kapalıçarşı'da altın fiyatlarındaki en son durumu; gram altın ne kadar oldu, gram altın kaç TL, çeyrek altın ne kadar? gibi merak ettiğiniz tüm detayları sayfamızdan güncel olarak takip edebilirsiniz.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-10 07:00 UTC"
-    },
-    {
-      "title": "Temiz enerji dönüşümü gündeminde beş temel odak alanı öne çıkıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/temiz-enerji-donusumu-gundeminde-bes-temel-odak-alani-one-cikiyor/4118201",
-      "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31'in Eylem Gündemi'ndeki 10 başlıktan biri olan temiz enerji dönüşümü kapsamında, elektrifikasyondan altyapıya uzanan beş temel alana odaklanılacak.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 06:59 UTC"
     },
     {
       "title": "Borsa İstanbul güne yükselişle başladı - Borsa Gundem",
@@ -317,15 +515,6 @@
       "published_at": "2026-11-10 06:54 UTC"
     },
     {
-      "title": "Atatürk'ün manevi mirası Savarona 10 Kasım'da Dolmabahçe açıklarında",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/ataturkun-manevi-mirasi-savarona-10-kasimda-dolmabahce-aciklarinda/4118192",
-      "summary": "Cumhuriyet'in kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinden önce yaklaşık iki ayını geçirdiği manevi mirası Savarona yatı, 10 Kasım Atatürk’ü Anma Günü dolayısıyla Dolmabahçe Sarayı’nın açıklarına demirledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 06:53 UTC"
-    },
-    {
       "title": "Yapay zekâ patentlerinde araştırma ücretine yüzde 50 indirim - Saray Medya",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3dCdmt6OHdjZktkOHAta3pUbHI5eUI0MzlBdUoxcElrdzRWTGRienJOQ0QxcmRVaUItLTdPU3oxWm1seld2enptT3BoRDA1Zl82NDlEZGdETjFtRWhEQWVSY1loS3dwNDZuSlFmS0lqbzRPa0JxUW9kaDVmZjRPQ2tHb1hzOEk3a1RaZ3gwMmd6WFdqNF9qWGNnNldJazBaRFE?oc=5",
@@ -344,22 +533,13 @@
       "published_at": "2026-11-10 06:48 UTC"
     },
     {
-      "title": "Çam ormanlarıyla çevrili Dumanlı Tabiat Parkı karla kaplandı",
+      "title": "SON DAKİKA: ALTIN DÜŞÜYOR | İşte 10 Kasım güncel fiyatları | Piyasalar ve Yatırım Haberleri - Yeni Şafak",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cam-ormanlariyla-cevrili-dumanli-tabiat-parki-karla-kaplandi/4118181",
-      "summary": "Erzincan'ın Refahiye ilçesinde bulunan çam ormanlarıyla çevrili Dumanlı Tabiat Parkı karla kaplandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 06:46 UTC"
-    },
-    {
-      "title": "Altın güne düşüşle başladı 10 Kasım 2026 altın fiyatları",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/altin-gune-dususle-basladi-10-kasim-2026-altin-fiyatlari-962764.html",
-      "summary": "Gram altın güne düşüşle başlamasının ardından 6 bin 657 liradan işlem görüyor. Çeyrek altın 10 bin 951 liradan, cumhuriyet altını 43 bin 604 liradan satılıyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 06:42 UTC"
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSm9fR2d6emQ0RnQzTGN2LW9vYVdzdmNDX1dMZlNYZkVhOEszRFpNZXA2YUY5UWdaeHM2alB3OWRTa3lyeFdJeThMTFU3Vm14Qi12ZnB6bU1ucllRelNCd04ycm1LX3Z1M3B0TjRqeFRjY2ZjamNoVzhoS2RzLVZKemhfMF9vRUxtaWhTWXdpQTgycXhLX1poZmppNHB4d241bkV0M3Nlcw?oc=5",
+      "summary": "SON DAKİKA: ALTIN DÜŞÜYOR | İşte 10 Kasım güncel fiyatları | Piyasalar ve Yatırım Haberleri Yeni Şafak",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-10 06:39 UTC"
     },
     {
       "title": "Why adults are buying toys",
@@ -380,13 +560,13 @@
       "published_at": "2026-11-10 06:37 UTC"
     },
     {
-      "title": "Peynir üretiminde süt dışı proteinlere yasak",
+      "title": "Cumhurbaşkanı Erdoğan: Sınırlarımızın ötesinde de huzuru, güvenliği ve istikrarı güçlendiriyoruz",
       "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/peynir-uretiminde-sut-disi-proteinlere-yasak-962763.html",
-      "summary": "Peynir üretiminde süt proteini dışındaki proteinler, nişasta ve nişasta bazlı ürünler, jelatin, soya ürünleri ile süt yağı dışındaki hayvansal ve bitkisel yağların kullanılması yasaklandı.",
-      "source": "TRT Haber",
+      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-sinirlarimizin-otesinde-de-huzuru-guvenligi-ve-istikrari-guclendiriyoruz/4118171",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Atatürk Kültür, Dil ve Tarih Yüksek Kurumunda düzenlenen anma töreninde konuşuyor.",
+      "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 06:33 UTC"
+      "published_at": "2026-11-10 06:36 UTC"
     },
     {
       "title": "Vergi yüzsüzleri Aralık'ta açıklanacak",
@@ -398,13 +578,22 @@
       "published_at": "2026-11-10 06:31 UTC"
     },
     {
-      "title": "Büyük Önder Atatürk için TBMM'de anıldı",
+      "title": "Vietnam Merkez Bankası (SBV), 11 Kasım'dan itibaren bankacılık sistemine Vietnam dongu arzını desteklemek amacıyla haftada iki kez ABD doları satın alacak. - Vietnam.vn",
       "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/buyuk-onder-ataturk-icin-tbmmde-anildi-962762.html",
-      "summary": "Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı dolayısıyla TBMM'de anma töreni düzenlendi.",
-      "source": "TRT Haber",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2EtVEhCaTAxVzVGRjhXOFozWnloUTczMlZJYlRYN3JCS0JidmZsdFZMV1dicXJ3Y3J3RVlwSFRsZzNPMTZPTUs4MUJFVXUwSWZSRHRHdkh5Y2Yta1BxTjVqMjBpVjdYZHI3cDJvaWJheGM4LUtmUk9xbjlQOWF2U0hHdFNFMW1oNDExZnZRbDZWTXpGamktTVRBM29MdVQtbWdHdWhYYW9ZLU1LMjNOQ2V6WQ?oc=5",
+      "summary": "Vietnam Merkez Bankası (SBV), 11 Kasım'dan itibaren bankacılık sistemine Vietnam dongu arzını desteklemek amacıyla haftada iki kez ABD doları satın alacak. Vietnam.vn",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-10 06:24 UTC"
+    },
+    {
+      "title": "Oxford museum returns ancestral Naga skulls to India",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c57/live/c6a27780-dcba-11f1-bc9a-d176db862bf0.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+      "summary": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
+      "source": "BBC World",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 06:26 UTC"
+      "published_at": "2026-11-10 06:23 UTC"
     },
     {
       "title": "Luka Doncic’s 32 points help Lakers beat Hawks; Wembanyama powers Spurs",
@@ -432,33 +621,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-10 06:16 UTC"
-    },
-    {
-      "title": "Vergi borcu 5 milyon lira ve üzeri olan mükelleflerin isimleri açıklanacak",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/vergi-borcu-5-milyon-lira-ve-uzeri-olan-mukelleflerin-isimleri-aciklanacak-962760.html",
-      "summary": "Kesinleşen vergi ve ceza borçları ile vadesi geçtiği halde ödenmemiş borçları 5 milyon lira ve üzeri olan mükelleflerin isimleri aralık ayında kamuoyuyla paylaşılacak.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 06:15 UTC"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Bu cennet vatanı ihya etmeye kararlılıkla devam edeceğiz",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bu-cennet-vatani-ihya-etmeye-kararlilikla-devam-edecegiz-962759.html",
-      "summary": "Cumhurbaşkanı Erdoğan, \"Bölgemizin ve dünyanın krizlerle boğuştuğu bu zorlu dönemde, Türkiye Cumhuriyeti'ni 86 milyon ferdiyle daha müreffeh bir geleceğe taşımak için tüm imkanlarımızı harekete geçirmiş durumdayız\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 06:14 UTC"
-    },
-    {
-      "title": "WSJ: ABD, İran tehdidi üzerine tanker uçaklarını İngiltere'deki üsten tahliye etti",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/wsj-abd-iran-tehdidi-uzerine-tanker-ucaklarini-ingilteredeki-usten-tahliye-etti-962758.html",
-      "summary": "The Wall Street Journal WSJ gazetesi, İran kaynaklı bir tehdidin ardından ABD'nin İngiltere'deki hava üssünde bulunan uçaklarını Almanya ve diğer ülkelere tahliye ettiğini öne sürdü.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 06:14 UTC"
     },
     {
       "title": "Cricket Australia will not open another investigation into ‘sandpapergate’",
@@ -587,51 +749,6 @@
       "published_at": "2026-11-10 05:22 UTC"
     },
     {
-      "title": "Petrolde Trump'ın İran konusundaki açıklamaları düşüş getirdi",
-      "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794288146/3794026/jpg/320x180",
-      "link": "https://www.bloomberght.com/petrolde-trump-in-iran-konusundaki-aciklamalari-dusus-getirdi-3794026",
-      "summary": "Petrol fiyatları, ABD Başkanı Donald Trump'ın İran'a yönelik yeni saldırıların gerekli olmayacağını söylemesinin ardından Ağustos ayından bu yana en düşük kapanışını gerçekleştirerek gerilemesini sürdürdü.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-10 05:21 UTC"
-    },
-    {
-      "title": "Trump: İran'a askeri harekat düzenlemek pek gerekli bir şey gibi görünmüyor",
-      "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794287799/3794025/jpg/320x180",
-      "link": "https://www.bloomberght.com/trump-iran-a-askeri-harekat-duzenlemek-pek-gerekli-bir-sey-gibi-gorunmuyor-3794025",
-      "summary": "ABD Başkanı Donald Trump, şu anda İran'a yönelik yeni bir askeri harekata gerek olduğunu düşünmediğini açıkladı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-10 05:16 UTC"
-    },
-    {
-      "title": "Poland’s political rivals join ‘March of Silence’ for shooting victims",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/polands-political-rivals-join-march-of-silence-for-shooting-victims?traffic_source=rss",
-      "summary": "President Karol Nawrocki and Prime Minister Donald Tusk joined thousands in Krakow’s ‘March of Silence’.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 05:12 UTC"
-    },
-    {
-      "title": "Pope Leo draws 2.5 million people during historic Argentina Mass",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/pope-leo-draws-2-5-million-people-during-historic-argentina-mass?traffic_source=rss",
-      "summary": "An estimated 2.5 million people gathered in Buenos Aires for the first mass by a Catholic Pope in four decades.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 05:08 UTC"
-    },
-    {
-      "title": "European diplomats press Rubio for a role in Russia-Ukraine talks",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss",
-      "summary": "G7 foreign ministers are meeting in Paris ahead of the US-mediated Russia-Ukraine talks in Abu Dhabi.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 05:02 UTC"
-    },
-    {
       "title": "Pakistan Air Force showcases Turkish defense products in official social media post - ssbulten.com.tr",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTlVQbERvdkczb3N6ME1nSHBSaS1oczhNeGRqN01IYk1mYVotUXllT1Z1b3QyX00xY3lSOUVhY1lRczB1c2Q4SFV1Q3B4S0puTTNkZjJZS1JHUmpmMHQ3NmVEMVFIbE8xcDZHUEhVQjFmWWc2dXpVbTM3WU15LXJNU0hKZEpHSHBHQjVQSjZFQlE1MHdoSnJGOEVCaUNLUmQ0TlYxek50eHpyX3JOMVpmYl9kUmk3eXl5bGhfMzVJcmVXVjY4LXQySl9R?oc=5",
@@ -639,24 +756,6 @@
       "source": "Google News - Uluslararası Savunma",
       "category": "Savunma",
       "published_at": "2026-11-10 04:55 UTC"
-    },
-    {
-      "title": "Sönmeyen hasret, bitmeyen ışık",
-      "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794286679/3794024/jpg/320x180",
-      "link": "https://www.bloomberght.com/sonmeyen-hasret-bitmeyen-isik-3794024",
-      "summary": "Milli mücadelenin büyük önderi, modern Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk 88 yıl önce ebediyete intikal etti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-10 04:52 UTC"
-    },
-    {
-      "title": "Çin'de ticaret fazlası 1 trilyon doları aştı",
-      "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794285906/3794023/jpg/320x180",
-      "link": "https://www.bloomberght.com/cin-de-ticaret-fazlasi-1-trilyon-dolari-asti-3794023",
-      "summary": "Çin'in ticaret fazlası, 2021'den bu yana görülen en büyük ithalat sıçramasına rağmen yıllık bazda 1 trilyon doların üzerini gördü.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-10 04:44 UTC"
     },
     {
       "title": "Dolar bugün ne kadar? 10 Kasım 2026 dolar, euro ve gram altın sabah fiyatları - Yeniçağ Gazetesi",
@@ -677,15 +776,6 @@
       "published_at": "2026-11-10 04:26 UTC"
     },
     {
-      "title": "Anger as ICE agents make arrest in New Jersey grocery store",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/anger-as-ice-agents-make-arrest-in-new-jersey-grocery-store?traffic_source=rss",
-      "summary": "ICE agents stormed a New Jersey store before being confronted by a crowd demanding they leave, as they escort a man out.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 04:23 UTC"
-    },
-    {
       "title": "Parayı enflasyondan koruyan tek yatırım aracı! Dolar, altın ve borsa kaybettirirken o kazandırdı - Posta",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVVJSZHB5RUFTcVh2VU1yb2FhUUxJbEdOeEhJNjd5U1AydGF2TlBUSkVha2hpajFTWGM1YWxHMlBNRndNOXRtMHprb3pTYkxxdFFqQmlHYWpySV9iUnRtWkdIOENaemhDZURQMmZfZzNGajhDM0swZGQwY0xSRHMzRXJNSVZMX0ZSajhMdG0yam1CRzNIa0o2U1dwM3V2Nzl2bEpSdjBjSC1XSzltQUdYY0ItbFBrOWoxVkZrekl2cGhIYVdaU3BveTVEWGVTV0U?oc=5",
@@ -693,24 +783,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-10 04:00 UTC"
-    },
-    {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 03:58 UTC"
-    },
-    {
-      "title": "Borsa İstanbul’da bankacılık hisseleri yükselişe öncülük etti - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVRDcUZlZlJham42QzFENVg3cnBVXzBzVjV0OV9WVVR1aTFvOTVMYWw3V193OTdSVTNNUm42RkNycGJsdl83WTREVWRQaE43RGw5ckJOVHNUMHg3WXkyTWp1cDkzSGFxakdBajBjRTlyMlRYSThQYkRKZzQxakM1ZXFzTWJkS3RSQnNYY2xlVGdNa0tP?oc=5",
-      "summary": "Borsa İstanbul’da bankacılık hisseleri yükselişe öncülük etti EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-10 03:12 UTC"
     },
     {
       "title": "OpenAI İhlalinin Ardından Avustralya Yapay Zekâ Güvenliği Önerilerini Açıkladı - Unite.AI",
@@ -776,15 +848,6 @@
       "published_at": "2026-11-10 00:00 UTC"
     },
     {
-      "title": "Ziraat Bankası'ndan COP31'de 2 milyar dolarlık kaynak - Haber 7",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU1U5cHdXQmliN0x3TUZOMnl1ZzBwUzUxdV9hSXRyRmc4UHMxaE9MeDdIRTZKNWZ4cnBYXzJ3NFFFbGdQbnpKTTVvZHVmRlRjS1dDTGtMZ2RQZHRqOFhWaU9xZHRWMjdscFZmR3V4TFZSM1owMGw1U1gwVi1PenowWHNWbXpHOFo2VFhqX1UtdWk1LVltaERrc1dwa0pLMmhNSWfSAaQBQVVfeXFMT2ZTX2J5a2E1MTdnSlNwb3g3MUQxdHctYlJMRmRJMU5sN01JQk9SYnluWmxlLWpVS3NNNnVZU0hWZFNUQ0toS2gwSGpJbm11YWZhMkxtZVBfbGh2cFVIOU5CUEJIT04xZ2pyZUFzem5odk1sVzZ1eG9tWUZUZUJTT2lheVlxTkRaWFRfS1VQamUySl91SkRUcDlycGNqc2xnWTEtbU0?oc=5",
-      "summary": "Ziraat Bankası'ndan COP31'de 2 milyar dolarlık kaynak Haber 7",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-09 23:53 UTC"
-    },
-    {
       "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg",
       "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
@@ -801,15 +864,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-11-09 22:10 UTC"
-    },
-    {
-      "title": "Boeing, ticari uçaklar biriminde çalışanlarının yüzde 5'ini işten çıkarıyor",
-      "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794261100/3794022/jpg/320x180",
-      "link": "https://www.bloomberght.com/boeing-ticari-ucaklar-biriminde-calisanlarinin-yuzde-5-ini-isten-cikariyor-3794022",
-      "summary": "ABD'li havacılık şirketi Boeing, üretim takvimindeki değişiklikler ve uçak üretiminin azaltılması nedeniyle ticari uçaklar birimindeki çalışan sayısını yaklaşık yüzde 5 düşüreceğini açıkladı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-09 21:51 UTC"
     },
     {
       "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
@@ -830,15 +884,6 @@
       "published_at": "2026-11-09 21:33 UTC"
     },
     {
-      "title": "ABD Savunma Bakanı Hegseth'in azli için 8 maddelik tasarı sunuldu",
-      "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794259944/3794021/jpg/320x180",
-      "link": "https://www.bloomberght.com/abd-savunma-bakani-hegseth-in-azli-icin-8-maddelik-tasari-sunuldu-3794021",
-      "summary": "ABD'li Cumhuriyetçi Kongre Üyesi Thomas Massie, Savunma Bakanı Pete Hegseth'in İran, Yemen ve Venezuela'daki askeri operasyonlardaki rolü dahil çeşitli suçlamalarla görevden alınmasını öngören 8 maddelik azil tasarısını Temsilciler Meclisi'ne sundu.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-09 21:31 UTC"
-    },
-    {
       "title": "Turkey steel factory blast kills at least 17 people",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5625/live/fd460940-dc61-11f1-8fe6-5becaee5408f.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
@@ -855,51 +900,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-09 20:36 UTC"
-    },
-    {
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 20:20 UTC"
-    },
-    {
-      "title": "Mustafa Sarıgül dosyası Ankara'ya gönderildi",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e96f/live/c4805810-d9cb-11f1-bb8e-efaa31738708.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cm86zz07qlx5o?at_medium=RSS&at_campaign=rss",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı, Erzincan Milletvekili Mustafa Sarıgül hakkındaki tahkikat dosyası yetkisizlik kararı verilerek Ankara Cumhuriyet Başsavcılığı'na gönderildiğini duyurdu.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 19:30 UTC"
-    },
-    {
-      "title": "İzmir'deki demir çelik fabrikasındaki patlamada can kaybı 17'ye çıktı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/816d/live/a905bdb0-dc31-11f1-a701-fddedf244c16.png",
-      "link": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss",
-      "summary": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda meydana gelen patlamada can kaybı 17'ye çıktı. Sağlık Bakanı Kemal Memişoğlu, ağır yaralı bir kişinin daha hayatını kaybettiğini duyurdu.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 19:21 UTC"
-    },
-    {
-      "title": "CES 2027 ödülleri öne çıkanlar - ShiftDelete.Net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BYVBnM2lIRVJ2TVoxUlFvLXl2NFBWZE1JeDJ4NmJfTTlHbWI1VEVYVjRlYjdUSGZ6LUozeDNma1dJdXI2angyWGVibGJOa1VVOXdYa1MzMVR3VXZEUl8w?oc=5",
-      "summary": "CES 2027 ödülleri öne çıkanlar ShiftDelete.Net",
-      "source": "Google News - Küresel Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-11-09 19:19 UTC"
-    },
-    {
-      "title": "Russell Brand, tecavüz ve cinsel saldırıdan 10 buçuk yıla mahkum oldu",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1c3/live/e7281af0-dc47-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cwvg0g89ne0mo?at_medium=RSS&at_campaign=rss",
-      "summary": "İngiliz komedyen ve aktör Russell Brand, tecavüz ve cinsel saldırı suçlarından 10 yıl 6 ay hapis cezasına çarptırıldı. Hakim Joel Bennathan, ceza kararını açıklarken Brand'i \"cinsel sapık\" olarak nitelendirdi.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 18:43 UTC"
     }
   ]
 }
