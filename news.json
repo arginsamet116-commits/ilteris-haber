@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-10 01:53 UTC",
+  "updated_at": "2026-11-10 02:42 UTC",
   "items": [
+    {
+      "title": "OpenAI İhlalinin Ardından Avustralya Yapay Zekâ Güvenliği Önerilerini Açıkladı - Unite.AI",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVo4U0FkdXJkRTcyakJUMkRNV2RoTDJNUTZZWmpzV3NmVHhlbkQ4REc4MlhGUWxaOXJWakJhZFhsblJFOVJrVVBVbXUwRHgzdFdPTGEyRVdJSzFfR2FFZG9jOE1RYWtXU0NLOExtcm9EMWJlMlNKZndUSERhZDY2SlRpeTdxUE9PVTBjMXR1WkczV1E?oc=5",
+      "summary": "OpenAI İhlalinin Ardından Avustralya Yapay Zekâ Güvenliği Önerilerini Açıkladı Unite.AI",
+      "source": "Google News - Teknoloji",
+      "category": "Teknoloji ve Bilim",
+      "published_at": "2026-11-10 02:05 UTC"
+    },
+    {
+      "title": "Cameroon sets date for twice-delayed legislative and local elections",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
+      "summary": "President Paul Biya, the world's oldest leader, sets February 7 for Cameroon's delayed legislative and local polls.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 02:03 UTC"
+    },
+    {
+      "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
+      "summary": "Israel's internal security service has found no evidence of foreign interference in last month’s election.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 01:59 UTC"
+    },
+    {
+      "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
+      "summary": "Americans say the US should prioritise avoiding higher prices over achieving Trump's military goals in Iran.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 01:56 UTC"
+    },
+    {
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 01:55 UTC"
+    },
     {
       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
@@ -11,19 +56,19 @@
       "published_at": "2026-11-10 01:44 UTC"
     },
     {
+      "title": "Al Jazeera: İsrail askerleri sivil kıyafet giyerek Batı Şeria'da Filistinlilere saldırıyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/al-jazeera-israil-askerleri-sivil-kiyafet-giyerek-bati-seriada-filistinlilere-saldiriyor-962736.html",
+      "summary": "Katar merkezli Al Jazeera televizyon kanalının yayımladığı araştırma, İsrail askerlerinin işgal altındaki Batı Şeria'da sivil kıyafetler giyerek Filistin topraklarını gasbeden İsraillilerin Filistinlilere yönelik silahlı saldırılarına katıldığını ortaya koydu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 01:41 UTC"
+    },
+    {
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
       "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
       "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 01:38 UTC"
-    },
-    {
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-10 01:38 UTC"
@@ -56,7 +101,7 @@
       "published_at": "2026-11-10 00:57 UTC"
     },
     {
-      "title": "Trump says FBI probing Nvidia CEO’s affair with alleged spy",
+      "title": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
       "image": "",
       "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
       "summary": "US president says he believes CEO Jensen Huang had no knowledge of woman's alleged work for Chinese intelligence.",
@@ -245,15 +290,6 @@
       "published_at": "2026-11-09 22:13 UTC"
     },
     {
-      "title": "Saudi Arabia reports new attack on key East-West pipeline",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
-      "summary": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 22:10 UTC"
-    },
-    {
       "title": "OpenAI, Araştırma Modellerinin Çıktılarını Durdurmak İçin Control Room’u Devreye Alıyor - Unite.AI",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHFFdjdrUWx6bVlfWFhtYzJBb0hTQVhGWWdWSC1hZUJJMDV0ZUFPTkQ5Q1ZkYm8yZjBTY3YyTkxzLU9tdWFCTFFwRG9zdURWN1JNT1QzNzNFVjQ2dW8tT2ZzUW1xN2FnSjBTX0hoSXp2elZvRUt3UE5pUDhDNVprY1Rua0xQN0tha29EbjVR?oc=5",
@@ -416,30 +452,12 @@
       "published_at": "2026-11-09 21:21 UTC"
     },
     {
-      "title": "COP31 opens amid energy crisis as activists demand climate action",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
-      "summary": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 21:18 UTC"
-    },
-    {
       "title": "Resmi Gazete'de bugün (10.11.2026)",
       "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794258926/3794020/jpg/320x180",
       "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-10112026-3794020",
       "summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-09 21:13 UTC"
-    },
-    {
-      "title": "Will Najib Razak be transferred to house arrest?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/9/will-najib-razak-be-transferred-to-house-arrest?traffic_source=rss",
-      "summary": "Malaysia's king and government in a standoff after attorney general disputed order allowing former PM to leave jail.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-09 21:13 UTC"
     },
     {
@@ -614,15 +632,6 @@
       "published_at": "2026-11-09 19:21 UTC"
     },
     {
-      "title": "RTÜK: Yayıncı kuruluşlar yayın yasağı kararına hassasiyetle uymalı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/rtuk-yayinci-kuruluslar-yayin-yasagi-kararina-hassasiyetle-uymali-962721.html",
-      "summary": "Radyo ve Televizyon Üst Kurulu RTÜK, İzmir'in Aliağa ilçesindeki fabrikada meydana gelen patlamaya ilişkin alınan yayın yasağı kararına yayıncı kuruluşların hassasiyetle uyması gerektiğini duyurdu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 19:18 UTC"
-    },
-    {
       "title": "Turkcell'den üçüncü çeyrekte 6,7 milyar TL net kâr",
       "image": "https://geoim.bloomberght.com/l/2026/11/09/ver1794250765/3794015/jpg/320x180",
       "link": "https://www.bloomberght.com/turkcell-den-ucuncu-ceyrekte-6-7-milyar-tl-net-kr-3794015",
@@ -720,6 +729,15 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-09 17:47 UTC"
+    },
+    {
+      "title": "Borsa İstanbul'da günün öne çıkan hisseleri - Borsa Gundem",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY2dkbE9wVVB4WmRILWdmWjMwNU5fVU1mMHJPMmlKNWdoc0I1LTdiN3JUOHBLRHh6WkFmQ3ZPVlA1Y290ejN6Tl84aVpBcjFjMjlGdEdpcG03S0Z2T01oN2xZcmx6X0N4Zk1WejdxUUpXcUxkcmR2Q0xacXlUMmtaNg?oc=5",
+      "summary": "Borsa İstanbul'da günün öne çıkan hisseleri Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-09 17:46 UTC"
     },
     {
       "title": "ABD'de enflasyon beklentileri sabit, işsizlik endişesi artıyor",
@@ -882,24 +900,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-09 12:53 UTC"
-    },
-    {
-      "title": "COP31, 2026'da yeni bir sıcaklık rekoru kırılacağı uyarıları eşliğinde başladı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59c2/live/b03ccd10-dc38-11f1-95cf-a38331e6cb4b.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cwz0v0rv0lvxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Türkiye ve Avustralya eş başkanlığında düzenlenen Birleşmiş Milletler iklim konferansı COP31, 9 Kasım'da Antalya'da başladı. Konferansın açılış gününde bilim insanları 2026'nın kayıtlara geçen en sıcak yıl olacağı uyarısını paylaştı.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 12:45 UTC"
-    },
-    {
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/707b/live/625f7400-dc3b-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-      "summary": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 11:56 UTC"
     }
   ]
 }
