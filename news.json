@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 00:40 UTC",
+  "updated_at": "2026-11-10 01:53 UTC",
   "items": [
     {
       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -8,7 +8,70 @@
       "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-10 00:34 UTC"
+      "published_at": "2026-11-10 01:44 UTC"
+    },
+    {
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 01:38 UTC"
+    },
+    {
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 01:38 UTC"
+    },
+    {
+      "title": "France blames Iran for October supermarket cyberattack",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+      "summary": "French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 01:01 UTC"
+    },
+    {
+      "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+      "summary": "Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 01:00 UTC"
+    },
+    {
+      "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss",
+      "summary": "Angie Pena's disappearance in 2022 exposed what prosecutors called a sex-trafficking network and state corruption.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 00:57 UTC"
+    },
+    {
+      "title": "Trump says FBI probing Nvidia CEO’s affair with alleged spy",
+      "image": "",
+      "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
+      "summary": "US president says he believes CEO Jensen Huang had no knowledge of woman's alleged work for Chinese intelligence.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 00:44 UTC"
+    },
+    {
+      "title": "Bakan Gürlek'ten Yeni Parti'li Özer'e: 'Milletvekili olmasan evin aranacaktı'",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c930/live/2476f460-dc86-11f1-851a-19e868620cad.png",
+      "link": "https://www.bbc.com/turkce/articles/cqn7372n31ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "Adalet Bakanı Akın Gürlek, TBMM Plan ve Bütçe Komisyonu'nda, Yeni Parti İstanbul Milletvekili Turan Taşkın Özer ile İstanbul Büyükşehir Belediyesi davasında dile getirilen iddialar üzerinden tartıştı. Bakan Gürlek, Turan Taşkın Özer'e, karşılıklı olarak dokunulmazlıkları kaldırmayı önerdi.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-10 00:40 UTC"
     },
     {
       "title": "Arap Koalisyonu: Suudi Arabistan'ın güneyine fırlatılan balistik füze engellendi",
@@ -47,10 +110,37 @@
       "published_at": "2026-11-10 00:07 UTC"
     },
     {
-      "title": "Iran war live: Trump says war ‘effectively over’, Iran demands ‘surrender’",
+      "title": "Borsa İstanbul'da günün ilk yarısında bankacılık hisseleriyle yükseldi - EKOTÜRK",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOGdidUhsU2txYVFqWmxVbzVMX1dibFpNYzU2dXBEbnZVU1hPVVdaWFZDVEVISzJ2d2hYVFJTYmxjZXNmclNQNW5xZ2xwTTB2b1AtNDRRTlR4SlY2R2F1VENFdmNjcS13WHl0NGRUVHdPOWxxZ0lhNHl6dHNTdWlwNWgtZHU5OE0zWmVWS2pkY3RoSmhDRnM1Z1B6YnAyRTJE?oc=5",
+      "summary": "Borsa İstanbul'da günün ilk yarısında bankacılık hisseleriyle yükseldi EKOTÜRK",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-10 00:01 UTC"
+    },
+    {
+      "title": "Merkez Bankası faiz kararı ne zaman açıklanacak? TCMB toplantı tarihi - EKOTÜRK",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVWVtTnpOTGNBcWVQLWZaX3UzRU9sSFltMEMxbU90QmppVnBhQzdTbU5FRlNfZFA0Y0xLYkhTTHIyM1ROWnhDUTVkMGZoUDI5elpHSVBXOEZ3cl83Y2NOY3c4WUFIbmh0ek5jOVRkLTgtX0tGazhlQk9UbkVIcFctSUw2UjFDNk4yb0VYTDF3OURWd3F5dkpWVmZyeEJuQnk1Z3Jzdk52RzRpYWVKR3c?oc=5",
+      "summary": "Merkez Bankası faiz kararı ne zaman açıklanacak? TCMB toplantı tarihi EKOTÜRK",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-10 00:00 UTC"
+    },
+    {
+      "title": "Borsa İstanbul’da bankacılık hisseleri yükselişe öncülük etti - EKOTÜRK",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVRDcUZlZlJham42QzFENVg3cnBVXzBzVjV0OV9WVVR1aTFvOTVMYWw3V193OTdSVTNNUm42RkNycGJsdl83WTREVWRQaE43RGw5ckJOVHNUMHg3WXkyTWp1cDkzSGFxakdBajBjRTlyMlRYSThQYkRKZzQxakM1ZXFzTWJkS3RSQnNYY2xlVGdNa0tP?oc=5",
+      "summary": "Borsa İstanbul’da bankacılık hisseleri yükselişe öncülük etti EKOTÜRK",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-10 00:00 UTC"
+    },
+    {
+      "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
       "image": "",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
-      "summary": "US President Donald Trump made the remarks after meeting Qatar's prime minister in Washington, DC.",
+      "summary": "US President Donald Trump said the war was \"effectively over\" after meeting Qatar's prime minister in Washington, DC.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-09 23:55 UTC"
@@ -72,15 +162,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-09 23:47 UTC"
-    },
-    {
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 23:45 UTC"
     },
     {
       "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
@@ -137,22 +218,13 @@
       "published_at": "2026-11-09 23:08 UTC"
     },
     {
-      "title": "After meeting with Qatar PM, Trump declares Iran war ‘effectively over’",
+      "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
-      "summary": "Iranian officials dismissed Trump's latest remarks as 'fake news' after the US president suggested keeping 'status quo'.",
+      "summary": "Iranian officials dismissed Trump's remarks as 'fake news' after he suggested keeping the 'status quo'.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-09 22:31 UTC"
-    },
-    {
-      "title": "Borsa İstanbul'da günün ilk yarısında bankacılık hisseleriyle yükseldi - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOGdidUhsU2txYVFqWmxVbzVMX1dibFpNYzU2dXBEbnZVU1hPVVdaWFZDVEVISzJ2d2hYVFJTYmxjZXNmclNQNW5xZ2xwTTB2b1AtNDRRTlR4SlY2R2F1VENFdmNjcS13WHl0NGRUVHdPOWxxZ0lhNHl6dHNTdWlwNWgtZHU5OE0zWmVWS2pkY3RoSmhDRnM1Z1B6YnAyRTJE?oc=5",
-      "summary": "Borsa İstanbul'da günün ilk yarısında bankacılık hisseleriyle yükseldi EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-09 22:16 UTC"
     },
     {
       "title": "Pope meets with clergy abuse survivors in Argentina",
@@ -272,15 +344,6 @@
       "published_at": "2026-11-09 21:35 UTC"
     },
     {
-      "title": "Bakan Gürlek'ten Yeni Parti'li Özer'e: 'Milletvekili olmasan evin aranacaktı'",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c930/live/2476f460-dc86-11f1-851a-19e868620cad.png",
-      "link": "https://www.bbc.com/turkce/articles/cqn7372n31ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "Adalet Bakanı Akın Gürlek, TBMM Plan ve Bütçe Komisyonu'nda, Yeni Parti İstanbul Milletvekili Turan Taşkın Özer ile İstanbul Büyükşehir Belediyesi davasında dile getirilen iddialar üzerinden tartıştı. Bakan Gürlek, Turan Taşkın Özer'e, karşılıklı olarak dokunulmazlıkları kaldırmayı önerdi.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 21:33 UTC"
-    },
-    {
       "title": "Fireworks AI, Veri Kümeleri ve Model Ağırlıklarına Yönelik İhlal Açıklamasını Genişletti - Unite.AI",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGZ1VUVybUwxTjR3T3dWeHc4TVNNMkZhbzEtakplWjRQbl9RMldadkwyMVdKekROenVEM2IwRG5mZnpibTVSUzJkWXBVcHk2NkpGLVpTc3lSSTNDc1lsRVYzTFdUN2xZWTlYaVhxUDM0LXE2Tks3clVmUk9aWm5xN3AyNFFjMC1Wd1NzRzd3RVFUVml6WGJLOA?oc=5",
@@ -362,15 +425,6 @@
       "published_at": "2026-11-09 21:18 UTC"
     },
     {
-      "title": "Borsa İstanbul’da bankacılık hisseleri yükselişe öncülük etti - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVRDcUZlZlJham42QzFENVg3cnBVXzBzVjV0OV9WVVR1aTFvOTVMYWw3V193OTdSVTNNUm42RkNycGJsdl83WTREVWRQaE43RGw5ckJOVHNUMHg3WXkyTWp1cDkzSGFxakdBajBjRTlyMlRYSThQYkRKZzQxakM1ZXFzTWJkS3RSQnNYY2xlVGdNa0tP?oc=5",
-      "summary": "Borsa İstanbul’da bankacılık hisseleri yükselişe öncülük etti EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-09 21:16 UTC"
-    },
-    {
       "title": "Resmi Gazete'de bugün (10.11.2026)",
       "image": "https://geoim.bloomberght.com/l/2026/11/10/ver1794258926/3794020/jpg/320x180",
       "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-10112026-3794020",
@@ -398,15 +452,6 @@
       "published_at": "2026-11-09 21:05 UTC"
     },
     {
-      "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss",
-      "summary": "Republican Congressman Thomas Massie has introduced articles of impeachment against Defense Secretary Pete Hegseth.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 21:04 UTC"
-    },
-    {
       "title": "BM, İsrail'in Lübnan'ın güneyinde kalıcı varlığa yönelik altyapı faaliyetlerine dikkati çekti",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/bm-israilin-lubnanin-guneyinde-kalici-varliga-yonelik-altyapi-faaliyetlerine-dikkati-cekti/4118007",
@@ -414,15 +459,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-09 20:52 UTC"
-    },
-    {
-      "title": "Cyprus rivals agree new crossings across island’s dividing line",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss",
-      "summary": "The island has been split since 1974, when Turkiye invaded and seized the northern part after a coup by the Greeks.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 20:50 UTC"
     },
     {
       "title": "Turkey steel factory blast kills at least 17 people",
@@ -470,15 +506,6 @@
       "published_at": "2026-11-09 20:20 UTC"
     },
     {
-      "title": "Deadly explosion at Iron and steel plant in Turkiye",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
-      "summary": "Deadly explosion at Iron and steel plant in Turkiye",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 20:19 UTC"
-    },
-    {
       "title": "Fransa: Marketlere düzenlenen siber saldırının sorumluluğu İran Devrim Muhafızları'na ait",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/fransa-marketlere-duzenlenen-siber-saldirinin-sorumlulugu-iran-devrim-muhafizlarina-ait-962726.html",
@@ -502,15 +529,6 @@
       "link": "https://www.trthaber.com/haber/dunya/suudi-arabistan-dogu-bati-petrol-boru-hattinin-hedef-alinmasi-sonucu-yangin-cikti-962724.html",
       "summary": "Suudi Arabistan Enerji Bakanlığı, Medine bölgesinde DoğuBatı Petrol Boru Hattı'nın hedef alınması sonucu çıkan yangının kontrol altına alınarak söndürüldüğünü, olayda ölen ya da yaralanan olmadığını ve hattın operasyonel faaliyetlerinin kesintiye uğramadığını duyurdu.",
       "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 20:08 UTC"
-    },
-    {
-      "title": "Russell Brand sentenced to 10.5 years over sexual assault charges",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
-      "summary": "Russell Brand has been sentenced to 10 years and six months in prison after being convicted of raping one woman",
-      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-09 20:08 UTC"
     },
@@ -641,15 +659,6 @@
       "published_at": "2026-11-09 18:39 UTC"
     },
     {
-      "title": "Merkez Bankası faiz kararı ne zaman açıklanacak? TCMB toplantı tarihi - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVWVtTnpOTGNBcWVQLWZaX3UzRU9sSFltMEMxbU90QmppVnBhQzdTbU5FRlNfZFA0Y0xLYkhTTHIyM1ROWnhDUTVkMGZoUDI5elpHSVBXOEZ3cl83Y2NOY3c4WUFIbmh0ek5jOVRkLTgtX0tGazhlQk9UbkVIcFctSUw2UjFDNk4yb0VYTDF3OURWd3F5dkpWVmZyeEJuQnk1Z3Jzdk52RzRpYWVKR3c?oc=5",
-      "summary": "Merkez Bankası faiz kararı ne zaman açıklanacak? TCMB toplantı tarihi EKOTÜRK",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-09 18:26 UTC"
-    },
-    {
       "title": "SuperFresh'in \"Tarımın Kadın Yıldızları\" projesi COP31'de tanıtıldı",
       "image": "https://geoim.bloomberght.com/l/2026/11/09/ver1794248011/3794013/jpg/320x180",
       "link": "https://www.bloomberght.com/superfresh-in-tarimin-kadin-yildizlari-projesi-cop31-de-tanitildi-3794013",
@@ -767,15 +776,6 @@
       "published_at": "2026-11-09 16:33 UTC"
     },
     {
-      "title": "Borsa, altın, dolar l 9 Kasım piyasalarda gün sonu rakamları - Platin Dergisi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWmdpUGZKa1l0WEJ3VnRyLWVQcVYyc3JPRFdJVDF0eGo2YVZkamkxTmllM0JtTVg1S092RENWRG0tZ21DU1N2SXlhRXAzWGdQdGt5NGE4YmlLeEo2WGk1RzcwamJOSVNlQUI3WkcwYTBjQl85LUFYNlZUZWgyQkFRQldLdTZvSDNMMGZnbGlmRHkzZzE5U1o3dFZCZDVVeUNOUk5J?oc=5",
-      "summary": "Borsa, altın, dolar l 9 Kasım piyasalarda gün sonu rakamları Platin Dergisi",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-09 16:22 UTC"
-    },
-    {
       "title": "Güncel altın fiyatları haftanın ilk gününde sert yükseldi! Kapalıçarşı’da gram, çeyrek ve yarım altın kaç TL’ye çıktı? - Takvim",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNDBjdXZRaWl6d0x1NlAyNzI5Yjc4ekFNU19lbkdzeHMtT2ZJMk1KSDd4RFpWVTI0YXZBNl93WWxQanp2RmFSbWlmMEN3ai1QZ1NjMlpyd3Fla25hbGhEQ2pPWnhzUE1IOWYzSWpPNGxtMlRhOFJ1YURndXF4YWhnN2RQZlZKaTY0MklTMG81eTVWbVNkZWRIYUJmYUx2SF9HY0VJUnJLUFo?oc=5",
@@ -792,6 +792,15 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-09 15:51 UTC"
+    },
+    {
+      "title": "Borsa, altın, dolar l 9 Kasım piyasalarda gün sonu rakamları - Platin Dergisi",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWmdpUGZKa1l0WEJ3VnRyLWVQcVYyc3JPRFdJVDF0eGo2YVZkamkxTmllM0JtTVg1S092RENWRG0tZ21DU1N2SXlhRXAzWGdQdGt5NGE4YmlLeEo2WGk1RzcwamJOSVNlQUI3WkcwYTBjQl85LUFYNlZUZWgyQkFRQldLdTZvSDNMMGZnbGlmRHkzZzE5U1o3dFZCZDVVeUNOUk5J?oc=5",
+      "summary": "Borsa, altın, dolar l 9 Kasım piyasalarda gün sonu rakamları Platin Dergisi",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-09 15:49 UTC"
     },
     {
       "title": "Hayali arkadaşlar zihni nasıl geliştirebilir?",
@@ -828,15 +837,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-09 15:16 UTC"
-    },
-    {
-      "title": "Thirteen migrants die after boat sinks off Crete",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2597/live/27d57330-dc3a-11f1-95cf-a38331e6cb4b.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-09 13:50 UTC"
     },
     {
       "title": "Türkiye-Azerbaycan arasındaki buzlar eridi mi?",
