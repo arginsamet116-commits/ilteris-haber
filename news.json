@@ -1,6 +1,213 @@
 {
-  "updated_at": "2026-11-11 16:45 UTC",
+  "updated_at": "2026-11-11 17:48 UTC",
   "items": [
+    {
+      "title": "Spain sees widespread disruption in first general strike for 14 years",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 17:44 UTC"
+    },
+    {
+      "title": "Gazze'de yerinden edilmiş aileler çok az koruma ve şiddetli soğuklarla karşı karşıya",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/gazzede-yerinden-edilmis-aileler-cok-az-koruma-ve-siddetli-soguklarla-karsi-karsiya-962965.html",
+      "summary": "Uluslararası Kızılhaç ve Kızılay Dernekleri Federasyonu IFRC, Gazze'de yerinden edilmiş ailelerin şiddetli soğuklarla karşı karşıya bulunduğunu belirterek, Filistinlilerin tek barınakları olan çadırların şiddetli yağmur, sel ve rüzgarlar nedeniyle yok olduğunu ifade etti.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 17:43 UTC"
+    },
+    {
+      "title": "İran Meclis Başkanı Kalibaf: ABD şu ana kadar İranın mesajına yanıt vermedi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaf-abd-su-ana-kadar-iranin-mesajina-yanit-vermedi-962964.html",
+      "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ülkesinin yasal taleplerini içeren cevabını ABD tarafına açık ve net bir şekilde ilettiğini vurgulayarak, \"ABD şu ana kadar İranın mesajına yanıt vermedi.\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 17:41 UTC"
+    },
+    {
+      "title": "Emine Erdoğan, Maldivler Cumhurbaşkanının eşi Sajidha Mohamed ile görüştü",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-maldivler-cumhurbaskaninin-esi-sajidha-mohamed-ile-gorustu/4121297",
+      "summary": "Emine Erdoğan, Maldivler Cumhurbaşkanı Muhammed Muizzu'nun eşi Sajidha Mohamed ile bir araya geldi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 17:39 UTC"
+    },
+    {
+      "title": "MİT Başkanı Kalın, IKBY Başkanı Neçirvan Barzani ile görüştü",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalin-ikby-baskani-necirvan-barzani-ile-gorustu-962962.html",
+      "summary": "Milli İstihbarat Teşkilatı MİT Başkanı İbrahim Kalın, Antalya'da düzenlenen Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı COP31 kapsamında Irak Kürt Bölgesel Yönetimi IKBY Başkanı Neçirvan Barzani ile bir araya geldi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 17:33 UTC"
+    },
+    {
+      "title": "ABD Temsilciler Meclisi, Hegseth'e yönelik azil girişimini engelledi",
+      "image": "https://geoim.bloomberght.com/l/2026/11/11/ver1794418393/3794242/jpg/320x180",
+      "link": "https://www.bloomberght.com/abd-temsilciler-meclisi-hegseth-e-yonelik-azil-girisimini-engelledi-3794242",
+      "summary": "ABD Temsilciler Meclisi, Savunma Bakanı Pete Hegseth'e yönelik sekiz maddelik azil önergesinin ilerlemesini engelleyen kararı 204'e karşı 211 oyla kabul etti. Oylamaya katılmayan 11 Demokrat üyenin tamamı karara karşı oy kullansaydı, azil süreci ilerleyebilecekti.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-11 17:32 UTC"
+    },
+    {
+      "title": "MİT Başkanı Kalın, IKBY Başkanı Neçirvan Barzani ile görüştü",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-ikby-baskani-necirvan-barzani-ile-gorustu/4121292",
+      "summary": "MİT Başkanı İbrahim Kalın, Antalya'da düzenlenen COP31 kapsamında Irak Kürt Bölgesel Yönetimi Başkanı Neçirvan Barzani ile bir araya geldi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 17:31 UTC"
+    },
+    {
+      "title": "8 uluslararası finans kuruluşu Sivas ve Taşeli GES için destek mektubu imzaladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/8-uluslararasi-finans-kurulusu-sivas-ve-taseli-ges-icin-destek-mektubu-imzaladi/4121289",
+      "summary": "Sekiz kalkınma ve ticari finans kuruluşu, Suudi şirket ACWA'nın Türkiye'de hayata geçireceği 2 bin megavat kapasiteli Sivas ve Taşeli güneş enerjisi santrali (GES) projelerinin finansmanına yönelik destek mektubu imzaladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 17:27 UTC"
+    },
+    {
+      "title": "Emine Erdoğan: Küresel Sıfır Atık İttifakı ortak sorumluluğu kalıcı işbirliklerine dönüştürme irademizin bir ifadesidir",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-kuresel-sifir-atik-ittifaki-ortak-sorumlulugu-kalici-isbirliklerine-donusturme-irademizin-bir-ifadesidir/4121266",
+      "summary": "BM Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, Küresel Sıfır Atık İttifakı'nın, ortak sorumluluğu kalıcı işbirliklerine dönüştürme iradelerinin bir ifadesi olduğunu belirtti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 17:19 UTC"
+    },
+    {
+      "title": "İran: ABD şu ana kadar mesajımıza yanıt vermedi",
+      "image": "https://geoim.bloomberght.com/l/2026/11/11/ver1794417290/3794241/jpg/320x180",
+      "link": "https://www.bloomberght.com/iran-abd-su-ana-kadar-mesajimiza-yanit-vermedi-3794241",
+      "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ülkesinin taleplerini içeren mesaja ABD'nin henüz yanıt vermediğini söyledi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-11 17:14 UTC"
+    },
+    {
+      "title": "İran Meclis Başkanı Kalibaf: ABD şu ana kadar İran’ın mesajına yanıt vermedi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaf-abd-su-ana-kadar-iran-in-mesajina-yanit-vermedi/4121242",
+      "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ülkesinin yasal taleplerini içeren cevabını ABD tarafına açık ve net bir şekilde ilettiğini vurgulayarak, “ABD şu ana kadar İran’ın mesajına yanıt vermedi.” dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 17:14 UTC"
+    },
+    {
+      "title": "Hissedarlar onayladı: Apollo, easyJet'i 5,7 milyar sterline satın alıyor",
+      "image": "https://geoim.bloomberght.com/l/2026/11/11/ver1794417011/3794240/jpg/320x180",
+      "link": "https://www.bloomberght.com/hissedarlar-onayladi-apollo-easyjet-i-5-7-milyar-sterline-satin-aliyor-3794240",
+      "summary": "EasyJet hissedarları, Apollo'nun 5,7 milyar sterlinlik satın alma teklifini onayladı. AB kuralları kapsamında incelenecek satışın gelecek yılın ilk çeyreği sona ermeden tamamlanması hedefleniyor. İşlem tamamlanırsa easyJet, 25 yılı aşkın süredir işlem gördüğü Londra Borsası'ndan ayrılacak.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-11 17:09 UTC"
+    },
+    {
+      "title": "Thune re-elected as US Senate Republican leader after midterm losses",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/11/thune-re-elected-as-us-senate-republican-leader-after-midterm-losses?traffic_source=rss",
+      "summary": "The Republican ran unopposed, despite some GOP lawmaker demands to evaluate the party's stinging midterm losses to Democ",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 17:08 UTC"
+    },
+    {
+      "title": "Kızılhaç: Gazze'de yerinden edilmiş aileler çok az koruma ve şiddetli soğuklarla ​​karşı karşıya",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/kizilhac-gazzede-yerinden-edilmis-aileler-cok-az-koruma-ve-siddetli-soguklarla-karsi-karsiya/4121204",
+      "summary": "IFRC, Gazze'de yerinden edilmiş ailelerin şiddetli soğuklarla karşı karşıya olduğunu, tek barınakları olan çadırların ise şiddetli yağmur, sel ve rüzgar nedeniyle kullanılamaz hale geldiğini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 17:06 UTC"
+    },
+    {
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 16:59 UTC"
+    },
+    {
+      "title": "Russia-Ukraine talks in UAE secure major prisoner exchange deal",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss",
+      "summary": "Russia and Ukraine have agreed to a major prisoner exchange following two days of US-mediated talks in Abu Dhabi",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 16:58 UTC"
+    },
+    {
+      "title": "Von der Leyen, COP31'de temiz enerjiye geçişin hızlandırılması çağrısında bulundu",
+      "image": "https://geoim.bloomberght.com/l/2026/11/11/ver1794416193/3794239/jpg/320x180",
+      "link": "https://www.bloomberght.com/von-der-leyen-cop31-de-temiz-enerjiye-gecisin-hizlandirilmasi-cagrisinda-bulundu-3794239",
+      "summary": "AB Komisyonu Başkanı Ursula von der Leyen, Antalya'daki COP31 Liderler Zirvesi'nde Hürmüz Boğazı üzerinden enerji tedarikinde yaşanan kesintilerin küresel piyasaları sarstığını söyledi. Von der Leyen, iklimi korumak ve enerji güvenliğini güçlendirmek için temiz enerjiye geçişin hızlandırılması çağrısında bulundu.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-11 16:54 UTC"
+    },
+    {
+      "title": "Palestinian American activist refused UK entry for Gaza fundraiser",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/palestinian-american-activist-refused-uk-entry-for-gaza-fundraiser?traffic_source=rss",
+      "summary": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 16:52 UTC"
+    },
+    {
+      "title": "Uluslararası Enerji Ekonomisi Birliği COP2026 Sempozyumu Antalya'da başladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/uluslararasi-enerji-ekonomisi-birligi-cop2026-sempozyumu-antalyada-basladi/4121172",
+      "summary": "Uluslararası Enerji Ekonomisi Birliğince (IAEE) düzenlenen IAEE COP 2026 Sempozyumu, yerli ve yabancı akademisyenleri, kamu ve özel sektör temsilcilerini Antalya'da buluşturdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 16:51 UTC"
+    },
+    {
+      "title": "Tahran’dan yeni askerî doktrin: Hızlı, etkili ve sınırsız karşılık - Hürseda Haber",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa2MzbGdfVDFvTXVLbWRmVXNBSUdacmRvbmFlWjlJRDZiLTlYRTB5LVdqQ2VoNmROSmNXSm0yN1lFLWVrNktSQU5hSEFVemhkZDZCT2RkOGxtS1d5NzVMb19wOEZCeGt3VVVXMXZFcVUtRjc4R3hjazVKT0ZudF9VTmZfODZjVEpZODNCYXVpLUlkdjZZaUlWQnVJdEE0Zm9MVUlN?oc=5",
+      "summary": "Tahran’dan yeni askerî doktrin: Hızlı, etkili ve sınırsız karşılık Hürseda Haber",
+      "source": "Google News - Savunma",
+      "category": "Savunma",
+      "published_at": "2026-11-11 16:50 UTC"
+    },
+    {
+      "title": "Israeli army kills Palestinian footballer Mahmoud Kamal Abdel-Malek in Gaza",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/11/11/israeli-army-kills-palestinian-footballer-mahmoud-kamal-abdel-malek-in-gaza?traffic_source=rss",
+      "summary": "Abdel-Malek, the captain and goalkeeper of Gaza Sports Club, recently played in the Thousand Martyrs Cup final.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 16:48 UTC"
+    },
+    {
+      "title": "Fransa, Filistin toprakları gasbedilerek kurulan yerleşimlerden sorumlu İsrailli yetkiliyi ülkeye almadı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/fransa-filistin-topraklari-gasbedilerek-kurulan-yerlesimlerden-sorumlu-israilli-yetkiliyi-ulkeye-almadi-962963.html",
+      "summary": "Fransa, işgal altındaki Batı Şeria'nın kuzeyinde Filistin toprakları gasbedilerek kurulan birçok yerleşimi bünyesinde barındıran katil İsrailli Şomron Bölge Konseyi Başkanı Yossi Dagan'ın ülkeye girişine izin vermedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 16:47 UTC"
+    },
+    {
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274f/live/14e2f1f0-dde6-11f1-9204-cdcddf7d901c.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 16:45 UTC"
+    },
     {
       "title": "EasyJet hissedarları, Apollo'nun 5,7 milyar sterlinlik satın alma teklifini onayladı",
       "image": "",
@@ -9,6 +216,15 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-11 16:41 UTC"
+    },
+    {
+      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 16:38 UTC"
     },
     {
       "title": "Orman yangınlarıyla mücadele için Türkiye öncülüğünde Antalya Eylem Planı başlatıldı",
@@ -47,6 +263,15 @@
       "published_at": "2026-11-11 16:23 UTC"
     },
     {
+      "title": "‘It’s just too expensive’: Housing and wages at the heart of Spain’s strike",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike?traffic_source=rss",
+      "summary": "Mass walkout across several cities marks first general strike in 14 years.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 16:20 UTC"
+    },
+    {
       "title": "A Milli Futbol Takımı Teknik Direktörü Sergen Yalçın: Bütün planımızı kazanmak üzerine yaptık",
       "image": "",
       "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-teknik-direktoru-sergen-yalcin-butun-planimizi-kazanmak-uzerine-yaptik/4121136",
@@ -56,40 +281,22 @@
       "published_at": "2026-11-11 16:17 UTC"
     },
     {
-      "title": "AB: Rusya ciddi şekilde müzakereye hazır olduğuna dair hiçbir işaret göstermiyor",
+      "title": "Araştırma: Almanya'da Müslüman düşmanı söylemlere destek arttı",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/ab-rusya-ciddi-sekilde-muzakereye-hazir-olduguna-dair-hicbir-isaret-gostermiyor/4121131",
-      "summary": "Avrupa Birliği (AB) Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, Rusya'nın Ukrayna ile savaşı sona erdirmek için ciddi şekilde müzakere etmeye hazır olduğuna dair hiçbir işaret göstermediğini öne sürdü.",
-      "source": "Anadolu Ajansı",
+      "link": "https://www.trthaber.com/haber/dunya/arastirma-almanyada-musluman-dusmani-soylemlere-destek-artti-962961.html",
+      "summary": "Almanya'da yapılan bir araştırmada, ülkede \"Müslüman düşmanı\" söylemlere verilen desteğin arttığı ortaya konuldu.",
+      "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 16:13 UTC"
+      "published_at": "2026-11-11 16:05 UTC"
     },
     {
-      "title": "\"11. Kısa'dan Hisse Kısa Film Festivali\", 21 Kasım'da başlayacak",
+      "title": "Emine Erdoğan: Başarımızı oluşmasını önlediğimiz atıkla da ölçmeliyiz",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/11-kisadan-hisse-kisa-film-festivali-21-kasimda-baslayacak/4121119",
-      "summary": "Kısa'dan Hisse Sanat Derneği tarafından düzenlenen \"Kısa'dan Hisse Kısa Film Festivali\" bu yıl 11. kez sinemaseverlerle buluşacak.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 16:00 UTC"
-    },
-    {
-      "title": "Emine Erdoğan, Küresel Sıfır Atık İttifakı Lider Eşleri Yüksek Düzeyli Toplantısı'na katıldı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-kuresel-sifir-atik-ittifaki-lider-esleri-yuksek-duzeyli-toplantisina-katildi-962960.html",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı COP31 kapsamında \"Küresel Sıfır Atık İttifakı Lider Eşleri Yüksek Düzeyli Toplantısı\"na katıldı.",
+      "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-basarimizi-olusmasini-onledigimiz-atikla-da-olcmeliyiz-962960.html",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi, Birleşmiş Milletler BM Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, \"Başarımızı yalnızca geri kazandığımız atıkla değil, oluşmasını önlediğimiz atıkla da ölçmeliyiz. Daha az kaynakla daha yüksek yaşam kalitesine ulaşmak, kalkınma anlayışımızın merkezinde yer almalı.\" dedi.",
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-11 16:00 UTC"
-    },
-    {
-      "title": "\"Kitabın Hakkını Ver\" kampanyası telifsiz kitap kullanımına karşı farkındalık oluşturacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/kitabin-hakkini-ver-kampanyasi-telifsiz-kitap-kullanimina-karsi-farkindalik-olusturacak/4121087",
-      "summary": "Yayımcı meslek birliklerinin öncülüğünde ve Kültür ve Turizm Bakanlığının katkılarıyla hazırlanan \"Kitabın Hakkını Ver\" kampanyası, Rami Kütüphanesi'nde akademisyen, yazar ve yayıncıların katılımıyla tanıtıldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 15:51 UTC"
     },
     {
       "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
@@ -110,15 +317,6 @@
       "published_at": "2026-11-11 15:47 UTC"
     },
     {
-      "title": "Kremlin: Putin yarın Trump'ın temsilcileriyle görüşecek",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/kremlin-putin-yarin-trumpin-temsilcileriyle-gorusecek/4121064",
-      "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya Devlet Başkanı Vladimir Putin'in yarın ABD Başkanı Donald Trump'ın temsilcileri Steve Witkoff ve Jared Kushner ile görüşeceğini bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 15:46 UTC"
-    },
-    {
       "title": "İletişim Başkanı Duran: İklim diplomasisi, dış politikanın vazgeçilmez bir parçası",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-iklim-diplomasisi-dis-politikanin-vazgecilmez-bir-parcasi-962959.html",
@@ -128,13 +326,13 @@
       "published_at": "2026-11-11 15:43 UTC"
     },
     {
-      "title": "\"Ahıska Türkleri-Kayıp Sürgünün İzinde\" sergisi 14 Kasım'da Ankara'da açılacak",
+      "title": "Cumhurbaşkanı Yardımcısı Yılmaz: İklim değişikliğiyle mücadeleyi güçlü ekonomi ve nitelikli istihdam olarak görüyoruz",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/ahiska-turkleri-kayip-surgunun-izinde-sergisi-14-kasimda-ankarada-acilacak/4121036",
-      "summary": "Ahıska Türklerinin maruz kaldığı haksız sürgünü, tarihi adaletsizliği ve Ahıska Türklerinin haklı davasını daha geniş çevrelere duyurmayı amaçlayan \"Ahıska Türkleri-Kayıp Sürgünün İzinde\" sergisi, 14 Kasım'da Ankara'da açılacak.",
+      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-iklim-degisikligiyle-mucadeleyi-guclu-ekonomi-ve-nitelikli-istihdam-olarak-goruyoruz/4121045",
+      "summary": "Cumhurbaşkanı Yardımcısı Yılmaz \"COP31 ev sahibi olarak, iklim değişikliğiyle mücadeleyi ekonomik kalkınmanın önünde engel değil daha güçlü ekonomi, nitelikli istihdam ve dayanıklı tedarik zinciri oluşturmak için önemli fırsat olarak görüyoruz\" dedi.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 15:40 UTC"
+      "published_at": "2026-11-11 15:42 UTC"
     },
     {
       "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
@@ -144,15 +342,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-11 15:40 UTC"
-    },
-    {
-      "title": "Cumhurbaşkanlığı İletişim Başkanı Duran: İklim diplomasisi küresel adalet meselesi haline gelmiştir",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-iletisim-baskani-duran-iklim-diplomasisi-kuresel-adalet-meselesi-haline-gelmistir/4121022",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, iklim diplomasisinin dış politikanın vazgeçilmez bir parçası, aynı zamanda küresel adalet meselesi haline geldiğini söyledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 15:36 UTC"
     },
     {
       "title": "Kenya discharges last Ebola patient, awaits disease-free status",
@@ -182,6 +371,15 @@
       "published_at": "2026-11-11 15:30 UTC"
     },
     {
+      "title": "\"81 İlden 81 Genç İklim Delegesi\"nin mesajları etkileşimli Türkiye haritasında bir araya getirildi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/81-ilden-81-genc-iklim-delegesinin-mesajlari-etkilesimli-turkiye-haritasinda-bir-araya-getirildi/4121014",
+      "summary": "Milli Eğitim Bakanlığınca (MEB), COP31 kapsamında 81 ilden seçilen öğrencilerin çevre ve iklim değişikliğine ilişkin mesajları, etkileşimli Türkiye haritasında bir araya getirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 15:29 UTC"
+    },
+    {
       "title": "İspanya'da konut ve ücret talebiyle 14 yıl sonra ilk genel grev",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7042/live/7eacbad0-ddbe-11f1-a50f-85eebf9e50e5.jpg",
       "link": "https://www.bbc.com/turkce/articles/cmvg2rvpg774o?at_medium=RSS&at_campaign=rss",
@@ -189,33 +387,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-11 15:24 UTC"
-    },
-    {
-      "title": "Galatasaray Kulübünde kasım ayı olağan divan kurulu toplantısı yapıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/galatasaray-kulubunde-kasim-ayi-olagan-divan-kurulu-toplantisi-yapildi/4121003",
-      "summary": "Başkan yardımcısı Mehmet Cibara, \"Zemin için SIS firmasıyla çalışıyoruz. Bu konulardaki en iyi firmalardan bir tanesi. Burada hepimizin kusuru var.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 15:24 UTC"
-    },
-    {
-      "title": "Borsa günü yatay seyirle tamamladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yatay-seyirle-tamamladi/4121000",
-      "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yatay seyirle 11.666,42 puandan tamamladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 15:23 UTC"
-    },
-    {
-      "title": "COP31'de yeşil sanayileşmede ekonomik büyüme ve istihdam fırsatları öne çıkıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-yesil-sanayilesmede-ekonomik-buyume-ve-istihdam-firsatlari-one-cikiyor/4120990",
-      "summary": "COP31 kapsamında gerçekleştirilen üst düzey diyalogda, yeşil sanayileşmenin ekonomik büyüme ve istihdam fırsatları ile düşük emisyonlu üretime geçişte uluslararası işbirliğinin önemi ele alındı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 15:19 UTC"
     },
     {
       "title": "İtalya'da 6.300 okula bomba tehdidi nedeniyle tahliye ve aramalar",
@@ -237,7 +408,7 @@
     },
     {
       "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93dc/live/ae624920-ddd7-11f1-93e1-3b657b665bcf.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg",
       "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
       "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
       "source": "BBC World",
@@ -261,15 +432,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-11 14:56 UTC"
-    },
-    {
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 14:51 UTC"
     },
     {
       "title": "Italy vs France: UEFA Nations League – preview, team news, predictions",
@@ -344,24 +506,6 @@
       "published_at": "2026-11-11 14:09 UTC"
     },
     {
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 14:06 UTC"
-    },
-    {
-      "title": "‘Our neighbours are gone’: Gaza survivors recount horrors of deadly floods",
-      "image": "",
-      "link": "https://www.aljazeera.com/features/2026/11/11/as-gaza-flood-waters-subside-palestinians-assess-human-and-material-damage?traffic_source=rss",
-      "summary": "A deadly sandbank collapse buried families alive in Deir el-Balah, as survivors describe desperate rescue attempts.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 14:04 UTC"
-    },
-    {
       "title": "\"35 by 35 iddialı ancak gerçekçi bir hedef\"",
       "image": "https://geoim.bloomberght.com/l/2026/11/11/ver1794406066/3794230/jpg/320x180",
       "link": "https://www.bloomberght.com/35-by-35-iddiali-ancak-gercekci-bir-hedef-3794230",
@@ -369,15 +513,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-11 14:02 UTC"
-    },
-    {
-      "title": "Why is Pochettino the favourite to replace Carrick at Manchester United?",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/11/11/why-is-pochettino-the-favourite-to-replace-carrick-at-manchester-united?traffic_source=rss",
-      "summary": "What would Mauricio Pochettino bring to the job if he replaces Michael Carrick in the Old Trafford hot seat?",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 13:56 UTC"
     },
     {
       "title": "İşgalci İsrail, Batı Şeria'da son 3 yılda 1000'den fazla kundaklama gerçekleştirdi",
@@ -461,24 +596,6 @@
       "published_at": "2026-11-11 13:23 UTC"
     },
     {
-      "title": "Trump ‘Foot Soldier’ statue mocks his Vietnam draft deferment",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/trump-foot-soldier-statue-mocks-his-vietnam-draft-deferment?traffic_source=rss",
-      "summary": "An anonymous art collective called Secret Handshake has installed a golden statue of US President Donald Trump.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 13:20 UTC"
-    },
-    {
-      "title": "Schools across Italy evacuated after receiving email bomb alerts",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
-      "summary": "Italian PM Meloni says there is no danger as UK and Northern Ireland authorities also report 'bogus' alerts.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 13:18 UTC"
-    },
-    {
       "title": "OPEC'in günlük ham petrol üretiminde 2 milyon varillik artış",
       "image": "https://geoim.bloomberght.com/l/2026/11/11/ver1794403020/3794224/jpg/320x180",
       "link": "https://www.bloomberght.com/opec-in-gunluk-ham-petrol-uretiminde-2-milyon-varillik-artis-3794224",
@@ -495,24 +612,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-11 13:16 UTC"
-    },
-    {
-      "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
-      "summary": "The talks in the UAE capital were the first ⁠between the two warring sides since February.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 13:16 UTC"
-    },
-    {
-      "title": "İngiltere Başbakanı Burnham: Gazze'ye insani yardım için İsrail'e baskıyı sürdüreceğiz",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/ingiltere-basbakani-burnham-gazzeye-insani-yardim-icin-israile-baskiyi-surdurecegiz-962950.html",
-      "summary": "İngiltere Başbakanı Andy Burnham, Gazze'ye yardımların girişi ve yardımlardaki kısıtlamaların kaldırılması için İsrail'e baskıyı sürdüreceklerini söyledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 13:08 UTC"
     },
     {
       "title": "Borsa İstanbul güne pozitif başladı: Metal hisseleri öne çıktı - EKOTÜRK",
@@ -542,22 +641,13 @@
       "published_at": "2026-11-11 12:53 UTC"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan, COP31'de ikili görüşmelerini sürdürüyor",
+      "title": "ECB: Lagarde'ın ayrılığı dijital euro projesini geciktirmeyecek - Euronews.com",
       "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-cop31de-ikili-gorusmelerini-surduruyor-962949.html",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı COP31 kapsamında ikili görüşmeleri devam ediyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 12:52 UTC"
-    },
-    {
-      "title": "Rusya ile Ukrayna esir takası için anlaştı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/rusya-ile-ukrayna-esir-takasi-icin-anlasti-962948.html",
-      "summary": "ABD arabuluculuğunda BAE'nin başkenti Abu Dabi'de gerçekleştirilen görüşmelerde, taraflar büyük çaplı esir takası konusunda prensipte anlaşmaya vardı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 12:48 UTC"
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU1lWVU3Z0ljcFhlOFA2X2Utam5sNC1kNDRjQnU5TVBvc2xHazNEZ2pUaW50aVpHbmRUWjRHUWNxTjVvYmVKbHhVOVFPODRldmRtUGRKZFl0UVpqQUhBREpiRzdZcndWQTBaRjB3QXF6Q19zTFVOZEJKWVNScFR3dHM5QWEySVNxZE5yOWRoMmlhSnVxRU1HSnIyakFJSlJFeHMyVzByNlF2N1dHbzdrUmJLYVY?oc=5",
+      "summary": "ECB: Lagarde'ın ayrılığı dijital euro projesini geciktirmeyecek Euronews.com",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-11 12:45 UTC"
     },
     {
       "title": "\"En önemli soru yeşil dönüşümün finansmanının nasıl olacağı\"",
@@ -569,10 +659,10 @@
       "published_at": "2026-11-11 12:44 UTC"
     },
     {
-      "title": "Six thousand Italian schools hit by threats in suspected bomb hoax",
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 700 schools in Scotland and Northern Ireland also received hoax bomb threats. It is unclear whether the incidents are connected.",
+      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-11 12:30 UTC"
@@ -596,24 +686,6 @@
       "published_at": "2026-11-11 12:25 UTC"
     },
     {
-      "title": "Brent petrol fiyatları yeniden yükseldi: İran gerilimi piyasaları hareketlendirdi - EKOTÜRK",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVmt5QldjUFg3djQ4bmdCdGZuRVNMaTE4aWQ1R2ZGdHJnRnV6UGc3enZ4dXEzUVkzNHNsOFo5ZUVQOFd1UFN0RWpoWmxSMVB4X1Axek84TG4zaExHS0Q2Qkd4QWc5VEY5Vzh3bndPYW5KM2NKd2dad0xQMjFETG16UUNxbmJPNjFLV3kxMnlPSHU5T2lWcWJkeHRhSWJvWjdKaVhXVHV0MElBcmRYb1ZSN3BsUlM?oc=5",
-      "summary": "Brent petrol fiyatları yeniden yükseldi: İran gerilimi piyasaları hareketlendirdi EKOTÜRK",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-11 12:22 UTC"
-    },
-    {
-      "title": "Kuş gribi nedeniyle bir türün nesli tükenebilir",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/kus-gribi-nedeniyle-bir-turun-nesli-tukenebilir-962947.html",
-      "summary": "Bilim insanları, en az 40 kuş türünün virüs nedeniyle tehdit altında olduğunu belirterek salgının bazı türleri yok olmanın eşiğine getirebileceği uyarısında bulundu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 12:14 UTC"
-    },
-    {
       "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/3f67c570-dd7a-11f1-ad5a-4712ee7e64fd.png",
       "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
@@ -621,15 +693,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-11 12:14 UTC"
-    },
-    {
-      "title": "İtalya'da binlerce okulda bomba alarmı verildi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/italyada-binlerce-okulda-bomba-alarmi-verildi-962946.html",
-      "summary": "İtalya'da yaklaşık 6 bin okula gönderilen bomba tehdidi içeren anonim bir epostanın, endişeye ve okulların tahliye edilmesine neden olduğu bildirildi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 12:04 UTC"
     },
     {
       "title": "TÜRKONFED/Ünlü: Yeşil dönüşümde şirketlerimiz iyi durumda",
@@ -657,15 +720,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-11 11:47 UTC"
-    },
-    {
-      "title": "Bitcoin, ETF çıkışlarının devam etmesiyle birlikte hisse senedi toparlanmasına katılmıyor: Kripto Piyasaları Bugün - CoinDesk",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFBDNDRXS2E2QlY1RFpfZm9BcDdDcldzUWUyLTlYY255MWM3ZmpRVVVoRFZUQ3E2NWtGWDU1S3haZGpXQ29wWGw4U2R6eXBuZ2hxUnhudmt4R3VRRUtBMTFjdTI2QnNPOGJacjk5Q0pUeXpVQTNpSGI5cnVuNUVCcjdCRXI2azYtZUV2Q2c5anptYW92a3AwajdKZlNoZHpOYnRBeHI0T1VwaFBBVDQzNkpURXA?oc=5",
-      "summary": "Bitcoin, ETF çıkışlarının devam etmesiyle birlikte hisse senedi toparlanmasına katılmıyor: Kripto Piyasaları Bugün CoinDesk",
-      "source": "Google News - Küresel Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-11 11:37 UTC"
     },
     {
       "title": "Transport workers in Chile block highways in protest over surging fuel prices",
@@ -722,15 +776,6 @@
       "published_at": "2026-11-11 11:06 UTC"
     },
     {
-      "title": "Erdoğan: İklim finansmanı daha ulaşılabilir hale getirilmeli",
-      "image": "https://geoim.bloomberght.com/l/2026/11/11/ver1794394662/3794202/jpg/320x180",
-      "link": "https://www.bloomberght.com/erdogan-cop31-in-cevreye-etkisini-en-aza-indirdik-3794202",
-      "summary": "Cumhurbaşkanı Erdoğan, Antalya'da \"COP31 Liderler Zirvesi Açılış Programı\"nda yaptığı konuşmada, COP31'in çevreye verdiği zararın en aza indirildiğini söyledi. Erdoğan, insalık tarihinin aşırı tüketim hırsı etkisiyle belki de tarihin en derin varoluş krizini yaşadığına dikkat çekti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-11 10:57 UTC"
-    },
-    {
       "title": "Madrid'li Vinicius Jr'dan savaşta bacaklarını kaybeden çocuğa sürpriz mesaj",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3188/live/97612630-d86c-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.com/turkce/articles/c60qjenvxzqko?at_medium=RSS&at_campaign=rss",
@@ -740,19 +785,10 @@
       "published_at": "2026-11-11 10:55 UTC"
     },
     {
-      "title": "Dünya Varlık Yönetim kupon ödemesinde temerrüde düştü",
-      "image": "https://geoim.bloomberght.com/l/2026/11/11/ver1794394287/3794196/jpg/320x180",
-      "link": "https://www.bloomberght.com/dunya-varlik-yonetim-kupon-odemesinde-temerrude-dustu-3794196",
-      "summary": "Dünya Varlık Yönetim AŞ. 11 Kasım tarihli üçüncü kupon ödemesini gerçekleştiremediğini duyurdu.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-11 10:51 UTC"
-    },
-    {
-      "title": "Kraken'ın xStocks platformu, varlıkları 1,1 milyar doları aşarken 200 Birleşik Krallık ve AB hissesi ekliyor - CoinDesk",
+      "title": "Kraken'ın xStocks'u, varlıkları 1,1 milyar doları aşarken 200 Birleşik Krallık ve AB hissesi ekliyor - CoinDesk",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeEFweGNMZzBVZjJrUldBUkVrR0hfdXozQmJMdFYzLUpTTk9MdmxrSDVUcXFRVV9BdG9FNmF5Vkt3NDc2WVRfOGJEanZFOXRvam5oQlBSWExEYzZoT3lDbjJfSG9kZUJzY3lNYUU4Mlo2Vm1Va1p1VXZGNGY4QVdhVUlxVXFKMXN4NDlFX1B1R3o3VnB3dThhdUJqS3BCbGxZbjNHbmdkSHY1Q2hoaElKSmxNMllJWDBqa21QVVdCaGQ?oc=5",
-      "summary": "Kraken'ın xStocks platformu, varlıkları 1,1 milyar doları aşarken 200 Birleşik Krallık ve AB hissesi ekliyor CoinDesk",
+      "summary": "Kraken'ın xStocks'u, varlıkları 1,1 milyar doları aşarken 200 Birleşik Krallık ve AB hissesi ekliyor CoinDesk",
       "source": "Google News - Küresel Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-11 10:51 UTC"
@@ -776,22 +812,13 @@
       "published_at": "2026-11-11 10:16 UTC"
     },
     {
-      "title": "\"Elektrifikasyonda dönüm noktasındayız\"",
-      "image": "https://geoim.bloomberght.com/l/2026/11/11/ver1794391928/3794191/jpg/320x180",
-      "link": "https://www.bloomberght.com/elektrifikasyonda-donum-noktasindayiz-3794191",
-      "summary": "COP31 Zirvesi'nde Bloomberg HT'nin sorularını yanıtlayan Hitachi Energy Maxine Ghavi enerji dönüşümünde karşı karşıya olunan zorluklara dikkat çekti. Elektrifikasyonda dönüm noktasında olunduğunu belirtti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-11 10:02 UTC"
-    },
-    {
-      "title": "Şimşek: Türkiye'nin iklim hedefi için 300 milyar dolar gerekiyor",
-      "image": "https://geoim.bloomberght.com/l/2026/11/11/ver1794391406/3794190/jpg/320x180",
-      "link": "https://www.bloomberght.com/simsek-turkiye-nin-iklim-hedefi-icin-300-milyar-dolar-gerekiyor-3794190",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, Türkiye'nin iklim hedefini gerçekleştirmek için yaklaşık 300 milyar dolarlık bir kaynağa ihtiyaç olduğunu belirtti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-11 10:01 UTC"
+      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bead/live/ff09d3a0-ddb1-11f1-93e1-3b657b665bcf.jpg",
+      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 09:28 UTC"
     },
     {
       "title": "Amerikan Merkez Bankası toplantısı ne zaman, saat kaçta açıklanacak? FED faiz kararı hangi tarihte açıklanacak? - Yeni Şafak",
@@ -821,15 +848,6 @@
       "published_at": "2026-11-11 08:33 UTC"
     },
     {
-      "title": "Merkez Bankası'nın önünde 600 baz puanlık alan: Gözler Enflasyon Raporu'nda! - Haber 7",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOHFNdkhteV80QUxmWTFJTURFdnhwUGdUWkphZFE1QUdSb1hKeHdiMzA2cXNuelVMMkhKT3hLeXNwa0Nzc2pKTW9CMDJMYk5GT1B4S01PTmVRcFlpenZVVVJQS25BbXEyd2pLaFhQRjl3WU85NEw0S2ljelhHM3loa0Z6NXNjc0RoOENPaFNFUGUxNTgtZG5sck0zR2FORDFnSWVvNjd5cUhNdUxKNTc1LWFVTDNmUHQtWURkWnpn0gHAAUFVX3lxTE9wcDc3eE9FM1A3cXFaSEVsdzg2TDZYNmcwckdBS0Z2dHlqaU1HOWZiblRvOHA5a081S2djQS1xZUZzMVBfdDUyZ1hENXZrdG5tRk1EcVdBZUZkcGFPblhubkFST3FtakpoaHU2Nk5FQXp1dWhPUmpSQjJFRDc4WTVfZ1EzRnk4VFJ4RzN6STlRS2o3M1l1LTJ6ZUJHR2FTcjd0NlF4OEpuU2JaaFlmVDFsOEZnT05vTW5kcjlMcGVRTw?oc=5",
-      "summary": "Merkez Bankası'nın önünde 600 baz puanlık alan: Gözler Enflasyon Raporu'nda! Haber 7",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-11 08:11 UTC"
-    },
-    {
       "title": "Yılın son enflasyon raporu geliyor! Merkez Bankası tahminlerini değiştirecek mi? - kayserihaber.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82dGIxT1NHcFh3NUVjTTlSSHNlX1FrS2RBTUVUaXgzNWF0azhIT1pkY0djaml2bGg0Sk9aUnZEYVc0RTlFYlRWSmIzSlhMUS1kQXg2WnJXMUh2M2VEanF6UnFIYk9GQWk0aEM3al9sYjJTRkNKajhhTWxn?oc=5",
@@ -848,15 +866,6 @@
       "published_at": "2026-11-11 07:50 UTC"
     },
     {
-      "title": "US warns Madagascar over growing military ties with Russia",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3696/live/b0bad660-dd9b-11f1-b1d6-c7ac657a5d26.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
-      "summary": "US general warns the Sahel model-like security deal with Russia could lead to greater instability in Africa.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 07:30 UTC"
-    },
-    {
       "title": "HABAŞ'ta geçmişte yaşanan iş kazaları hakkında ne biliyoruz?",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/19a6/live/78d1c7f0-ddd6-11f1-b865-d17d8611efca.jpg",
       "link": "https://www.bbc.com/turkce/articles/cmlylyr44wzdo?at_medium=RSS&at_campaign=rss",
@@ -864,6 +873,15 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-11 07:23 UTC"
+    },
+    {
+      "title": "VİOP'ta endeks kontratı güne yükselişle başladı - EKOTÜRK",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUnZmdHZQZENtV3NITmtuWG5yZTZ4UmJEYW1OM2JWM0k0Qkp3a0d0NXFXd3RpR3NOMnNCbml5MjBtNUFtU2hjY2xjZHUxSG95aGVxUTRMUjhGbmlXZ25fVnAtQ3YyRU96dWEtbnpicVVJWEUtNVpUa3NZNFl3ZTRCUGxkN19zeVdnQmEtTzlNM1psY0U0R0dPM3N1V3dpSDFxRXZpeg?oc=5",
+      "summary": "VİOP'ta endeks kontratı güne yükselişle başladı EKOTÜRK",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-11 07:02 UTC"
     },
     {
       "title": "Borsa İstanbul güne yükselişle başladı - Borsa Gundem",
@@ -882,24 +900,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-11 06:53 UTC"
-    },
-    {
-      "title": "Merkez Bankası'ndan iki faaliyet izni iptali - Bigpara",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXNfdUhKcWVKVEpjMmlHY0JWdHM4Q3RlakFIRDFmYzNydUlNZ2s4d3h6QmRTdXMzS2tUeHNwaDdCSjJrVE12OHVIZmVEdlV1SUpRQ29zc3lkVVo3UGZ1c1JaQ0U5cDdBbmZyTDZiaFNGMmJzNFhSaUFIMHVvQTVBdmZrT2lvM29JYjhRX3pRN2NYanpPU2xqZFJGNEFDQnlEdVUxNWp1V3VLc2l0ZU1fSkoxTUhTUQ?oc=5",
-      "summary": "Merkez Bankası'ndan iki faaliyet izni iptali Bigpara",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-11 06:34 UTC"
-    },
-    {
-      "title": "Piyasaları yakından ilgilendiriyor: Merkez Bankası'nın yıl sonu enflasyon tahmini ne olacak? - A Haber",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdGxoU3ZVRFFTanF3SWlSM1ZOMlo2VGpkdTNsaHlVcVMzeWtUSWUtMjFlc1V1RXhOOHBTRmJNNDhNcU5walhMby1WZ1BlR19xWGJGYmxyam5uZWs5YU5uUUptNXZfVTEtMnd2dmJtSXA2THBQeGx0V2dHTWhER0ZFWmRUTWQ1WVEtTEtWNnExWVVKRnVCNUZraFNPOEJmRkZtN2NNZEgtdXhWd2FxZ29JX1RCY25IVnF6QUtMV3B4THI4QkhuVWdueGxkSV82Vkk?oc=5",
-      "summary": "Piyasaları yakından ilgilendiriyor: Merkez Bankası'nın yıl sonu enflasyon tahmini ne olacak? A Haber",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-11 06:33 UTC"
     }
   ]
 }
