@@ -1,41 +1,437 @@
 {
-  "updated_at": "2026-11-12 08:18 UTC",
+  "updated_at": "2026-11-12 09:27 UTC",
   "items": [
     {
-      "title": "ABD'de Epstein dosyalarına ilişkin yeni yasa tasarısı Temsilciler Meclisinde oylamaya taşınacak",
+      "title": "Obezitenin belirlenmesinde vücut kitle indeksinin tek başına yeterli olmadığı belirlendi",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abdde-epstein-dosyalarina-iliskin-yeni-yasa-tasarisi-temsilciler-meclisinde-oylamaya-tasinacak/4121930",
-      "summary": "ABD Temsilciler Meclisi Üyesi Cumhuriyetçi Thomas Massie, Epstein'e ilişkin belgelerin kamuoyuna açıklanmasına ilişkin yeni düzenlemeler öngören yasa tasarısının Temsilciler Meclisinde oylanmasına imkan tanıyacak imza sayısına ulaşıldığını duyurdu.",
+      "link": "https://www.aa.com.tr/tr/dunya/obezitenin-belirlenmesinde-vucut-kitle-indeksinin-tek-basina-yeterli-olmadigi-belirlendi/4122097",
+      "summary": "Çin, İngiltere, ABD ve İspanya'daki araştırmacıların yaptığı bir çalışmada, obezitenin yalnızca vücut kitle indeksiyle belirlenmesinin yanıltıcı olabileceği, bel çevresi ve bel-boy oranı gibi ölçümlerin de dikkate alınması gerektiği ortaya konuldu.",
       "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 09:21 UTC"
+    },
+    {
+      "title": "Eski OECD Genel Sekreteri Gurria: Küreselleşmeyi durduramadığınız gibi yapay zekayı da durduramazsınız",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/eski-oecd-genel-sekreteri-gurria-kuresellesmeyi-durduramadiginiz-gibi-yapay-zekayi-da-durduramazsiniz/4122089",
+      "summary": "Ekonomik İşbirliği ve Kalkınma Örgütünün (OECD) eski Genel Sekreteri Angel Gurria, yapay zekanın oyunun kuralı haline gelip yaygınlaşacağını, küreselleşmenin durdurulamadığı gibi yapay zekanın da durdurulamayacağını söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 09:17 UTC"
+    },
+    {
+      "title": "Nvidia CEO'su Huang'ın ikinci ilişki iddiası sonrası şirketin yönetim kurulu toplanıyor",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/08af/live/640dfe40-de73-11f1-9115-cfe6d179af3a.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cvj6l247pr4ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Wall Street Journal ve Financial Times’ın haberlerine göre Nvidia’nın yönetim kurulu, uzun süredir şirketi yöneten Jensen Huang’ın evlilik dışı iki ilişki yaşadığına dair haberler üzerine, CEO’yu görevden alıp almamayı değerlendirmek için bugün toplanıyor",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 09:12 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye son 10 yılda yenilenebilir kurulu gücünü 3 katına çıkardı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-turkiye-son-10-yilda-yenilenebilir-kurulu-gucunu-3-katina-cikardi/4122070",
+      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Türkiye, son 10 yılda yenilenebilir kurulu gücünü 3 katına çıkardı. Sistemimiz, Türkiye'yi Avrupa, Kafkasya, Orta Doğu ve Orta Asya arasında bir enerji köprüsü haline getirmiştir.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 09:12 UTC"
+    },
+    {
+      "title": "Termessos çiğdemini koparanlara 699 bin 245 lira ceza",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/cevre/termessos-cigdemini-koparanlara-699-bin-245-lira-ceza-963045.html",
+      "summary": "Antalya'da yalnızca Termessos Milli Parkı ile Olimpos Beydağları Milli Parkı arasında yayılış gösteren endemik Termessos çiğdemi, biyokaçakçılık ve bilinçsizce toplanma tehdidiyle karşı karşıya bulunuyor. biyolojik çeşitliliğe zarar vermenin idari para cezasının 699 bin 245 lira olduğu öğrenildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 09:12 UTC"
+    },
+    {
+      "title": "Merkez Bankası yıl sonu enflasyon tahminini yüzde 29,5’e yükseltti - Euronews.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON095dm1WV1RXaGo2VWZYcm9SZ1AzX2MzM2lCR1d0ZzdvSUJCaEtmUDN1WkpxR18yOE5RRkc1ZnFXdE9wN3RSVmJxSkRLRlVLUVViQVpuSVlMVDNVVmZpNFlVU05YQzREWElhOGdOQ3dud3RHZUc4UVdRWkhnR05Hano2ZWV6VkZxM0hZQWVFQ1R5dVRGWE1lR3E0WVlrVWhoaDhDTktCd0Y?oc=5",
+      "summary": "Merkez Bankası yıl sonu enflasyon tahminini yüzde 29,5’e yükseltti Euronews.com",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 09:11 UTC"
+    },
+    {
+      "title": "Bakan Bolat: Türkiye, Dünya Ticaret Örgütü UNCTAD ve tüm ticaret ortaklarıyla birlikte çalışmaya hazır",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-turkiye-dunya-ticaret-orgutu-unctad-ve-tum-ticaret-ortaklariyla-birlikte-calismaya-hazir/4122051",
+      "summary": "Ticaret Bakanı Bolat, \"Türkiye, bu diyaloğu ileriye taşımak ve COP31'i tam anlamıyla başarılı kılmak için Dünya Ticaret Örgütü UNCTAD ve tüm ticaret ortaklarıyla birlikte çalışmaya hazır.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 09:09 UTC"
+    },
+    {
+      "title": "Türkiye ile Çin arasında temiz enerji mutabakatı",
+      "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794474422/3794384/jpg/320x180",
+      "link": "https://www.bloomberght.com/turkiye-ile-cin-arasinda-temiz-enerji-mutabakati-3794384",
+      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Çin Halk Cumhuriyeti Ulusal Enerji İdaresi ile \"Yenilenebilir Enerji Alanında İş Birliğine İlişkin Mutabakat Zaptı\" imzalandığını duyurdu.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 09:05 UTC"
+    },
+    {
+      "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+      "summary": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 09:01 UTC"
+    },
+    {
+      "title": "MSB: Somaliye 15 bin asker gönderileceği iddiaları gerçeği yansıtmamaktadır",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/msb-somaliye-15-bin-asker-gonderilecegi-iddialari-gercegi-yansitmamaktadir-963040.html",
+      "summary": "Milli Savunma Bakanlığı, \"Somalinin talebi üzerine Türkiye tarafından Somaliye 15 bin asker gönderileceği yönündeki iddialar gerçeği yansıtmamaktadır\" ifadelerini kullandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 09:00 UTC"
+    },
+    {
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 09:00 UTC"
+    },
+    {
+      "title": "ABD'de bebek mamasına rekor zam",
+      "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794474032/3794380/jpg/320x180",
+      "link": "https://www.bloomberght.com/abdde-bebek-mamasina-rekor-zam-3794380",
+      "summary": "ABD'de bebek gıdaları ve mama fiyatları ekimde aylık yüzde 5,1 arttı. Kayıtlardaki en yüksek artış, küçük çocuklu ailelerin bütçesi üzerindeki baskıyı artırdı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 08:59 UTC"
+    },
+    {
+      "title": "Pakistan Başbakanı Şerif'ten iklim değişikliğiyle mücadelede uluslararası dayanışma çağrısı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/pakistan-basbakani-seriften-iklim-degisikligiyle-mucadelede-uluslararasi-dayanisma-cagrisi/4122015",
+      "summary": "Pakistan Başbakanı Şahbaz Şerif, iklim değişikliğinin etkilerinin sınır tanımadığını belirterek, iklim değişikliği kaynaklı afetlerden etkilenen ülkelere yönelik uluslararası dayanışmanın ve mali desteğin artırılması çağrısında bulundu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:58 UTC"
+    },
+    {
+      "title": "İran Dışişleri Bakanı, Batı basınının İsrail'in Gazze'deki \"sessiz soykırımına\" ilgisizliğini eleştirdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-bati-basininin-israilin-gazzedeki-sessiz-soykirimina-ilgisizligini-elestirdi-/4122014",
+      "summary": "İran Dışişleri Bakanı Abbas Erakçi, İsrail'in başarısızlıklarını gölgede bırakmak ve uluslararası dikkati başka yöne çekmek amacıyla savaşın araç olarak kullanıldığını belirtti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:58 UTC"
+    },
+    {
+      "title": "COP31 İklim Zirvesi'ne 1 milyon metrekarelik güvenlik kalkanı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/cop31-iklim-zirvesine-1-milyon-metrekarelik-guvenlik-kalkani-963044.html",
+      "summary": "Antalya'da düzenlenen gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı COP31 ve Liderler Zirvesi'nin güvenliği için toplam 58 bin güvenlik personeli sahada görev yapıyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:57 UTC"
+    },
+    {
+      "title": "\"Farkındalıktan Eyleme: İklim Liderliğinde Kadınların ve Gençlerin Güçlendirilmesi\" paneli düzenlendi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/farkindaliktan-eyleme-iklim-liderliginde-kadinlarin-ve-genclerin-guclendirilmesi-paneli-duzenlendi-963043.html",
+      "summary": "İletişim Başkanlığı tarafından COP31 kapsamında düzenlenen panelde, iklim değişikliğiyle mücadelede kadınların ve gençlerin karar alma süreçlerine katılımı, iklim eğitimi ve toplumsal farkındalığın artırılması ile kapsayıcı iklim politikalarının geliştirilmesi konuları ele alındı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:57 UTC"
+    },
+    {
+      "title": "\"Enerji, Tarım ve İklim Politikalarına Bütüncül Yaklaşım: Uluslararası İş Birliğiyle Dayanıklılığın Artırılması\" paneli düzenlendi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/enerji-tarim-ve-iklim-politikalarina-butuncul-yaklasim-uluslararasi-is-birligiyle-dayanikliligin-artirilmasi-paneli-duzenlendi-963041.html",
+      "summary": "İletişim Başkanlığı ve Forward Thinking iş birliğinde COP31 kapsamında düzenlenen panelde, enerji, tarım ve iklim politikalarının eşgüdüm içinde yürütülmesi, su ve gıda güvenliğinin güçlendirilmesi ve uluslararası iş birliği yoluyla iklim değişikliğine karşı dayanıklılığın artırılması konuları ele alındı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:51 UTC"
+    },
+    {
+      "title": "Araştırma: 'Escitalopram' diğer antidepresanlara göre hastalığın nüksetmesini engellemede daha etkili",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea69/live/913e2170-dda0-11f1-93e1-3b657b665bcf.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c69w9j8k9y2zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Üç ilaç en üst sırada yer aldı ve çok sayıda hastada depresyonun yeniden ortaya çıkmasını önlemede Prozac'tan daha iyi performans gösterdi.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:49 UTC"
+    },
+    {
+      "title": "Bakan Kurum: COP31'de tarihi kararlara imza atmak istiyoruz",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-cop31de-tarihi-kararlara-imza-atmak-istiyoruz-963039.html",
+      "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, COP31'e yoğun bir ilgi olduğunu belirterek, Sadece iki günde 100 bin kayıt yapıldı. Tarihin en yoğun katılımlı COP'unda bizler de sizlerle birlikte COP31'de tarihi kararlara imza atmak istiyoruz.\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:49 UTC"
+    },
+    {
+      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:46 UTC"
+    },
+    {
+      "title": "MEB'den okullara iklim ve afet farkındalığı kılavuzu",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/egitim/mebden-okullara-iklim-ve-afet-farkindaligi-kilavuzu-963037.html",
+      "summary": "MEB'in COP31 kapsamında hazırladığı etkinlik kılavuzuyla, öğrencilerin iklim değişikliğine bağlı afet risklerine karşı farkındalık ve hazırlık bilincinin artırılması hedefleniyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:45 UTC"
+    },
+    {
+      "title": "Merkez Bankası'nın yeni tahmini memur ve emekli zammını düşürüyor - Memurlar.Net",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQklqSTREZ2NKcmptS0g3b0pqYVdpUWIzNndRMWh5TFhPOHkwY09DanZLejlrNkFoX2d2ZHJPeEFHd0tDUFVzQlRqb0l3MGYxZEEzcWNVLWZVRXFpTWJEYkhtRU5lUDZDU21ycFRvOHJsR1NsUFYtU1BqbWFKRm9yUzE5cDZwZzlqUDNCaklKMDR0WlQ5d1p3ZzVCM2hIVmJhczJKN2xuR1BQVnRnRUHSAbYBQVVfeXFMTWpMOFZnaDlQRDEzOTI4ZUxUREtnWjdjLURlRjJjZDhRZ0R6eVpVTHNId0VmbGh1d2NETHdORjNnMVVkd25qaVp2dEJ4cTRESEg4RU9PcFliTTMzUEptdGJIY3lJSU5ObThmQzZfaTUya21GbVRZWW9MXzFyeXE3VS1EdGwyUFdtWV9xNHlmS1NtVEpWY0V0TmdWTkRTWTRKdXkwa2c5VWpRNzR5OHdyUFdMQVhic3c?oc=5",
+      "summary": "Merkez Bankası'nın yeni tahmini memur ve emekli zammını düşürüyor Memurlar.Net",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 08:44 UTC"
+    },
+    {
+      "title": "Emine Erdoğan: COP31, toprağı, suyu ve insan hayatını koruyan adımlarla anlam kazanacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-cop31-topragi-suyu-ve-insan-hayatini-koruyan-adimlarla-anlam-kazanacak/4121988",
+      "summary": "Emine Erdoğan, \"COP31, toprağı, suyu ve insan hayatını koruyan adımlarla anlam kazanacak.\" ifadesini kullandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:44 UTC"
+    },
+    {
+      "title": "Merkez Bankası'nın yıl sonu enflasyon tahmini yükseldi - Kısa Dalga",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSVVsTHlqOHFwckZxN09Fb2VBc0R0YktmY3VabnhiQ2YwNTUtNHlpYU5MZUVHM0pJWl8wZkZWYmV1MWpqSTlvUDRrNDlYMzB2MDYzcWdrdEVTVnJaQVV3U0xsS0x3eWFybF83WC16bXBKd0JWbURWUkVrckgzYUVldDNrd1E5TTVQaG82RVk2b0NUU29LZGo4aHZvaWfSAaIBQVVfeXFMT3VGSkJUN191QTNzNFVDcEZzWDUzdGRfZG1NbVkxbXU1cmhTcDR4SGh0Y2J2bTBGWDlUNGZnSGdmYlZNSkZqbjVReXBTTHl3RnJWZXVrN0ZrWGhuOVdkUnpZbERvdlFGWnhnczAxbHUxcXlFd0VvaEhkQU5qRXJQbG90MjZobjVGMTRoeWNtbHYzY09JcFMyZGRkZGZmX0luR2Fn?oc=5",
+      "summary": "Merkez Bankası'nın yıl sonu enflasyon tahmini yükseldi Kısa Dalga",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 08:43 UTC"
+    },
+    {
+      "title": "Dış ticarette Türk lirasıyla işlem hacmi 1,3 trilyon lirayı geçti",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/dis-ticarette-turk-lirasiyla-islem-hacmi-13-trilyon-lirayi-gecti-963035.html",
+      "summary": "Türk lirasıyla dış ticaret hacmi, ocakekim döneminde geçen yılın aynı dönemine kıyasla yüzde 13,1 artarak, 1 trilyon 353 milyar 973 milyon liraya ulaştı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:43 UTC"
+    },
+    {
+      "title": "VakıfBank ile KfW'den 250 milyon euroluk yeşil dönüşüm işbirliği",
+      "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794473037/3794371/jpg/320x180",
+      "link": "https://www.bloomberght.com/vakifbank-ile-kfwden-250-milyon-euroluk-yesil-donusum-isbirligi-3794371",
+      "summary": "VakıfBank, Türkiye'nin enerji ve sanayi sektörlerinin yeşil dönüşümünü desteklemek amacıyla Alman Kalkınma Bankası KfW ile mutabakat zaptı imzaladı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 08:42 UTC"
+    },
+    {
+      "title": "Merkez Bankası 2026 yıl sonu enflasyon tahminini yüzde 29,5’e yükseltti - Independent Türkçe",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdkxuSU93WHhnTmNCSUpzN2VBaERLV3QtQ0JVX2VXSU9HVzdLU3MwQ1dhbFdXTGJYVDI1WTRCTFl0NXlacWxoNzdxc2Zfd2JzU2draXRkbFhjSFlzTTlKRlAwdnBTb25sQUd6eHJXNmhnZGxZbFVFM3pET1RoT1R4OVNaYXVGZXItRHVfLTZVT0tWRURmcUlSQVZVTDhYXzhlSDFnVXBfT1U0OW9NTWZqNUx6WjdudW40RVZrcWNXM0h5bHBockVSZzdyOFFWS3JqVGNUVTZmRzA5QW9mODFHTE9tcw?oc=5",
+      "summary": "Merkez Bankası 2026 yıl sonu enflasyon tahminini yüzde 29,5’e yükseltti Independent Türkçe",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 08:41 UTC"
+    },
+    {
+      "title": "İletişim Başkanı Duran'dan katil İsrail'e tepki",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-katil-israile-tepki-963036.html",
+      "summary": "İletişim Başkanı Burhanettin Duran, İsrail Dışişleri Bakanlığının Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik ifadelerine tepki göstererek, bu durumun İsrail yönetiminin içine düştüğü siyasi ve ahlaki çıkmazın bir göstergesi olduğunu bildirdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:40 UTC"
+    },
+    {
+      "title": "India bypasses own rules to buy Israeli phone-hacking tech",
+      "image": "",
+      "link": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
+      "summary": "India's expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:40 UTC"
+    },
+    {
+      "title": "Sergen Yalçın yönetimindeki A Milli Takımın ilk sınavı bu akşam Belçika ile",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/48c8/live/b149c4c0-ddef-11f1-b441-2b33b063138f.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c6x299pm5zrxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Türkiye A Milli Futbol Takımı bu akşam UEFA Uluslar A Ligi 1'inci Grup'taki 5'inci maçında Belçika'yı konuk edecek.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:39 UTC"
+    },
+    {
+      "title": "Mavi Balina-2026 Davet Tatbikatı devam ediyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/mavi-balina-2026-davet-tatbikati-devam-ediyor/4121982",
+      "summary": "Türkiye'nin ev sahipliğinde 9-20 Kasım'da düzenlenen \"Mavi Balina-2026 Davet Tatbikatı\" 12 ülke ile NATO unsurlarının katılımıyla gerçekleştiriliyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:39 UTC"
+    },
+    {
+      "title": "AKOM'dan İstanbul için lodos uyarısı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/akomdan-istanbul-icin-lodos-uyarisi/4121981",
+      "summary": "İstanbul Büyükşehir Belediyesi (İBB) Afet Koordinasyon Merkezi (AKOM), bugün öğle saatleri itibarıyla şiddetini artıracak lodos fırtınasına karşı vatandaşların dikkatli ve tedbirli olması uyarısında bulundu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:38 UTC"
+    },
+    {
+      "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
+      "summary": "Officers were returning from a mine in Kohat district when fighters opened fire on them, authorities say.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:35 UTC"
+    },
+    {
+      "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
+      "summary": "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:34 UTC"
+    },
+    {
+      "title": "Denizbank'tan EBRD ile 175 milyon euroluk sözleşme",
+      "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794472448/3794364/jpg/320x180",
+      "link": "https://www.bloomberght.com/denizbank-tan-ebrd-ile-175-milyon-euroluk-sozlesme-3794364",
+      "summary": "Denizbank Avrupa İmar ve Kalkınma Bankası (EBRD) ile tamamı 5 yıl vadeli toplam 175 milyon euro tutarında kredi sözleşmeleri imzaladığını duyurdu.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 08:32 UTC"
+    },
+    {
+      "title": "Haaretz: Koalisyon kuramayan Netanyahu, İran'la yeniden savaş başlatmayı çıkış yolu olarak görüyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/haaretz-koalisyon-kuramayan-netanyahu-iranla-yeniden-savas-baslatmayi-cikis-yolu-olarak-goruyor-963034.html",
+      "summary": "İsrail basınında, hükümet kurma yetkisi alan Yashar Partisi lideri Gadi Eisenkot önderliğindeki Değişim Bloğu'nun koalisyon görüşmelerini sürdürürken Başbakan Binyamin Netanyahunun iktidarını korumak amacıyla İranla yeniden savaş başlatmayı bir çıkış yolu olarak gördüğü değerlendirmesine yer verildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:31 UTC"
+    },
+    {
+      "title": "ABD'de ölümcül parazit yeniden hızlandı",
+      "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794472103/3794359/jpg/320x180",
+      "link": "https://www.bloomberght.com/abdde-olumcul-parazit-yeniden-hizlandi-3794359",
+      "summary": "ABD'de hayvanları etkileyen Yeni Dünya vida kurdu vakaları kasım ayında hızla arttı. Daha ılıman ve nemli hava, \"et yiyen kurtçuk\" olarak bilinen parazitin yayılmasını kolaylaştırırken toplam vaka sayısı 130'a yaklaştı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 08:27 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, İran Cumhurbaşkanı Pezeşkiyan ile görüştü",
+      "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794472083/3794358/jpg/320x180",
+      "link": "https://www.bloomberght.com/erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu-3794358",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 Zirvesi'nde İran Cumhurbaşkanı Mesud Pezeşkiyan ile bir araya geldi. Erdoğan görüşmede, İran-ABD arasındaki çatışmaların bir an evvel sona ermesi ve kalıcı barışın sağlanmasını temenni etti, istikrarın hakim olduğu dönemin başlatılabilmesi için diplomasiye şans verilmesi gerektiğini belirtti.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 08:25 UTC"
+    },
+    {
+      "title": "Askeri anıtın yanında gürültü yapan ABD Savunma Bakanına askerden sessiz olun uyarısı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/askeri-anitin-yaninda-gurultu-yapan-abd-savunma-bakanina-askerden-sessiz-olun-uyarisi-963033.html",
+      "summary": "Arlington Ulusal Mezarlığı'ndaki Gaziler Günü anma töreninden sonra hatıra fotoğrafı çektirirken gürültü yapan ABD Savunma Bakanı Pete Hegseth ile beraberindekiler, görevli nöbetçi asker tarafından \"sessiz olmaları\" konusunda uyarıldı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:25 UTC"
+    },
+    {
+      "title": "İsrail basını: Tel Aviv'in ABD'deki itibarı hem Demokratlar hem de Cumhuriyetçiler nezdinde zayıfladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-basini-tel-avivin-abddeki-itibari-hem-demokratlar-hem-de-cumhuriyetciler-nezdinde-zayifladi/4121951",
+      "summary": "İsrail'in ABD'deki itibarının Demokratlar ve Cumhuriyetçiler nezdinde giderek zayıfladığını, bu eğilimin sürmesi halinde Tel Aviv'in güvenlik, diplomasi, ekonomi ve kültürel konumunu destekleyen en önemli bağını kaybetme riski taşıdı yazıldı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:23 UTC"
+    },
+    {
+      "title": "Merkez Bankası yıl sonu enflasyon tahminini yükseltti - Ekonomi Gazetesi",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1pPMW16QUJjR1RSVlFmOHVXd0FLNzIwN0d4cXlONm9nY2xqS25MNkxsbWhyOUNJZVVnMUx1Q1NIT1Bxb2FUcWV2Y3BGTkRTRXNNejZZN3B2dVcxZlFIUEtzUnN0aFVPYWZ1dW1CSkFpbWVZeWgwZGhLVFZUa05zVUJkZEYtS3ZHeFJjOV9MT3Q5ZGFfTERDU09VNGM4T1Jw?oc=5",
+      "summary": "Merkez Bankası yıl sonu enflasyon tahminini yükseltti Ekonomi Gazetesi",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 08:18 UTC"
+    },
+    {
+      "title": "Motosikletliler Gazze'ye destek için dayanışma sürüşü gerçekleştirecek",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/motosikletliler-gazzeye-destek-icin-dayanisma-surusu-gerceklestirecek/4121933",
+      "summary": "İstanbul'da binlerce motosikletli, Gazze'de yaşanan insani drama dikkati çekmek ve Filistin halkına destek mesajı vermek amacıyla dayanışma sürüşü gerçekleştirecek.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 08:15 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan COP31'de diplomasi trafiği",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-cop31de-diplomasi-trafigi-963032.html",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 kapsamında Türkiye'de bulunan liderlerle bir araya geldi.",
+      "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 08:14 UTC"
     },
     {
-      "title": "Kulüpler Birliği Genel Sekreteri Çağrı İlk'ten \"Futbol Zirvesi\"ne ilişkin değerlendirme",
+      "title": "Musk'tan Nvidia CEO'suna iş teklifi",
+      "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794471261/3794348/jpg/320x180",
+      "link": "https://www.bloomberght.com/musk-tan-nvidia-ceo-suna-is-teklifi-3794348",
+      "summary": "Tesla Üst Yöneticisi (CEO) ve SpaceX'in kurucusu Elon Musk, \"Çinli bir casusla ilişki yaşadığı iddialarına\" konu olan ABD'li çip üreticisi Nvidia'nın CEO'su Jensen Huang'ı işe almanın kendisi için \"onur olacağını\" belirtti.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 08:13 UTC"
+    },
+    {
+      "title": "TCMB enflasyon tahminlerini 18. kez yükseltti: 2026 sonu yüzde 29,5 - Cumhuriyet",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/kulupler-birligi-genel-sekreteri-cagri-ilkten-futbol-zirvesine-iliskin-degerlendirme/4121922",
-      "summary": "Kulüpler Birliği Vakfı Genel Sekreteri Doç. Dr. Çağrı İlk, \"Futbol Zirvesi\"nde Türk futbolunun gelişimine katkı sağlayacak somut fikirleri ortaya çıkarmayı hedeflediklerini söyledi.",
-      "source": "Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWldfYVdjU3dXVUo0bGRvTHpBbzF5WWoteWpZUU84UGdEMjVOQXdQcExHb1lkMW1odkFPRDZGUk4wb09VNlJ6emVHMzB3RlpKR2JJZTZMYkdCZWhtMC1OdzMyZkZ0c3ZyN3MwaDVhTEUyaFZiQUprdlpuY1BCWVJVd1k5dktVS3BCRGgwNHpTazFlR3N6MEVtbUctemhrVTM2TGdNSGtjclllUjcyUzlRTQ?oc=5",
+      "summary": "TCMB enflasyon tahminlerini 18. kez yükseltti: 2026 sonu yüzde 29,5 Cumhuriyet",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 08:13 UTC"
+    },
+    {
+      "title": "Merkez Bankası kredi sınırlarını yükseltti | Şenol Babuşcu: \"Seçim yakındır\" - Medyascope",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3QwTUhwRWc2OGZGWmczNkY0VDU2UGszMHg1WmlBM3VmZlBZVlpGbFhTbXpvTDBnV1BUZHIzb1c5T1hRM3dOZ1pjUTNBcDBsY3FxSXdwVThiTDFFNHpLRmxQcWZTSFBPMk1vajBSNHVHZVB6LUNtSDNWWHRoN0REdkdZaTB5Rm5rblA5VVRPdGw0Smp5bk5aWHdkSHFPdzFh?oc=5",
+      "summary": "Merkez Bankası kredi sınırlarını yükseltti | Şenol Babuşcu: \"Seçim yakındır\" Medyascope",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 08:12 UTC"
+    },
+    {
+      "title": "Mississippi elects first Black Senator since 1874",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/mississippi-elects-first-black-senator-since-1874?traffic_source=rss",
+      "summary": "Democrat Scott Colom has won Mississippi’s Senate race, becoming the state’s first Black senator since 1874.",
+      "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 08:12 UTC"
     },
     {
-      "title": "Merkez Bankası yıl sonu enflasyon tahminini açıkladı - www.platinonline.com",
+      "title": "Türkiye, yenilenebilir enerji potansiyeliyle yeşil hidrojen üretim maliyetlerini düşürebilir",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNFQ3MFg3dVFwVUM1dkpvMWROZ3paZUJ6eVZCaXlVazZERm1odC14SWZxVndHQ3h6akZQYWRtVm53ekctaXhkTEpVal9BR1RTQm14VU1HUzAzMVp3X2NxWlQwUG1qOFdLOTEwWjlaZHZrT2xacXhZSk1FWXREa0tNemE3Q1NwNFFSMmIxZjFiNkhyRDVmck4wZ0ttOUNEZw?oc=5",
-      "summary": "Merkez Bankası yıl sonu enflasyon tahminini açıkladı www.platinonline.com",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 08:11 UTC"
-    },
-    {
-      "title": "Korumacı tarifeler, Çin rekabeti ve yapay zeka Avrupa'da işten çıkarma dalgasını derinleştiriyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/korumaci-tarifeler-cin-rekabeti-ve-yapay-zeka-avrupada-isten-cikarma-dalgasini-derinlestiriyor/4121919",
-      "summary": "Aralarında Volkswagen, Bosch, Allianz Partners, Vodafone ve Barclays'in bulunduğu büyük şirketler, binlerce çalışanının işine son vereceğini açıkladı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-yenilenebilir-enerji-potansiyeliyle-yesil-hidrojen-uretim-maliyetlerini-dusurebilir/4121921",
+      "summary": "BM Sınai Kalkınma Örgütü (UNIDO) İklim ve Teknoloji Ortaklıkları Bölümü Şefi Petra Schwager, Türkiye'nin yenilenebilir enerji üretimindeki güçlü potansiyelinin yeşil hidrojen üretim maliyetlerini düşürerek ülkeye avantaj sağlayabileceğini bildirdi.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 08:10 UTC"
+      "published_at": "2026-11-12 08:11 UTC"
     },
     {
       "title": "Zorunlu kış lastiği uygulaması 15 Kasım'da başlıyor",
@@ -56,69 +452,6 @@
       "published_at": "2026-11-12 08:08 UTC"
     },
     {
-      "title": "Ampute Futbol Milli Takımı, Meksika'da \"şampiyon\" ünvanını koruma peşinde",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/ampute-futbol-milli-takimi-meksikada-sampiyon-unvanini-koruma-pesinde/4121912",
-      "summary": "Ampute Futbol Milli Takımı, Meksika'daki 2026 Dünya Kupası'nda \"şampiyon\" ünvanını korumak için sahaya çıkacak.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 08:08 UTC"
-    },
-    {
-      "title": "SON DAKİKA: Yıl sonu enflasyon tahmini! Merkez Bankası Enflasyon Raporu açıklandı - Yeni Asır",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWG9paS1yRmRmcUNmRGxuLW5wMHZWQ2NJWDlPNTNlZ05fMEU0eWlrSkwtSlZSYXhsZ3NUZHRQUTlPWGdIVGg5TWV4OWdqa2JSSVpsQU5URHkxVmxQaWxDQUE2ZW9Zb2I5V1M0NjZFbHlJLTl5bExTWDgxemFENnZuUXVvNk5MUGltbDM3aDNZWlJrVmpSai1IWWlwVmFzZTdzUnBmckE0QjktZWxodE02Zk5Fa3Z1NDluREZkeEFnZjB0d2pG?oc=5",
-      "summary": "SON DAKİKA: Yıl sonu enflasyon tahmini! Merkez Bankası Enflasyon Raporu açıklandı Yeni Asır",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 08:07 UTC"
-    },
-    {
-      "title": "Dört kıta, dört ülke tek sonuç: İsrail kaybettirir",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/analiz/dort-kita-dort-ulke-tek-sonuc-israil-kaybettirir/4121910",
-      "summary": "Kampüslerde, sendikalarda ve sivil toplumda gelişen Filistin dayanışması, yalnızca ahlaki itiraz olarak kalmayıp siyasal temsil üretmeye başladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 08:07 UTC"
-    },
-    {
-      "title": "Hidroelektrik, Türkiye'nin 2040 Milli Enerji Vizyonu'nda sistemin omurgası olacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/hidroelektrik-turkiyenin-2040-milli-enerji-vizyonunda-sistemin-omurgasi-olacak/4121908",
-      "summary": "Türkiye, 2040 Milli Enerji Vizyonu kapsamında yenilenebilir enerji kapasitesini artırırken hidroelektrik santrallerinin (HES) elektrik sistemindeki dengeleme ve depolama rolünü güçlendirecek.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 08:07 UTC"
-    },
-    {
-      "title": "Merkez Bankası, yıl sonu enflasyon tahminini yükseltti - İlke TV",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTG1UTHl5ZzFZRjVYY1p3bjlIVGtnbVNTUmxxSTAybG95RmRDQk1tUG1JQkk2enZzLWNoT1Z6TkNQXzhmV1pvQmlXc3hzQmpfTnVRWUNIZzFuYWpJMy1fdGM4TXBxQ2ZlbEl5NGdwTEw1MDR1cHZhN09HNngzXzR3Qy13RW4?oc=5",
-      "summary": "Merkez Bankası, yıl sonu enflasyon tahminini yükseltti İlke TV",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 08:06 UTC"
-    },
-    {
-      "title": "UNICEF, Sudan'da İHA saldırıları ve kuraklığın, olumsuz koşulları daha vahim hale getirdiğini bildirdi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/unicef-sudanda-iha-saldirilari-ve-kurakligin-olumsuz-kosullari-daha-vahim-hale-getirdigini-bildirdi/4121899",
-      "summary": "Birleşmiş Milletler Çocuklara Yardım Fonu (UNICEF) Sözcüsü James Elder, Sudan'daki çatışmalar nedeniyle hiçbir yerin güvende olmadığını belirterek, \"Milyonlarca insan yerinden edilmiş durumda ve korkunç koşullarda yaşıyor.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 08:05 UTC"
-    },
-    {
-      "title": "Türk lirasıyla dış ticaret hacmi 10 ayda 1,3 trilyon lirayı aştı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/turk-lirasiyla-dis-ticaret-hacmi-10-ayda-1-3-trilyon-lirayi-asti/4121900",
-      "summary": "Türk lirasıyla ocak-ekim döneminde, 346 milyar 165 milyon liralık ihracat ve 1 trilyon 7 milyar 809 milyon liralık ithalat yapıldı",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 08:05 UTC"
-    },
-    {
       "title": "Merkez Bankası enflasyon beklentisini yükseltti - Gazete Oksijen",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGNseElWeDBESE1XN25BR2JJcW1mT1h5WW5FeG16bjdMU0Q2RHZGMFZhVm5QUHNrM04tdkV4WGplV0pkQm51WHk0UkNqUnVnYUFaNlVmU3A3RzFuWHZDMTlkVVZ6MEtoTzdMQzVoNVJLRVZUWWZRa3lyTVJvdmxfX1hXUng1bFFPZXRBczBvSWJOUQ?oc=5",
@@ -128,22 +461,13 @@
       "published_at": "2026-11-12 08:03 UTC"
     },
     {
-      "title": "Anadolu Efes, Basketbol Avrupa Ligi'nde yarın Virtus Bologna'yı ağırlayacak",
+      "title": "Küresel elektrifikasyon hedefi yılda 5 trilyon dolar yatırım gerektiriyor",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-basketbol-avrupa-liginde-yarin-virtus-bolognayi-agirlayacak/4121893",
-      "summary": "Anadolu Efes, Basketbol Avrupa Ligi'nin (EuroLeague) 11. haftasında yarın İtalya'nın Virtus Bologna takımını konuk edecek.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-elektrifikasyon-hedefi-yilda-5-trilyon-dolar-yatirim-gerektiriyor/4121897",
+      "summary": "Uluslararası Yenilenebilir Enerji Ajansı İnovasyon ve Teknoloji Merkezi Stratejik Altyapı Başkanı Benmarraze, \"35'e 35\" girişiminin hayata geçirilmesi için yılda yaklaşık 5 trilyon dolarlık yatırıma ihtiyaç duyulduğunu dile getirdi.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 08:03 UTC"
-    },
-    {
-      "title": "TÜBİTAK, AR-GE gücünü yeni yatırım ve desteklerle artıracak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/tubitak-ar-ge-gucunu-yeni-yatirim-ve-desteklerle-artiracak/4121883",
-      "summary": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumuna (TÜBİTAK) 2027-2029 dönemi için toplam 276 milyar 461 milyon 404 bin liralık bütçe planlanırken bu tutarın büyük bölümünün AR-GE projelerine ayrılması öngörülüyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 08:01 UTC"
     },
     {
       "title": "TÜBİTAK'ın ARGE gücü yeni yatırım ve desteklerle artacak",
@@ -164,24 +488,6 @@
       "published_at": "2026-11-12 08:01 UTC"
     },
     {
-      "title": "Okullarda iklim değişikliğine bağlı afet risklerine karşı farkındalık oluşturulacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/okullarda-iklim-degisikligine-bagli-afet-risklerine-karsi-farkindalik-olusturulacak/4121873",
-      "summary": "Milli Eğitim Bakanlığınca, tüm öğretim kademeleri için 6 farklı temada hazırlanan etkinlikler aracılığıyla iklim değişikliğine bağlı afet risklerine ilişkin farkındalığın artırılması ve afetlere karşı hazırlık bilincinin geliştirilmesi amaçlanıyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 08:00 UTC"
-    },
-    {
-      "title": "TCMB Başkanı Karahan: Yıl sonu enflasyon tahminimizi yüzde 29,5 olarak yukarı yönlü güncelledik",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-yil-sonu-enflasyon-tahminimizi-yuzde-29-5-olarak-yukari-yonlu-guncelledik/4121874",
-      "summary": "TCMB Başkanı Karahan, \"2026 yıl sonu enflasyon tahminimizi yüzde 29,5 olarak yukarı yönlü güncelledik.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 08:00 UTC"
-    },
-    {
       "title": "Sinemalarda 10 yeni film vizyona giriyor",
       "image": "",
       "link": "https://www.trthaber.com/haber/kultur-sanat/sinemalarda-10-yeni-film-vizyona-giriyor-963029.html",
@@ -191,7 +497,7 @@
       "published_at": "2026-11-12 08:00 UTC"
     },
     {
-      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
       "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
@@ -200,31 +506,13 @@
       "published_at": "2026-11-12 07:59 UTC"
     },
     {
-      "title": "Özel Yetenek Sınavı ek yerleştirme sonuçları açıklandı",
+      "title": "Bakan Kurum: COP31'de tarihi kararlara imza atmak istiyoruz",
       "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/ozel-yetenek-sinavi-ek-yerlestirme-sonuclari-aciklandi-963027.html",
-      "summary": "Ölçme, Seçme ve Yerleştirme Merkezi ÖSYM, üniversitelerin spor programlarına öğrenci alımı için düzenlenen 2026 Özel Yetenek Sınavı'nın 2026ÖZYES ek yerleştirme sonuçlarını açıkladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 07:58 UTC"
-    },
-    {
-      "title": "Beşiktaş, Basketbol Avrupa Ligi'nde yarın LDLC Asvel'e konuk olacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/besiktas-basketbol-avrupa-liginde-yarin-ldlc-asvele-konuk-olacak/4121841",
-      "summary": "Beşiktaş, Basketbol Avrupa Ligi'nin (EuroLeague) 11. haftasında yarın Fransa'nın LDLC Asvel ekibiyle deplasmanda karşılaşacak",
+      "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-cop31de-tarihi-kararlara-imza-atmak-istiyoruz/4121833",
+      "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Tarihin en yoğun katılımlı COP'unda bizler de sizlerle birlikte COP31'de tarihi kararlara imza atmak istiyoruz.\" dedi.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 07:53 UTC"
-    },
-    {
-      "title": "Türkiye Trap Kadın Takımından dünya şampiyonasında \"ilk\" madalya",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/turkiye-trap-kadin-takimindan-dunya-sampiyonasinda-ilk-madalya/4121808",
-      "summary": "Milli atıcılar Rümeysa Pelin Kaya, Safiye Temizdemir ve Nihan Gürer'den kurulu Trap Kadın Takımı, kategorisinde Türkiye'ye dünya şampiyonasındaki ilk madalyasını kazandırdı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 07:47 UTC"
+      "published_at": "2026-11-12 07:52 UTC"
     },
     {
       "title": "AIIB ile Türkiye arasında 1,6 milyar dolarlık iklim anlaşması",
@@ -233,15 +521,6 @@
       "summary": "Asya Altyapı Yatırım Bankası (AIIB) ve Türkiye, Türkiye'nin iklim taahhütlerini yerine getirmesine yardımcı olacak politika ve kurumsal reformları desteklemek üzere 1,6 milyar dolarlık bir finansman paketi üzerinde anlaşmaya vardı.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 07:45 UTC"
-    },
-    {
-      "title": "\"Bir Banka Nasıl Soyulur\" aksiyon meraklılarıyla buluşacak",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/bir-banka-nasil-soyulur-aksiyon-meraklilariyla-bulusacak/4121799",
-      "summary": "Türkiye'deki sinema salonlarında bu hafta komediden drama, aksiyon ve gerilimden animasyona 10 film sinemaseverlerle buluşacak.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 07:45 UTC"
     },
     {
@@ -254,30 +533,12 @@
       "published_at": "2026-11-12 07:45 UTC"
     },
     {
-      "title": "İran: Hürmüz Boğazında 2 süper tankerde patlama sonrası yangın çıktı",
+      "title": "Merkez Bankası yıl sonu enflasyon tahminini açıkladı - TRT Haber",
       "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-2-super-tankerde-patlama-sonrasi-yangin-cikti-963026.html",
-      "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazından geçmeye çalışan iki süper tankerin kaza yaptığını ve kaza sonrasında tankerlerde patlama meydana geldiğini duyurdu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 07:43 UTC"
-    },
-    {
-      "title": "Merkez Bankası kredi büyüme sınırlarını yükseltti - Ekonomi Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDNjMHNOMWVNQml3Ym9fTk1uQkhidXdSMm9VUUcyUlE4RnFOVEdSLUZPQzBwczBoLTlVaU05T2c5QXczV2h0V19UdmxfZU01eThpcUhrTVdNbUZlS0ZIWXBfWEdFSDhfcklSZXpKRmFrc3ZaeGRfWGlVV0dnblRiRHhwSFJ0bUszN21JUEFqWFllYmRFMkY1X3FoZw?oc=5",
-      "summary": "Merkez Bankası kredi büyüme sınırlarını yükseltti Ekonomi Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNelBMZUNUVi1PVEdBcHd3U1lwUUxZdG1nb0V1dnFLOVdBS3dVbDloUFU3TkRlMVBLc0NGR0lYZGc5dDFjaWRFeXpSRm9JOUF3UEt1dFctWVljSEFQdXFoTVIzRjh0dGtHR1QwVTd1Qk8tUTJWbkJwZXk5UGxPdVAza3p4YVpXZmZTRW5vWDF3VEhzbjA5Z1RkSkwzNWExSkI3RXI4RkZR?oc=5",
+      "summary": "Merkez Bankası yıl sonu enflasyon tahminini açıkladı TRT Haber",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 07:38 UTC"
-    },
-    {
-      "title": "Merkez Bankası yıl sonu enflasyon tahminini açıkladı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-yil-sonu-enflasyon-tahminini-acikladi-963028.html",
-      "summary": "TCMB Başkanı Fatih Karahan, \"2026 yıl sonu enflasyon tahminimizi yüzde 29,5 olarak yukarı yönlü güncelledik. Enflasyonun; 2027 yıl sonunda ara hedeflerimiz olan yüzde 21'e, 2028 yıl sonunda yüzde 13,5'e, 2029 yıl sonunda yüzde 9'a geriledikten sonra, orta vadede enflasyon hedefi olan yüzde 5 seviyesinde istikrar kazanacağını öngörüyoruz\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 07:38 UTC"
     },
     {
@@ -308,15 +569,6 @@
       "published_at": "2026-11-12 07:26 UTC"
     },
     {
-      "title": "Eylül ayı dış ticaret endeksleri açıklandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/eylul-ayi-dis-ticaret-endeksleri-aciklandi-963025.html",
-      "summary": "İhracat birim değer endeksi, eylülde geçen yılın aynı ayına göre yüzde 7, ithalat birim değer endeksi yüzde 12,7 arttı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 07:26 UTC"
-    },
-    {
       "title": "Türkiye'de ilk kez aile ofisleri buluştu",
       "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794468683/3794289/jpg/320x180",
       "link": "https://www.bloomberght.com/turkiyede-ilk-kez-aile-ofisleri-bulustu-3794289",
@@ -335,39 +587,12 @@
       "published_at": "2026-11-12 07:21 UTC"
     },
     {
-      "title": "Tavuk eti üretimi eylülde arttı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/tavuk-eti-uretimi-eylulde-artti-963024.html",
-      "summary": "Türkiye genelinde tavuk eti üretimi eylülde geçen yılın aynı ayına göre yüzde 5,2 artarak 240 bin 723 tona, tavuk yumurtası üretimi yüzde 20,4 yükselişle 2 milyar 76 milyon 674 bin adede çıktı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 07:19 UTC"
-    },
-    {
-      "title": "Bakan Kurum, Konuşmamız Lazım filmini paylaştı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-konusmamiz-lazim-filmini-paylasti-963023.html",
-      "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 Liderler Zirvesi'nde ilk kez gösterilen \"Konuşmamız LazımWe Need to Talk\" filmini paylaştı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 07:18 UTC"
-    },
-    {
       "title": "Sabancı'nın elektrifikasyon yatırımları 2022'den bu yana 6 milyar doları aştı",
       "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794467680/3794287/jpg/320x180",
       "link": "https://www.bloomberght.com/sabancinin-elektrifikasyon-yatirimlari-2022den-bu-yana-6-milyar-dolari-asti-3794287",
       "summary": "COP31'de 11 Kasım'da başlayan Liderler Zirvesi kapsamında düzenlenen \"Sürdürülebilir, Dayanıklı ve Adil Bir Geleceğe Doğru\" başlıklı oturumda Türk iş dünyasını temsil eden Sabancı Holding Yönetim Kurulu Başkanı Hayri Çulhacı, aynı gün COP31 Başkanlığı'nın ev sahipliğinde gerçekleşen \"Temiz Enerji Dönüşümü ve Elektrifikasyon – 35by35: Geleceği Güçlendirmek\" başlıklı üst düzey diyalog etkinliğinde de katılımcılara seslendi.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 07:13 UTC"
-    },
-    {
-      "title": "Beşiktaş'ta trafik kavgasına karışanlar şüphelilere 906 bin lira ceza",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/besiktasta-trafik-kavgasina-karisanlar-suphelilere-906-bin-lira-ceza-963022.html",
-      "summary": "Beşiktaş'ta, 15 Temmuz Şehitler Köprüsü çıkışında meydana gelen trafik kavgasına karışan 5 şüpheli yakalanırken, 906 bin 992 lira idari para cezası uygulandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 07:13 UTC"
     },
     {
@@ -380,42 +605,6 @@
       "published_at": "2026-11-12 07:13 UTC"
     },
     {
-      "title": "İzmir'de 1,3 ton sentetik uyuşturucu ele geçirildi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/izmirde-13-ton-sentetik-uyusturucu-ele-gecirildi-963020.html",
-      "summary": "İzmir'de düzenlenen uyuşturucu operasyonunda 1 ton 367 kilogram sentetik uyuşturucu ile 57 bin uyuşturucu hap ele geçirildi, 3 şüpheli tutuklandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 07:08 UTC"
-    },
-    {
-      "title": "Türkiye ile Kanada arasında nükleer santral için işbirliği anlaşması",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-kanada-arasinda-nukleer-santral-icin-isbirligi-anlasmasi-963021.html",
-      "summary": "Türkiye Nükleer Enerji AŞ ile Kanada merkezli AtkinsRealis, CANDU reaktör teknolojisiyle kurulabilecek nükleer santral için fizibilite ve ön tasarım mühendisliği anlaşması imzaladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 07:07 UTC"
-    },
-    {
-      "title": "Marmara için kuvvetli rüzgar ve fırtına uyarısı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/marmara-icin-kuvvetli-ruzgar-ve-firtina-uyarisi-963019.html",
-      "summary": "Marmara Bölgesi'nde bugün ve yarın beklenen fırtına nedeniyle 11 il için \"sarı\" kodlu uyarıda bulunuldu.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 07:03 UTC"
-    },
-    {
-      "title": "BIST 100 endeksi 11.675,26 puandan başladı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/bist-100-endeksi-1167526-puandan-basladi-963018.html",
-      "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,08 yükselişle 11.675,26 puandan başladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 07:03 UTC"
-    },
-    {
       "title": "Küresel elektrikli araç satışları Ekim'de 2,09 milyona ulaştı",
       "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794466925/3794281/jpg/320x180",
       "link": "https://www.bloomberght.com/kuresel-elektrikli-arac-satislari-ekim-de-2-09-milyona-ulasti-3794281",
@@ -423,15 +612,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-12 07:00 UTC"
-    },
-    {
-      "title": "Bakan Kurum: Sıfır Atık Mutfağı'nda Sıfır Atık bilincini dünyayla paylaşıyoruz",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-sifir-atik-mutfaginda-sifir-atik-bilincini-dunyayla-paylasiyoruz-963017.html",
-      "summary": "Antalya'da düzenlenen COP31'in üçüncü gününde \"Sıfır Atık\" teması kapsamında 7 Bölge 7 Mutfak alanında gıda israfına karşı örnek uygulamalar sergileniyor. Anadolu'nun yöresel lezzetlerinin tanıtıldığı alanda, mutfak malzemeleri farklı tariflerle yeniden değerlendiriliyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 06:56 UTC"
     },
     {
       "title": "Borsa İstanbul güne sınırlı yükselişle başladı - borsagundem.com.tr",
@@ -497,13 +677,13 @@
       "published_at": "2026-11-12 06:37 UTC"
     },
     {
-      "title": "Benzine indirim geldi",
-      "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794465464/3794274/jpg/320x180",
-      "link": "https://www.bloomberght.com/benzine-indirim-geldi-3794274",
-      "summary": "Uluslararası ürün fiyatlarında yaşanan gerilemenin ardından benzinin litre fiyatına 12 Kasım tarihinden itibaren geçerli olmak üzere 3,48 TL indirim geldi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 06:36 UTC"
+      "title": "Türkiye'de enerji dönüşümü farkındalığı yüzde 98'e yükseldi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/turkiyede-enerji-donusumu-farkindaligi-yuzde-98e-yukseldi/4121685",
+      "summary": "Fondazione MAIRE tarafından gerçekleştirilen araştırma, Türkiye'de enerji dönüşümüne ilişkin farkındalığın arttığını, toplumun dönüşümün hayata geçirilmesi için somut politika, teknoloji yatırımlarına daha fazla önem verdiğini ortaya koydu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 06:26 UTC"
     },
     {
       "title": "It is time for a change of leadership in the Democratic Party in the US",
@@ -515,24 +695,6 @@
       "published_at": "2026-11-12 06:26 UTC"
     },
     {
-      "title": "ING araştırdı: Bankacılıkta yeni normal daha az masraf, daha az zahmet",
-      "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794464387/3794270/jpg/320x180",
-      "link": "https://www.bloomberght.com/ing-arastirdi-bankacilikta-yeni-normal-daha-az-masraf-daha-az-zahmet-3794270",
-      "summary": "Masrafsız bankacılık alanında öncü adımlar atan ING Türkiye'nin \"Eskiyen Normaller Araştırması\", dijitalleşmeyle birlikte tüketicilerin bankacılık deneyimlerine ilişkin beklentilerinin değiştiğini ortaya koydu.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 06:19 UTC"
-    },
-    {
-      "title": "SpaceX 6 günde ikinci gizli fırlatmayı yaptı",
-      "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794464424/3794269/jpg/320x180",
-      "link": "https://www.bloomberght.com/spacex-6-gunde-ikinci-gizli-firlatmayi-yapti-3794269",
-      "summary": "ABD merkezli SpaceX şirketinin ABD Uzay Kuvvetleri için California eyaletinden 6 gün içinde ikinci gizli fırlatmasını yaptığı bildirildi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 06:18 UTC"
-    },
-    {
       "title": "From Pong to GTA VI: Play your way through 50 years of video games",
       "image": "",
       "link": "https://www.aljazeera.com/features/longform/2026/11/12/from-pong-to-gta-vi-play-your-way-through-50-years-of-video-games?traffic_source=rss",
@@ -542,31 +704,13 @@
       "published_at": "2026-11-12 06:17 UTC"
     },
     {
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 06:12 UTC"
-    },
-    {
-      "title": "Altında 4 bin dolar testi",
-      "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794463431/3794268/jpg/320x180",
-      "link": "https://www.bloomberght.com/altinda-4-bin-dolar-testi-3794268",
-      "summary": "Altın fiyatları, ABD'de kalıcı seyreden enflasyon ve Fed yetkililerinin gelecek ay faiz artışı beklentilerini körükleyen şahin açıklamalarıyla üst üste üçüncü gününde de değer kaybederek ons başına 4 bin doların altındaki seyrini sürdürdü.",
-      "source": "Bloomberg HT",
+      "title": "ING'den faiz tahmini: Merkez Bankası aralık ayında ne yapacak? - Ekonomim",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWGx1Qmk4cHlQMC0xOXNmMTFKdDZxY0JwdGtNZ2JmSmFscWFoblBzSnpwWFlUSmZyRlpXS1N5dTZqZm52MGM3VHNZcGlMQ0pqSnFReDZiUkp5azJhQmJNZHYwTEJkQ2ItbWJDRy1vRHgxcmt3aEZQQ2VQblcySTJhRmFNeGJhNUVhbHpPa3lSZFdMU0FFeTZRWjcxTHBwUERuTUNDUFVVM1pHQQ?oc=5",
+      "summary": "ING'den faiz tahmini: Merkez Bankası aralık ayında ne yapacak? Ekonomim",
+      "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 06:03 UTC"
-    },
-    {
-      "title": "Petrolde iki ayın en düşük seviyesi",
-      "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794462600/3794261/jpg/320x180",
-      "link": "https://www.bloomberght.com/petrolde-iki-ayin-en-dusuk-seviyesi-3794261",
-      "summary": "Petrol fiyatları, Orta Doğu'daki petrol üretiminin artması ve İran ile ABD arasındaki çatışmaların sakin seyretmesiyle son iki ayın en düşük seviyesine geriledi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 05:49 UTC"
+      "published_at": "2026-11-12 06:16 UTC"
     },
     {
       "title": "Borsa İstanbul Şirket Haberleri (12 Kasım) - Borsa Gundem",
@@ -585,33 +729,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-12 05:40 UTC"
-    },
-    {
-      "title": "Küresel piyasalarda yapay zeka hisselerine güçlü dönüş",
-      "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794461842/3794260/jpg/320x180",
-      "link": "https://www.bloomberght.com/kuresel-piyasalarda-yapay-zeka-hisselerine-guclu-donus-3794260",
-      "summary": "Anthropic'in 1,4 trilyon dolarlık değerlemeyle gerçekleştirmeyi planladığı halka arz, yatırımcıların yapay zeka temasına yönelik iştahı açısından önemli bir gösterge olacak.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 05:36 UTC"
-    },
-    {
-      "title": "Nvidia yönetimi Huang'ın geleceğini görüşüyor",
-      "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794461528/3794259/jpg/320x180",
-      "link": "https://www.bloomberght.com/nvidia-yonetimi-huangin-gelecegini-gorusuyor-3794259",
-      "summary": "Nvidia yönetim kurulu CEO Huang'ın görevden alınıp alınmayacağını görüşmek üzere toplandı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 05:31 UTC"
-    },
-    {
-      "title": "Merkez Bankası'ndan kredi kararı: İhtiyaç, taşıt ve ticari kredilerde yeni oranlar belli oldu - Kısa Dalga",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTkJhQXNMR2kycEpOU2drWXJhYXZmS3dLUVZIZlpoX3Zxdlh1YXBwbUFkTUxybTBuOUlGMlVPM2x5Sm5PN1dTSXBjeXItbTc4QUc3bXRxdDRWN0EwQVlTR3hmWUxHSmgtdER4YjF3c21mbHM1bXBmVXV2TkFmTHM3dWpkVTBmc2Y3QlJjeXFRUGpKbTlQMlNyYWlCaDkxcFNwLW0yVzN5WWZMYzhzREM3VV9ObGtjN2M5LWY5RDY3TGNOeHVEbUHSAcsBQVVfeXFMTTBqaERpcFJVWG85NDUzVnVFS2ctMVRjYWRfalBMU0lPbWNxZThfdVVWSlhsTHV5dWNwdXJjSGJUUjRmRVE4eXRDalp0SVhxOXZyMVc0bnlReTFkLVk4UTBKa21pMFhabmZicTN0NXd0aU1hMW5yWGQ2ZGRma1oxWFFNQXI4V01Iby1rWTB4S3dqTjJKa0NMbXVYM2ZqSmt3LXFuNl9BUHcxOXJzaXhfLVF3WjE4WW5feTY2aklPWk42UWdpbG1LWWczTjQ?oc=5",
-      "summary": "Merkez Bankası'ndan kredi kararı: İhtiyaç, taşıt ve ticari kredilerde yeni oranlar belli oldu Kısa Dalga",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 05:18 UTC"
     },
     {
       "title": "New York building collapse kills at least two, officials say",
@@ -641,15 +758,6 @@
       "published_at": "2026-11-12 05:04 UTC"
     },
     {
-      "title": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
-      "summary": "World Health Organization says more than 320,000 people have been displaced in Yemen fighting since August 1.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 04:41 UTC"
-    },
-    {
       "title": "Yapay Zekâ, Yönetilen Siber Güvenlik Hizmetlerinde MSP Kurallarını Değiştiriyor - ÇözümPark",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRy1uVDJvZmNJS1FZYnFyaUR4REhlNExPUzYtd3NmYmo4anhsWXZLNzVyLXdlS1lPdFFSMHYxa3Fra28wS1gzRDhoYjJMYmVCYlgwUmhLVEYxdGlYT1hhYk83NVdiRi1nUnUzd2dpRnFFNHZjdTV0Vkl2cW9EWXB3QTdIX0RXdFR1RnV0a1AyRk56MDFJdWFkeWJDcXFPaXhMaEJFaVJPN0s?oc=5",
@@ -659,15 +767,6 @@
       "published_at": "2026-11-12 04:41 UTC"
     },
     {
-      "title": "Bolivia arrests former judge on suspicion of drug trafficking",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking?traffic_source=rss",
-      "summary": "Arrests in Bolivia linked to a US-backed security alliance crackdown on drug cartels in Latin America.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 04:40 UTC"
-    },
-    {
       "title": "COP31'de BM Genel Sekreteri'nden fosil yakıtların vergilendirilmesi çağrısı: 'Kirleten ödemeli'",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bff8/live/76b1c490-ddca-11f1-9053-236ccb99630c.jpg",
       "link": "https://www.bbc.com/turkce/articles/cwz0v0rv0lvxo?at_medium=RSS&at_campaign=rss",
@@ -675,15 +774,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 04:22 UTC"
-    },
-    {
-      "title": "Iran’s chief negotiator tells Al Jazeera ‘ball in US court’",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss",
-      "summary": "Iran’s chief negotiator says it’s up to the US to answer Iran’s position in the latest round of peace talks.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 04:19 UTC"
     },
     {
       "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
@@ -702,24 +792,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 04:00 UTC"
-    },
-    {
-      "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
-      "summary": "Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 04:00 UTC"
-    },
-    {
-      "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
-      "summary": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 03:50 UTC"
     },
     {
       "title": "Australian teen missing in bush for six days rescued alive",
@@ -803,6 +875,15 @@
       "published_at": "2026-11-11 21:40 UTC"
     },
     {
+      "title": "Borsa İstanbul günü sınırlı yükselişle 11.666 puandan kapattı - Doviz.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMnRIbndxdElhRzRBZVlxWm43WmhzRGRkaGJGZm1FRjc2M2FtczRzMXpNWGhucmxoYzdEbXdpdUQtS1dHMzNLZzNoaFZoSDNza2pyTEMtSGFvLVlrS002ekxQM1lxSVdfN0FNd29yd0piRHVxNDA1Zk9nNG5nWDA5QjZFX0NneXJfeUtYMXgyWi1rcEJWNnMteTZSYW1oRWJibzJ3dkV1Yk5sNG9T0gG0AUFVX3lxTE9JdlQtWVFXWUhpd0Zua0gxOVlha0xWN2hjZ1huSVdhaVNzWnVUa0ZQeTdXcGxRZXhVZDhGY0doN0FDSGNOQWt0Z1NJTkgyZ2ZlaUpELTlBeExYaEVuMGNHcGhEMXBSbUt3T1FsR3pIZlFqWG5YN2NTZWdTX1BGd1RUVzZyU0drcjgyYjNOcHdnMmV6RW5lemk1N054Q3hRZXpwcEJpejJvRHZuSmRrVHItWmtSRw?oc=5",
+      "summary": "Borsa İstanbul günü sınırlı yükselişle 11.666 puandan kapattı Doviz.com",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-11 20:09 UTC"
+    },
+    {
       "title": "Merkez Bankası kredi büyüme sınırlarını yükseltti - TRT Haber",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3NON0gzTUVMci15M2JJMHpvdXd5VlB2c2t6T1lIZEtIVVI2aTh4Y2FsaXNfUkdlUVhUdVdfZFA1TkFzMFZhSzlJNjJIcllTYTJxRFNCb1lnMDhVamk5VGdrVC0wQ2RrZlB5WUF0MlZGbldNeXQyOTRzXzNvVWNlTXhBQTlhWEVCMC1GeXpoU2VHMno1Mzlzb1huVXdPeHBiT3c?oc=5",
@@ -819,87 +900,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-11 19:57 UTC"
-    },
-    {
-      "title": "Merkez Bankası'ndan kredi büyüme sınırlarında artış: İhtiyaç, taşıt ve ticari kredileri... - Cumhuriyet",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR01uS3lxRDNDMjlLV0JIRV91YzMwMEZtYmhYSC1rNDJ3VGNhXzlmeW1qVFlaOWFnc0IxejZhWFFmZU5MVTRPSERhbkZwSjRGQWN2Wmw5NWpXMm43WHdNcGktNnZrakZsX0gyUXdYWTZyblZMQ0RpZEJIN0c4WDVBMURCQ3dEU3VXR0FNdUhzWXQxRjZyekd6T1VmLXMzdzZnVVEwUU1sR2h2Tzd3VlRKTEhsa19RYW1mSlBOQ3hZM3hXdGREY0NMT3lHcw?oc=5",
-      "summary": "Merkez Bankası'ndan kredi büyüme sınırlarında artış: İhtiyaç, taşıt ve ticari kredileri... Cumhuriyet",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-11 19:49 UTC"
-    },
-    {
-      "title": "Merkez Bankası'nın yeni düzenlemesi ne anlama geliyor? Kredi faizleri düşecek mi? - Sözcü Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOempKNDdibnlFNlpjWVc1SXhKTUo1T1pzRTV4OTg4ODkwTTRISDh6M1plSkVsUW56Zkozc3MzS1dNdGJTeWV5Z0NNQXZQQXpSYmpqb2NTNVA4aG5xTkxyU1c1WV9JaEMxTG1YOHIwc2pMYm11NGI5VjZpMktzT1hGQmI1QU9YT0V4d25vbmY0LWs3OWUwQmZPZnFFTXZCSGtBdzRBZW85UmhDTDNCN3NMMUJDcXVldzMyRmtjTjlHMjk?oc=5",
-      "summary": "Merkez Bankası'nın yeni düzenlemesi ne anlama geliyor? Kredi faizleri düşecek mi? Sözcü Gazetesi",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-11 19:34 UTC"
-    },
-    {
-      "title": "TCMB, kredi büyüme sınırlarını yükseltti - Bloomberght",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRzdkQkxicXFDUExJV3B3NHhocGt2UGdLdWx6dkIxZG5DQXBVbWZDUTQyOFBfNlcxLXJaM3l2SFJ4d01LMjNxZjdmWlFrMzJhOGw0SEMxb2RoRWREbFNQWERWbzFKS1pOM1JwejBPRDJnXzRIOTd4endBMjAzQXRjTg?oc=5",
-      "summary": "TCMB, kredi büyüme sınırlarını yükseltti Bloomberght",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-11 19:22 UTC"
-    },
-    {
-      "title": "Merkez Bankası kredi büyüme sınırlarını yükseltti - Ekonomim",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd0FpMnVqUUExaHlUSjhydWJWekNWNGFLckJlUnNnT3Bzek9DTmNvamoyaFdkV0x2NlpINnVicWI0VXlFZTUtS2gxWVJmN0pSaE1YWkdlNDdvYWphcmM0NDhkbm9LVGozcjRCdGxkd2hkemFmSFlYaXVYUGw0T0ZiVmN6d01DdXdS?oc=5",
-      "summary": "Merkez Bankası kredi büyüme sınırlarını yükseltti Ekonomim",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-11 19:16 UTC"
-    },
-    {
-      "title": "İtalya, İskoçya ve Kuzey İrlanda'da yedi binden fazla okula bomba tehdidi içeren mektuplar gönderildi",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63e5/live/dcc27e70-dde1-11f1-9cf4-b188db5b2d8c.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c51k93wjnk02o?at_medium=RSS&at_campaign=rss",
-      "summary": "İtalya'da bomba tehdidi içeren bir mesaj nedeniyle binlerce okulda tahliye ve arama çalışmaları yapıldı. Başbakan Giorgia Meloni, bakanlar ve güvenlik yetkililerini toplantıya çağırdı.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 18:55 UTC"
-    },
-    {
-      "title": "Sakarya Üniversitesi - Sakarya Üniversitesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KTmRiM1FHV0JiekNJcURTVTFlV2drOGhKaXJrVHA4Z2FGWjVCTV9aTmpYdjVVVXZ3N25Nc3prMGwyLThwUEYzMGt1aXZBOWExandxVFJoaFF5RWU1dUN6d2xGWVQxRXJMNUhtX182cmttR0N0czZ4RmlHQlJoZw?oc=5",
-      "summary": "Sakarya Üniversitesi Sakarya Üniversitesi",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-11-11 18:43 UTC"
-    },
-    {
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 18:38 UTC"
-    },
-    {
-      "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed5/live/f16d2a80-ddf7-11f1-93e1-3b657b665bcf.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 18:10 UTC"
-    },
-    {
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 18:04 UTC"
     }
   ]
 }
