@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 01:45 UTC",
+  "updated_at": "2026-11-12 02:42 UTC",
   "items": [
     {
       "title": "New York building collapse kills one person and injures 12",
@@ -8,7 +8,70 @@
       "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 01:34 UTC"
+      "published_at": "2026-11-12 02:33 UTC"
+    },
+    {
+      "title": "Arap Koalisyonu: Suudi Arabistan’ın doğusunda bir İHA engellendi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistan-in-dogusunda-bir-iha-engellendi/4121563",
+      "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Suudi Arabistan’ın doğusunda bir insansız hava aracının (İHA) engellendiğini duyurdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 02:25 UTC"
+    },
+    {
+      "title": "New York'ta bina çöktü",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/new-yorkta-bina-coktu-962982.html",
+      "summary": "New York'un Brooklyn kentinde çöken binanın enkazı altında kalan en az bir kişi öldü, bazı apartman sakinleri yaralandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 02:22 UTC"
+    },
+    {
+      "title": "Indonesian VP resigns over education qualification row",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
+      "summary": "Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 02:22 UTC"
+    },
+    {
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 02:09 UTC"
+    },
+    {
+      "title": "Argentina’s Milei cries as he bids farewell to the Pope",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss",
+      "summary": "President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 02:03 UTC"
+    },
+    {
+      "title": "BIST 100 Canlı: Borsa İstanbul Endeksi Bugün | Aposto Piyasalar - Aposto",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yLUVwakZ3S0JZODNiR3NqLXFOWl9hN1dSYVZTMld5MGp5dU04SndRT0NUUkdmVTBtcC1YV0RVNExQNllCRDVOYzE3WWF3UQ?oc=5",
+      "summary": "BIST 100 Canlı: Borsa İstanbul Endeksi Bugün | Aposto Piyasalar Aposto",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-12 02:03 UTC"
+    },
+    {
+      "title": "Three-storey building collapses in Brooklyn",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss",
+      "summary": "A three-storey building collapsed in Brooklyn, New York, killing at least two people and injuring several others.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 01:50 UTC"
     },
     {
       "title": "What could Chinese intelligence have learned from Nvidia CEO’s affair?",
@@ -47,19 +110,10 @@
       "published_at": "2026-11-12 01:04 UTC"
     },
     {
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a54/live/d643ec30-de33-11f1-b8ec-f53576d91bbb.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 01:00 UTC"
-    },
-    {
       "title": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
       "image": "",
       "link": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
-      "summary": "Chip giants stock price falls more than 8 percent amid speculation over co-founder's position.",
+      "summary": "Chip giant's stock price falls more than 8 percent amid speculation over co-founder's position.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 00:43 UTC"
@@ -173,6 +227,15 @@
       "published_at": "2026-11-11 23:46 UTC"
     },
     {
+      "title": "İngiltere Dışişleri Bakanı Miliband, fosil yakıtlara bağımlılığın ulusal güvenliği zayıflattığını söyledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/ingiltere-disisleri-bakani-miliband-fosil-yakitlara-bagimliligin-ulusal-guvenligi-zayiflattigini-soyledi/4121548",
+      "summary": "İngiltere Dışişleri Bakanı Ed Miliband, fosil yakıtlara bağımlılığın jeopolitik çatışmaların yol açtığı ekonomik etkiler nedeniyle ulusal güvenliği zayıflattığını belirterek, temiz enerjiye geçişin hızlandırılması çağrısında bulundu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-11 23:41 UTC"
+    },
+    {
       "title": "Askeri anıtın yanında gürültü yapan ABD Savunma Bakanı Hegseth'e nöbetçi askerden \"sessiz olun\" uyarısı",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/askeri-anitin-yaninda-gurultu-yapan-abd-savunma-bakani-hegsethe-nobetci-askerden-sessiz-olun-uyarisi/4121540",
@@ -191,24 +254,6 @@
       "published_at": "2026-11-11 23:05 UTC"
     },
     {
-      "title": "Küresel endeks sağlayıcısı MSCI endekslerde değişikliğe gitti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-endeks-saglayicisi-msci-endekslerde-degisiklige-gitti/4121539",
-      "summary": "Küresel endeks sağlayıcılarından MSCI, dünya genelinde endeks değişikliklerini duyururken, Türkiye'nin küçük ölçekli şirketler endeksine 2 yeni hissenin eklendiğini, 18 hissenin çıkarıldığını bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 23:04 UTC"
-    },
-    {
-      "title": "Israeli strikes hit medical complex as nine killed across Gaza",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
-      "summary": "Nasser Medical Complex in Khan Younis attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 22:55 UTC"
-    },
-    {
       "title": "Merkez Bankası kredi büyüme sınırlarını artırdı: İhtiyaç, taşıt ve ticari kredilerde yeni oranlar - Anka Haber",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTFRYWDg4TVMxa0ZLMy1OTzJKQU5RS2R1RWhlN0hOYmNWSUxWZXVHZGRIRW10ZWx3ZDdlMm9xT2wzMWhpV1dUYWlrR3ZxZE8taDc4anAybjRnWVZBMmVPaE1JUDR3c3JqQnNuWmhUTW9kY3lTRjg5OV9kZ2NxT2c3QnJGODJOWXZqektkcldVQTZKNTAyS3dJem9fclM0UmJZM18wTUhLdlp6ZHI3SHZGbG43LThmaFUzajNpUzZqUTNBUXJZWlFCQ0dfSUQ?oc=5",
@@ -218,31 +263,22 @@
       "published_at": "2026-11-11 22:52 UTC"
     },
     {
-      "title": "New York'ta çöken binanın enkazı altında kalan en az bir kişi hayatını kaybetti",
+      "title": "Fenerbahçe Tarfin, Paris Basketbol'a 111-109 mağlup oldu",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/new-yorkta-coken-binanin-enkazi-altinda-kalan-en-az-bir-kisi-hayatini-kaybetti/4121532",
-      "summary": "New York'un Brooklyn kentinde çöken binanın enkazı altında kalan en az bir kişinin öldüğü, bazı apartman sakinlerinin yaralandığı bildirildi.",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-paris-basketbola-111-109-maglup-oldu/4121529",
+      "summary": "Avrupa Ligi'nin 11. haftasında Fenerbahçe Tarfin, konuk olduğu Fransa ekibi Paris Basketbol'a uzatmada 111-109 yenildi.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 22:37 UTC"
+      "published_at": "2026-11-11 22:31 UTC"
     },
     {
-      "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+      "title": "İspanya Başbakanı Sanchez, savcılığın TikTok hakkında soruşturma başlatmasını memnuniyetle karşıladı",
       "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
-      "summary": "The move comes months after the government of Javier Milei designated Iran's IRGC as a 'terrorist organisation'.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 22:34 UTC"
-    },
-    {
-      "title": "ABD Temsilciler Meclisi, Savunma Bakanı Hegseth'e yönelik azil girişimini engelledi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abd-temsilciler-meclisi-savunma-bakani-hegsethe-yonelik-azil-girisimini-engelledi/4121524",
-      "summary": "ABD Temsilciler Meclisi, Savunma Bakanı Pete Hegseth'in görevden alınmasına yönelik azil girişimini engelledi.",
+      "link": "https://www.aa.com.tr/tr/dunya/ispanya-basbakani-sanchez-savciligin-tiktok-hakkinda-sorusturma-baslatmasini-memnuniyetle-karsiladi/4121520",
+      "summary": "İspanya Başbakanı Pedro Sanchez, sosyal medya platformu TikTok'ta çocuk cinsel istismarına ilişkin görüntülerin yayılmasıyla ilgili savcılığın soruşturma başlatma kararının harika bir haber olduğunu belirtti.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 22:25 UTC"
+      "published_at": "2026-11-11 22:24 UTC"
     },
     {
       "title": "Gazze'de öldürülen Filistinli genç kaleci, İsrail soykırımının son sporcu kurbanı oldu",
@@ -263,10 +299,10 @@
       "published_at": "2026-11-11 22:24 UTC"
     },
     {
-      "title": "Rusya'nın Washington Büyükelçisi Darçiyev hayatını kaybetti",
+      "title": "Katar: Hürmüz Boğazı’ndaki krizin küresel kalkınmaya etkileri giderek ağırlaşıyor",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/rusyanin-washington-buyukelcisi-darciyev-hayatini-kaybetti/4121519",
-      "summary": "Rusya'nın Washington Büyükelçisi Aleksandr Darçiyev'in 66 yaşında hayatını kaybettiği bildirildi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/katar-hurmuz-bogazi-ndaki-krizin-kuresel-kalkinmaya-etkileri-giderek-agirlasiyor/4121518",
+      "summary": "Katar Uluslararası İşbirliğinden Sorumlu Devlet Bakanı Meryem bint Ali el-Misned, Hürmüz Boğazı’ndaki krizin küresel kalkınmaya etkilerinin giderek ağırlaştığını söyledi.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-11 22:23 UTC"
@@ -297,24 +333,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-11 22:22 UTC"
-    },
-    {
-      "title": "ACWA Türkiye'deki yenilenebilir enerji yatırımlarını artırmayı hedefliyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/acwa-turkiyedeki-yenilenebilir-enerji-yatirimlarini-artirmayi-hedefliyor/4121505",
-      "summary": "Suudi Arabistanlı küresel enerji şirketi ACWA, Türkiye'nin yenilenebilir enerji hedefleri doğrultusunda güneş enerjisi, elektrik iletim altyapısı ve batarya depolama alanlarındaki yatırımlarını artırmayı hedefliyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 22:18 UTC"
-    },
-    {
-      "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
-      "summary": "The BBC denies defamation charge as Trump celebrates “huge victory” in court decision.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 22:10 UTC"
     },
     {
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -380,10 +398,10 @@
       "published_at": "2026-11-11 21:00 UTC"
     },
     {
-      "title": "Londra Belediye Başkanı Khan, iklim krizinin yıkıcı etkilerine dikkati çekti",
+      "title": "AK Parti Genel Başkanvekili Ala: İsrail'in isteği soykırım siyasetinin sıradanlaşmasıdır",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/londra-belediye-baskani-khan-iklim-krizinin-yikici-etkilerine-dikkati-cekti/4121470",
-      "summary": "Londra Belediye Başkanı Sadık Khan, Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31), iklim değişikliğinin yıkıcı etkilerine dikkati çekti.",
+      "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskanvekili-ala-israilin-istegi-soykirim-siyasetinin-siradanlasmasidir/4121471",
+      "summary": "AK Parti Genel Başkanvekili Efkan Ala, \"İsrail'in isteği soykırım siyasetinin sıradanlaşmasıdır. Bugün tehlike, dünyanın buna alışmasıdır. Sayın Cumhurbaşkanı'mızın liderliğinde Türkiye alışmayı reddediyor.\" ifadesini kullandı.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-11 20:58 UTC"
@@ -398,22 +416,22 @@
       "published_at": "2026-11-11 20:58 UTC"
     },
     {
-      "title": "İsrail ordusu, El Halil'de bir Filistinli ile oğlunu gözaltına aldı, 2 çocuğu alıkoydu",
+      "title": "İsrail basını: Güvenlik Kabinesi, orduya İran'a olası bir saldırı için hazırlıkları artırma talimatı verdi",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-el-halilde-bir-filistinli-ile-oglunu-gozaltina-aldi-2-cocugu-alikoydu/4121469",
-      "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın El Halil kentinde bir Filistinli ile oğlunu gözaltına alırken, 2 çocuğu da alıkoydu.",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-basini-guvenlik-kabinesi-orduya-irana-olasi-bir-saldiri-icin-hazirliklari-artirma-talimati-verdi/4121468",
+      "summary": "İsrail basını, Güvenlik Kabinesi'nin, orduya İran'a yönelik muhtemel bir saldırı için hazırlıkları artırma talimatı verdiğini kaydetti.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-11 20:57 UTC"
     },
     {
-      "title": "Ünlü isimlerden iklim değişikliğiyle mücadele için ortak sorumluluk ve somut adım vurgusu",
+      "title": "İsrail'in Han Yunus’taki Nasır Hastanesi'ne düzenlediği saldırıda 6 kişi hayatını kaybetti",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/unlu-isimlerden-iklim-degisikligiyle-mucadele-icin-ortak-sorumluluk-ve-somut-adim-vurgusu/4121463",
-      "summary": "COP31 kapsamındaki Bakanlar Yemeği'ne katılan oyuncular Hatice Şendil, Hande Erçel ve Ekin Koç ile sunucu Saba Tümer, iklim değişikliğiyle mücadelede ortak hareket edilmesi, farkındalığın artırılması ve somut adımlar atılması gerektiğini vurguladı.",
+      "link": "https://www.aa.com.tr/tr/dunya/israilin-han-yunus-taki-nasir-hastanesine-duzenledigi-saldirida-6-kisi-hayatini-kaybetti/4121469",
+      "summary": "İsrail ordusunun Gazze Şeridi’nin güneyindeki Han Yunus kentinde yer alan Nasır Hastanesi'ne düzenlediği hava saldırısı sonucunda ilk belirlemelere göre 6 kişi yaşamını yitirdi, 20'den fazla kişi de yaralandı.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 20:50 UTC"
+      "published_at": "2026-11-11 20:57 UTC"
     },
     {
       "title": "Katar: Hürmüz Boğazındaki krizin küresel kalkınmaya etkileri giderek ağırlaşıyor",
@@ -695,15 +713,6 @@
       "published_at": "2026-11-11 18:38 UTC"
     },
     {
-      "title": "İletişim Başkanı Duran: COP31 fark ediliyor ve takdir görüyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-cop31-fark-ediliyor-ve-takdir-goruyor-962967.html",
-      "summary": "İletişim Başkanı Burhanettin Duran, \"Bütün liderler tarafından, COP31'in önemli bir yatırım gerçekleştirilerek, çok emek sarf edilerek gerçekleştirildiği fark ediliyor ve takdir görüyor.\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-11 18:35 UTC"
-    },
-    {
       "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed5/live/f16d2a80-ddf7-11f1-93e1-3b657b665bcf.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
@@ -819,15 +828,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-11 16:14 UTC"
-    },
-    {
-      "title": "Space Exploration Technologies hisseleri neden yükseliyor? - Investing.com Türkiye",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWhOVUZYUVhhU2pUczh4WXhQenhzT0hKTXNlQW1SbGstQjk4N2VkbGQwR1BhTV93Y1d0Q1dISWVTNnNWM2lsS1ZNRGV5emZ5WkFRSTBHeTViRmpyRldUYmJHWDQtTDdla1d0ZFNYZkh3U0J3OEQxdXlYRnZ5RGhlUHJSNTAzV2VoY0p0Rm9JclQ0WGs3UktkQzJ0cGc5YlFEMWxCNGFmVG51cDk4cW9ybi1mS1RtTXdHMnc?oc=5",
-      "summary": "Space Exploration Technologies hisseleri neden yükseliyor? Investing.com Türkiye",
-      "source": "Google News - Küresel Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-11-11 16:08 UTC"
     },
     {
       "title": "Borsa günü yatay seyirle tamamladı - Habertürk",
