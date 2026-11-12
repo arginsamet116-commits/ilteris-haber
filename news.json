@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-12 22:38 UTC",
+  "updated_at": "2026-11-12 23:34 UTC",
   "items": [
+    {
+      "title": "Russian court jails rights lawyer for 12 years on treason charge",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
+      "summary": "Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 23:18 UTC"
+    },
+    {
+      "title": "Zelenskiy, Rusya'yla \"şimdiye kadarki en büyük esir takasının\" yapılacağını söyledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-rusyayla-simdiye-kadarki-en-buyuk-esir-takasinin-yapilacagini-soyledi/4123552",
+      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya'yla \"şimdiye kadarki en büyük esir takasının\" yapılacağını kaydetti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 23:14 UTC"
+    },
+    {
+      "title": "\"Diyaliz Merkezleri Hakkında Yönetmelik\" Resmi Gazete'de yayımlandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/diyaliz-merkezleri-hakkinda-yonetmelik-resmi-gazetede-yayimlandi/4123551",
+      "summary": "\"Diyaliz Merkezleri Hakkında Yönetmelik\" Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 23:10 UTC"
+    },
+    {
+      "title": "Alman İHA üreticisi Quantum Systems'e siber saldırı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/-alman-iha-ureticisi-quantum-systemse-siber-saldiri/4123545",
+      "summary": "Almanya merkezli insansız hava aracı (İHA) üreticisi Quantum Systems'in şirket ağına siber saldırı düzenlendiği ve güncelleme sunucusuna zararlı yazılım yerleştirildiği bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 22:45 UTC"
+    },
+    {
+      "title": "BUDO'nun 10 seferi olumsuz hava koşulları nedeniyle iptal edildi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/budonun-10-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi/4123546",
+      "summary": "Bursa Deniz Otobüslerinin (BUDO) 10 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 22:45 UTC"
+    },
+    {
+      "title": "ABD'de kargo gemisinin Tacony-Palmyra Köprüsü'ne çarpması trafiği felç etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/abdde-kargo-gemisinin-tacony-palmyra-koprusune-carpmasi-trafigi-felc-etti/4123547",
+      "summary": "ABD'de büyük bir kargo gemisinin Pennsylvania ve New Jersey'yi birbirine bağlayan Tacony-Palmyra Köprüsü'ne çarpması sonucu eyaletler arası çevre yolunda uzun kuyruklar oluştu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 22:45 UTC"
+    },
     {
       "title": "A Milli Takım'da Sergen Yalçın dönemi 2-1'lik Belçika yenilgisiyle başladı",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1932/live/c3195e20-dee6-11f1-93e1-3b657b665bcf.jpg",
@@ -38,13 +92,31 @@
       "published_at": "2026-11-12 22:16 UTC"
     },
     {
+      "title": "IBM, Yapay Zekâ Ajanlarının Kimlik Bilgisi Kullanımını İzlemek İçin AuthMind’i Satın Aldı - Unite.AI",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU1o4OE41YzhBaTMtZ0pIa0F5NTRDUFpoRjY3M3g3RElYX0g0M004Yjhva3ozdDVQYnlYdUpPalBrN01TMmNyZHNObFpaSDg4NVBJb1p0X0tKcVFpdGY5REJOdk96alNhZEt1eDh4SGFCbE1HbVJRcW1HUFcyN3NwdjJ3Ml9MS0xy?oc=5",
+      "summary": "IBM, Yapay Zekâ Ajanlarının Kimlik Bilgisi Kullanımını İzlemek İçin AuthMind’i Satın Aldı Unite.AI",
+      "source": "Google News - Teknoloji",
+      "category": "Teknoloji ve Bilim",
+      "published_at": "2026-11-12 22:13 UTC"
+    },
+    {
       "title": "Italy fight back to beat France 3-1 and move top of Nations League group",
       "image": "",
       "link": "https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss",
-      "summary": "Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secures win for Italy.",
+      "summary": "Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secure win for Italy.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 22:12 UTC"
+    },
+    {
+      "title": "COP31 kapsamında Antalya-Serik istikametinde gidiş-geliş şeklinde sürdürülen trafik uygulaması sona erdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-antalya-serik-istikametinde-gidis-gelis-seklinde-surdurulen-trafik-uygulamasi-sona-erdi/4123530",
+      "summary": "Antalya Valiliği, COP31 Zirvesi kapsamında D-400 kara yolunun Antalya-Serik istikametinde dubalama sistemiyle gidiş-geliş şeklinde sürdürülen trafik uygulamasının, 13 Kasım saat 00.00 itibarıyla sona erdirildiğini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 22:11 UTC"
     },
     {
       "title": "COP31 kapsamında AntalyaSerik istikametindeki trafik uygulaması sona erdi",
@@ -56,42 +128,6 @@
       "published_at": "2026-11-12 22:07 UTC"
     },
     {
-      "title": "İngiltere, UEFA Uluslar Ligi'nde Hırvatistan'ı iki golle geçti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/ingiltere-uefa-uluslar-liginde-hirvatistani-iki-golle-gecti-/4123518",
-      "summary": "UEFA Uluslar A Ligi 3. Grup'ta oynanan maçta İngiltere, sahasında Hırvatistan'ı 2-1 mağlup etti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 21:53 UTC"
-    },
-    {
-      "title": "UEFA Uluslar Ligi'nin 5. haftası 8 maçla başladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-5-haftasi-8-macla-basladi/4123521",
-      "summary": "UEFA Uluslar Ligi'nin 5. haftası 8 maçla başladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 21:53 UTC"
-    },
-    {
-      "title": "ABD Başkanı Trump: Bu iş bittiğinde İsrail'e gidip başbakan olabilirim",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-bu-is-bittiginde-israile-gidip-basbakan-olabilirim/4123519",
-      "summary": "ABD Başkanı Donald Trump, İsrail'e desteğinin tam olduğunu vurgulayarak, \"İsrail'de destek oranım yüzde 99, oradaki en popüler kişiyim. Bu iş bittiğinde İsrail'e gidip başbakan olabilirim.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 21:53 UTC"
-    },
-    {
-      "title": "Microsoft'un bazı hizmetlerinde erişim sorunu yaşanıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/microsoftun-bazi-hizmetlerinde-erisim-sorunu-yasaniyor/4123522",
-      "summary": "ABD merkezli teknoloji şirketi Microsoft'un Microsoft 365, Outlook ve Teams hizmetlerinde erişim sorunları yaşandığı bildirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 21:53 UTC"
-    },
-    {
       "title": "Türkiye'de 12,5 milyon adet akıllı telefon satışı bekleniyor",
       "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794519402/3794501/jpg/320x180",
       "link": "https://www.bloomberght.com/turkiye-de-12-5-milyon-adet-akilli-telefon-satisi-bekleniyor-3794501",
@@ -99,15 +135,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-12 21:36 UTC"
-    },
-    {
-      "title": "BM Güvenlik Konseyi, Yemen'e yönelik yaptırımları 1 yıl daha uzattı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/bm-guvenlik-konseyi-yemene-yonelik-yaptirimlari-1-yil-daha-uzatti/4123511",
-      "summary": "Birleşmiş Milletler Güvenlik Konseyi (BMGK), Yemen'e uygulanan yaptırımların 1 yıl daha uzatılmasına karar verdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 21:28 UTC"
     },
     {
       "title": "Okullarda ilk ara tatil için son ders zili bugün çalacak",
@@ -137,15 +164,6 @@
       "published_at": "2026-11-12 21:26 UTC"
     },
     {
-      "title": "İsrail, Batı Şeria'da 37 dönümlük arazideki ağaçların sökülmesi emrini verdi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/israil-bati-seriada-37-donumluk-arazideki-agaclarin-sokulmesi-emrini-verdi/4123506",
-      "summary": "İsrail makamları, işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil kentine bağlı Dura ve Terkumya beldelerinde, 37 dönümü aşkın tarım arazisindeki badem ağaçlarının ve bitki örtüsünün sökülmesi yönünde askeri emir çıkardı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 21:23 UTC"
-    },
-    {
       "title": "Deadly shooting in Washington DC",
       "image": "",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
@@ -164,22 +182,13 @@
       "published_at": "2026-11-12 21:11 UTC"
     },
     {
-      "title": "Kremlin Dış Politika Danışmanı Uşakov: ABD temsilcileriyle temaslara başlanması konusunda mutabık kalındı",
+      "title": "AB: Kendi güvenliğimizin Ukrayna'nın güvenliğinden geçtiği açıktır",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/kremlin-dis-politika-danismani-usakov-abd-temsilcileriyle-temaslara-baslanmasi-konusunda-mutabik-kalindi/4123501",
-      "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya Devlet Başkanı Vladimir Putin'in Steve Witkoff ve Jared Kushner ile yaptığı görüşmede, Ukrayna krizinin çözümüne yönelik müzakere sürecinin sürdürülmesi konusunda mutabık kalındığını söyledi.",
+      "link": "https://www.aa.com.tr/tr/dunya/ab-kendi-guvenligimizin-ukraynanin-guvenliginden-gectigi-aciktir/4123497",
+      "summary": "Avrupa Birliği (AB) Konseyi Başkanı Antonio Costa, AB'nin Rusya-Ukrayna müzakerelerinde önceliğinin ateşkes, Karadeniz'de seyrüsefer serbestisi ve barış anlaşması için gerekli koşulların sağlanması olduğunu belirtti.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 21:11 UTC"
-    },
-    {
-      "title": "Arjantin Milli Takımı'nda Lionel Scaloni'nin sözleşmesi 2030'a kadar uzatıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/arjantin-milli-takiminda-lionel-scaloninin-sozlesmesi-2030a-kadar-uzatildi/4123499",
-      "summary": "Arjantin Milli Futbol Takımı'nda teknik direktör Lionel Scaloni'nin sözleşmesi 2030'a kadar uzatıldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 21:11 UTC"
+      "published_at": "2026-11-12 21:10 UTC"
     },
     {
       "title": "Microsoft outage hits tens of thousands of users",
@@ -209,6 +218,15 @@
       "published_at": "2026-11-12 21:01 UTC"
     },
     {
+      "title": "Cerrahi alet üretiminde dışa bağımlılığı azaltacak proje: HASDÖV",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cerrahi-alet-uretiminde-disa-bagimliligi-azaltacak-proje-hasdov/4123483",
+      "summary": "Türkiye'nin önemli cerrahi alet üretim merkezlerinden Samsun'da, sektörün ithal yarı mamul ihtiyacını azaltmak amacıyla Hassas Sıcak Dövme Uygulama Merkezi (HASDÖV) projesi hayata geçiriliyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 21:00 UTC"
+    },
+    {
       "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
@@ -236,6 +254,24 @@
       "published_at": "2026-11-12 20:59 UTC"
     },
     {
+      "title": "Uzmanından \"mevzuata uygun tasarlansa da yapıya müdahalelerde yıkım kaçınılmaz\" uyarısı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/uzmanindan-mevzuata-uygun-tasarlansa-da-yapiya-mudahalelerde-yikim-kacinilmaz-uyarisi/4123482",
+      "summary": "Düzce Üniversitesi Deprem Uygulama ve Araştırma Merkezi Müdürü Prof. Dr. Mehmet Emin Arslan, mevzuata uygun inşa edilse de yapıların depremlerde yıkılmasının nedenlerinden birinin kolon kesilmesi gibi müdahaleler olduğunu söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 20:59 UTC"
+    },
+    {
+      "title": "Kilis'te yangında zarar gören ormanlık alan fidanlarla yeniden yeşeriyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/kiliste-yanginda-zarar-goren-ormanlik-alan-fidanlarla-yeniden-yeseriyor/4123481",
+      "summary": "Kilis'te 2021 yılında çıkan orman yangınında zarar gören 98 hektarlık alan, dikilen fidanlarla yeniden yeşil örtüsüne kavuşuyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 20:59 UTC"
+    },
+    {
       "title": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
       "image": "",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/pope-leo-calls-for-church-to-make-amends-to-sex-abuse-victims?traffic_source=rss",
@@ -243,6 +279,33 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 20:59 UTC"
+    },
+    {
+      "title": "Beyaza bürünen Palandöken'de turizmcilerin yeni sezon hedefi yüksek",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/beyaza-burunen-palandokende-turizmcilerin-yeni-sezon-hedefi-yuksek/4123480",
+      "summary": "Beyaza bürünen Türkiye'nin önemli kış turizm merkezlerinden Palandöken Kayak Merkezi'nde otellerin hazırlıkları ve erken rezervasyonlar sürerken turizmciler yeni sezonda daha fazla kayaksever ağırlamayı bekliyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 20:58 UTC"
+    },
+    {
+      "title": "California Valisi Newsom, ABD'deki ara seçimlerin sonuçlarını değerlendirdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/california-valisi-newsom-abddeki-ara-secimlerin-sonuclarini-degerlendirdi/4123479",
+      "summary": "ABD'nin California Valisi Gavin Christopher Newsom, ülkesindeki ara seçimlerin sonuçlarına ilişkin, \"Donald Trump'ın başkanlığı geçen hafta bitti, tarihi bir bitişti.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 20:57 UTC"
+    },
+    {
+      "title": "OCHA Sözcüsü Laerke, Gazze'deki sellerin insani krizi derinleştireceği uyarısında bulundu",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/ocha-sozcusu-laerke-gazzedeki-sellerin-insani-krizi-derinlestirecegi-uyarisinda-bulundu/4123477",
+      "summary": "Birleşmiş Milletler (BM) İnsani İşler Koordinasyon Ofisi (OCHA) Sözcüsü Jens Laerke, Gazze'deki şiddetli yağışlardan 200 bini aşkın Filistinlinin etkilendiğini belirterek daha fazla yağışın bölgedeki insani krizi derinleştireceği uyarısında bulundu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 20:56 UTC"
     },
     {
       "title": "Fed/Daly: Yapay zekanın fiyat baskılarını artırdığına şüphe yok",
@@ -261,33 +324,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 20:49 UTC"
-    },
-    {
-      "title": "A Milli Futbol Takımı Teknik Direktörü Sergen Yalçın: Mücadeleden memnunuz",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-teknik-direktoru-sergen-yalcin-mucadeleden-memnunuz/4123474",
-      "summary": "UEFA Uluslar A Ligi 1. Grup beşinci maçında konuk ettiği Belçika'ya 2-1 yenilen A Milli Futbol Takımı'nda teknik direktör Sergen Yalçın, kaybetmelerine rağmen oyuncularının mücadelesinden memnun olduğunu söyledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 20:48 UTC"
-    },
-    {
-      "title": "SpaceX, ABD'de yapay zeka altyapısına 74 milyar doları aşkın yatırım planlıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/spacex-abdde-yapay-zeka-altyapisina-74-milyar-dolari-askin-yatirim-planliyor/4123466",
-      "summary": "SpaceX, Texas ve Arizona eyaletlerinde kurulması planlanan 2 süper bilgisayar tesisi için toplam 74 milyar doları aşan yatırım yapmayı öngördüğünü bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 20:33 UTC"
-    },
-    {
-      "title": "AK Parti Genel Başkanvekili Ala'dan Cumhurbaşkanı Erdoğan'ın COP31 Liderler Zirvesi'ndeki görüşmelerine ilişkin paylaşım",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskanvekili-aladan-cumhurbaskani-erdoganin-cop31-liderler-zirvesindeki-gorusmelerine-iliskin-paylasim/4123462",
-      "summary": "AK Parti Genel Başkanvekili Efkan Ala, Cumhurbaşkanı Recep Tayyip Erdoğan'ın COP31 Liderler Zirvesi'ndeki görüşmelerine ilişkin paylaşımda bulundu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 20:30 UTC"
     },
     {
       "title": "What’s at stake in the renewed tensions over the Falkland Islands?",
@@ -479,15 +515,6 @@
       "published_at": "2026-11-12 19:06 UTC"
     },
     {
-      "title": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/12/uk-mosque-rebukes-comissions-warning-following-palestine-comments?traffic_source=rss",
-      "summary": "The Lewisham Islamic Centre accused the charity watchdog of imposing disproportionate expectations on Muslim charities.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 18:58 UTC"
-    },
-    {
       "title": "Fed, Ekim 2027 toplantısında politika kararı açıklamayacak",
       "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794509323/3794492/jpg/320x180",
       "link": "https://www.bloomberght.com/fed-ekim-2027-toplantisinda-politika-karari-aciklamayacak-3794492",
@@ -540,15 +567,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-12 18:38 UTC"
-    },
-    {
-      "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, Beyrut'ta Lübnanlı siyasilerle görüştü",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-beyrutta-lubnanli-siyasilerle-gorustu/4123348",
-      "summary": "Bilal Erdoğan ve beraberindeki Türk heyeti, başkent Beyrut'ta Lübnan Meclis Başkanı Nebih Berri, Müstakbel Hareketi Başkan Yardımcısı Behiye el-Hariri ve Dürzi lider, eski İlerici Sosyalist Parti Başkanı Velid Canbolat ile görüştü.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 18:29 UTC"
     },
     {
       "title": "Emine Erdoğan'dan Antalya'da ikili temaslar",
@@ -749,15 +767,6 @@
       "published_at": "2026-11-12 13:58 UTC"
     },
     {
-      "title": "Kanadalı AtkinsRealis, Sinop'ta reaktör fizibilite çalışmasını Mayıs 2027'ye kadar tamamlamayı hedefliyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/kanadali-atkinsrealis-sinopta-reaktor-fizibilite-calismasini-mayis-2027ye-kadar-tamamlamayi-hedefliyor/4122692",
-      "summary": "AtkinsRealis, Türkiye Nükleer Enerji AŞ (TÜNAŞ) ile imzalanan anlaşma kapsamında, Sinop'ta kurulması planlanan nükleer güç santralinde CANDU reaktörlerinin kullanımına ilişkin fizibilite çalışmasını Mayıs 2027'ye kadar tamamlamayı hedefliyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 13:45 UTC"
-    },
-    {
       "title": "Merkez Bankası yıl sonu enflasyon tahminini yükseltti - Ekonomi Gazetesi",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1pPMW16QUJjR1RSVlFmOHVXd0FLNzIwN0d4cXlONm9nY2xqS25MNkxsbWhyOUNJZVVnMUx1Q1NIT1Bxb2FUcWV2Y3BGTkRTRXNNejZZN3B2dVcxZlFIUEtzUnN0aFVPYWZ1dW1CSkFpbWVZeWgwZGhLVFZUa05zVUJkZEYtS3ZHeFJjOV9MT3Q5ZGFfTERDU09VNGM4T1Jw?oc=5",
@@ -841,11 +850,11 @@
     {
       "title": "Hedef yine tutmadı: Merkez Bankası bir kez daha enflasyon tahminini yükseltti - DW.com",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVoxS2JyaHBaQXc0MXVadlZuTGtfamdOQ0ZKck9fbXhSSjQ4TVdfSG04SWVmM3RDa05IME1iZmI5eXZOZ04zS1VOcFUzUEVBTERCUDByZG5wcmpVYXVvcmg0MXZZY0hvVUtoSGxEY2lFNVVWd01xUU9QLU1rYXlEQWV1b0hzeTEwVGs0Rkx1aU1jbzBtV2xxUENvUUxfbTJQZWNDb0JGTm1oUkd3ZzZxVnlDRDlFNDNDaXRJeXlR0gG-AUFVX3lxTFA4aEd5NUlOcTFiZ3hQcFlQMks0cnFHbjh6TU1GSmROVklaWWVEdjFGcHZqNjlMLTdaQ0N6ZkNNMXI3RU53Ym14Q0pVNG9aWEpTd3JWZXA2YUlUTjUzYWpYY3NodUNmZXVDTDhiUS01ZWw3NDd1Yks4RXBrdURSWDAybWkzbDBzMzh2Y0JUa3JkQ1VMUFBaTFJ2TWMwMU5Hd1RKNFB0VWZhMEhhRG1FNnBtSFRHaDRYRTdMa0x1bkE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGhHeTVJTnExYmd4UHBZUDJLNHJxR244ek1NRkpkTlZJWlllRHYxRnB2ajY5TC03WkNDemZDTTFyN0VOd2JteENKVTRvWlhKU3dyVmVwNmFJVE41M2FqWGNzaHVDZmV1Q0w4YlEtNWVsNzQ3dWJLOEVwa3VEUlgwMm1pM2wwczM4dmNCVGtyZENVTFBQWkxSdk1jMDFOR3dUSjRQdFVmYTBIYURtRTZwbUhUR2g0WEU3TGtMdW5B0gG-AUFVX3lxTFA4aEd5NUlOcTFiZ3hQcFlQMks0cnFHbjh6TU1GSmROVklaWWVEdjFGcHZqNjlMLTdaQ0N6ZkNNMXI3RU53Ym14Q0pVNG9aWEpTd3JWZXA2YUlUTjUzYWpYY3NodUNmZXVDTDhiUS01ZWw3NDd1Yks4RXBrdURSWDAybWkzbDBzMzh2Y0JUa3JkQ1VMUFBaTFJ2TWMwMU5Hd1RKNFB0VWZhMEhhRG1FNnBtSFRHaDRYRTdMa0x1bkE?oc=5",
       "summary": "Hedef yine tutmadı: Merkez Bankası bir kez daha enflasyon tahminini yükseltti DW.com",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 10:47 UTC"
+      "published_at": "2026-11-12 10:49 UTC"
     },
     {
       "title": "Ho Chi Minh Şehri Bilim Üniversitesi (HCMUS), VNU-HCM Bilim Üniversitesi'ne bağlı Kuantum Yapay Zeka ve Siber Güvenlik Enstitüsü (QACI) ile iş birliği yönlerini görüşüyor. - Vietnam.vn",
@@ -884,22 +893,13 @@
       "published_at": "2026-11-12 09:58 UTC"
     },
     {
-      "title": "Son dakika: Emekli ve memur zammında yeni hesap! İşte Merkez Bankası’nın son enflasyon tahminine göre maaş listesi - Uzmanpara",
+      "title": "Son Dakika Maaş Haberleri: Emekli ve memur maaş zammı ne kadar olacak? Son enflasyon tahminine göre... - Uzmanpara",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSFY0Um1Sa1Y5ME9ZM2pIWUdlZXBNbzRyUkFzVEd6azVZNEtMUk5SLUZCWG9Jb0VFZnJkRlpiQi1KYmZuM0dXOU54TmxNYkpoMk1aZ1FLSE9FQWtVTHlTcGVnR3FlcWFneGVJbEZJWFliMjJwWWtIVTJ4MnJMTEgtY3dsZzd6N1hLNmN3bDlubGRBbV9XRDVhNm9EU0k2LU96UGtaWEl0YmlkMHdWQ2NoSzhqWjE2ZDBVSjZKTGcwc0lOOHNWQ01MbnZ1RDdIaTF2NmxkWlJ0dEdhUDF4VTA2bFJKbXVuSHc5WDEybzFWNEgwUzVfdFE?oc=5",
-      "summary": "Son dakika: Emekli ve memur zammında yeni hesap! İşte Merkez Bankası’nın son enflasyon tahminine göre maaş listesi Uzmanpara",
+      "summary": "Son Dakika Maaş Haberleri: Emekli ve memur maaş zammı ne kadar olacak? Son enflasyon tahminine göre... Uzmanpara",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-12 09:28 UTC"
-    },
-    {
-      "title": "Araştırma: 'Escitalopram' depresyonun nüksetmesini engellemede daha etkili bir ilaç",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea69/live/913e2170-dda0-11f1-93e1-3b657b665bcf.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c69w9j8k9y2zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Üç ilaç en üst sırada yer aldı ve çok sayıda hastada depresyonun yeniden ortaya çıkmasını önlemede Prozac'tan daha iyi performans gösterdi.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 08:49 UTC"
     }
   ]
 }
