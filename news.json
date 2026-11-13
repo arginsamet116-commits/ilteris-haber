@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-11-13 02:43 UTC",
+  "updated_at": "2026-11-13 03:44 UTC",
   "items": [
+    {
+      "title": "İtalya'da bomba ihbarları okullarda yeni tahliyelere yol açtı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/italyada-bomba-ihbarlari-okullarda-yeni-tahliyelere-yol-acti-963126.html",
+      "summary": "İtalya genelindeki okullar üst üste ikinci gün bomba tehdidi aldı ve tahliyelere yol açtı. Kuzeydeki Milano'dan güneydeki Sicilya'ya kadar yaklaşık 3 bin 778 okul, herhangi bir patlayıcı maddeye rastlanmamasına rağmen çarşamba günü kaosa neden olan tehdide benzer ihbarlar aldığını duyurdu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 03:25 UTC"
+    },
+    {
+      "title": "Microsoft'ta küresel kesinti: Outlook ve Teams hizmetlerinde erişim sorunu yaşanıyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/microsoftta-kuresel-kesinti-outlook-ve-teams-hizmetlerinde-erisim-sorunu-yasaniyor-963125.html",
+      "summary": "Microsoft; ABD, Japonya, Singapur, Birleşik Krallık ve Avustralya dahil dünya genelinde on binlerce kullanıcıyı etkileyen büyük çaplı bir küresel kesintiyi gidermeye çalışıyor. Bağlantı sorunları nedeniyle Teams, Outlook ve şirketin yapay zeka yazılımı Copilot başta olmak üzere birçok Microsoft 365 uygulamasına erişimde aksamalar yaşanıyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 03:23 UTC"
+    },
+    {
+      "title": "ABD'nin en büyük eyaleti hala seçim sonuçlarını bekliyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/abdnin-en-buyuk-eyaleti-hala-secim-sonuclarini-bekliyor-963124.html",
+      "summary": "ABD'nin en büyük eyaleti Alaska'da zorlu coğrafi koşullar ve posta gecikmeleri nedeniyle ara seçim oylarının sayımı uzadı. Kara yolu ulaşımının bulunmadığı eyalet başkenti Juneau'ya deniz uçakları ve teknelerle taşınan pusulaların sayımının 18 Kasım'da tamamlanması bekleniyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 03:19 UTC"
+    },
+    {
+      "title": "Iran says it targeted US radar site in Bahrain",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
+      "summary": "IRGC claimed Bahrain radar strike was response to US attacks on Iranian telecom tower in southern Hormozgan province.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 03:17 UTC"
+    },
+    {
+      "title": "Gaza surgeon films aftermath of Israeli strike",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss",
+      "summary": "British volunteer surgeon films the terrifying aftermath of an Israeli strike on Gaza’s Nasser Hospital.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 03:11 UTC"
+    },
+    {
+      "title": "İsrailli haham, Arap partileriyle iş birliği yapan Yahudi siyasetçilerin öldürülmesine fetva verdi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/israilli-haham-arap-partileriyle-is-birligi-yapan-yahudi-siyasetcilerin-oldurulmesine-fetva-verdi-963123.html",
+      "summary": "İsrail'de aşırı sağcı haham Gedalya Axelrod, 27 Ekim'de yapılan seçimlerin ardından koalisyon tartışmaları sürerken İsrail vatandaşı Filistinlileri temsil eden Arap partileriyle iş birliği yapan Yahudi siyasetçilerin öldürülmesine fetva verdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 03:10 UTC"
+    },
+    {
+      "title": "UNRWA, bu yıl 250 milyon dolarlık bütçe açığıyla karşı karşıya olduğunu belirtti",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/unrwa-bu-yil-250-milyon-dolarlik-butce-acigiyla-karsi-karsiya-oldugunu-belirtti-963122.html",
+      "summary": "Birleşmiş Milletler Yakın Doğu'daki Filistinli Mültecilere Yardım ve Bayındırlık Ajansı UNRWA Genel Komiser Vekili Christian Saunders, kurumun 2026 yılı bütçe açığının 250 milyon dolara ulaştığını belirterek, acil finansman sağlanmaması halinde milyonlarca Filistinli mülteciye sunulan temel hizmetlerin risk altında kalacağı uyarısında bulundu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 03:09 UTC"
+    },
+    {
+      "title": "Alman İHA üreticisi Quantum Systems'e siber saldırı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/alman-iha-ureticisi-quantum-systemse-siber-saldiri-963121.html",
+      "summary": "Almanya merkezli insansız hava aracı İHA üreticisi Quantum Systems'in şirket ağına siber saldırı düzenlendiği ve güncelleme sunucusuna zararlı yazılım yerleştirildiği bildirildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 03:07 UTC"
+    },
+    {
+      "title": "Hamas, Barış Kurulu'nu İsrail'in Gazze'deki hastanelere ilişkin yanıltıcı iddialarını desteklemekle suçladı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/hamas-baris-kurulunu-israilin-gazzedeki-hastanelere-iliskin-yaniltici-iddialarini-desteklemekle-sucladi-963120.html",
+      "summary": "Hamas, Barış Kurulu'nu Gazze'deki hastanelerin askeri amaçlarla kullanıldığı yönündeki İsrail iddialarını benimsemekle suçladı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 03:06 UTC"
+    },
+    {
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 03:02 UTC"
+    },
+    {
+      "title": "Papa, Peru'da istismar mağduru 6 kişiyle bir araya geldi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/papa-peruda-istismar-magduru-6-kisiyle-bir-araya-geldi/4123559",
+      "summary": "Vatikan Devlet Başkanı Papa 14. Leo'nun, Uruguay ve Arjantin ziyaretlerinin ardından gittiği Peru'da istismar mağduru 6 kişiyle bir araya geldiği bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 02:53 UTC"
+    },
+    {
+      "title": "Spanish court suspends far-right group over alleged hate crimes",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/13/spanish-court-suspends-far-right-group-over-alleged-hate-crimes?traffic_source=rss",
+      "summary": "Judge orders office shut and accounts blocked after 14 arrests and the seizure of more than 20 firearms.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 02:52 UTC"
+    },
+    {
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 02:48 UTC"
+    },
+    {
+      "title": "Chris Van Hollen to run for US Senate majority leader",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader?traffic_source=rss",
+      "summary": "Van Hollen's entry into the race follows Democratic sweeps in elections and challenges veteran leader Schumer.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 02:42 UTC"
+    },
     {
       "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
@@ -18,15 +144,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 02:35 UTC"
-    },
-    {
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 02:33 UTC"
     },
     {
       "title": "Trump moots toppling Cuba authorities before leaving office",
@@ -83,15 +200,6 @@
       "published_at": "2026-11-13 00:28 UTC"
     },
     {
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 00:20 UTC"
-    },
-    {
       "title": "Belçika medyası Türkiye karşısında elde edilen galibiyeti nasıl yorumladı?",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a502/live/58d3ae50-dee9-11f1-b441-2b33b063138f.jpg",
       "link": "https://www.bbc.com/turkce/articles/c9p83m2e2ze6o?at_medium=RSS&at_campaign=rss",
@@ -113,7 +221,7 @@
       "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
       "image": "",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
-      "summary": "Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.",
+      "summary": "Trump says Gulf countries asked him to hold off on further attacks against Iran as Tehran targets US radar in Bahrain.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 00:00 UTC"
@@ -263,6 +371,15 @@
       "published_at": "2026-11-12 21:02 UTC"
     },
     {
+      "title": "Merkez Bankası enflasyon tahminini yükseltti! İşte 2026 yıl sonu dolar, faiz ve TÜFE beklentileri - Haberton",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX3lUWUZuZG1tc2s1RzVvdVJKUW9aMnBLR1B4Yk1uM1QzWkxDRlVuM3FfeVA1eUlQcnFlRTFMa3c5YlUwWFJBeXltUVNWMjZqY3JQOU5FZjl2OXFhSGEwYkZSRnFyTTRnZllNV1hlNW1BTWF3Mm1nN2g2aktHODRLZllaMFQyNzNNTzh3ODhjc003WnNJYkFGYWhIY0JuT0lncEllNlZNMDVaVkY5aldWazZZRTd2Q1Z5?oc=5",
+      "summary": "Merkez Bankası enflasyon tahminini yükseltti! İşte 2026 yıl sonu dolar, faiz ve TÜFE beklentileri Haberton",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 21:01 UTC"
+    },
+    {
       "title": "İsrail'de Netanyahu hükümetinin İran'a savaş açma yetkisi olup olmadığı tartışılıyor",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/israilde-netanyahu-hukumetinin-irana-savas-acma-yetkisi-olup-olmadigi-tartisiliyor/4123486",
@@ -272,12 +389,12 @@
       "published_at": "2026-11-12 21:01 UTC"
     },
     {
-      "title": "Cerrahi alet üretiminde dışa bağımlılığı azaltacak proje: HASDÖV",
+      "title": "Enflasyon hedefi TCMB için de yüzde 21 - Ekonomim",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cerrahi-alet-uretiminde-disa-bagimliligi-azaltacak-proje-hasdov/4123483",
-      "summary": "Türkiye'nin önemli cerrahi alet üretim merkezlerinden Samsun'da, sektörün ithal yarı mamul ihtiyacını azaltmak amacıyla Hassas Sıcak Dövme Uygulama Merkezi (HASDÖV) projesi hayata geçiriliyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbzcyTEZ4cEs1Qi1iMkg5dFZSb09fZkl2X21Ib1poaGVJX2FmM1I1NU16Y1d4RGFicnhwWjItTjVFSThwXzJhWXF2ekoxVU5vLTlOUll5ZnNSdjFEaU1tRzNhNzN0S2ctT1BlUkIzUXNrZVN1R1BJOENhdWdBQWxmWFIzUmRaZF8zanc?oc=5",
+      "summary": "Enflasyon hedefi TCMB için de yüzde 21 Ekonomim",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
       "published_at": "2026-11-12 21:00 UTC"
     },
     {
@@ -317,39 +434,12 @@
       "published_at": "2026-11-12 20:54 UTC"
     },
     {
-      "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
-      "summary": "The report seeks to address concerns about the Trump administration's handling of revenue held in trust for Venezuela.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 20:49 UTC"
-    },
-    {
-      "title": "What’s at stake in the renewed tensions over the Falkland Islands?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss",
-      "summary": "Argentina and the UK are in a legal battle over an offshore oil-drilling project.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 20:25 UTC"
-    },
-    {
       "title": "ABD'de bütçe açığı Ekim'de 404,1 milyar dolara tırmandı",
       "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794514675/3794497/jpg/320x180",
       "link": "https://www.bloomberght.com/abd-butcesi-2027-mali-yilinin-ilk-ayinda-404-1-milyar-dolar-acik-verdi-3794497",
       "summary": "ABD'nin federal bütçe açığı, 2027 mali yılının ilk ayı olan Ekim'de geçen yılın aynı ayına göre yüzde 42,1 artarak 404,1 milyar dolara yükseldi. Federal hükümetin gelirleri yüzde 8,8 azalırken harcamaları yüzde 12,2 arttı.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 20:15 UTC"
-    },
-    {
-      "title": "Qatar Under-17 World Cup is on despite US pull out",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss",
-      "summary": "The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 20:15 UTC"
     },
     {
@@ -360,15 +450,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 20:13 UTC"
-    },
-    {
-      "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
-      "summary": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 20:12 UTC"
     },
     {
       "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
@@ -434,15 +515,6 @@
       "published_at": "2026-11-12 19:23 UTC"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan: 1,5 derece hedefini ulaşılabilir kılalım",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-15-derece-hedefini-ulasilabilir-kilalim-963111.html",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Antalya'da sergilenen siyasi taahhüt, Paris Anlaşması kapsamında yürütülecek çalışmalar bakımından cesaret verici niteliktedir. Bu kararlılığımızı sürdürelim, uygulama yönündeki çabalarımızı devam ettirelim ve 1,5 derece hedefini ulaşılabilir kılalım.\" ifadesini kullandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 19:20 UTC"
-    },
-    {
       "title": "Huang, ABD Kongresi'nde ifade vermeyi kabul etti",
       "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794511143/3794495/jpg/320x180",
       "link": "https://www.bloomberght.com/huang-abd-kongresi-nde-ifade-vermeyi-kabul-etti-3794495",
@@ -470,15 +542,6 @@
       "published_at": "2026-11-12 18:48 UTC"
     },
     {
-      "title": "Milli Takım Belçika'ya kaybetti",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/milli-takim-belcikaya-kaybetti-963110.html",
-      "summary": "UEFA Uluslar A Ligi 1. Grup beşinci maçında Belçika'ya 21 mağlup olan A Milli Futbol Takımı, yine puanla tanışamadı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 18:48 UTC"
-    },
-    {
       "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
@@ -488,24 +551,6 @@
       "published_at": "2026-11-12 18:47 UTC"
     },
     {
-      "title": "İsrail basını: CENTCOM, orduya İran'a yeni saldırı ihtimaline hazırlıklı olma mesajı gönderdi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/israil-basini-centcom-orduya-irana-yeni-saldiri-ihtimaline-hazirlikli-olma-mesaji-gonderdi-963109.html",
-      "summary": "İsrail basını, ABD Merkez Kuvvetler Komutanlığı'nın CENTCOM, İran'a yeni saldırı ihtimaline hazırlıklı olma konusunda İsrail ordusunu uyardığını ileri sürdü.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 18:41 UTC"
-    },
-    {
-      "title": "Nvidia'nın eski CEO'su Jensen Huang, ABD Kongresi'nde ifade vermeyi kabul etti",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/nvidianin-eski-ceosu-jensen-huang-abd-kongresinde-ifade-vermeyi-kabul-etti-963108.html",
-      "summary": "ABD'li çip üreticisi Nvidia'nın eski Üst Yöneticisi CEO Jensen Huang'ın, ABD'nin ulusal güvenliğine yönelik tehditlerin ele alınacağı kapalı oturumda ifade vermeyi kabul ettiği bildirildi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 18:39 UTC"
-    },
-    {
       "title": "Mercedes-Benz, Almanya'daki yeni yatırımlarını durduruyor",
       "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794508707/3794491/jpg/320x180",
       "link": "https://www.bloomberght.com/mercedes-benz-almanya-daki-yeni-yatirimlarini-durduruyor-3794491",
@@ -513,24 +558,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-12 18:38 UTC"
-    },
-    {
-      "title": "Emine Erdoğan'dan Antalya'da ikili temaslar",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-antalyada-ikili-temaslar-963107.html",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı COP31 kapsamında ikili görüşmeler gerçekleştirdi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 18:22 UTC"
-    },
-    {
-      "title": "MHP Genel Başkanı Bahçeli'den şehit olan askerlerimiz için başsağlığı mesajı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahceliden-sehit-olan-askerlerimiz-icin-bassagligi-mesaji-963106.html",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, Malatya'da S70 tipi helikopterin kaza kırıma uğraması sonucu şehit olan 4 asker için başsağlığı diledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 18:08 UTC"
     },
     {
       "title": "ABD'de ikinci el konut satışları 16 yılın en düşük seviyesinde",
@@ -551,6 +578,15 @@
       "published_at": "2026-11-12 18:04 UTC"
     },
     {
+      "title": "Çinli yapay zekâlar kullanımda zirvedeler ama gelir üretmekte zorlanıyorlar - DonanımHaber",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUVJ2Sm1KU0E3TXRLaDN5a210b2RTU2ZuLWtXMWloc1dmWUh1UVpSUVV1dFUzNlhzS1lOQnB6SUY0cE9RTzZTaUpuT2V0VVNQN2ZmZlZiRTY2NDNXQlQ4bTZ5LXZ2NDFQV2RLaW5iZHhFSGF5a05KRVJtWFczNUFDUHpkMm4wSGxGODFOME1iWldOc2VYRHBLSnFYU0xuVVJFMXVr?oc=5",
+      "summary": "Çinli yapay zekâlar kullanımda zirvedeler ama gelir üretmekte zorlanıyorlar DonanımHaber",
+      "source": "Google News - Küresel Teknoloji",
+      "category": "Teknoloji ve Bilim",
+      "published_at": "2026-11-12 17:50 UTC"
+    },
+    {
       "title": "IMF'ye göre ABD'de enflasyonun hedefe dönüşü 2028'e sarkıyor",
       "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794505622/3794482/jpg/320x180",
       "link": "https://www.bloomberght.com/imf-ye-gore-abdde-enflasyonun-hedefe-donusu-2028-e-sarkiyor-3794482",
@@ -558,15 +594,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-12 17:46 UTC"
-    },
-    {
-      "title": "Emine Erdoğan Sıfır Atık Müzesi'ni açtı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-sifir-atik-muzesini-acti-963105.html",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi, Birleşmiş Milletler BM Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı COP31 kapsamında, Sıfır Atık Müzesi'nin açılışını yaptı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 17:37 UTC"
     },
     {
       "title": "Jensen Huang'ın yükselişi ve düşüşü: Teknoloji yıldızının adı nasıl skandala karıştı?",
@@ -848,15 +875,6 @@
       "published_at": "2026-11-12 10:49 UTC"
     },
     {
-      "title": "TCMB enflasyon tahminlerini yukarı yönlü güncelledi - Bloomberght",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3RU9FMzh3bF9oaUdjTXhLeml3bnNlSjNUdDJqVU9iTjNsX3JPXzdkT1A0bWlUUXkzTnhJR242SGIyQ1JZanh6aFdpeUFjQjctZ2xHUmxYeEVSaE1OUm9SQjczbG5tUkdHQTc3dV90Zw?oc=5",
-      "summary": "TCMB enflasyon tahminlerini yukarı yönlü güncelledi Bloomberght",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 10:46 UTC"
-    },
-    {
       "title": "Ho Chi Minh Şehri Bilim Üniversitesi (HCMUS), VNU-HCM Bilim Üniversitesi'ne bağlı Kuantum Yapay Zeka ve Siber Güvenlik Enstitüsü (QACI) ile iş birliği yönlerini görüşüyor. - Vietnam.vn",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZ3ZVS3VRaU4xTE9mYlQ5amFneUZzeHNwZ0xKTWppMGFqWWJiTE9WcEo5NE9xSHI3REhXU296czNOX0RlaDJWaFJUSHQtaVpYZnFRTjhZbUd1b3NvVE5PdzlnX3lkMFE4Q3MzeExKWk56U3Rza0Z0Ym1kdTdiYnZhaVJMVS1MR1ZBUDRjanpQemFzNWdRSnY0MUl3aERQRkZkQ1NnNG1FM1NLd3NoYzVjZ3JHT0ozUlU2WUwwRXBmdVFBZ3FHVTNNS1FYWmZnTzk2NmJGRkV6bUZkVE5NSjZxZmI4UmF3QW5YWnN2LXd6Wk4xenZHcjlRcmdqU2k?oc=5",
@@ -882,24 +900,6 @@
       "source": "Google News - Küresel Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-11-12 10:27 UTC"
-    },
-    {
-      "title": "Borsa İstanbul günün ilk yarısında yükseldi - Borsa Gundem",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXRibFBFSTQ1Q0pjOWtvOGg1ZnFwbWxjWldTanVPWHJrUElnMmFmb05rWGRtQXVEX2luc3QtTUREYzRJZHVCN2dfaUlYMGJfUTdtdzFpZ0lJYmlxdlp4UEljeUEtY3VLX3NTS1BvMXNhTllMbW1ZWFZfUVk0Vy1PSFNB?oc=5",
-      "summary": "Borsa İstanbul günün ilk yarısında yükseldi Borsa Gundem",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-12 10:14 UTC"
-    },
-    {
-      "title": "Merkez Bankası yıl sonu enflasyon tahminini %29,5'e yükseltti",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/11a4/live/32c2a300-de81-11f1-b88b-3f1671ea859d.jpg",
-      "link": "https://www.bbc.com/turkce/articles/ck1l05363jevo?at_medium=RSS&at_campaign=rss",
-      "summary": "Merkez Bankası Enflasyon Raporu'nda yıl sonu enflasyon tahminlerini yükseltti. 2026 yıl sonu tahmini %28'den %29,5'e çıkarıldı. Ekonomistler nasıl değerlendirdi?",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 09:58 UTC"
     }
   ]
 }
