@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-11-13 17:41 UTC",
+  "updated_at": "2026-11-13 18:41 UTC",
   "items": [
+    {
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 18:36 UTC"
+    },
+    {
+      "title": "Gazze'deki insani yardım kuruluşları: İsrail politikaları nedeniyle yağmurların yol açtığı yıkım önlenemedi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-insani-yardim-kuruluslari-israil-politikalari-nedeniyle-yagmurlarin-yol-actigi-yikim-onlenemedi/4124675",
+      "summary": "Filistin Toprakları İnsani Yardım Ekibi, Gazze'de etkili olan son yağışların yol açtığı can kayıpları ve barınma alanlarındaki yıkımın önlenebilir olduğunu ancak İsrail'in hayati insani yardımların bölgeye ulaştırılmasını engellediğini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 18:28 UTC"
+    },
+    {
+      "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss",
+      "summary": "Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 18:28 UTC"
+    },
+    {
+      "title": "Bakan Kurum, BM Genel Sekreteri Guterres ile görüştü",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-bm-genel-sekreteri-guterres-ile-gorustu-963218.html",
+      "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Birleşmiş Milletler BM Genel Sekreteri Antonio Guterres ile görüştü.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 18:24 UTC"
+    },
+    {
+      "title": "Türkiye 2027 yılında işitme engellilerin 4 dünya şampiyonasına ev sahipliği yapacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/turkiye-2027-yilinda-isitme-engellilerin-4-dunya-sampiyonasina-ev-sahipligi-yapacak/4124659",
+      "summary": "İşitme Engelliler Spor Federasyonu Başkanı Dursun Gözel, 2027 yılında işitme engelliler güreş, voleybol, futbol ve masa tenisi dünya şampiyonalarının Türkiye'nin ev sahipliğinde yapılacağını söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 18:14 UTC"
+    },
+    {
+      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+      "summary": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 18:09 UTC"
+    },
+    {
+      "title": "Türkiye Sigorta'dan TMSF'ye 1,6 milyar TL'lik gönüllü iade",
+      "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794593265/3794642/jpg/320x180",
+      "link": "https://www.bloomberght.com/turkiye-sigorta-dan-tmsf-ye-1-6-milyar-tl-lik-gonullu-iade-3794642",
+      "summary": "Türkiye Sigorta, tasfiyeye konu yatırım fonlarından elde ettiği kazançtan enflasyon etkisini düşürerek hesapladığı yaklaşık 1,6 milyar TL'yi TMSF hesabına yatırdığını açıkladı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-13 18:07 UTC"
+    },
+    {
+      "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
+      "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 18:04 UTC"
+    },
+    {
+      "title": "No emails, no problem? Workers joke about Microsoft outage",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
+      "summary": "Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 17:55 UTC"
+    },
+    {
+      "title": "Türkiye'den BAE'deki trafik kazasında hayatını kaybedenler için taziye mesajı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/turkiyeden-baedeki-trafik-kazasinda-hayatini-kaybedenler-icin-taziye-mesaji-963217.html",
+      "summary": "Dışişleri Bakanlığı, Birleşik Arap Emirlikleri'nde BAE meydana gelen zincirleme trafik kazasında hayatını kaybedenler için derin üzüntü duyulduğunu belirterek, ölenlerin yakınlarına ve BAE halkına başsağlığı dileğinde bulundu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 17:41 UTC"
+    },
+    {
+      "title": "UEA Başkanı Birol: Enerji güvenliği ve iklim hedefleri artık örtüşüyor",
+      "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794592334/3794641/jpg/320x180",
+      "link": "https://www.bloomberght.com/uea-baskani-birol-enerji-guvenligi-ve-iklim-hedefleri-artik-ortusuyor-3794641",
+      "summary": "Uluslararası Enerji Ajansı (UEA) Başkanı Fatih Birol, Antalya'daki COP31'de enerji güvenliği ile iklim hedeflerinin son dönemde büyük ölçüde örtüşmeye başladığını söyledi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-13 17:35 UTC"
+    },
     {
       "title": "Microsoft, sorun yaşanan hizmetlerinde geniş çaplı iyileşme sağlandığını açıkladı",
       "image": "",
@@ -56,6 +155,15 @@
       "published_at": "2026-11-13 17:18 UTC"
     },
     {
+      "title": "Bakan Kurum, BM Genel Sekreteri Guterres ile görüştü",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-bm-genel-sekreteri-guterres-ile-gorustu/4124624",
+      "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres ile görüştü.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 17:17 UTC"
+    },
+    {
       "title": "Eisenkot, Netanyahu'nun İsrail vatandaşı Araplara karşı \"ırkçı\" bir kampanya yürüttüğünü söyledi",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/eisenkot-netanyahunun-israil-vatandasi-araplara-karsi-irkci-bir-kampanya-yuruttugunu-soyledi/4124622",
@@ -74,15 +182,6 @@
       "published_at": "2026-11-13 17:14 UTC"
     },
     {
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 17:12 UTC"
-    },
-    {
       "title": "The fight over Canadian steelworker jobs",
       "image": "",
       "link": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
@@ -99,6 +198,15 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 17:07 UTC"
+    },
+    {
+      "title": "Borsa İstanbul günü yükselişle tamamladı: BIST 100'de pozitif kapanış - Kibris Gerçek",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlRfb0I2clNxNktUSzJmRkdOZXRXendCRzlkS1pmSmtyd1F6bHliRHA2c1o1TFowc0VoQ1dqR0xSbzZwMm0yLWlqLXNmVlY1UEQ5OHo0UVpWRTc0aThaLU9OenktLUpsQjNZS1N2Vm9LLUp3aG9sRWdGWW9EVzd5Ungtem5VcXNWUlctc0hYTEZOR1hUWjBZeHdfaDQ?oc=5",
+      "summary": "Borsa İstanbul günü yükselişle tamamladı: BIST 100'de pozitif kapanış Kibris Gerçek",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-13 17:04 UTC"
     },
     {
       "title": "BM açıkladı: Soykırımcı İsrail 245 çocuğu öldürdü",
@@ -329,7 +437,7 @@
       "title": "Turkiye and Qatar sign mutual defence agreement",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
-      "summary": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌bin Hamad ​Al Thani in Istanbul on ⁠Friday.",
+      "summary": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌‌bin Hamad ​Al Thani in Istanbul on ⁠⁠Friday.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 15:49 UTC"
@@ -342,15 +450,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 15:48 UTC"
-    },
-    {
-      "title": "BM Genel Sekreteri Guterres: Türkiye şüphesiz bu yılın en büyük BM konferansına ev sahipliği yapıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreteri-guterres-turkiye-suphesiz-bu-yilin-en-buyuk-bm-konferansina-ev-sahipligi-yapiyor/4124531",
-      "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, \"Türkiye, şimdiye kadarki en büyük COP'lardan birine ve şüphesiz bu yılın en büyük BM konferansına ev sahipliği yapıyor.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 15:44 UTC"
     },
     {
       "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
@@ -416,15 +515,6 @@
       "published_at": "2026-11-13 15:16 UTC"
     },
     {
-      "title": "TFF'den bu hafta yapılacak profesyonel maçlar öncesi saygı duruşu kararı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/tffden-bu-hafta-yapilacak-profesyonel-maclar-oncesi-saygi-durusu-karari/4124377",
-      "summary": "Türkiye Futbol Federasyonu (TFF), 14-15 Kasım tarihlerinde oynanacak tüm profesyonel müsabakaların öncesinde saygı duruşunda bulunulacağını duyurdu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 15:15 UTC"
-    },
-    {
       "title": "Türkiye ile Katar arasında 5 anlaşma imzalandı",
       "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794583033/3794630/jpg/320x180",
       "link": "https://www.bloomberght.com/turkiye-ile-katar-arasinda-5-anlasma-imzalandi-3794630",
@@ -470,15 +560,6 @@
       "published_at": "2026-11-13 15:01 UTC"
     },
     {
-      "title": "Yemen'deki Husiler: Aden'de Suudi subayların bulunduğu askeri kampı balistik füzelerle hedef aldık",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-adende-suudi-subaylarin-bulundugu-askeri-kampi-balistik-fuzelerle-hedef-aldik/4124347",
-      "summary": "Yemen'de İran destekli Husiler, ülkenin geçici başkenti Aden'de Suudi Arabistanlı subayların bulunduğu bir askeri kampı balistik füzelerle hedef aldıklarını ileri sürdü.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 14:54 UTC"
-    },
-    {
       "title": "Axios: Mossad Direktörü, İran'a yönelik muhtemel saldırıları görüşmek üzere ABD'de",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/axios-mossad-direktoru-irana-yonelik-muhtemel-saldirilari-gorusmek-uzere-abdde-963203.html",
@@ -486,15 +567,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 14:45 UTC"
-    },
-    {
-      "title": "CSO Ada Ankara'da ara tatil boyunca sanat etkinlikleri düzenlenecek",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/kultur-sanat/cso-ada-ankarada-ara-tatil-boyunca-sanat-etkinlikleri-duzenlenecek-963201.html",
-      "summary": "CSO Ada Ankara, 1422 Kasım'daki ara tatil boyunca çocuk tiyatroları, müzikli gösteriler, opera, konser ve sanat atölyelerine ev sahipliği yapacak.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 14:34 UTC"
     },
     {
       "title": "Collins'ten daha sıkı para politikası sinyali",
@@ -524,15 +596,6 @@
       "published_at": "2026-11-13 14:18 UTC"
     },
     {
-      "title": "Altın bugünü de düşüşle kapattı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/altin-bugunu-de-dususle-kapatti-963200.html",
-      "summary": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP standart altının kilogram fiyatı, günün sonunda 6 milyon 321 bin liraya geriledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 14:17 UTC"
-    },
-    {
       "title": "Can Netanyahu launch a strike on Iran before he leaves?",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
@@ -540,15 +603,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 14:16 UTC"
-    },
-    {
-      "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
-      "summary": "Meanwhile, Russia appears to suggest it has control of half of unoccupied Donbas.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 14:15 UTC"
     },
     {
       "title": "Trump hükümetinin COP31'e katılmaması iklim diplomasisi için ne anlama geliyor?",
@@ -578,15 +632,6 @@
       "published_at": "2026-11-13 13:49 UTC"
     },
     {
-      "title": "China warns against fresh US chip curbs",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss",
-      "summary": "China has warned the US against imposing additional export controls on AI chips.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 13:42 UTC"
-    },
-    {
       "title": "ABD'de üretici fiyatları beklentilerin altında arttı",
       "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794577184/3794619/jpg/320x180",
       "link": "https://www.bloomberght.com/abd-de-uretici-fiyatlari-beklentilerin-altinda-artti-3794619",
@@ -594,15 +639,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-13 13:37 UTC"
-    },
-    {
-      "title": "Nvidia scandal: What’s next for the US tech company?",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company?traffic_source=rss",
-      "summary": "What happens next at one of the world's most valuable companies will have repercussions far beyond Silicon Valley.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 13:36 UTC"
     },
     {
       "title": "Tasfiye edilen 119 fonda yatırımcılara 161 milyar TL ödeme yapıldı",
@@ -632,15 +668,6 @@
       "published_at": "2026-11-13 13:21 UTC"
     },
     {
-      "title": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss",
-      "summary": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 13:19 UTC"
-    },
-    {
       "title": "Akbank Genel Müdürü Gür: 2,5 trilyon TL'lik finansman hedefimizin yüzde 50'si sanayi dönüşümü için",
       "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794575326/3794600/jpg/320x180",
       "link": "https://www.bloomberght.com/akbank-genel-muduru-gur-2-5-trilyon-tl-lik-finansman-hedefimizin-yuzde-50-si-sanayi-donusumu-icin-3794600",
@@ -648,24 +675,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-13 13:08 UTC"
-    },
-    {
-      "title": "Rekabet Kurulu'ndan reyting ölçüm şirketine soruşturma",
-      "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794575038/3794598/jpg/320x180",
-      "link": "https://www.bloomberght.com/rekabet-kurulu-ndan-reyting-olcum-sirketine-sorusturma-3794598",
-      "summary": "Rekabet Kurulu, televizyon izleyici ölçümü hizmeti sunan Fifty5Blue hakkında soruşturma başlattı. Soruşturma kapsamında şirketin reyting ölçümüne ilişkin uygulamalarının televizyon reklamcılığı sektöründeki rekabet koşulları üzerindeki olası etkileri incelenecek.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-13 13:00 UTC"
-    },
-    {
-      "title": "İngiltere Merkez Bankası Başkanı Bailey özel kredilerin risklerine karşı uyardı - Investing.com Türkiye",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRFFQWHlMVzhXTnN1b2wyRlRpMGpmcm9jSkRuWE53M3JGb25HZE9BcmtwZDE5cW5DUTJ1WDNlUkZzdGc1aHpsLUZRcWpkMG9YRG9UbE1rRWV5WG51TzY2UVFPYXRlV09za1pfU2EwN2NlMnA0MjRSQkdYNmw0RlhnMWpkTjZuM2NyX1YwTWRsSEhzVTFqU3pTR1l5bkktZXl0N0F6UUlBdzl4ZmRNVUF6aHpRM05SSzFHbC16X0d3OTNmNkJaUk1JM3hEOXduYzhNT2c?oc=5",
-      "summary": "İngiltere Merkez Bankası Başkanı Bailey özel kredilerin risklerine karşı uyardı Investing.com Türkiye",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-13 12:57 UTC"
     },
     {
       "title": "Merkez Bankası faiz indirecek mi? Deutsche Bank beklentisini açıkladı - Paratic Haber",
@@ -693,15 +702,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 12:28 UTC"
-    },
-    {
-      "title": "Sabancı/Bayçöl: Enerji uzun vadeli yatırım bakış açısı gerektiriyor",
-      "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794572834/3794597/jpg/320x180",
-      "link": "https://www.bloomberght.com/sabancibaycol-enerji-uzun-vadeli-yatirim-bakis-acisi-gerektiriyor-3794597",
-      "summary": "Sabancı Holding Stratejik Yatırımlar ve Operasyonlar Başkanı İhsan Erbil Bayçöl, Bloomberg HT'ye verdiği özel söyleşide elektrifikasyonun sanayinin tekrar şekillenmesi demek olduğunu ve enerjide uzun vadeli yatırım bakış açısının gelişmesi gerektiğini söyledi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-13 12:26 UTC"
     },
     {
       "title": "Merkez Bankası açıkladı! Yıl sonu enflasyon beklentisi yüzde 30'u aştı: Dolar ve faiz tahmini de değişti - Haberton",
@@ -785,6 +785,15 @@
       "published_at": "2026-11-13 10:33 UTC"
     },
     {
+      "title": "Piyasalarda Gün Ortası: Borsa, Döviz ve Altında Son Durum - Ekonomi Dünya",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU2RWeWNiWmwwMUVKMXN3X3lSTmR1NUZfejJPSDUtOXhRT1JDRGZXNkQ3NXIwT2hUaTAxRDdRT3RJci1GU1pna25ieTE1UXFKaGlpVER3VkU0TVRfT2o1anA4eTFUbW1adVhEdHg5YUZkRFIybmFYV0tfZHk2NVB1aDVkV3JmM3BPMGNFNEl6QlNzaVMybnc?oc=5",
+      "summary": "Piyasalarda Gün Ortası: Borsa, Döviz ve Altında Son Durum Ekonomi Dünya",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-13 10:15 UTC"
+    },
+    {
       "title": "Turkish Air Force Commander Visits ASELSAN to Review Technology and Production Programs - ssbulten.com.tr",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWHA4TzlrMkp0aU1JV2E4MjlQM1FndWNYNmM4QjJCR200dVREQUJoVHNaOHFEc3N5ZWwyQlF1cTk0UUxyVGNGa3BfcDAxVnRMRUZIRGxGajZjc2hCVWpwWURuRmVORmRKc2F2ZUloenVLYWhHZFB4aFdVaWhaTTc4bVBiVldJQ2U4UElfOS1kdjlISGpnUzc0QU5qV2JoazdGZWQydl9odm5xUldHQ0xhWjZJejZFM1BpZ25Fc1RSQjJ5VjBXT0JUdmlNRzhTbE0?oc=5",
@@ -855,15 +864,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-13 06:55 UTC"
-    },
-    {
-      "title": "Gram ve çeyrek altın kaç TL oldu? 13 Kasım güncel altın fiyatları - bursa tv",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0FIOVpqZlotUU1tMl9CbkZxbjhMOTN0LTFxeklMZ3I0Mk85dHcxaFhKN29UT3BlYWJfeFRPZ1JfV3pwMmhpNWhWNHo5YjRSSGVrMHVGYmczQVFMbTRvUW41a1ZuMGRyZWhNUS1vWVRHeFRpUmJOcjk5UjJxWjl5Vm5VNmpURzk5UUhxbzJrek5kUFV4aHc?oc=5",
-      "summary": "Gram ve çeyrek altın kaç TL oldu? 13 Kasım güncel altın fiyatları bursa tv",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-13 06:00 UTC"
     },
     {
       "title": "Borsa İstanbul Şirket Haberleri (13 Kasım) - Borsa Gundem",
