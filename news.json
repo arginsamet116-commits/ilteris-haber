@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-13 00:48 UTC",
+  "updated_at": "2026-11-13 01:58 UTC",
   "items": [
+    {
+      "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+      "summary": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 01:44 UTC"
+    },
+    {
+      "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
+      "summary": "Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 01:43 UTC"
+    },
+    {
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 01:03 UTC"
+    },
+    {
+      "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Erdoğan, \"Lübnan-Türkiye Stratejik Liderlik Diyaloğu\" toplantısına katıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-lubnan-turkiye-stratejik-liderlik-diyalogu-toplantisina-katildi/4123556",
+      "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan, Lübnan, Suriye ve komşu ülkelerin istikrarının Türkiye'nin doğrudan çıkarına olduğunu belirtti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 00:40 UTC"
+    },
     {
       "title": "Nvidia CEO'su Huang, ABD Kongresi'nde ifade verecek",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/08af/live/640dfe40-de73-11f1-9115-cfe6d179af3a.jpg",
@@ -74,49 +110,13 @@
       "published_at": "2026-11-12 23:18 UTC"
     },
     {
-      "title": "Zelenskiy, Rusya'yla \"şimdiye kadarki en büyük esir takasının\" yapılacağını söyledi",
+      "title": "Türkiye Merkez Bankası 2026 enflasyon tahminini %29,5’e yükseltti - Investing.com Türkiye",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-rusyayla-simdiye-kadarki-en-buyuk-esir-takasinin-yapilacagini-soyledi/4123552",
-      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya'yla \"şimdiye kadarki en büyük esir takasının\" yapılacağını kaydetti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 23:14 UTC"
-    },
-    {
-      "title": "\"Diyaliz Merkezleri Hakkında Yönetmelik\" Resmi Gazete'de yayımlandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/diyaliz-merkezleri-hakkinda-yonetmelik-resmi-gazetede-yayimlandi/4123551",
-      "summary": "\"Diyaliz Merkezleri Hakkında Yönetmelik\" Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 23:10 UTC"
-    },
-    {
-      "title": "Alman İHA üreticisi Quantum Systems'e siber saldırı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/-alman-iha-ureticisi-quantum-systemse-siber-saldiri/4123545",
-      "summary": "Almanya merkezli insansız hava aracı (İHA) üreticisi Quantum Systems'in şirket ağına siber saldırı düzenlendiği ve güncelleme sunucusuna zararlı yazılım yerleştirildiği bildirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 22:45 UTC"
-    },
-    {
-      "title": "BUDO'nun 10 seferi olumsuz hava koşulları nedeniyle iptal edildi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/budonun-10-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi/4123546",
-      "summary": "Bursa Deniz Otobüslerinin (BUDO) 10 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 22:45 UTC"
-    },
-    {
-      "title": "ABD'de kargo gemisinin Tacony-Palmyra Köprüsü'ne çarpması trafiği felç etti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abdde-kargo-gemisinin-tacony-palmyra-koprusune-carpmasi-trafigi-felc-etti/4123547",
-      "summary": "ABD'de büyük bir kargo gemisinin Pennsylvania ve New Jersey'yi birbirine bağlayan Tacony-Palmyra Köprüsü'ne çarpması sonucu eyaletler arası çevre yolunda uzun kuyruklar oluştu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 22:45 UTC"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ0p5TTJiSDFBV3BKUW1Fckp5R0FfNS0wZEllME1yOFh4YnZSQXVzRUpYbENTLXJTZF93bUUzbEw5eW5Cbm11RW5XWm12WnZpV2lxS1VDUjU3eUxwWVdfSFpIV2d6NkFVRWhXU1ZJdmxSX1c3X0JUYTBCelFxU0w2bW11OV9iT2Z3ZjJIc2VEdFoycG9sYUN3MXZVYjVvWjlZdlRSSHdwYmRnWUJDM0lPODRsbzZud0Rl?oc=5",
+      "summary": "Türkiye Merkez Bankası 2026 enflasyon tahminini %29,5’e yükseltti Investing.com Türkiye",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 23:13 UTC"
     },
     {
       "title": "A Milli Takım'da Sergen Yalçın dönemi 2-1'lik Belçika yenilgisiyle başladı",
@@ -126,15 +126,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 22:32 UTC"
-    },
-    {
-      "title": "Dışişleri Bakanlığı, İsrail'in Gazze'deki hastaneye saldırısını kınadı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-israilin-gazzedeki-hastaneye-saldirisini-kinadi/4123537",
-      "summary": "Dışişleri Bakanlığı, İsrail'in Gazze Şeridi'nin güneyindeki Han Yunus kentinde yer alan Nasır Hastanesi'ne düzenlediği saldırıyı kınadı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 22:20 UTC"
     },
     {
       "title": "Dışişleri Bakanlığı: İsrail'in hastane saldırısı uluslararası hukukun vahim bir ihlali",
@@ -162,15 +153,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 22:12 UTC"
-    },
-    {
-      "title": "COP31 kapsamında Antalya-Serik istikametinde gidiş-geliş şeklinde sürdürülen trafik uygulaması sona erdi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-antalya-serik-istikametinde-gidis-gelis-seklinde-surdurulen-trafik-uygulamasi-sona-erdi/4123530",
-      "summary": "Antalya Valiliği, COP31 Zirvesi kapsamında D-400 kara yolunun Antalya-Serik istikametinde dubalama sistemiyle gidiş-geliş şeklinde sürdürülen trafik uygulamasının, 13 Kasım saat 00.00 itibarıyla sona erdirildiğini bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 22:11 UTC"
     },
     {
       "title": "COP31 kapsamında AntalyaSerik istikametindeki trafik uygulaması sona erdi",
@@ -236,15 +218,6 @@
       "published_at": "2026-11-12 21:11 UTC"
     },
     {
-      "title": "AB: Kendi güvenliğimizin Ukrayna'nın güvenliğinden geçtiği açıktır",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/ab-kendi-guvenligimizin-ukraynanin-guvenliginden-gectigi-aciktir/4123497",
-      "summary": "Avrupa Birliği (AB) Konseyi Başkanı Antonio Costa, AB'nin Rusya-Ukrayna müzakerelerinde önceliğinin ateşkes, Karadeniz'de seyrüsefer serbestisi ve barış anlaşması için gerekli koşulların sağlanması olduğunu belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 21:10 UTC"
-    },
-    {
       "title": "Microsoft outage hits tens of thousands of users",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
@@ -261,15 +234,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-12 21:02 UTC"
-    },
-    {
-      "title": "Merkez Bankası enflasyon tahminini yükseltti! İşte 2026 yıl sonu dolar, faiz ve TÜFE beklentileri - Haberton",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX3lUWUZuZG1tc2s1RzVvdVJKUW9aMnBLR1B4Yk1uM1QzWkxDRlVuM3FfeVA1eUlQcnFlRTFMa3c5YlUwWFJBeXltUVNWMjZqY3JQOU5FZjl2OXFhSGEwYkZSRnFyTTRnZllNV1hlNW1BTWF3Mm1nN2g2aktHODRLZllaMFQyNzNNTzh3ODhjc003WnNJYkFGYWhIY0JuT0lncEllNlZNMDVaVkY5aldWazZZRTd2Q1Z5?oc=5",
-      "summary": "Merkez Bankası enflasyon tahminini yükseltti! İşte 2026 yıl sonu dolar, faiz ve TÜFE beklentileri Haberton",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 21:01 UTC"
     },
     {
       "title": "İsrail'de Netanyahu hükümetinin İran'a savaş açma yetkisi olup olmadığı tartışılıyor",
@@ -317,24 +281,6 @@
       "published_at": "2026-11-12 20:59 UTC"
     },
     {
-      "title": "Uzmanından \"mevzuata uygun tasarlansa da yapıya müdahalelerde yıkım kaçınılmaz\" uyarısı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/uzmanindan-mevzuata-uygun-tasarlansa-da-yapiya-mudahalelerde-yikim-kacinilmaz-uyarisi/4123482",
-      "summary": "Düzce Üniversitesi Deprem Uygulama ve Araştırma Merkezi Müdürü Prof. Dr. Mehmet Emin Arslan, mevzuata uygun inşa edilse de yapıların depremlerde yıkılmasının nedenlerinden birinin kolon kesilmesi gibi müdahaleler olduğunu söyledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 20:59 UTC"
-    },
-    {
-      "title": "Kilis'te yangında zarar gören ormanlık alan fidanlarla yeniden yeşeriyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/kiliste-yanginda-zarar-goren-ormanlik-alan-fidanlarla-yeniden-yeseriyor/4123481",
-      "summary": "Kilis'te 2021 yılında çıkan orman yangınında zarar gören 98 hektarlık alan, dikilen fidanlarla yeniden yeşil örtüsüne kavuşuyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 20:59 UTC"
-    },
-    {
       "title": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
       "image": "",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/pope-leo-calls-for-church-to-make-amends-to-sex-abuse-victims?traffic_source=rss",
@@ -342,33 +288,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 20:59 UTC"
-    },
-    {
-      "title": "Beyaza bürünen Palandöken'de turizmcilerin yeni sezon hedefi yüksek",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/beyaza-burunen-palandokende-turizmcilerin-yeni-sezon-hedefi-yuksek/4123480",
-      "summary": "Beyaza bürünen Türkiye'nin önemli kış turizm merkezlerinden Palandöken Kayak Merkezi'nde otellerin hazırlıkları ve erken rezervasyonlar sürerken turizmciler yeni sezonda daha fazla kayaksever ağırlamayı bekliyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 20:58 UTC"
-    },
-    {
-      "title": "California Valisi Newsom, ABD'deki ara seçimlerin sonuçlarını değerlendirdi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/california-valisi-newsom-abddeki-ara-secimlerin-sonuclarini-degerlendirdi/4123479",
-      "summary": "ABD'nin California Valisi Gavin Christopher Newsom, ülkesindeki ara seçimlerin sonuçlarına ilişkin, \"Donald Trump'ın başkanlığı geçen hafta bitti, tarihi bir bitişti.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 20:57 UTC"
-    },
-    {
-      "title": "OCHA Sözcüsü Laerke, Gazze'deki sellerin insani krizi derinleştireceği uyarısında bulundu",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/ocha-sozcusu-laerke-gazzedeki-sellerin-insani-krizi-derinlestirecegi-uyarisinda-bulundu/4123477",
-      "summary": "Birleşmiş Milletler (BM) İnsani İşler Koordinasyon Ofisi (OCHA) Sözcüsü Jens Laerke, Gazze'deki şiddetli yağışlardan 200 bini aşkın Filistinlinin etkilendiğini belirterek daha fazla yağışın bölgedeki insani krizi derinleştireceği uyarısında bulundu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 20:56 UTC"
     },
     {
       "title": "Fed/Daly: Yapay zekanın fiyat baskılarını artırdığına şüphe yok",
@@ -470,15 +389,6 @@
       "published_at": "2026-11-12 19:56 UTC"
     },
     {
-      "title": "US nonprofits sue tech giants to halt AI development",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development?traffic_source=rss",
-      "summary": "California lawsuit demands freeze training on 'catastrophic' artificial intelligence models.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 19:55 UTC"
-    },
-    {
       "title": "İran'dan Hürmüz Boğazı'na olası müdahaleye katılacak ülkelere uluslararası hukuk uyarısı",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/irandan-hurmuz-bogazina-olasi-mudahaleye-katilacak-ulkelere-uluslararasi-hukuk-uyarisi-963115.html",
@@ -495,15 +405,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 19:48 UTC"
-    },
-    {
-      "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
-      "summary": "Huang has stepped down amid allegations of extramarital affairs and Chinese espionage.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-12 19:45 UTC"
     },
     {
       "title": "Yüz tanıma hataları masum insanları haksız tutuklama riskiyle karşı karşıya bırakıyor",
@@ -650,6 +551,15 @@
       "published_at": "2026-11-12 18:04 UTC"
     },
     {
+      "title": "Çinli yapay zekâlar kullanımda zirvedeler ama gelir üretmekte zorlanıyorlar - DonanımHaber",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUVJ2Sm1KU0E3TXRLaDN5a210b2RTU2ZuLWtXMWloc1dmWUh1UVpSUVV1dFUzNlhzS1lOQnB6SUY0cE9RTzZTaUpuT2V0VVNQN2ZmZlZiRTY2NDNXQlQ4bTZ5LXZ2NDFQV2RLaW5iZHhFSGF5a05KRVJtWFczNUFDUHpkMm4wSGxGODFOME1iWldOc2VYRHBLSnFYU0xuVVJFMXVr?oc=5",
+      "summary": "Çinli yapay zekâlar kullanımda zirvedeler ama gelir üretmekte zorlanıyorlar DonanımHaber",
+      "source": "Google News - Küresel Teknoloji",
+      "category": "Teknoloji ve Bilim",
+      "published_at": "2026-11-12 17:50 UTC"
+    },
+    {
       "title": "IMF'ye göre ABD'de enflasyonun hedefe dönüşü 2028'e sarkıyor",
       "image": "https://geoim.bloomberght.com/l/2026/11/12/ver1794505622/3794482/jpg/320x180",
       "link": "https://www.bloomberght.com/imf-ye-gore-abdde-enflasyonun-hedefe-donusu-2028-e-sarkiyor-3794482",
@@ -731,6 +641,15 @@
       "published_at": "2026-11-12 16:23 UTC"
     },
     {
+      "title": "COP31 CEO'su Fatma Varank, Türkiye Kadın Pavilyonunun açılışını gerçekleştirdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cop31-ceosu-fatma-varank-turkiye-kadin-pavilyonunun-acilisini-gerceklestirdi-/4123065",
+      "summary": "COP31 CEO'su ve Çevre, Şehircilik ve İklim Değişikliği Bakan Yardımcısı Fatma Varank, iklim diplomasisinde kadın liderliğini ve yerel üretim gücünü küresel gündeme taşıyacak Mavi Bölge'deki Türkiye Kadın Pavilyonunun açılışını gerçekleştirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 15:44 UTC"
+    },
+    {
       "title": "Borsa, altın, dolar: 12 Kasım piyasalarda gün sonu rakamları - Platin Dergisi",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRTM3ZmVBdzg5V05YSnd2TFR4S2RfcmR2Z1dTTlpPS3FqR3JQNkpnUzZ1OGRFa01fcXJhNVp3bUhpSGR1WUROa2J4V2VkNGVicXk1R00yMGpIektNbGZTSWZVRnVlUjlXUTdCcmZlajQ1Sk5UcWRCbUFHWHhzWVFSOVQ2RDlyc1hXdDhYQ21Fa3pQaTZsZVJUNnIwREg1aHAyUEE?oc=5",
@@ -738,6 +657,15 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-12 15:41 UTC"
+    },
+    {
+      "title": "Oyuncular Kenan İmirzalıoğlu ve Sinem Kobal'dan COP31'de iklim eylemi çağrısı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/kultur/oyuncular-kenan-imirzalioglu-ve-sinem-kobaldan-cop31de-iklim-eylemi-cagrisi/4123064",
+      "summary": "Antalya'da düzenlenen COP31'e katılan oyuncular Kenan İmirzalıoğlu ve Sinem Kobal, iklim değişikliğiyle mücadelede alınan kararların hayata geçirilmesinin önemine dikkati çekti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 15:40 UTC"
     },
     {
       "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
@@ -758,12 +686,30 @@
       "published_at": "2026-11-12 14:56 UTC"
     },
     {
+      "title": "COP31'de Hükümetlerarası Bina ve İklim Konseyi 2. Bakanlar Toplantısı yapıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cop31de-hukumetlerarasi-bina-ve-iklim-konseyi-2-bakanlar-toplantisi-yapildi/4122937",
+      "summary": "Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Hükümetlerarası Bina ve İklim Konseyi (ICBC) 2. Bakanlar Toplantısı düzenlendi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 14:53 UTC"
+    },
+    {
       "title": "İtalya Merkez Bankası'ndan hükümete vergi uyarısı - Foreks.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYTBRblZNU0lWWjlHQXFmMVZjd3FHSjBCVWNJNFBWb1NSZ2ptYTJWcG9zaXZ6SExLSlZVVGRoaE1vNXJkZ1B2MXdfVzlwUEdLYWVzVG1CUHlHbDZ5ME1odWdkdTlZWXZHbTZIZkcxMTBuX1ItTWtqZHNFa1FVYjBmWXVCRV8wQncyZHVBZ2dlZl9kREV4azJESUVBRG1wbWZPeUl5UzA4bUtmMlRTajF3MUd2aHNmRHRiNVc2bkxvb3BCMVVJT2sxNDlR?oc=5",
       "summary": "İtalya Merkez Bankası'ndan hükümete vergi uyarısı Foreks.com",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-12 14:51 UTC"
+    },
+    {
+      "title": "Kırgızistan Bakanlar Kurulu Başkanı Kasımaliyev: Kırgızistan ile Türkiye arasındaki ilişkiler özel bir niteliğe sahiptir",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/kirgizistan-bakanlar-kurulu-baskani-kasimaliyev-kirgizistan-ile-turkiye-arasindaki-iliskiler-ozel-bir-nitelige-sahiptir/4122929",
+      "summary": "Kırgızistan Bakanlar Kurulu Başkanı Adılbek Kasımaliyev, Türkiye ile Kırgızistan'ın ortak tarih, kültürel yakınlık ve manevi değerlerle birbirine bağlandığını bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-12 14:51 UTC"
     },
     {
@@ -848,6 +794,33 @@
       "published_at": "2026-11-12 11:48 UTC"
     },
     {
+      "title": "COP31 katılımcıları Uluslararası Ormancılık Eğitim Merkezi'ni gezdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cop31-katilimcilari-uluslararasi-ormancilik-egitim-merkezini-gezdi/4122388",
+      "summary": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) dolayısıyla Antalya'ya gelen farklı ülkelerden 62 katılımcı, Orman Genel Müdürlüğünün (OGM) Uluslararası Ormancılık Eğitim Merkezi'ni ziyaret etti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 11:34 UTC"
+    },
+    {
+      "title": "OSB'lerdeki Şirketlere Özel Yeşil Dönüşüm Destek Paketi imzalandı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/osblerdeki-sirketlere-ozel-yesil-donusum-destek-paketi-imzalandi/4122376",
+      "summary": "Sanayi ve Teknoloji Bakanı Kacır, OSB'lerdeki Şirketlere Özel Yeşil Dönüşüm Destek Paketiyle, organize sanayi bölgelerindeki işletmelerin yeşil dönüşüm yatırımları için finansmana erişiminin kolaylaştırılmasının hedeflendiğini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 11:31 UTC"
+    },
+    {
+      "title": "Cezayir, 2035'e kadar sera gazı emisyonunu yüzde 14 azaltmayı hedefliyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cezayir-2035e-kadar-sera-gazi-emisyonunu-yuzde-14-azaltmayi-hedefliyor/4122369",
+      "summary": "Cezayir, 2035 yılına kadar sera gazı emisyonlarını yüzde 14 azaltmayı, uluslararası destek sağlanması halinde ise bu oranı yüzde 31'e çıkarmayı hedefliyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 11:27 UTC"
+    },
+    {
       "title": "Five new miniature frog species found in eastern Himalayas",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6413/live/e56f4d60-de76-11f1-9115-cfe6d179af3a.jpg",
       "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
@@ -866,13 +839,22 @@
       "published_at": "2026-11-12 10:53 UTC"
     },
     {
+      "title": "Lübnan Başbakanı: İsrail saldırılarında 2023-2024 yılında çevresel kayıplar 512 milyon doları aştı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/lubnan-basbakani-israil-saldirilarinda-2023-2024-yilinda-cevresel-kayiplar-512-milyon-dolari-asti/4122283",
+      "summary": "Lübnan Başbakanı Nevvaf Selam, “(Lübnan’da) Uluslararası insancıl hukukun ihlali niteliğindeki İsrail saldırılarından kaynaklanan çevresel kayıplar, 2023-2024 döneminde 512 milyon ABD dolarını aşmış, 2026 yılında da ilave kayıplar yaşanmıştır.” dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 10:52 UTC"
+    },
+    {
       "title": "Hedef yine tutmadı: Merkez Bankası bir kez daha enflasyon tahminini yükseltti - DW.com",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGhHeTVJTnExYmd4UHBZUDJLNHJxR244ek1NRkpkTlZJWlllRHYxRnB2ajY5TC03WkNDemZDTTFyN0VOd2JteENKVTRvWlhKU3dyVmVwNmFJVE41M2FqWGNzaHVDZmV1Q0w4YlEtNWVsNzQ3dWJLOEVwa3VEUlgwMm1pM2wwczM4dmNCVGtyZENVTFBQWkxSdk1jMDFOR3dUSjRQdFVmYTBIYURtRTZwbUhUR2g0WEU3TGtMdW5B0gG-AUFVX3lxTFA4aEd5NUlOcTFiZ3hQcFlQMks0cnFHbjh6TU1GSmROVklaWWVEdjFGcHZqNjlMLTdaQ0N6ZkNNMXI3RU53Ym14Q0pVNG9aWEpTd3JWZXA2YUlUTjUzYWpYY3NodUNmZXVDTDhiUS01ZWw3NDd1Yks4RXBrdURSWDAybWkzbDBzMzh2Y0JUa3JkQ1VMUFBaTFJ2TWMwMU5Hd1RKNFB0VWZhMEhhRG1FNnBtSFRHaDRYRTdMa0x1bkE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVoxS2JyaHBaQXc0MXVadlZuTGtfamdOQ0ZKck9fbXhSSjQ4TVdfSG04SWVmM3RDa05IME1iZmI5eXZOZ04zS1VOcFUzUEVBTERCUDByZG5wcmpVYXVvcmg0MXZZY0hvVUtoSGxEY2lFNVVWd01xUU9QLU1rYXlEQWV1b0hzeTEwVGs0Rkx1aU1jbzBtV2xxUENvUUxfbTJQZWNDb0JGTm1oUkd3ZzZxVnlDRDlFNDNDaXRJeXlR0gG-AUFVX3lxTFA4aEd5NUlOcTFiZ3hQcFlQMks0cnFHbjh6TU1GSmROVklaWWVEdjFGcHZqNjlMLTdaQ0N6ZkNNMXI3RU53Ym14Q0pVNG9aWEpTd3JWZXA2YUlUTjUzYWpYY3NodUNmZXVDTDhiUS01ZWw3NDd1Yks4RXBrdURSWDAybWkzbDBzMzh2Y0JUa3JkQ1VMUFBaTFJ2TWMwMU5Hd1RKNFB0VWZhMEhhRG1FNnBtSFRHaDRYRTdMa0x1bkE?oc=5",
       "summary": "Hedef yine tutmadı: Merkez Bankası bir kez daha enflasyon tahminini yükseltti DW.com",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-12 10:49 UTC"
+      "published_at": "2026-11-12 10:47 UTC"
     },
     {
       "title": "TCMB enflasyon tahminlerini yukarı yönlü güncelledi - Bloomberght",
@@ -893,6 +875,15 @@
       "published_at": "2026-11-12 10:40 UTC"
     },
     {
+      "title": "Filistin Başbakanı: Gazze insani, çevre ve iklim dahil zorlukların somutlaştığı yerdir",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/filistin-basbakani-gazze-insani-cevre-ve-iklim-dahil-zorluklarin-somutlastigi-yerdir/4122258",
+      "summary": "Filistin Başbakanı Muhammed Mustafa, \"Gazze insani, çevre ve iklim dahil tüm zorlukların acı verici biçimde somutlaştığı yerdir.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-12 10:39 UTC"
+    },
+    {
       "title": "Turkey's Defense Industry Agency to hire 26 contract experts for AI and drone defense projects - ssbulten.com.tr",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3lHZDJGeXlmLTFiTG1RR1NhcEM5c2U4U21mQVl0SW9ucjNiTU9RSHVyRWYwN0I2Nk5LVWdxVkQ0T0RydDFwUHliVzdVRXN5anBMdVlDNk5SeXdsVjE1ZFMyRFYyWWlxb1Z5ZWVXVVdtaWZzRGx1MGRVWnRwNDRFckpUQktiaUdnczVjbGZKd2xVWTFKaUJBcEc4aktrM1pPalpNSWFBOWhOT1hNbm1SN08taXVOU0gzSmlySmJfbFlQZ2xjcGFTWmpZUVNRLVV6V3pYMUJDaw?oc=5",
@@ -900,6 +891,15 @@
       "source": "Google News - Küresel Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-11-12 10:27 UTC"
+    },
+    {
+      "title": "Borsa İstanbul günün ilk yarısında yükseldi - Borsa Gundem",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXRibFBFSTQ1Q0pjOWtvOGg1ZnFwbWxjWldTanVPWHJrUElnMmFmb05rWGRtQXVEX2luc3QtTUREYzRJZHVCN2dfaUlYMGJfUTdtdzFpZ0lJYmlxdlp4UEljeUEtY3VLX3NTS1BvMXNhTllMbW1ZWFZfUVk0Vy1PSFNB?oc=5",
+      "summary": "Borsa İstanbul günün ilk yarısında yükseldi Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-12 10:14 UTC"
     }
   ]
 }
