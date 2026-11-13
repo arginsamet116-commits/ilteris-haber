@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-11-13 15:39 UTC",
+  "updated_at": "2026-11-13 16:44 UTC",
   "items": [
+    {
+      "title": "Adalet Bakanı Gürlek, 3 faili meçhul cinayetin daha aydınlatıldığını duyurdu",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-3-faili-mechul-cinayetin-daha-aydinlatildigini-duyurdu/4124605",
+      "summary": "Adalet Bakanı Akın Gürlek, Bursa ve Bitlis'te 14, 16 ve 20 yıldır aydınlatılamayan 3 faili meçhul cinayetin aydınlatıldığını bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 16:36 UTC"
+    },
+    {
+      "title": "OpenAI, yapay zekayla alışveriş için ChatGPT Wallet'ı kullanıma sundu",
+      "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794587738/3794638/jpg/320x180",
+      "link": "https://www.bloomberght.com/openai-odeme-yapabilen-chatgpt-wallet-i-duyurdu-3794638",
+      "summary": "OpenAI, yapay zeka ajanlarının kullanıcıların kart bilgilerine erişmeden alışveriş ödemesi yapmasını sağlayan ChatGPT Wallet'ı kullanıma sundu. İlk aşamada ABD'deki uygun ChatGPT Pro abonelerine sunulacak hizmette kullanıcıların her işlemi güvenlik doğrulamasıyla onaylaması gerekecek.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-13 16:35 UTC"
+    },
+    {
+      "title": "Microsoft uygulamalarında küresel kesinti neden bu kadar uzun sürdü?",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5941/live/71d898e0-df64-11f1-a8af-15d7a25dc0d1.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c5n4ez3gvp1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dünya çapında yüz milyonlarca kullanıcısı olan Microsoft işletim sistemine ait bazı uygulamalara birçok ülkede erişim sorunu yaşanıyor. Şirket, sorunun siber saldırı kaynaklı olmadığını ve çözüm üzerinde çalıştıklarını açıkladı. Özellikle Microsoft 365 uygulamalarından Outlook, Teams ve yapay zeka uygulaması Copilot'a erişimde sorun yaşanıyor.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 16:27 UTC"
+    },
+    {
+      "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+      "image": "",
+      "link": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
+      "summary": "Despite Treasury's Scott Bessent's remarks, financial tracker CME Fed Watch forecasts rate hike in December likely.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 16:22 UTC"
+    },
+    {
+      "title": "ABD Hazine Bakanı Bessent, aylardır Megaspeed'in kara listeye alınmasından yana olduklarını söyledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/abd-hazine-bakani-bessent-aylardir-megaspeedin-kara-listeye-alinmasindan-yana-olduklarini-soyledi/4124590",
+      "summary": "ABD Hazine Bakanı Bessent, Bakanlığının, Nvidia ile ilgili casusluk iddialarının merkezinde bulunan Megaspeed'in ABD'nin çıkarlarına tehdit oluşturduğu değerlendirilen kuruluşların yer aldığı \"Varlık Listesi\"ne alınmasını desteklediğini söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 16:16 UTC"
+    },
+    {
+      "title": "ABD Hazine Bakanı: Megaspeedin kara listeye alınmasından yanayız",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/abd-hazine-bakani-megaspeedin-kara-listeye-alinmasindan-yanayiz-963211.html",
+      "summary": "ABD Hazine Bakanı Bessent, casusluk iddialarının merkezindeki Megaspeedin \"Varlık Listesi\"ne alınmasını aylardır desteklediğini, ancak kararın Ticaret Bakanlığına ait olduğunu söyledi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 16:14 UTC"
+    },
+    {
+      "title": "Yeni nesil suç örgütü elebaşı Sayal tutuklandı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/yeni-nesil-suc-orgutu-elebasi-sayal-tutuklandi-963210.html",
+      "summary": "Yunanistan'da yakalanarak dün İzmir'e getirilen \"yeni nesil organize suç örgütü\" elebaşı Sercan Sayal, tutuklandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 16:14 UTC"
+    },
+    {
+      "title": "Gökçeada ve Bozcaada feribot seferlerine fırtına engeli",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli-963208.html",
+      "summary": "Çanakkale'nin Gökçeada ilçesinde etkili olan fırtına nedeniyle yarın yapılması planlanan 4 sefer ile Bozcaada hattındaki tüm seferler iptal edildi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 16:07 UTC"
+    },
+    {
+      "title": "Çanakkale Boğazı'ndaki gemi trafiği geçici olarak askıya alındı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/canakkale-bogazindaki-gemi-trafigi-gecici-olarak-askiya-alindi-963207.html",
+      "summary": "Ulaştırma ve Altyapı Bakanlığı, Çanakkale Boğazı'ndaki gemi trafiğinin kuvvetli lodos fırtınası nedeniyle çift yönde ve geçici olarak askıya alındığını duyurdu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 16:04 UTC"
+    },
+    {
+      "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss",
+      "summary": "Several children and the bus driver were among those killed, officials said, with the death toll expected to rise.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 16:01 UTC"
+    },
+    {
+      "title": "Konya'da jandarmanın motosikletli akrobasi timi TULPAR gösteri düzenledi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/konyada-jandarmanin-motosikletli-akrobasi-timi-tulpar-gosteri-duzenledi/4124578",
+      "summary": "Konya’nın Çumra ilçesinde, Jandarma Genel Komutanlığı bünyesinde kurulan motosikletli akrobasi timi TULPAR'ın gösterisi ilgiyle izlendi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 15:58 UTC"
+    },
+    {
+      "title": "Bakan Gürlek: Hiçbir cinayetin üzerinin zamanla örtülmesine izin vermeyeceğiz",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-hicbir-cinayetin-uzerinin-zamanla-ortulmesine-izin-vermeyecegiz-963206.html",
+      "summary": "Adalet Bakanı Akın Gürlek, \"Hiçbir cinayetin üzerinin zamanla örtülmesine izin vermeyeceğiz. 76 dosyada 83 cinayeti faili meçhul olmaktan çıkardık. Bursa ve Bitliste 14, 16 ve 20 yıldır aydınlatılamayan üç ayrı cinayet dosyasını yeniden ele aldık\" dedi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 15:55 UTC"
+    },
+    {
+      "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan: Türkiye, Lübnan'ın refahını, istikrarını ve barışını istiyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-turkiye-lubnanin-refahini-istikrarini-ve-barisini-istiyor/4124571",
+      "summary": "Erdoğan, Lübnan'ın Trablusşam kentinde Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı (TİKA) tarafından restore edilen Mevlevihane'yi ziyaret ederek Türkiye ile Lübnan arasındaki tarihi ve kültürel bağların güçlendirilmesinin önemine dikkati çekti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 15:52 UTC"
+    },
+    {
+      "title": "MEB, gençleri yeşil ve dijital dönüşüme eğitimle hazırlıyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/meb-gencleri-yesil-ve-dijital-donusume-egitimle-hazirliyor/4124568",
+      "summary": "MEB, iklim değişikliğiyle mücadele ve sürdürülebilir gelecek hedefleri doğrultusunda yürüttüğü Yeşil Beceri ve Dijital Dönüşüm Programı ile öğrencilerin çevre bilinci ve dijital yetkinliklerini geliştirmeye yönelik çalışmalarını sürdürüyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 15:51 UTC"
+    },
+    {
+      "title": "Turkiye and Qatar sign mutual defence agreement",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
+      "summary": "The pact was signed after ​President met Qatari Emir Sheikh Tamim ‌bin Hamad ​al-Thani in Istanbul on ⁠Friday.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 15:49 UTC"
+    },
+    {
+      "title": "BM Genel Sekreteri Guterres: Türkiye şüphesiz bu yılın en büyük BM konferansına ev sahipliği yapıyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreteri-guterres-turkiye-suphesiz-bu-yilin-en-buyuk-bm-konferansina-ev-sahipligi-yapiyor/4124531",
+      "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, \"Türkiye, şimdiye kadarki en büyük COP'lardan birine ve şüphesiz bu yılın en büyük BM konferansına ev sahipliği yapıyor.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 15:44 UTC"
+    },
+    {
+      "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
+      "summary": "EU leaders believe a US-backed process will allow Moscow and Washington to decide the fate of a conflict.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 15:43 UTC"
+    },
+    {
+      "title": "Altın, dolar, borsa… İşte haftanın en çok kazandıran yatırım aracı - Hürriyet",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZWltaHV3bTVxbGJ1UHMxTlJaNUM2eG1TdjM3SzVOR3N5enFvLTlLYURIR2NJY1RzeDQwVVV5OE4wYXRaem5NVjRZTUFBeGl1NkpvSkJpVWo1MmNycGFfX1dQTWFkTzdfaDkzWnI5T2hGc00yaTMzYVROWE90RjNNa3ZJLXdDUERkUndWUEwydXNPcUczdWVCT2FNZm5ZdnZ4UTVQcXFucG94Wkk?oc=5",
+      "summary": "Altın, dolar, borsa… İşte haftanın en çok kazandıran yatırım aracı Hürriyet",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-13 15:42 UTC"
+    },
+    {
+      "title": "Bu hafta yatırım araçlarının performansı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4124510",
+      "summary": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda yüzde 3,14, dolar/TL yüzde 0,42 değer kazanırken, altının gram fiyatı yüzde 3,53, avro/TL yüzde 0,38 değer kaybetti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 15:38 UTC"
+    },
+    {
+      "title": "QNB/Ömür Tan: Karbon dönüşümünü gerçekleştiremeyen şirketler rekabet avantajını kaybeder",
+      "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794584195/3794632/jpg/320x180",
+      "link": "https://www.bloomberght.com/qnbomur-tan-karbon-donusumunu-gerceklestiremeyen-sirketler-rekabet-avantajini-kaybeder-3794632",
+      "summary": "QNB Türkiye CEO'su Ömür Tan, COP31'de Bloomberg HT'ye yaptığı açıklamada, AB'nin sınırda karbon düzenlemesinin 2027'den itibaren daha fazla önem kazanacağını söyledi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-13 15:36 UTC"
+    },
     {
       "title": "İzmir'de fabrikadaki patlamada hayatını kaybedenlerin sayısı 19'a yükseldi",
       "image": "",
@@ -18,6 +198,24 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 15:24 UTC"
+    },
+    {
+      "title": "BM: Yemen'de yerinden edilenlerin sayısı 340 bini aştı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/bm-yemende-yerinden-edilenlerin-sayisi-340-bini-asti-963205.html",
+      "summary": "Birleşmiş Milletler BM Uluslararası Göç Örgütü IOM, çatışmaların yaşandığı Yemen'de 340 binden fazla kişinin yerinden edilmek zorunda kaldığını bildirdi.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 15:22 UTC"
+    },
+    {
+      "title": "TFF'den bu hafta yapılacak profesyonel maçlar öncesi saygı duruşu kararı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/tffden-bu-hafta-yapilacak-profesyonel-maclar-oncesi-saygi-durusu-karari/4124377",
+      "summary": "Türkiye Futbol Federasyonu (TFF), 14-15 Kasım tarihlerinde oynanacak tüm profesyonel müsabakaların öncesinde saygı duruşunda bulunulacağını duyurdu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 15:15 UTC"
     },
     {
       "title": "Türkiye ile Katar arasında 5 anlaşma imzalandı",
@@ -56,6 +254,15 @@
       "published_at": "2026-11-13 15:01 UTC"
     },
     {
+      "title": "Yemen'deki Husiler: Aden'de Suudi subayların bulunduğu askeri kampı balistik füzelerle hedef aldık",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-adende-suudi-subaylarin-bulundugu-askeri-kampi-balistik-fuzelerle-hedef-aldik/4124347",
+      "summary": "Yemen'de İran destekli Husiler, ülkenin geçici başkenti Aden'de Suudi Arabistanlı subayların bulunduğu bir askeri kampı balistik füzelerle hedef aldıklarını ileri sürdü.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 14:54 UTC"
+    },
+    {
       "title": "İsrail ordusunun, Gazze'nin Deyr el-Belah kentinde düzenlediği saldırıda 2 Filistinli hayatını kaybetti",
       "image": "",
       "link": "https://www.aa.com.tr/tr/israilin-gazze-saldirilari/israil-ordusunun-gazzenin-deyr-el-belah-kentinde-duzenledigi-saldirida-2-filistinli-hayatini-kaybetti/4124348",
@@ -83,15 +290,6 @@
       "published_at": "2026-11-13 14:50 UTC"
     },
     {
-      "title": "Milli Eğitim Bakanı Tekin'den ara tatil paylaşımı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/milli-egitim-bakani-tekinden-ara-tatil-paylasimi/4124340",
-      "summary": "Milli Eğitim Bakanı Yusuf Tekin, bugün başlayan ara tatile ilişkin, \"Tatilinizi dinlenmenin yanı sıra kitap okuyarak, ilgi duyduğunuz alanlara yönelerek ve şehrinizi keşfederek verimli bir şekilde geçirmenizi tavsiye ediyorum.\" ifadelerini kullandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 14:47 UTC"
-    },
-    {
       "title": "Axios: Mossad Direktörü, İran'a yönelik muhtemel saldırıları görüşmek üzere ABD'de",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/axios-mossad-direktoru-irana-yonelik-muhtemel-saldirilari-gorusmek-uzere-abdde-963203.html",
@@ -105,15 +303,6 @@
       "image": "",
       "link": "https://www.aa.com.tr/tr/spor/yaz-genclik-olimpiyat-oyunlari-tarihinde-eskrim-bransinda-turkiye-ilk-altin-madalyasini-kazandi/4124326",
       "summary": "Milli eskrimci Candeniz Berrak, 4. Yaz Gençlik Olimpiyat Oyunları'nda (Dakar 2026) altın madalya elde etti. Berrak, bu başarısıyla Yaz Gençlik Olimpiyat Oyunları tarihinde eskrim branşında Türkiye'ye ilk altın madalyasını kazandırdı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 14:35 UTC"
-    },
-    {
-      "title": "Türkiye İş Ahlakı Zirvesi'nin sonuç bildirgesi açıklandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-is-ahlaki-zirvesinin-sonuc-bildirgesi-aciklandi/4124328",
-      "summary": "AA'nın Global İletişim Ortağı olduğu ve İGİAD tarafından \"Güven Ekonomisi ve İnsani Finans\" temasıyla bu yıl on birincisi düzenlenen, akademi, iş dünyası ve sivil toplum temsilcilerini bir araya getiren TİAZ sonuç bildirgesi yayımlandı.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 14:35 UTC"
@@ -144,15 +333,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 14:31 UTC"
-    },
-    {
-      "title": "Aile ve Sosyal Hizmetler Bakanı Göktaş, sanatçılarla COP31'de iklim ve çevre mesajı verdi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakani-goktas-sanatcilarla-cop31de-iklim-ve-cevre-mesaji-verdi/4124314",
-      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, oyuncular Deniz Can Aktaş ve Sümeyye Aydoğan ile COP31'de iklim değişikliğiyle mücadele ve çevrenin korunmasına ilişkin mesajlar verdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 14:24 UTC"
     },
     {
       "title": "Why is the Microsoft outage lasting so long?",
@@ -218,15 +398,6 @@
       "published_at": "2026-11-13 14:10 UTC"
     },
     {
-      "title": "AKINCI ve Bayraktar TB2 kara yoluna iniş-kalkış yaptı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/akinci-ve-bayraktar-tb2-kara-yoluna-inis-kalkis-yapti/4124283",
-      "summary": "Pistlerin kullanılamayacağı acil durum senaryolarına yönelik yürütülen çalışmalar kapsamında AKINCI ile Bayraktar TB2 SİHA'lar, Manisa-Balıkesir kara yoluna başarıyla iniş ve kalkış gerçekleştirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 14:09 UTC"
-    },
-    {
       "title": "Beylikdüzü'nde zincirleme kazada 2 kişi yaralandı",
       "image": "",
       "link": "https://www.trthaber.com/haber/turkiye/beylikduzunde-zincirleme-kazada-2-kisi-yaralandi-963199.html",
@@ -234,24 +405,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 14:08 UTC"
-    },
-    {
-      "title": "Küresel rüzgar enerjisi sektörü temiz enerji dönüşümünü hızlandırmak için ortak bildiri yayımladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-ruzgar-enerjisi-sektoru-temiz-enerji-donusumunu-hizlandirmak-icin-ortak-bildiri-yayimladi-/4124270",
-      "summary": "Küresel rüzgar enerjisi sektörü, dünya genelinde rüzgar enerjisi santrallerinin geliştirilmesini ve inşasını hızlandırmak amacıyla ortak bildiri yayımladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 14:01 UTC"
-    },
-    {
-      "title": "Bakan Kurum, COP31'deki Anka Kuşu alanını paylaştı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-cop31deki-anka-kusu-alanini-paylasti/4124232",
-      "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 6 Şubat 2023'teki Kahramanmaraş merkezli depremlerin ardından enkaz kalıntılarının geri dönüşümüyle oluşturulan COP31'deki Anka Kuşu alanına ilişkin paylaşımda bulundu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 13:52 UTC"
     },
     {
       "title": "Bulls Yatırım bono anapara ve kupon ödemesinde temerrüde düştü",
@@ -335,15 +488,6 @@
       "published_at": "2026-11-13 13:21 UTC"
     },
     {
-      "title": "60 saniyede ekonomide bugün (13 Kasım 2026)",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-13-kasim-2026/4124157",
-      "summary": "60 Saniyede Ekonomide Bugün... Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 13:21 UTC"
-    },
-    {
       "title": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
       "image": "",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss",
@@ -351,15 +495,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 13:19 UTC"
-    },
-    {
-      "title": "60 saniyede bugün (13 Kasım 2026)",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-13-kasim-2026/4124151",
-      "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 13:17 UTC"
     },
     {
       "title": "İklim değişikliği kaktüslerin neslinin tükenme riskini artırdı",
@@ -443,15 +578,6 @@
       "published_at": "2026-11-13 12:57 UTC"
     },
     {
-      "title": "Küresel çapta kesinti: Claude çöktü, binlerce kullanıcı erişim sağlayamadı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/kuresel-capta-kesinti-claude-coktu-binlerce-kullanici-erisim-saglayamadi-963195.html",
-      "summary": "Microsoft altyapısında yaşanan genel aksaklıkların ikinci gününde, yapay zeka asistanı Claude dünya genelinde büyük bir kesintiyle karşı karşıya kaldı. Binlerce kullanıcı sisteme giriş yapamazken, şirket yetkilileri sorunun çözümü için çalışmaların sürdüğünü açıkladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 12:53 UTC"
-    },
-    {
       "title": "Merkez Bankası faiz indirecek mi? Deutsche Bank beklentisini açıkladı - Paratic Haber",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUDM3Ni1SNnd4UFA1ZnlxWXpFak93VV8xZjB1aFZsSGtmcUFUUUVyUEpWYzR5Y01XWU5XR3V3LXBtVkRoQUtHVGVPUXEzcXB3MVlScldUd0dFelR5UVNYS0RZZEZsOThtRHlXd0xUdVdBdTFQRzhtZzVOdmlUNEd6UGVVc1d5SnhuUEVwNjB2c25JQzA?oc=5",
@@ -468,15 +594,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 12:40 UTC"
-    },
-    {
-      "title": "Mauricio Pochettino announced as new Manchester United manager",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss",
-      "summary": "Pochettino replaces Michael Carrick, who was sacked after United's disastrous start to the season.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 12:39 UTC"
     },
     {
       "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
@@ -497,15 +614,6 @@
       "published_at": "2026-11-13 12:26 UTC"
     },
     {
-      "title": "DSÖ: Gazze'de tahminen 950 bin yerinden edilmiş insan sel riski taşıyan bölgelerde yaşıyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/dso-gazzede-tahminen-950-bin-yerinden-edilmis-insan-sel-riski-tasiyan-bolgelerde-yasiyor-963194.html",
-      "summary": "Dünya Sağlık Örgütünün DSÖ işgal altında bulunan Filistin topraklarındaki temsilcisi Reinhilde Van de Weerdt, \"Tahminen 950 bin yerinden edilmiş insan sel riski taşıyan bölgelerde yaşıyor, bunların 400 bini ise son derece yüksek risk altındaki noktalarda bulunuyor.\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 12:21 UTC"
-    },
-    {
       "title": "QNB Türkiye'den 500 milyon dolara kadar finansman anlaşması",
       "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794572387/3794596/jpg/320x180",
       "link": "https://www.bloomberght.com/qnb-turkiye-den-500-milyon-dolara-kadar-finansman-anlasmasi-3794596",
@@ -524,24 +632,6 @@
       "published_at": "2026-11-13 12:12 UTC"
     },
     {
-      "title": "Süreç başladı: eimzalar AB ile karşılıklı tanınacak",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/surec-basladi-e-imzalar-ab-ile-karsilikli-taninacak-963193.html",
-      "summary": "Türkiye ile Avrupa Birliği AB arasında elektronik imzaların eimza karşılıklı tanınmasına yönelik süreç başladı. Sürecin tamamlanmasıyla Türkiye'de kullanılan nitelikli eimzaların ve mühürlerin AB ülkelerinde de tanınmasının önü açılacak.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 12:10 UTC"
-    },
-    {
-      "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss",
-      "summary": "Finland says Ukraine struck a Russian warship near its coast as Kyiv and Moscow held US-brokered talks in Abu Dhabi.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 12:06 UTC"
-    },
-    {
       "title": "Merkez Bankası açıkladı! Yıl sonu enflasyon beklentisi yüzde 30'u aştı: Dolar ve faiz tahmini de değişti - Haberton",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa1hDdW5MbWJFelhFSzRsQkV5QWZ1UE52OTNSaXZXNFpvYmM4VEkwMnNpQWhaV1VhUEJlMnRBTnduc2Y3a2YyVmVXc3R1cHlKenZVa2hzWGdYUTVMMUYxTV9ZSlJUcllIZFZJRk9xMjljbVFOeGxlOGdwMmRyMnZJaDR2Qms5R3lINjh1Nnl4QjZ2ME9TVzhHbjZOUy0wR0QyNmFBelRZRDZWUW5HVXhNaUwtdXVwYW1JYjhnYUhHeHM?oc=5",
@@ -549,69 +639,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-13 12:05 UTC"
-    },
-    {
-      "title": "Pakistan'da çalıştığı çiftlikte kaplan saldırısına uğrayan genç hayatını kaybetti",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/pakistanda-calistigi-ciftlikte-kaplan-saldirisina-ugrayan-genc-hayatini-kaybetti-963191.html",
-      "summary": "Pakistan'ın Lahor kentinde bir çiftlikte beslenen kaplanın saldırısına uğrayan çalışan yaşamını yitirdi, olayla bağlantılı 2 kişi gözaltına alındı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 12:03 UTC"
-    },
-    {
-      "title": "Yeni Parti'de ilk kurultay hafta sonu yapılacak",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/yeni-partide-ilk-kurultay-hafta-sonu-yapilacak-963192.html",
-      "summary": "Yeni Parti'de gözler birinci olağan kurultaya çevrildi. Ankara Spor Salonu'nda yaklaşık bin 200 delegenin katılımıyla yapılacak kurultayda tek genel başkan adayı Özgür Özel. Özel'in kurultayın ardından Merkez Yönetim Kurulu kadrosunda yeni isimlere yer vermesi bekleniyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 12:01 UTC"
-    },
-    {
-      "title": "Eximbank'tan IBRD, AIIB ve KfW ile uzun vadeli kredi anlaşmaları",
-      "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794571244/3794593/jpg/320x180",
-      "link": "https://www.bloomberght.com/eximbank-tan-ibrd-aiib-ve-kfw-ile-uzun-vadeli-kredi-anlasmalari-3794593",
-      "summary": "Eximbank, Dünya Bankası (IBRD), Asya Altyapı Yatırım Bankası (AIIB) ve Alman Kalkınma Bankası (KfW) ile dolar ve euro cinsinden uzun vadeli kredi anlaşmaları imzaladı.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-13 11:59 UTC"
-    },
-    {
-      "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
-      "summary": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 11:59 UTC"
-    },
-    {
-      "title": "Denizbank'tan 100 milyon dolarlık anlaşma",
-      "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794571196/3794592/jpg/320x180",
-      "link": "https://www.bloomberght.com/denizbank-tan-100-milyon-dolarlik-anlasma-3794592",
-      "summary": "Denizbank, Japonya Uluslararası İş Birliği Ajansı (JICA) ile iklim değişikliğiyle mücadele ve uyum projelerinin finansmanı amacıyla 100 milyon dolar tutarında sözleşme imzaladığını duyurdu.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-13 11:57 UTC"
-    },
-    {
-      "title": "India cancels visa of Norwegian journalist who questioned Modi",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/india-cancels-visa-of-norwegian-journalist-who-questioned-modi?traffic_source=rss",
-      "summary": "The Norwegian journalist who questioned PM Narendra Modi over press freedom has had her visa to India cancelled.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 11:54 UTC"
-    },
-    {
-      "title": "Okullarda ara tatil başladı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/egitim/okullarda-ara-tatil-basladi-963190.html",
-      "summary": "Milli Eğitim Bakanlığına MEB bağlı ilk ve ortaöğretim kurumlarındaki yaklaşık 17 milyon öğrenci, 1620 Kasım'da 20262027 eğitim öğretim yılının ilk ara tatilini yapacak.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 11:53 UTC"
     },
     {
       "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
@@ -652,11 +679,11 @@
     {
       "title": "Türkiye Cumhuriyet Merkez Bankası, 2027 ve 2028 enflasyon tahminlerini yükseltti - Şarkul Avsat Türkçe",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SQXQxMl9qYVlOMExFS01BOTZkbVpZZVR0TU56TktITFhNcWJuT2N6aFhqa29qcE1CVTFjdjRKVkFLT0V2LXdhTjdpcnVFUkVr?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbW9FQi1fQ3c3VHVQdXRvYU5LN0trMEFRMkw4Q1N4aEwzRzFha3RzN2VMT3dZa2syNWpaQTdqX2pBYk5NSmNoOTdQeUxIVVVxTXhLZUNEdzgyQWVtaEdfSkRvZFNmcERDbUF5OEhvZnQtVDZuaW5JSkdkeTh3bFlnX1BuOFpRZUEyMzREU2drdjYtX3ZlbmRaSnBhRWM4MFZBX2dIR2RFSk51a1Q2UHFqVkNFLWQ0elNnNHhRRVZyZndYamg0QUtYZHhKNW9MWmwtMU1tamhvWGhuZ0U?oc=5",
       "summary": "Türkiye Cumhuriyet Merkez Bankası, 2027 ve 2028 enflasyon tahminlerini yükseltti Şarkul Avsat Türkçe",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-13 10:42 UTC"
+      "published_at": "2026-11-13 10:41 UTC"
     },
     {
       "title": "Dünya'nın yeni bir 'mini ay'ı var",
@@ -675,33 +702,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-13 10:33 UTC"
-    },
-    {
-      "title": "Microsoft uygulamalarında küresel kesinti: Outlook ve Teams neden çalışmıyor?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5941/live/71d898e0-df64-11f1-a8af-15d7a25dc0d1.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c5n4ez3gvp1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dünya çapında yüz milyonlarca kullanıcısı olan Microsoft işletim sistemine ait bazı uygulamalara birçok ülkede erişim sorunu yaşanıyor. Şirket, sorunun siber saldırı kaynaklı olmadığını ve çözüm üzerinde çalıştıklarını açıkladı. Özellikle Microsoft 365 uygulamalarından Outlook, Teams ve yapay zeka uygulaması Copilot'a erişimde sorun yaşanıyor.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 10:16 UTC"
-    },
-    {
-      "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Erdoğan, Trablusşam'da Müslüman ve Hristiyan din adamlarıyla görüştü",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-trablussamda-musluman-ve-hristiyan-din-adamlariyla-gorustu/4123897",
-      "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan, Lübnan ziyaretinin ikinci gününde Trablusşam kentindeki Büyük Mansuri Camisi'ni ziyaret ederek Müslüman ve Hristiyan din adamlarıyla bir araya geldi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 10:09 UTC"
-    },
-    {
-      "title": "Merkez Bankası açıkladı! Dolar ve enflasyon tahmini arttı - Manşet Haber",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0RxM0NrRzdGdzZlREVHQWVYaWdOcElUM25RMm9JakJJYmJhM05Nd2R2UW8tMTZxRXpvdmtkSmxpd0tYeEx4ZU9JeG1LSlNLVmhOZTUwbkZPQUFyMU00b1h0WjlEcmdXbVF5N0lXZG81bm1KdTNkMnVCaWxkTXYxM0dWLU12Ump2dDZaU2toeTBHZw?oc=5",
-      "summary": "Merkez Bankası açıkladı! Dolar ve enflasyon tahmini arttı Manşet Haber",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-13 09:18 UTC"
     },
     {
       "title": "Avrupa Merkez Bankası, Yatırımcı Duygusunu Reddit Ve Yapay Zekâyla Ölçüyor - ÇözümPark",
@@ -893,13 +893,13 @@
       "published_at": "2026-11-12 22:13 UTC"
     },
     {
-      "title": "Türkiye'de yerli çip ve kuantum teknolojileri için yeni hedef! TÜBİTAK öncelikli alanları açıkladı - Haberton",
+      "title": "Geliştir, Eskişehir'den yerli yapay zekâ ürünü ihraç edecek - Ekonomim",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaER6SEt3SmdhSjk3MENGZG5SY09ZWWJBaWM5NUtIYXFNYzVhNENDZ3g2THpnRWhwTWVncUx4TWw2TG9ydkxsVDFZS2Z6MjZLay1tZ01IS3RXTnhxZkpJNG9tVVhXRV9MeFdaZTVNMUZDaTRkYUh6NWV6V2pLTHZkZzZsd1FrMUFxVU1ubnlteGdLSzJzWU1zQjA5UDUxdERUV25XWDVPZTBYYmlXdDZ0YnhQUi1qdGhHSnc?oc=5",
-      "summary": "Türkiye'de yerli çip ve kuantum teknolojileri için yeni hedef! TÜBİTAK öncelikli alanları açıkladı Haberton",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjJ1dERla3N6cGpOZGtEanlYYi03WDdzeXpzNW5UNmw4U0tSX3YzVHp3SFVQelc3LUdfbldFb3dKNEZ5b3VvdUFtdUxpcFNqSEd5TG95SU5Sc3RJVnJLdDItVlhjN1dEaHJiSy04cmxKQkRWQXlRS1hEQi1pRWZsX3R5UlVKRWFEVGpJWEdQbjhoTjdkZGZ6cU9UV3c4Q1FrRFpwVnZ5aw?oc=5",
+      "summary": "Geliştir, Eskişehir'den yerli yapay zekâ ürünü ihraç edecek Ekonomim",
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
-      "published_at": "2026-11-12 21:01 UTC"
+      "published_at": "2026-11-12 21:00 UTC"
     }
   ]
 }
