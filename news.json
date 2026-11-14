@@ -1,14 +1,104 @@
 {
-  "updated_at": "2026-11-13 23:33 UTC",
+  "updated_at": "2026-11-14 00:42 UTC",
   "items": [
     {
       "title": "ABD'de tüm uçuşlar durduruldu: 'Bu yeni bir 11 Eylül değil'",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e32/live/525bb5e0-dfb6-11f1-93e1-3b657b665bcf.jpg",
       "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
-      "summary": "ABD İç Güvenlik Bakanı Markwayne Mullin, \"uçakların yerde tutulması kararına bir telekomünikasyon kesintisinin yol açtığını\" söyledi. Mullin, \"Bu yeni bir 11 Eylül değil\" dedi.",
+      "summary": "ABD İç Güvenlik Bakanı Markwayne Mullin, \"uçakların yerde tutulması kararına bir telekomünikasyon kesintisinin yol açtığını\" söyledi. Türkiye'nin de aralarında bulunduğu 42 ülkenin talep üzerine ABD'ye uçuşları durdurduğu açıklandı.",
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 23:26 UTC"
+      "published_at": "2026-11-14 00:30 UTC"
+    },
+    {
+      "title": "Venezuela'da geçiş süreci diyaloğunda dördüncü tur başlıyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/venezuelada-gecis-sureci-diyalogunda-dorduncu-tur-basliyor/4124823",
+      "summary": "Venezuela'da hükümet kanadı ile muhalefetin bir kesimi, ABD öncülüğünde yürütülen geçiş süreci görüşmelerinin dördüncü turuna bugün başlayacak.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 00:23 UTC"
+    },
+    {
+      "title": "Afghanistan’s new road to China ends at a closed border",
+      "image": "",
+      "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+      "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 00:06 UTC"
+    },
+    {
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 00:01 UTC"
+    },
+    {
+      "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+      "summary": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 00:00 UTC"
+    },
+    {
+      "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
+      "summary": "The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 23:45 UTC"
+    },
+    {
+      "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 23:40 UTC"
+    },
+    {
+      "title": "İsrail, UCM'deki toplantıya katılacak Filistinli insan hakları savunucusunun ülkeden çıkışına izin vermedi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-ucmdeki-toplantiya-katilacak-filistinli-insan-haklari-savunucusunun-ulkeden-cikisina-izin-vermedi/4124816",
+      "summary": "İsrail makamlarının, Filistin'deki insan hakları kuruluşu El-Hak'ın Müdürü Şavan Cebbarin'in Uluslararası Ceza Mahkemesi'nde (UCM) bir toplantıya katılmaya hazırlandığı sırada işgal altındaki Batı Şeria'dan Ürdün'e geçişini engellediği bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 23:37 UTC"
+    },
+    {
+      "title": "Prof. Dr. Gürkan Kumbaroğlu'ndan ihracatta \"karbon ayak izi\" uyarısı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/prof-dr-gurkan-kumbaroglundan-ihracatta-karbon-ayak-izi-uyarisi/4124814",
+      "summary": "Boğaziçi Üniversitesi Öğretim Üyesi ve Enerji Ekonomisi Derneği Başkanı Prof. Dr. Gürkan Kumbaroğlu, \"Türkiye'de üretilen ürünlerin karbon ayak izlerine bakmak durumundayız çünkü bu oran yüksekse ihracatta ek bir maliyet söz konusu oluyor.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 23:18 UTC"
+    },
+    {
+      "title": "ABD'de Demokrat aday Laubacher, Cumhuriyetçi Temsilciler Meclisi Üyesi Boebert'i mağlup etti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/abdde-demokrat-aday-laubacher-cumhuriyetci-temsilciler-meclisi-uyesi-boeberti-maglup-etti/4124815",
+      "summary": "ABD ara seçimlerinde Colorado eyaletinin 4. Kongre Bölgesi’nde yarışan Demokrat aday Eileen Laubacher, Cumhuriyetçi Temsilciler Meclisi Üyesi Lauren Boebert'i mağlup ederek seçimi kazandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 23:18 UTC"
+    },
+    {
+      "title": "BM Güvenlik Konseyi'ndeki toplantıda ABD ile İran birbirini suçladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/bm-guvenlik-konseyindeki-toplantida-abd-ile-iran-birbirini-sucladi/4124813",
+      "summary": "Orta Doğu'daki durumu ele almak için toplanan Birleşmiş Milletler Güvenlik Konseyi'nde (BMGK) ABD, İran'ı \"uluslararası deniz güvenliğini baltalamakla\" suçlarken İran da ABD'yi \"yasa dışı bir saldırganlık savaşı başlatmakla\" suçladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 23:17 UTC"
     },
     {
       "title": "Mekke Anlaşması Resmi Gazete'de yayımlanarak yürürlüğe girdi",
@@ -20,7 +110,7 @@
       "published_at": "2026-11-13 22:59 UTC"
     },
     {
-      "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
+      "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
       "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
@@ -74,6 +164,33 @@
       "published_at": "2026-11-13 21:59 UTC"
     },
     {
+      "title": "Milli boksör Gizem Özer, kıtalar arası turnuvada Avrupa'yı temsil edecek",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/milli-boksor-gizem-ozer-kitalar-arasi-turnuvada-avrupayi-temsil-edecek/4124792",
+      "summary": "World Boxing tarafından bu yıl ilk kez düzenlenecek kıtalar arası turnuvada Avrupa'yı kadınlar 60 kiloda milli boksör Gizem Özer temsil edecek.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 21:50 UTC"
+    },
+    {
+      "title": "Erzurum'da 17 yıllık ortalamaya göre ekimde sıcaklık azaldı, yağış yaklaşık yüzde 78 arttı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/erzurumda-17-yillik-ortalamaya-gore-ekimde-sicaklik-azaldi-yagis-yaklasik-yuzde-78-artti/4124791",
+      "summary": "Erzurum'da bu yıl ekim ayında hava sıcaklıkları, uzun yıllar ortalamasına göre 0,4 derece düştü, yağış miktarı ise yaklaşık yüzde 78 arttı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 21:50 UTC"
+    },
+    {
+      "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, Lübnan'da Trablusşamlı iş insanlarıyla görüştü",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-lubnanda-trablussamli-is-insanlariyla-gorustu/4124790",
+      "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan, Lübnan'ın kuzeyindeki Trablusşam kentinde iş insanlarıyla bir araya geldi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 21:48 UTC"
+    },
+    {
       "title": "'Ulusal Adil Geçiş Stratejisi ve Eylem Planı' Resmi Gazetede",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-resmi-gazetede-963233.html",
@@ -113,7 +230,7 @@
       "title": "FAA grounds US flights nationwide after ‘communication issue’",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
-      "summary": "US Transportation Secretary Sean Duffy says federal aviation agency is 'investigating the issue'.",
+      "summary": "US Transportation Secretary Sean Duffy says federal aviation agency is ‘investigating the issue’.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 21:32 UTC"
@@ -203,7 +320,7 @@
       "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg",
       "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-      "summary": "A cargo ship has collided with a docked cruise ship in New Orleans, with reports suggesting more than 120 people were on board the cruise ship.",
+      "summary": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 21:15 UTC"
@@ -263,15 +380,6 @@
       "published_at": "2026-11-13 20:50 UTC"
     },
     {
-      "title": "BM: Hürmüz ve Babulmendeb boğazlarındaki gerilim küresel güvenliği tehdit ediyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/bm-hurmuz-ve-babulmendeb-bogazlarindaki-gerilim-kuresel-guvenligi-tehdit-ediyor/4124767",
-      "summary": "Birleşmiş Milletler (BM), Hürmüz ve Babulmendeb boğazlarında devam eden gerilimin uluslararası barış ve güvenlik ile bölgesel istikrar ve küresel ekonomi açısından ciddi riskler oluşturduğu uyarısında bulundu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 20:49 UTC"
-    },
-    {
       "title": "ASELSAN yarım asrı aşan yolculuğunu özel bir filmle kutluyor",
       "image": "",
       "link": "https://www.trthaber.com/haber/savunma/aselsan-yarim-asri-asan-yolculugunu-ozel-bir-filmle-kutluyor-963227.html",
@@ -326,15 +434,6 @@
       "published_at": "2026-11-13 20:28 UTC"
     },
     {
-      "title": "İş insanı Cafer Mahiroğlu'na yönelik soruşturmada gözaltına alınan 5 şüpheli tutuklandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/is-insani-cafer-mahirogluna-yonelik-sorusturmada-gozaltina-alinan-5-supheli-tutuklandi/4124735",
-      "summary": "İş insanı Mahiroğlu hakkında \"rüşvet\", \"ihaleye fesat karıştırma\" ve \"suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından yürütülen soruşturma kapsamında düzenlenen ikinci dalga operasyonda gözaltına alınan 8 şüpheliden 5'i tutuklandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 20:19 UTC"
-    },
-    {
       "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
@@ -351,15 +450,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 20:16 UTC"
-    },
-    {
-      "title": "SpaceX to attempt double catch of huge Starship rocket",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ad/live/14a168f0-de92-11f1-9afe-1f03bfe02283.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 20:12 UTC"
     },
     {
       "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
@@ -389,15 +479,6 @@
       "published_at": "2026-11-13 19:52 UTC"
     },
     {
-      "title": "Anadolu Efes, Virtus Bologna'yı 103-91 yendi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-virtus-bolognayi-103-91-yendi/4124720",
-      "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 11. haftasında Anadolu Efes, sahasında İtalya ekibi Virtus Bologna'yı 103-91 mağlup etti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 19:52 UTC"
-    },
-    {
       "title": "AB, Ukrayna müzakereleri için Avrupa'yı temsil edecek ekibi belirledi",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/ab-ukrayna-muzakereleri-icin-avrupayi-temsil-edecek-ekibi-belirledi-963225.html",
@@ -405,15 +486,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 19:50 UTC"
-    },
-    {
-      "title": "AB, Ukrayna müzakerelerinde Avrupa'yı temsil edecek 5 ülke ve AB kurumlarından oluşan ekip üzerinde anlaştı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/ab-ukrayna-muzakerelerinde-avrupayi-temsil-edecek-5-ulke-ve-ab-kurumlarindan-olusan-ekip-uzerinde-anlasti/4124715",
-      "summary": "AB Konseyi Başkanı Antonio Costa, liderlerin Ukrayna'da barış müzakerelerinde Avrupa'yı temsil edecek ekibin AB kurumları ile Almanya, Polonya, Fransa, İtalya ve İngiltere'nin yer aldığı E5 grubundan oluşması konusunda anlaştığını bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 19:48 UTC"
     },
     {
       "title": "Suudi Arabistan'dan Bombardier'e 12 jet siparişi",
@@ -432,15 +504,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 19:27 UTC"
-    },
-    {
-      "title": "ABD Senatosu'ndaki Demokratlar arasında liderlik yarışı hızlandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abd-senatosundaki-demokratlar-arasinda-liderlik-yarisi-hizlandi/4124701",
-      "summary": "ABD'de Kongre ara seçimlerinden sonra Senato'daki Demokrat adaylar, çoğunluk liderliği için yarışırken, Maryland Senatörü Chris Van Hollen, New York Senatörü Chuck Schumer'e karşı adaylığını açıkladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 19:23 UTC"
     },
     {
       "title": "Migrants risk deadly route to Spain’s Canary Islands",
@@ -488,15 +551,6 @@
       "published_at": "2026-11-13 19:10 UTC"
     },
     {
-      "title": "ABD-Çin Ticaret Kurulu'nun ilk resmi toplantısı yapıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/abd-cin-ticaret-kurulunun-ilk-resmi-toplantisi-yapildi-/4124690",
-      "summary": "ABD Ticaret Temsilciliği (USTR), ABD-Çin Ticaret Kurulu'nun ilk resmi toplantısının yapıldığını duyurdu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 19:03 UTC"
-    },
-    {
       "title": "Democratic Senate leader Schumer set to face leadership challenge",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
       "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
@@ -504,15 +558,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 19:03 UTC"
-    },
-    {
-      "title": "How will the US deal with Nvidia scandal?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
-      "summary": "Tech giant CEO resigned and will testify before Congress.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 18:57 UTC"
     },
     {
       "title": "Katar Emiri Al Sani: Katar ile Türkiye arasındaki stratejik ortaklık çeşitli alanlarda gelişmeye devam ediyor",
@@ -524,15 +569,6 @@
       "published_at": "2026-11-13 18:48 UTC"
     },
     {
-      "title": "Bakan Çiftçi'den yolda kalan iki kadına yardım eden polislere teşekkür paylaşımı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftciden-yolda-kalan-iki-kadina-yardim-eden-polislere-tesekkur-paylasimi/4124684",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi, Bartın'da gece saatlerinde aracı arızalanarak yolda kalan iki kadına yardım eden polislere teşekkür etti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 18:47 UTC"
-    },
-    {
       "title": "Bakan Çiftçi: Türk polisinin mayasında merhamet, duruşunda yiğitlik vardır",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-turk-polisinin-mayasinda-merhamet-durusunda-yigitlik-vardir-963221.html",
@@ -540,15 +576,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 18:45 UTC"
-    },
-    {
-      "title": "At least 10 killed in Guinea clashes over gold mining ban",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
-      "summary": "Guinea banned artisanal gold mining in Siguiri on November 2 due to environmental degradation, causing mass exodus.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 18:44 UTC"
     },
     {
       "title": "Cafer Mahiroğlu'na yönelik soruşturmada 5 şüpheli tutuklandı",
@@ -578,15 +605,6 @@
       "published_at": "2026-11-13 18:34 UTC"
     },
     {
-      "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss",
-      "summary": "Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 18:28 UTC"
-    },
-    {
       "title": "Yardım kuruluşları: Gazzedeki yağış yıkımı önlenebilirdi",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/yardim-kuruluslari-gazzedeki-yagis-yikimi-onlenebilirdi-963219.html",
@@ -605,19 +623,10 @@
       "published_at": "2026-11-13 18:07 UTC"
     },
     {
-      "title": "Ulaştırma ve Altyapı Bakanı Uraloğlu: Kıbrıs meselesinde adil ve kalıcı çözüm için çabalarımız sürecek",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/ulastirma-ve-altyapi-bakani-uraloglu-kibris-meselesinde-adil-ve-kalici-cozum-icin-cabalarimiz-surecek/4124640",
-      "summary": "Bakan Uraloğlu \"Kıbrıs meselesinin, Ada'daki gerçekler temelinde, Kıbrıs Türk halkının özden gelen hakları olan egemen eşitliğinin tescilini içeren adil, kalıcı, sürdürülebilir çözümüne yönelik güçlü çabalarımıza ara vermeksizin devam edeceğiz\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 17:39 UTC"
-    },
-    {
-      "title": "ECB başkanlığı: Hernández de Cos ve Knot aday, Fransa-Almanya anlaşmaya yakın - Euronews.com",
+      "title": "Avrupa Merkez Bankası başkanlığı için iki aday: Fransa ve Almanya kritik görevler için pazarlık yapıyor - Euronews.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTNndVNQT294ckhHMW1nTFJnOFJkOWxkVjJLd2VFWFNfcHlsbm5heENhbjNzMVFoWWpjTEVkNnNSM005UUZtTDY4WENWSmpoQWxhQk5YalF2blBIVmlGVTdsLVpBY0JpT3RrcUxxS3poSENacjJXbXJSWWI5Tl94NzBrVjE2T2VCemxrZURLU3RYMklEMXNhdnZMa0tvdzBpOFdnZFRnMlpQRzRZVU9j?oc=5",
-      "summary": "ECB başkanlığı: Hernández de Cos ve Knot aday, Fransa-Almanya anlaşmaya yakın Euronews.com",
+      "summary": "Avrupa Merkez Bankası başkanlığı için iki aday: Fransa ve Almanya kritik görevler için pazarlık yapıyor Euronews.com",
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-13 17:37 UTC"
@@ -891,15 +900,6 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-13 07:02 UTC"
-    },
-    {
-      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c93/live/2288e9c0-df28-11f1-b396-2b394d1b806d.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 07:01 UTC"
     }
   ]
 }
