@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-14 22:03 UTC",
+  "updated_at": "2026-11-14 23:02 UTC",
   "items": [
+    {
+      "title": "Explosion near Syria’s capital kills father and child",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+      "summary": "Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 22:43 UTC"
+    },
+    {
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 22:37 UTC"
+    },
+    {
+      "title": "Palestinian stories set for major presence at 2027 Oscars",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
+      "summary": "Al Jazeera spoke to the director and cast of Who Is Still Alive, Switzerland’s Oscar entry for Best International Film.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 22:28 UTC"
+    },
+    {
+      "title": "Berlin’de sosyal harcama kesintileri ve zorunlu askerlik planı protestosuna polisten sert müdahale",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/berlin-de-sosyal-harcama-kesintileri-ve-zorunlu-askerlik-plani-protestosuna-polisten-sert-mudahale/4125455",
+      "summary": "Almanya’nın başkenti Berlin’de sosyal harcamalardaki kesintilere ve hükümetin zorunlu askerlik planına karşı düzenlenen eylemde polis göstericilere sert müdahale etti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 22:24 UTC"
+    },
+    {
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
+      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 22:09 UTC"
+    },
+    {
+      "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+      "summary": "Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 22:00 UTC"
+    },
     {
       "title": "İsrail basını, İran'ın Trump'ı İHA saldırısıyla hedef almayı planladığını iddia etti",
       "image": "",
@@ -35,6 +89,15 @@
       "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, tasfiye kapsamındaki fonlarda 444 bin 987 yatırımcıya nakit ve ayni olarak yaklaşık 161 milyar lira ödeme yapıldığını açıkladı. Yılmaz, ara ödemelerin son taksitini bir ila iki hafta içinde ödemeyi planladıklarını söyledi.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-14 21:19 UTC"
+    },
+    {
+      "title": "Bakan Göktaş, Türkiye Kadın Pavilyonu ile \"Dönüş Umudu: El-Avde - Zeytin Ağacı Hikayesi\" sergisini gezdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-turkiye-kadin-pavilyonu-ile-donus-umudu-el-avde-zeytin-agaci-hikayesi-sergisini-gezdi-/4125444",
+      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Mavi ve Yeşil bölgelerde bazı incelemelerde bulundu.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-14 21:19 UTC"
     },
     {
@@ -99,15 +162,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-14 21:00 UTC"
-    },
-    {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 20:41 UTC"
     },
     {
       "title": "Şanlıurfa'da otomobil ile kepçe çarpıştı: 2 ölü, 2 yaralı",
@@ -272,15 +326,6 @@
       "published_at": "2026-11-14 19:12 UTC"
     },
     {
-      "title": "Anadolu Ateşi COP31'de sahne aldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/anadolu-atesi-cop31de-sahne-aldi-/4125397",
-      "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Anadolu Ateşi dans topluluğu gösteri sundu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 18:54 UTC"
-    },
-    {
       "title": "İran'da işçi servisi devrildi, 10 kişi öldü, 12 kişi yaralandı",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/iranda-isci-servisi-devrildi-10-kisi-oldu-12-kisi-yaralandi-963305.html",
@@ -297,24 +342,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-14 18:41 UTC"
-    },
-    {
-      "title": "İran: ABD Dışişleri Bakanı abluka yoluyla İran halkını aç bırakmakla tehdit ediyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/iran-abd-disisleri-bakani-abluka-yoluyla-iran-halkini-ac-birakmakla-tehdit-ediyor/4125386",
-      "summary": "İran Dışişleri Bakanlığı Sözcüsü Bekayi, ABD Dışişleri Bakanı Rubio'nun İran'a ekonomik baskılara ilişkin, \"Nihayetinde yemek yemek zorundasınız\" sözlerini eleştirerek, ABD'nin abluka yoluyla İran halkını aç bırakmakla tehdit ettiğini belirtti.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 18:39 UTC"
-    },
-    {
-      "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine karadan ve havadan saldırılarını sürdürdü",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-karadan-ve-havadan-saldirilarini-surdurdu/4125382",
-      "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyine karadan ve havadan saldırılar düzenledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 18:37 UTC"
     },
     {
       "title": "US blames outdated technology for nationwide flight disruption",
@@ -342,15 +369,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-14 18:23 UTC"
-    },
-    {
-      "title": "İzmir merkezli uyuşturucu operasyonunda 16 şüpheli tutuklandı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/izmir-merkezli-uyusturucu-operasyonunda-16-supheli-tutuklandi/4125377",
-      "summary": "İzmir merkezli 2 ilde düzenlenen uyuşturucu operasyonunda örgüt elebaşı olduğu belirtilen şüphelinin de aralarında bulunduğu 16 şüpheli tutuklandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 18:22 UTC"
     },
     {
       "title": "Philippines wins first Eurovision Song Contest Asia",
@@ -452,40 +470,22 @@
       "published_at": "2026-11-14 16:45 UTC"
     },
     {
-      "title": "Portugal 1-4 Denmark LIVE: UEFA Nations League",
+      "title": "COP31'de elektrifikasyonun 2035'e kadar yüzde 35'e çıkarılması hedefi ele alındı",
       "image": "",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
-      "summary": "Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 16:45 UTC"
-    },
-    {
-      "title": "Rafadan Tayfa'nın yeni filmi \"Gordion\" 25 Aralık'ta vizyona girecek",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/rafadan-tayfanin-yeni-filmi-gordion-25-aralikta-vizyona-girecek/4125325",
-      "summary": "TRT ve ISF Studios ortak yapımı \"Rafadan Tayfa Gordion\" filmi, 25 Aralık'ta izleyiciyle buluşacak.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-elektrifikasyonun-2035e-kadar-yuzde-35e-cikarilmasi-hedefi-ele-alindi/4125315",
+      "summary": "COP31 kapsamında düzenlenen panelde, küresel elektrik kullanımının payının 2035'e kadar yüzde 35'e, 2050'ye kadar yüzde 50'ye çıkarılması hedefi ve bu doğrultuda atılması gereken adımlar ele alındı.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 16:43 UTC"
+      "published_at": "2026-11-14 16:21 UTC"
     },
     {
-      "title": "Italy fines Meta $880m over photo privacy",
+      "title": "Gazze'deki çevre yıkımı ile kadın ve çocukların yaşadığı sorunlar ele alındı",
       "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
-      "summary": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
-      "source": "Al Jazeera",
+      "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-cevre-yikimi-ile-kadin-ve-cocuklarin-yasadigi-sorunlar-ele-alindi/4125309",
+      "summary": "Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında düzenlenen panelde, Gazze'de yaşanan çevre yıkımı ile kadın ve çocukların karşı karşıya kaldığı sorunlar ele alındı.",
+      "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 16:16 UTC"
-    },
-    {
-      "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
-      "summary": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 16:13 UTC"
+      "published_at": "2026-11-14 16:01 UTC"
     },
     {
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
@@ -522,6 +522,15 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-14 15:31 UTC"
+    },
+    {
+      "title": "COP31'de iklim dezenformasyonuyla mücadelede medyanın rolü ele alındı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cop31de-iklim-dezenformasyonuyla-mucadelede-medyanin-rolu-ele-alindi/4125287",
+      "summary": "Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, RTÜK tarafından \"İklim ve Medya Paneli\" düzenlendi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 15:27 UTC"
     },
     {
       "title": "Yeni Parti'nin ilk kurultayında Özel yeniden genel başkan: 'Seçimi kazanacak cesarete sahibiz'",
@@ -855,15 +864,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 15:09 UTC"
-    },
-    {
-      "title": "Hedef yine tutmadı: Merkez Bankası bir kez daha enflasyon tahminini yükseltti - DW.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVoxS2JyaHBaQXc0MXVadlZuTGtfamdOQ0ZKck9fbXhSSjQ4TVdfSG04SWVmM3RDa05IME1iZmI5eXZOZ04zS1VOcFUzUEVBTERCUDByZG5wcmpVYXVvcmg0MXZZY0hvVUtoSGxEY2lFNVVWd01xUU9QLU1rYXlEQWV1b0hzeTEwVGs0Rkx1aU1jbzBtV2xxUENvUUxfbTJQZWNDb0JGTm1oUkd3ZzZxVnlDRDlFNDNDaXRJeXlR0gG-AUFVX3lxTFA4aEd5NUlOcTFiZ3hQcFlQMks0cnFHbjh6TU1GSmROVklaWWVEdjFGcHZqNjlMLTdaQ0N6ZkNNMXI3RU53Ym14Q0pVNG9aWEpTd3JWZXA2YUlUTjUzYWpYY3NodUNmZXVDTDhiUS01ZWw3NDd1Yks4RXBrdURSWDAybWkzbDBzMzh2Y0JUa3JkQ1VMUFBaTFJ2TWMwMU5Hd1RKNFB0VWZhMEhhRG1FNnBtSFRHaDRYRTdMa0x1bkE?oc=5",
-      "summary": "Hedef yine tutmadı: Merkez Bankası bir kez daha enflasyon tahminini yükseltti DW.com",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-13 15:03 UTC"
     },
     {
       "title": "Trump hükümetinin COP31'e katılmaması iklim diplomasisi için ne anlama geliyor?",
