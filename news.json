@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-14 00:42 UTC",
+  "updated_at": "2026-11-14 01:53 UTC",
   "items": [
+    {
+      "title": "Tanker collision leaves riverboat passengers clinging to railings",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+      "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 01:37 UTC"
+    },
+    {
+      "title": "Former FAA official says ‘nobody really knows what is going on’",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+      "summary": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 01:28 UTC"
+    },
+    {
+      "title": "Trump, Şi ve Putin'le üçlü görüşme gerçekleştirecek",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/trump-si-ve-putinle-uclu-gorusme-gerceklestirecek-963234.html",
+      "summary": "ABD Başkanı Donald Trump'ın gelecek hafta Filipinler ve Çin'e bir gezi düzenleyeceği, ziyaretin ikinci ayağında Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin ile üçlü bir görüşme gerçekleştireceği açıklandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 01:03 UTC"
+    },
+    {
+      "title": "Trump, Çin'e yapacağı ziyarette Şi ve Putin'le üçlü görüşme gerçekleştirecek",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/trump-cine-yapacagi-ziyarette-si-ve-putinle-uclu-gorusme-gerceklestirecek/4124828",
+      "summary": "ABD Başkanı Donald Trump'ın gelecek hafta Filipinler ve Çin'e bir gezi düzenleyeceği, ziyaretin ikinci ayağında Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin ile üçlü bir görüşme gerçekleştireceği bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 01:02 UTC"
+    },
+    {
+      "title": "Fed'in raporu yapay zekanın finansal istikrara yönelik riskler arasında öne çıktığını gösterdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/fedin-raporu-yapay-zekanin-finansal-istikrara-yonelik-riskler-arasinda-one-ciktigini-gosterdi/4124826",
+      "summary": "ABD Merkez Bankası (Fed), yapay zekanın finansal istikrara yönelik riskler arasında öne çıktığını, yüksek hisse senedi değerlemeleri, siber saldırılar ve yapay zeka ile bağlantılı karmaşık finansman türlerine ilişkin endişelerin bulunduğunu bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 00:51 UTC"
+    },
+    {
+      "title": "ABD'de yük gemisinin çarptığı kruz gemisi yan yattı",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e97d/live/a9f7f4f0-dfaa-11f1-93e1-3b657b665bcf.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cv0l3wyrnzw2o?at_medium=RSS&at_campaign=rss",
+      "summary": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde, New Orleans Limanı yakınlarında bir tanker ile bir kruz gemisi çarpıştı.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 00:50 UTC"
+    },
     {
       "title": "ABD'de tüm uçuşlar durduruldu: 'Bu yeni bir 11 Eylül değil'",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e32/live/525bb5e0-dfb6-11f1-93e1-3b657b665bcf.jpg",
@@ -18,6 +72,24 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-14 00:23 UTC"
+    },
+    {
+      "title": "UK police open sex offence probe into comedian and author David Walliams",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+      "summary": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 00:22 UTC"
+    },
+    {
+      "title": "Microsoft services begin recovering after global outage",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+      "summary": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 00:17 UTC"
     },
     {
       "title": "Afghanistan’s new road to China ends at a closed border",
@@ -56,49 +128,13 @@
       "published_at": "2026-11-13 23:45 UTC"
     },
     {
-      "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
       "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 23:40 UTC"
-    },
-    {
-      "title": "İsrail, UCM'deki toplantıya katılacak Filistinli insan hakları savunucusunun ülkeden çıkışına izin vermedi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/israil-ucmdeki-toplantiya-katilacak-filistinli-insan-haklari-savunucusunun-ulkeden-cikisina-izin-vermedi/4124816",
-      "summary": "İsrail makamlarının, Filistin'deki insan hakları kuruluşu El-Hak'ın Müdürü Şavan Cebbarin'in Uluslararası Ceza Mahkemesi'nde (UCM) bir toplantıya katılmaya hazırlandığı sırada işgal altındaki Batı Şeria'dan Ürdün'e geçişini engellediği bildirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 23:37 UTC"
-    },
-    {
-      "title": "Prof. Dr. Gürkan Kumbaroğlu'ndan ihracatta \"karbon ayak izi\" uyarısı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/prof-dr-gurkan-kumbaroglundan-ihracatta-karbon-ayak-izi-uyarisi/4124814",
-      "summary": "Boğaziçi Üniversitesi Öğretim Üyesi ve Enerji Ekonomisi Derneği Başkanı Prof. Dr. Gürkan Kumbaroğlu, \"Türkiye'de üretilen ürünlerin karbon ayak izlerine bakmak durumundayız çünkü bu oran yüksekse ihracatta ek bir maliyet söz konusu oluyor.\" dedi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 23:18 UTC"
-    },
-    {
-      "title": "ABD'de Demokrat aday Laubacher, Cumhuriyetçi Temsilciler Meclisi Üyesi Boebert'i mağlup etti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abdde-demokrat-aday-laubacher-cumhuriyetci-temsilciler-meclisi-uyesi-boeberti-maglup-etti/4124815",
-      "summary": "ABD ara seçimlerinde Colorado eyaletinin 4. Kongre Bölgesi’nde yarışan Demokrat aday Eileen Laubacher, Cumhuriyetçi Temsilciler Meclisi Üyesi Lauren Boebert'i mağlup ederek seçimi kazandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 23:18 UTC"
-    },
-    {
-      "title": "BM Güvenlik Konseyi'ndeki toplantıda ABD ile İran birbirini suçladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/bm-guvenlik-konseyindeki-toplantida-abd-ile-iran-birbirini-sucladi/4124813",
-      "summary": "Orta Doğu'daki durumu ele almak için toplanan Birleşmiş Milletler Güvenlik Konseyi'nde (BMGK) ABD, İran'ı \"uluslararası deniz güvenliğini baltalamakla\" suçlarken İran da ABD'yi \"yasa dışı bir saldırganlık savaşı başlatmakla\" suçladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 23:17 UTC"
     },
     {
       "title": "Mekke Anlaşması Resmi Gazete'de yayımlanarak yürürlüğe girdi",
@@ -119,15 +155,6 @@
       "published_at": "2026-11-13 22:47 UTC"
     },
     {
-      "title": "ABD'de yük gemisinin çarptığı kruz gemisi yan yattı",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e97d/live/a9f7f4f0-dfaa-11f1-93e1-3b657b665bcf.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cv0l3wyrnzw2o?at_medium=RSS&at_campaign=rss",
-      "summary": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde, New Orleans Limanı yakınlarında bir tanker ile bir kruz gemisi çarpıştı.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 22:46 UTC"
-    },
-    {
       "title": "Türkiye Cumhuriyet Merkez Bankası, 2027 ve 2028 enflasyon tahminlerini yükseltti - Şarkul Avsat Türkçe",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbW9FQi1fQ3c3VHVQdXRvYU5LN0trMEFRMkw4Q1N4aEwzRzFha3RzN2VMT3dZa2syNWpaQTdqX2pBYk5NSmNoOTdQeUxIVVVxTXhLZUNEdzgyQWVtaEdfSkRvZFNmcERDbUF5OEhvZnQtVDZuaW5JSkdkeTh3bFlnX1BuOFpRZUEyMzREU2drdjYtX3ZlbmRaSnBhRWM4MFZBX2dIR2RFSk51a1Q2UHFqVkNFLWQ0elNnNHhRRVZyZndYamg0QUtYZHhKNW9MWmwtMU1tamhvWGhuZ0U?oc=5",
@@ -137,7 +164,7 @@
       "published_at": "2026-11-13 22:37 UTC"
     },
     {
-      "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+      "title": "LIVE: FAA issues US ground stop, some international flights to depart",
       "image": "",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
       "summary": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
@@ -155,13 +182,31 @@
       "published_at": "2026-11-13 22:00 UTC"
     },
     {
-      "title": "UEFA Uluslar Ligi'nin 5. haftasında 10 maç oynandı",
+      "title": "Gaziantepli öğrenciler kendi yazılımlarıyla İHA geliştirdi",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-5-haftasinda-10-mac-oynandi/4124797",
-      "summary": "UEFA Uluslar Ligi'nin 5. haftasına 10 maçla devam edildi.",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/gaziantepli-ogrenciler-kendi-yazilimlariyla-iha-gelistirdi/4124795",
+      "summary": "Gaziantep'te öğrenciler, mekanik, elektronik ve yazılım sistemlerini kendileri tasarlayarak 120 metre irtifaya ulaşabilen sabit kanatlı insansız hava aracı (İHA) geliştirdi.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 21:59 UTC"
+      "published_at": "2026-11-13 21:51 UTC"
+    },
+    {
+      "title": "Başkentte zorunlu kış lastiği uygulaması öncesi lastikçilerde yoğunluk yaşanıyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/baskentte-zorunlu-kis-lastigi-uygulamasi-oncesi-lastikcilerde-yogunluk-yasaniyor/4124794",
+      "summary": "Yurt genelinde etkili olan soğuk hava nedeniyle ve 15 Kasım'da ticari araçlar için başlayacak zorunlu kış lastiği uygulaması öncesi lastik servislerinde yoğunluk yaşanıyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 21:51 UTC"
+    },
+    {
+      "title": "Milli cimnastikçilerde \"olimpiyat kota yılı\" hazırlıkları",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/spor/milli-cimnastikcilerde-olimpiyat-kota-yili-hazirliklari/4124793",
+      "summary": "Artistik Cimnastik Milli Takımı sporcuları Mert Efe Kılıçer ile Altan Doğan, 2028 Los Angeles Olimpiyat Oyunları kotası için 2027'de önemli organizasyonlarda mücadele edecekler.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 21:50 UTC"
     },
     {
       "title": "Milli boksör Gizem Özer, kıtalar arası turnuvada Avrupa'yı temsil edecek",
@@ -182,15 +227,6 @@
       "published_at": "2026-11-13 21:50 UTC"
     },
     {
-      "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, Lübnan'da Trablusşamlı iş insanlarıyla görüştü",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-lubnanda-trablussamli-is-insanlariyla-gorustu/4124790",
-      "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan, Lübnan'ın kuzeyindeki Trablusşam kentinde iş insanlarıyla bir araya geldi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 21:48 UTC"
-    },
-    {
       "title": "'Ulusal Adil Geçiş Stratejisi ve Eylem Planı' Resmi Gazetede",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-resmi-gazetede-963233.html",
@@ -198,33 +234,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 21:46 UTC"
-    },
-    {
-      "title": "\"Ulusal Adil Geçiş Stratejisi ve Eylem Planı\" konulu genelge Resmi Gazete’de",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-konulu-genelge-resmi-gazete-de/4124787",
-      "summary": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) konulu Cumhurbaşkanlığı Genelgesi, Resmi Gazete'de yayımlandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 21:43 UTC"
-    },
-    {
-      "title": "BUDO'nun 8 seferi olumsuz hava koşulları nedeniyle iptal edildi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/budonun-8-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi/4124786",
-      "summary": "Bursa Deniz Otobüslerinin (BUDO) 8 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 21:42 UTC"
-    },
-    {
-      "title": "ABD Federal Havacılık İdaresi ülke genelinde uçuşları durdurma kararı aldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abd-federal-havacilik-idaresi-ulke-genelinde-ucuslari-durdurma-karari-aldi/4124785",
-      "summary": "ABD Federal Havacılık İdaresi (FAA), hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu nedeniyle ABD genelindeki tüm havalimanlarında uçuşları durdurma kararı aldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 21:39 UTC"
     },
     {
       "title": "FAA grounds US flights nationwide after ‘communication issue’",
@@ -248,7 +257,7 @@
       "title": "ABDde tüm uçuşlar durduruldu",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/abdde-tum-ucuslar-durduruldu-963232.html",
-      "summary": "ABD Federal Havacılık İdaresi, hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu nedeniyle ABD genelindeki tüm havalimanlarında uçuşları durdurma kararı aldı.",
+      "summary": "ABD Federal Havacılık İdaresi, hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu nedeniyle ABD genelindeki tüm havalimanlarında uçuşları durdurma kararı aldı. Birkaç saat süren uçuş yasağı kaldırıldı",
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 21:26 UTC"
@@ -263,15 +272,6 @@
       "published_at": "2026-11-13 21:24 UTC"
     },
     {
-      "title": "Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun Resmi Gazete'de",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-resmi-gazetede/4124780",
-      "summary": "Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı arasında ortak savunmaya ilişkin Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun, Resmi Gazete'de yayımlandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 21:24 UTC"
-    },
-    {
       "title": "ABD'de Mississippi Nehri'nde tanker yolcu gemisine çarptı",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/abdde-mississippi-nehrinde-tanker-yolcu-gemisine-carpti-963231.html",
@@ -279,15 +279,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 21:21 UTC"
-    },
-    {
-      "title": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde tanker yolcu gemisine çarptı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/abdnin-louisiana-eyaletindeki-mississippi-nehrinde-tanker-yolcu-gemisine-carpti/4124778",
-      "summary": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde tanker, 129 kişinin bulunduğu ve kıyıda bekleyen büyük yolcu gemisine çarptı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 21:19 UTC"
     },
     {
       "title": "Fortreum, FedRAMP’in güvenlik açığı son tarihinden önce Kovr destekli VDR/VER hizmetini kullanıma sunuyor - Unite.AI",
@@ -351,15 +342,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-13 21:03 UTC"
-    },
-    {
-      "title": "Gazze'deki ateşkesin arabulucuları İsrail ihlallerinin durdurulmasını ve yardımların artırılmasını istedi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-ateskesin-arabuluculari-israil-ihlallerinin-durdurulmasini-ve-yardimlarin-artirilmasini-istedi/4124773",
-      "summary": "Türkiye, Mısır ve Katar istihbarat başkanları, Gazze Şeridi'ndeki son gelişmeleri ele almak üzere Kahire'de üçlü toplantı gerçekleştirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 20:59 UTC"
     },
     {
       "title": "Pope Leo cheered on return to Peru city where he served as bishop",
@@ -443,24 +425,6 @@
       "published_at": "2026-11-13 20:18 UTC"
     },
     {
-      "title": "Microsoft says services still returning amid widespread outage",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
-      "summary": "Governments, businesses, individuals were disrupted globally as server failures stretch into second day.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 20:16 UTC"
-    },
-    {
-      "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
-      "summary": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 20:12 UTC"
-    },
-    {
       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
       "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
@@ -504,24 +468,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 19:27 UTC"
-    },
-    {
-      "title": "Migrants risk deadly route to Spain’s Canary Islands",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss",
-      "summary": "More than 7,400 migrants arrived in Spain’s Canary Islands during the first 10 days of November.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 19:23 UTC"
-    },
-    {
-      "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
-      "summary": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 19:23 UTC"
     },
     {
       "title": "Nvidia'daki seks skandalı Beyaz Saray üzerinde nasıl baskı oluşturuyor?",
@@ -603,15 +549,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 18:34 UTC"
-    },
-    {
-      "title": "Yardım kuruluşları: Gazzedeki yağış yıkımı önlenebilirdi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/yardim-kuruluslari-gazzedeki-yagis-yikimi-onlenebilirdi-963219.html",
-      "summary": "Gazze'deki insani yardım kuruluşları işgalci İsrail'in politikaları nedeniyle yağmurların yol açtığı yıkımın önlenemediğini bildirdi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 18:16 UTC"
     },
     {
       "title": "Türkiye Sigorta'dan TMSF'ye 1,6 milyar TL'lik gönüllü iade",
@@ -722,6 +659,15 @@
       "published_at": "2026-11-13 16:27 UTC"
     },
     {
+      "title": "UNESCO Yeşil Eğitim Ortaklığı Çalışma Grubu Toplantısı yapıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/unesco-yesil-egitim-ortakligi-calisma-grubu-toplantisi-yapildi/4124577",
+      "summary": "Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, UNESCO Yeşil Eğitim Ortaklığının (GEP) 4. Dönem Çalışma Grubu Toplantısı gerçekleştirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 15:57 UTC"
+    },
+    {
       "title": "Borsa, dolar ve altın haftayı nasıl kapattı? İşte haftanın kazandıran ve kaybettiren yatırım araçları - CNBC-e",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWnkweUVJTEJWQjhRdjBIQjNUOUhUNW82YU85QzhPTjIwZnNmaldJdGd0WVFKa2ZaQ09CMFBvZkVmaTVRaVVkVFlNVEhUVGRlWDlOeDgwZDJjSWd4bWtCbUNFajM3MjhqbDdYdG9QRFFBOVN2RmcxeU5EcWdPQ2VKUkt0eUhyNTU2RzVfSHZiZGc4MTNJdTVweXRFcUdMWW9aR0JPTHBkVWFkVko2N3JoTk9IbVNOQ1ZOQlJFazVmM2RSSGpkOWNZLXc4Y2h2TUtORGdPbw?oc=5",
@@ -830,6 +776,15 @@
       "published_at": "2026-11-13 12:47 UTC"
     },
     {
+      "title": "Elektrifikasyonun verimlilik kazanımlarının davranışsal dönüşümle desteklenmesi gerekiyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/elektrifikasyonun-verimlilik-kazanimlarinin-davranissal-donusumle-desteklenmesi-gerekiyor/4124075",
+      "summary": "Enerji Verimliliği Derneği Başkanı Ahmet Erdem, enerji tasarrufunun kalıcı hale gelmesi için davranışsal düzeyde de verimliliğin önceliklendirilmesi gerektiğini söyledi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 12:14 UTC"
+    },
+    {
       "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg",
       "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
@@ -866,6 +821,15 @@
       "published_at": "2026-11-13 10:36 UTC"
     },
     {
+      "title": "Sigorta Evi kapsamında \"COP31 Küresel Sürdürülebilir Sigortacılık Zirvesi\" başladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/sigorta-evi-kapsaminda-cop31-kuresel-surdurulebilir-sigortacilik-zirvesi-basladi/4123922",
+      "summary": "Türkiye Sigorta Birliğinin Birleşmiş Milletler (BM) COP31 kapsamındaki Sigorta Evi etkinliğinde BM Çevre Programı Finans Girişimi (UNEP FI) işbirliğinde düzenlenen \"COP31 Küresel Sürdürülebilir Sigortacılık Zirvesi\" başladı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 10:21 UTC"
+    },
+    {
       "title": "Turkish Air Force Commander Visits ASELSAN to Review Technology and Production Programs - ssbulten.com.tr",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWHA4TzlrMkp0aU1JV2E4MjlQM1FndWNYNmM4QjJCR200dVREQUJoVHNaOHFEc3N5ZWwyQlF1cTk0UUxyVGNGa3BfcDAxVnRMRUZIRGxGajZjc2hCVWpwWURuRmVORmRKc2F2ZUloenVLYWhHZFB4aFdVaWhaTTc4bVBiVldJQ2U4UElfOS1kdjlISGpnUzc0QU5qV2JoazdGZWQydl9odm5xUldHQ0xhWjZJejZFM1BpZ25Fc1RSQjJ5VjBXT0JUdmlNRzhTbE0?oc=5",
@@ -891,6 +855,42 @@
       "source": "Google News - Uluslararası Savunma",
       "category": "Savunma",
       "published_at": "2026-11-13 08:30 UTC"
+    },
+    {
+      "title": "Güneş enerjisiyle deniz suyundan tatlı su ve hidrojen üretimi projesi COP31'de tanıtılacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/gunes-enerjisiyle-deniz-suyundan-tatli-su-ve-hidrojen-uretimi-projesi-cop31de-tanitilacak/4123760",
+      "summary": "Van Yüzüncü Yıl Üniversitesi (YYÜ) öncülüğünde, Türkiye ve Libya'daki üniversitelerin işbirliğiyle hazırlanan projeyle güneş enerjisinden yararlanılarak deniz suyundan tatlı su elde edilmesi ve hidrojen üretilmesi hedefleniyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 08:17 UTC"
+    },
+    {
+      "title": "COP31'de enerji dönüşümü gündemi Türkiye-Almanya işbirliğine yeni fırsatlar sunuyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-enerji-donusumu-gundemi-turkiye-almanya-isbirligine-yeni-firsatlar-sunuyor/4123723",
+      "summary": "Almanya Enerji Ajansı (dena) Genel Müdürü Kristina Haverkamp, Türkiye ile Almanya arasında batarya depolama, kritik ham maddeler ve yeşil hidrojen alanlarında geliştirilebilecek işbirliklerinin önemli fırsatlar sunduğunu belirtti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 08:02 UTC"
+    },
+    {
+      "title": "COP31'de gelişmekte olan ülkelerin elektrifikasyon fırsatları ele alındı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-gelismekte-olan-ulkelerin-elektrifikasyon-firsatlari-ele-alindi/4123694",
+      "summary": "İklim Değişikliği Başkanlığı Başkan Yardımcısı ve COP31 Eylem Gündemi Direktörü Tuğba Dinçbaş, uluslararası işbirliğinin ülkelerin enerji dönüşümü planlarını yatırım yapılabilir projelere dönüştürmeye katkı sağlaması gerektiğini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 07:39 UTC"
+    },
+    {
+      "title": "TÜBİTAK'ın iklim araştırmaları COP31'de ele alınıyor",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/tubitakin-iklim-arastirmalari-cop31de-ele-aliniyor/4123658",
+      "summary": "TÜBİTAK, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) çevre, iklim değişikliği ve yeşil dönüşüm alanlarındaki bilimsel araştırmalarını uluslararası paydaşlarla paylaşıyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-13 07:06 UTC"
     },
     {
       "title": "Borsa İstanbul düşüş seyrinde - Bigpara",
