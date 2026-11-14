@@ -1,6 +1,258 @@
 {
-  "updated_at": "2026-11-14 12:09 UTC",
+  "updated_at": "2026-11-14 13:24 UTC",
   "items": [
+    {
+      "title": "Türkiye'nin en büyük kuantum bilgisayarı TÜBİTAK bünyesinde 2027'de devreye alınacak",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiyenin-en-buyuk-kuantum-bilgisayari-tubitak-bunyesinde-2027de-devreye-alinacak/4125194",
+      "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'nin Milli Teknoloji Hamlesi vizyonu doğrultusunda, ülkenin en büyük kuantum bilgisayarını TÜBİTAK bünyesinde kurmak üzere önemli bir projeye imza attıklarını bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 13:12 UTC"
+    },
+    {
+      "title": "Irak'ta Kerkük Valiliğine Türkmen siyasetçi Kahtan Vindavi seçildi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/irakta-kerkuk-valiligine-turkmen-siyasetci-kahtan-vindavi-secildi/4125192",
+      "summary": "Irak'ın Kerkük vilayetinde valilik görevine, Irak Türkmen Cephesi (ITC) Kerkük İl Başkanı Kahtan Vindavi seçildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 13:12 UTC"
+    },
+    {
+      "title": "Gaziantep merkezli 7 ilde operasyon: 12 şüpheli yakalandı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/gaziantep-merkezli-7-ilde-operasyon-12-supheli-yakalandi-963285.html",
+      "summary": "Gaziantep merkezli 7 ilde \"Bilişim sistemlerini kullanarak nitelikli dolandırıcılık\" suçuna yönelik düzenlenen operasyonlarda 12 şüpheli yakalandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 13:08 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan şehit Er Kağan Öcal'ın ailesine taziye mesajı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-sehit-er-kagan-ocalin-ailesine-taziye-mesaji/4125186",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, şehit Mühimmat Er Kağan Öcal'ın ailesine taziye mesajı gönderdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 13:06 UTC"
+    },
+    {
+      "title": "Filistin Devlet Başkanı Abbas: Filistin halkı bağımsız devlet kurma hakkından vazgeçmeyecek",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/filistin-devlet-baskani-abbas-filistin-halki-bagimsiz-devlet-kurma-hakkindan-vazgecmeyecek/4125184",
+      "summary": "Filistin Devlet Başkanı Mahmud Abbas, Filistin halkının özgürlük, egemenlik ve başkenti Doğu Kudüs olan bağımsız bir devlet kurma hakkından vazgeçmeyeceğini belirtti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 13:06 UTC"
+    },
+    {
+      "title": "COP31'de 2 bin 700 gönüllü görev alıyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/cop31de-2-bin-700-gonullu-gorev-aliyor-963283.html",
+      "summary": "Türkiye'nin ilk kez ev sahipliği yaptığı, iklim değişikliği ile mücadelede dünyanın en önemli organizasyonu olan Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda COP31 2 bin 700 gönüllü görev yapıyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 13:06 UTC"
+    },
+    {
+      "title": "Türkiye ve 17 ülke, İsrail'in Nasser Hastanesi'ne düzenlediği hava saldırısını kınadı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/turkiye-ve-17-ulke-israilin-nasser-hastanesine-duzenledigi-hava-saldirisini-kinadi/4125179",
+      "summary": "Türkiye ve 17 ülke, İsrail'in Han Yunus'taki Nasser Hastanesi'ne düzenlediği hava saldırısını en güçlü şekilde kınadı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 13:04 UTC"
+    },
+    {
+      "title": "Türkiye'de bu yıl 9,6 milyon diyabet taraması yapıldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/saglik/turkiyede-bu-yil-96-milyon-diyabet-taramasi-yapildi-963282.html",
+      "summary": "Sağlık Bakanlığınca, diyabetin erken tanısı ve hastaların düzenli takibi amacıyla yürütülen çalışmalar kapsamında 2026'da aile hekimliklerinde 9,6 milyon tarama gerçekleştirildi, 376 bin kişiye diyabet tanısı konuldu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 13:04 UTC"
+    },
+    {
+      "title": "Spain vs England: UEFA Nations League – predictions, how to watch, teams",
+      "image": "",
+      "link": "https://www.aljazeera.com/sports/2026/11/14/spain-england-uefa-nations-league-predictions-how-to-watch-teams?traffic_source=rss",
+      "summary": "Spain, who are unbeaten in their last 43 competitive meetings, host England in Madrid on Sunday.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 13:03 UTC"
+    },
+    {
+      "title": "Türkiye ve 17 ülkeden İsrail'in Nasser Hastanesi saldırısına ortak tepki",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/turkiye-ve-17-ulkeden-israilin-nasser-hastanesi-saldirisina-ortak-tepki-963284.html",
+      "summary": "Türkiye ile birlikte 18 ülkenin dışişleri bakanları, katil İsrailin Gazzenin Han Yunus kentindeki Nasser Hastanesine düzenlediği hava saldırısına tepki göstererek ortak bir açıklama yayımladı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 13:02 UTC"
+    },
+    {
+      "title": "Türk savaş gemileri KKTC'de halkın ziyaretine açılacak",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/turk-savas-gemileri-kktcde-halkin-ziyaretine-acilacak-963281.html",
+      "summary": "Kuzey Kıbrıs Türk Cumhuriyetinin KKTC 43üncü kuruluş yıl dönümü kutlamaları kapsamında pazar günü Türk savaş gemileri, Girne ve Gazimağusa limanlarında halkın ziyaretine açılacak.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 13:00 UTC"
+    },
+    {
+      "title": "Sözleşmeli personel çalıştırma esasları yeniden düzenlendi",
+      "image": "https://geoim.bloomberght.com/l/2026/11/14/ver1794661155/3794661/jpg/320x180",
+      "link": "https://www.bloomberght.com/sozlesmeli-personel-calistirma-esaslari-yeniden-duzenlendi-3794661",
+      "summary": "Resmi Gazete'de yayımlanan kararla sözleşmeli personelin hastalık ve refakat izinleri, disiplin işlemleri, göreve başlama süreleri ve eğitim esasları yeniden düzenlendi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-14 12:58 UTC"
+    },
+    {
+      "title": "AB, İsrail'e Gazze'ye insani yardımların ulaştırılması ve sınır kapılarının açılması çağrısında bulundu",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/ab-israile-gazzeye-insani-yardimlarin-ulastirilmasi-ve-sinir-kapilarinin-acilmasi-cagrisinda-bulundu/4125171",
+      "summary": "Avrupa Birliği (AB), İsrail'e, Gazze'ye insani yardımların derhal ve engelsiz ulaştırılmasına izin vermesi ve bölgedeki tüm sınır kapılarını yeniden açması çağrısı yaptı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:57 UTC"
+    },
+    {
+      "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
+      "summary": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:57 UTC"
+    },
+    {
+      "title": "Rüzgardan elektrik üretiminde tüm zamanların rekoru",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/ekonomi/ruzgardan-elektrik-uretiminde-tum-zamanlarin-rekoru-963280.html",
+      "summary": "Türkiye'de dün rüzgardan elektrik üretiminde günlük bazda 276 bin 794 megavatsaatle tüm zamanların rekoru kırıldı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:55 UTC"
+    },
+    {
+      "title": "Van Gölü'ndeki flamingolar bölgeden ayrılmıyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/yasam/van-golundeki-flamingolar-bolgeden-ayrilmiyor-963279.html",
+      "summary": "Göç döneminin sona ermesine rağmen Van Gölü havzasından ayrılmayan flamingolar, soğuk havaya rağmen bölgede yaşamlarını sürdürüyor.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:53 UTC"
+    },
+    {
+      "title": "Green turtles move from ‘endangered’ to ‘least concern’ status",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/green-turtles-move-from-endangered-to-least-concern-status?traffic_source=rss",
+      "summary": "Green turtles have been reclassified from endangered to ‘least concern’ in global conservation rankings.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:53 UTC"
+    },
+    {
+      "title": "COP31 Parlamenter Toplantısı'na 55 ülkeden katılım bekleniyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/cop31-parlamenter-toplantisina-55-ulkeden-katilim-bekleniyor-963278.html",
+      "summary": "TBMM Başkanı Numan Kurtulmuş'un ev sahipliğinde, Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı COP31 kapsamında 16 Kasım'da Antalya'da düzenlenecek parlamenter toplantıya 55 ülkeden üst düzey heyetler katılacak.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:49 UTC"
+    },
+    {
+      "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf?traffic_source=rss",
+      "summary": "The SAF successes in Kordofan are seeing the battle against the RSF turn in favour of the Sudanese government.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:49 UTC"
+    },
+    {
+      "title": "BM/Simon Stiell: COP31 müzakerelerinde ilerleme var, taktiksel gecikmelerden kaçınılmalı",
+      "image": "https://geoim.bloomberght.com/l/2026/11/14/ver1794660571/3794660/jpg/320x180",
+      "link": "https://www.bloomberght.com/bmsimon-stiell-cop31-muzakerelerinde-ilerleme-var-taktiksel-gecikmelerden-kacinilmali-3794660",
+      "summary": "BM İklim Değişikliği Çerçeve Sözleşmesi İcra Sekreteri Simon Stiell, Antalya'daki COP31 müzakerelerinde ilerleme kaydedildiğini söyledi. Stiell, konferansın ikinci haftasına girerken taraflara en zorlu konuları hızla ele alma ve taktiksel gecikmelerden kaçınma çağrısı yaptı.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-14 12:48 UTC"
+    },
+    {
+      "title": "Dünya dışı yaşamın arandığı alışılmadık yerler",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7a54/live/30192680-de84-11f1-a701-fddedf244c16.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cmjrede2p3vro?at_medium=RSS&at_campaign=rss",
+      "summary": "Dünya'dan başka yerlerde yaşam varsa, bu yaşam Dünya benzeri yerlerde olmayabilir. İşte bilim insanlarının yaşam aradığı sıra dışı yerlerden bazıları.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:43 UTC"
+    },
+    {
+      "title": "Bakan Kacır, yeşil sanayileşmeye ilişkin üst düzey diyaloğa katıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-yesil-sanayilesmeye-iliskin-ust-duzey-diyaloga-katildi/4125146",
+      "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'nin COP31 Başkanlığı kapsamında öncülük ettiği girişimlerle, yeşil sanayileşmenin sunduğu fırsatların tüm ekonomiler için kalkınma imkanına dönüşmesine katkı sunmayı sürdüreceklerini bildirdi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:36 UTC"
+    },
+    {
+      "title": "\"Ölü Arının İğnesi\" ve \"Bir Anne Hakkında\" filmleri, Boğaziçi Film Festivali'nde izleyicilerle buluştu",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/kultur/olu-arinin-ignesi-ve-bir-anne-hakkinda-filmleri-bogazici-film-festivalinde-izleyicilerle-bulustu/4125140",
+      "summary": "Boğaziçi Kültür Sanat Vakfı tarafından düzenlenen \"14. Boğaziçi Film Festivali\", ulusal ve uluslararası yarışmalardan filmleri izleyicilerle buluşturuyor.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:35 UTC"
+    },
+    {
+      "title": "İran: Hürmüz Boğazı'nda bir tanker daha mayına çarparak alev aldı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-bir-tanker-daha-mayina-carparak-alev-aldi-963277.html",
+      "summary": "İran ordusu, Hürmüz Boğazının doğusunda bir petrol tankerinin daha deniz mayınına çarparak alev aldığını duyurdu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:31 UTC"
+    },
+    {
+      "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks?traffic_source=rss",
+      "summary": "Ethiopia accuses Eritrea of leading TPLF attacks in Tigray, with Egypt providing logistical support.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:28 UTC"
+    },
+    {
+      "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
+      "summary": "A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:14 UTC"
+    },
+    {
+      "title": "Antalya'da düzenlenen Uluslararası Enerji Ekonomisi Birliği COP2026 Sempozyumu sona erdi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/antalyada-duzenlenen-uluslararasi-enerji-ekonomisi-birligi-cop2026-sempozyumu-sona-erdi/4125112",
+      "summary": "Uluslararası Enerji Ekonomisi Birliğince (IAEE) Antalya'da düzenlenen IAEE COP 2026 Sempozyumu'nda enerji ekonomisi, karbon piyasaları ve iklim değişikliğiyle mücadelede finansman konuları ele alındı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:11 UTC"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, Bolivya Cumhurbaşkanı Rodrigo Paz Pereira ile görüştü",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bolivya-cumhurbaskani-rodrigo-paz-pereira-ile-gorustu/4125107",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Bolivya Cumhurbaşkanı Rodrigo Paz Pereira ile bir araya geldi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-14 12:05 UTC"
+    },
     {
       "title": "Erdemir'den çelik sektöründe yeşil dönüşüm için \"ekosistem\" vurgusu",
       "image": "",
@@ -18,15 +270,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-14 11:50 UTC"
-    },
-    {
-      "title": "32. Proje Yönetim Zirvesi'nde savunma sanayisinde proje yönetiminin değişen dinamikleri konuşuldu",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/32-proje-yonetim-zirvesinde-savunma-sanayisinde-proje-yonetiminin-degisen-dinamikleri-konusuldu/4125088",
-      "summary": "Project Management Institute (Proje Yönetim Enstitüsü-PMI) Türkiye tarafından düzenlenen ve proje yönetimi dünyasını bir araya getiren 32. Proje Yönetim Zirvesi kapsamında savunma sanayisinde proje yönetiminin değişen dinamikleri ele alındı",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 11:46 UTC"
     },
     {
       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
@@ -65,15 +308,6 @@
       "published_at": "2026-11-14 11:23 UTC"
     },
     {
-      "title": "Türkiye ile Katar arasında imzalanan anlaşmalar Katar basınında geniş yer buldu",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/turkiye-ile-katar-arasinda-imzalanan-anlasmalar-katar-basininda-genis-yer-buldu/4125074",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan ile Katar Emiri Şeyh Temim bin Hamed Al Sani’nin başkanlığında İstanbul’da düzenlenen Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı kapsamında imzalanan anlaşmalar, Katar basınında geniş yer buldu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 11:22 UTC"
-    },
-    {
       "title": "Cumhurbaşkanı Erdoğan'dan şehitlerimiz için taziye mesajı",
       "image": "",
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-sehitlerimiz-icin-taziye-mesaji-963274.html",
@@ -81,15 +315,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-14 11:22 UTC"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan'dan Malatya'da şehit olan askerler için taziye mesajı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-malatyada-sehit-olan-askerler-icin-taziye-mesaji/4125071",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, şehit Kara Pilot Binbaşı Erdem Çimen, Kara Pilot Binbaşı Orhun Pınar, Astsubay Kıdemli Üstçavuş Hüseyin Zehir ve Astsubay Kıdemli Çavuş Serkan Önder'in ailelerine taziye mesajı gönderdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 11:15 UTC"
     },
     {
       "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
@@ -128,15 +353,6 @@
       "published_at": "2026-11-14 11:10 UTC"
     },
     {
-      "title": "İsrail'in Gazze'de düzenlediği saldırılarda 2 Filistinli hayatını kaybetti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-duzenledigi-saldirilarda-2-filistinli-hayatini-kaybetti/4125070",
-      "summary": "İsrail ordusunun, ateşkese rağmen Gazze Şeridi'nde düzenlediği hava saldırısında 2 Filistinlinin yaşamını yitirdiği, çok sayıda kişinin yaralandığı bildirildi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 11:08 UTC"
-    },
-    {
       "title": "ABD, 26 yılın ardından kızamığı tamamen ortadan kaldırmış ülke statüsünü kaybetti",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/abd-26-yilin-ardindan-kizamigi-tamamen-ortadan-kaldirmis-ulke-statusunu-kaybetti-963271.html",
@@ -144,15 +360,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-14 11:03 UTC"
-    },
-    {
-      "title": "Türkiye'de 2026 yılında 9,6 milyon diyabet taraması yapıldı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/turkiyede-2026-yilinda-9-6-milyon-diyabet-taramasi-yapildi/4125065",
-      "summary": "Sağlık Bakanlığınca, diyabetin erken tanısı ve hastaların düzenli takibi amacıyla yürütülen çalışmalar kapsamında 2026'da aile hekimliklerinde 9,6 milyon tarama gerçekleştirildi, 376 bin kişiye diyabet tanısı konuldu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 11:00 UTC"
     },
     {
       "title": "Ukraine, Russia race to build military satellite networks as war rages on",
@@ -173,31 +380,13 @@
       "published_at": "2026-11-14 10:59 UTC"
     },
     {
-      "title": "İngiliz Kraliyet Nişanı sahibi Londralı şef Khan, Kral 3. Charles'ın Türk halkına özel sevgi duyduğunu söyledi",
+      "title": "Türkiye Sigorta Birliği, UNEP'in iki sürdürülebilir sigortacılık girişiminin destekçisi oldu",
       "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/ingiliz-kraliyet-nisani-sahibi-londrali-sef-khan-kral-3-charlesin-turk-halkina-ozel-sevgi-duydugunu-soyledi/4125062",
-      "summary": "İngiltere Kraliyet Nişanı sahibi Londralı şef Taz Khan, Kral 3. Charles'ın Türk halkına özel sevgi duyduğunu söyledi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 10:58 UTC"
-    },
-    {
-      "title": "COP31'de 2 bin 700 gönüllü görev alıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/cop31de-2-bin-700-gonullu-gorev-aliyor/4125055",
-      "summary": "Türkiye'nin ilk kez ev sahipliği yaptığı, iklim değişikliği ile mücadelede dünyanın en önemli organizasyonu olan Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) 2 bin 700 gönüllü görev yapıyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-sigorta-birligi-unepin-iki-surdurulebilir-sigortacilik-girisiminin-destekcisi-oldu/4125056",
+      "summary": "Türkiye Sigorta Birliği (TSB), Birleşmiş Milletler Çevre Programı (UNEP) Sürdürülebilir Sigortacılık İlkeleri (PSI) ile Sigorta Dönüşüm Forumu'nun (FIT) destekçisi oldu.",
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-14 10:50 UTC"
-    },
-    {
-      "title": "İklim değişikliğiyle mücadeleyi sanat ile buluşturan COPArt anlayışı \"miras\" kabul edildi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/iklim-degisikligiyle-mucadeleyi-sanat-ile-bulusturan-copart-anlayisi-miras-kabul-edildi/4125054",
-      "summary": "COP31 kapsamında Antalya'da ilk kez hayata geçirilen resmi sanat programı COPArt, BM tarafından miras olarak kabul edilerek, gelecek organizasyonlarda da sürdürülmesi kararlaştırılan bir sanat platformu oldu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 10:49 UTC"
     },
     {
       "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
@@ -218,24 +407,6 @@
       "published_at": "2026-11-14 10:40 UTC"
     },
     {
-      "title": "Türkiye'nin afet yönetim modeli dünyaya örnek oluyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/turkiye/turkiyenin-afet-yonetim-modeli-dunyaya-ornek-oluyor-963270.html",
-      "summary": "Birleşmiş Milletler BM Genel Sekreteri Özel Temsilcisi ve BM Afet Riskini Azaltma Ofisi UNDRR Başkanı Kamal Kishore, Türkiye'nin afet yönetim sisteminin dünyanın en iyi sistemleri arasında yer aldığını söyledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 10:37 UTC"
-    },
-    {
-      "title": "Özel eğitim ihtiyacı bulunan öğrenciler için erken tarama sistemi yaygınlaştırılacak",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/egitim/ozel-egitim-ihtiyaci-bulunan-ogrenciler-icin-erken-tarama-sistemi-yayginlastirilacak-963269.html",
-      "summary": "Milli Eğitim Bakanlığı MEB, özel eğitim ihtiyacı olduğu düşünülen öğrencilerin erken dönemde belirlenmesine yönelik geliştirilen Eğitsel Tarama ve Değerlendirme Bataryası'nın gelecek yıl eRehberlik Modülü'ne entegre ederek ülke genelinde yaygınlaştıracak.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 10:32 UTC"
-    },
-    {
       "title": "South Sudan postpones first-ever national elections until February",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
@@ -252,24 +423,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-14 10:20 UTC"
-    },
-    {
-      "title": "TÜRKSAT, altyapı bulunmayan bölgelere kesintisiz internet sağlayacak",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/turksat-altyapi-bulunmayan-bolgelere-kesintisiz-internet-saglayacak-963268.html",
-      "summary": "TÜRKSAT AŞ, karasal haberleşme hatlarının ve elektrik şebekesinin ulaşamadığı bölgelere kesintisiz internet erişimi sağlamak amacıyla \"Güneş Enerjili Uydu Destekli Kamusal WiFi Sistemi\"ni geliştirdi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 10:17 UTC"
-    },
-    {
-      "title": "Ayran, kefir ve yoğurt üretimi 9 ayda rekor seviyeye ulaştı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/ayran-kefir-ve-yogurt-uretimi-9-ayda-rekor-seviyeye-ulasti-963266.html",
-      "summary": "Türkiye'de ayran ve kefir üretimi ocakeylül döneminde 834 bin 27 ton, yoğurt üretimi de 1 milyon 126 bin 83 tonla rekor seviyeye ulaştı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 10:14 UTC"
     },
     {
       "title": "Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina",
@@ -290,15 +443,6 @@
       "published_at": "2026-11-14 10:01 UTC"
     },
     {
-      "title": "Bakan Tekin'den COP31'de eğitim vurgusu",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-tekinden-cop31de-egitim-vurgusu-963267.html",
-      "summary": "Milli Eğitim Bakanı Yusuf Tekin, bilgiyi değerden, beceriyi şahsiyetten ayırmayan Türkiye Yüzyılı Maarif Modeli'ni kurarak tabiatın ve gelecek kuşakların hakkını gözetmeyi kendi değerlerinin tabii sonucu olarak sahiplenen bir kuşak yetiştirmek istediklerini söyledi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 09:58 UTC"
-    },
-    {
       "title": "Genç mühendis adayları COP31'de nükleer enerjinin denizcilikteki potansiyelini tanıtıyor",
       "image": "",
       "link": "https://www.aa.com.tr/tr/ekonomi/genc-muhendis-adaylari-cop31de-nukleer-enerjinin-denizcilikteki-potansiyelini-tanitiyor/4125015",
@@ -306,33 +450,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-14 09:54 UTC"
-    },
-    {
-      "title": "Bakan Uraloğlu'ndan Gaziantep'e hızlı tren müjdesi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-uraloglundan-gaziantepe-hizli-tren-mujdesi-963265.html",
-      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Gaziantep'e hızlı trenin de geleceğini belirterek, \"Hızlı tren Gaziantep'te kalmayacak, Şanlıurfa'ya, oradan Habur'a kadar devam ettireceğiz\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 09:54 UTC"
-    },
-    {
-      "title": "\"COP31 Küresel Sürdürülebilir Sigortacılık Zirvesi\"nin ikinci günü başladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/cop31-kuresel-surdurulebilir-sigortacilik-zirvesinin-ikinci-gunu-basladi/4125014",
-      "summary": "İklim zirvesi COP31 kapsamında Türkiye Sigorta Birliği (TSB) ile Birleşmiş Milletler Çevre Programı Finans Girişimi (UNEP FI) işbirliğinde gerçekleştirilen \"COP31 Küresel Sürdürülebilir Sigortacılık Zirvesi\"nin ikinci günü başladı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 09:53 UTC"
-    },
-    {
-      "title": "Araştırma: 11 AB ülkesinde katılımcıların yüzde 71i Avrupa ordusunun kurulmasını destekliyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/arastirma-11-ab-ulkesinde-katilimcilarin-yuzde-71i-avrupa-ordusunun-kurulmasini-destekliyor-963264.html",
-      "summary": "Avrupa Birliğinin 11 üye ülkesinde yapılan araştırmada, AB'nin kendi ordusuna sahip olmasına yönelik destek yüzde 71 olarak ölçüldü.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 09:52 UTC"
     },
     {
       "title": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
@@ -351,24 +468,6 @@
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-14 09:43 UTC"
-    },
-    {
-      "title": "Ankara merkezli uyuşturucu gelirini aklama operasyonu: 6 gözaltı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/ankara-merkezli-uyusturucu-gelirini-aklama-operasyonu-6-gozalti-963263.html",
-      "summary": "Ankara Cumhuriyet Başsavcılığınca yürütülen uyuşturucu ticaretinden elde edilen gelirin aklanması suçuna yönelik soruşturmada 6 şüpheli yakalandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 09:30 UTC"
-    },
-    {
-      "title": "Türkiye ile Singapur arasında JETCO Protokolü imzalandı",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-singapur-arasinda-jetco-protokolu-imzalandi-963262.html",
-      "summary": "Ticaret Bakanı Ömer Bolat ve Singapurlu mevkidaşı Grace Fu tarafından imzalanan JETCO Protokolü ile iki ülkenin birbirini tamamlayıcı özelliklerinden yararlanılarak ticaret, yatırım ve üçüncü ülkelerde ortak proje işbirliklerinin daha ileri taşınması hedefleniyor.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 09:28 UTC"
     },
     {
       "title": "Pochettino bids emotional farewell to US football ahead of Man Utd move",
@@ -407,15 +506,6 @@
       "published_at": "2026-11-14 09:11 UTC"
     },
     {
-      "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
-      "summary": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 09:08 UTC"
-    },
-    {
       "title": "Microsoft 365, Outlook ve Teams'teki erişim sorunu giderildi",
       "image": "https://geoim.bloomberght.com/l/2026/11/14/ver1794646980/3794655/jpg/320x180",
       "link": "https://www.bloomberght.com/microsoft-365-outlook-ve-teams-teki-erisim-sorunu-giderildi-3794655",
@@ -452,15 +542,6 @@
       "published_at": "2026-11-14 08:39 UTC"
     },
     {
-      "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
-      "summary": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 08:39 UTC"
-    },
-    {
       "title": "İngiltere Merkez Bankası 2027’de faizleri daha da artırabilir - Investing.com Türkiye",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOVgyR2FFYzlHZDJCY05pbndqUmY4T1pxd1N4c3BDVnNhdWtZd2k4WHFnOVF6WjRZUmNyc1lTcUt1aVlrNG5KQU5WcnRsM0pqYnRvaWdsQXIxM3pBbWM1SGVKSnpRQ2x2RW4wWlpZcndFbVk4WFgxT0dld0ItVGZrWDFpcjI0ZXRrMVhKbmhMMDlJaGdCNjB4UTVoeVFuS2V6WVYyRU1nd0xkd2wwckxvZjRHTHM?oc=5",
@@ -468,15 +549,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-14 08:28 UTC"
-    },
-    {
-      "title": "COP31'de geçmişin el emeği geleceğe taşınıyor",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/kultur/cop31de-gecmisin-el-emegi-gelecege-tasiniyor/4124936",
-      "summary": "Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Türk kültürünü tanıtan sanatçılar, hat ve keçe sanatını modern dokunuşlarla geleceğe taşıyor.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 08:13 UTC"
     },
     {
       "title": "COP31'de Türkiye'nin öncülüğünde yenilenebilir enerji, verimlilik öne çıkıyor",
@@ -497,39 +569,12 @@
       "published_at": "2026-11-14 08:11 UTC"
     },
     {
-      "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
-      "summary": "Former opener Warner was banned for a year for his involvement in the 2018 'Sandpapergate' incident in South Africa.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 08:10 UTC"
-    },
-    {
-      "title": "TÜRKSAT'tan altyapı bulunmayan bölgeler için güneş enerjili uydu destekli kesintisiz internet",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turksattan-altyapi-bulunmayan-bolgeler-icin-gunes-enerjili-uydu-destekli-kesintisiz-internet/4124920",
-      "summary": "TÜRKSAT AŞ, karasal haberleşme hatlarının ve elektrik şebekesinin ulaşamadığı bölgelere kesintisiz internet erişimi sağlamak amacıyla \"Güneş Enerjili Uydu Destekli Kamusal Wi-Fi Sistemi\"ni geliştirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 08:04 UTC"
-    },
-    {
       "title": "Trump'ın saldırıları \"şimdilik\" başlatmak istemediği iddiası",
       "image": "https://geoim.bloomberght.com/l/2026/11/14/ver1794643407/3794654/jpg/320x180",
       "link": "https://www.bloomberght.com/trump-in-saldirilari-simdilik-baslatmak-istemedigi-iddiasi-3794654",
       "summary": "The Washington Post'a konuşan bir ABD'li yetkili, Trump'ın İran'a yönelik saldırıları \"şimdilik\" yeniden başlatmak istemediğini öne sürdü.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-14 08:01 UTC"
-    },
-    {
-      "title": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/11/14/nba-cup-basketball-pacers-knicks-spurs-warriors?traffic_source=rss",
-      "summary": "The New York Knicks look unlikely to advance to the NBA Cup knockout rounds after falling to the Indiana Pacers.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-14 08:01 UTC"
     },
     {
@@ -540,24 +585,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-14 07:47 UTC"
-    },
-    {
-      "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
-      "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 07:46 UTC"
-    },
-    {
-      "title": "Missing Australian teenager reunites with his mother",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/missing-australian-teenager-reunites-with-his-mother?traffic_source=rss",
-      "summary": "A 17-year-old Australian teenager who went missing for six days has been reunited with his mother.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-14 07:44 UTC"
     },
     {
       "title": "What we know about the ground stop and what to do if you're affected",
@@ -632,15 +659,6 @@
       "published_at": "2026-11-14 05:52 UTC"
     },
     {
-      "title": "SON DAKİKA | Emekliye Merkez Bankası hesabı: İşte 3 farklı refah payı senaryosu... - Sabah",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUFhSmo0YXhJVVVCSkxjV0ZFZ0tvSVlTOVBNZlpiSE14QWZmaUhVbGprZXdXbWotbU0wSFBvdU8wR091RndCWUxIOERJUzl0dUs1anFXNURLWlk2ZUJWWEtkaWtMcXNCRzVPTTdaSjZzeHlCd19pMlNXUWw0dHZ3ZkVFUzNCSkNSRUM1eHktdVZVUGpybFhsSm80NGRIY1kzSTVhT3hEVVY2X1ZfRWJVazVIcE41MHkxMGRIMkxFa9IBwgFBVV95cUxPX0xxcVJtSjdxN2dOelltOFhiRDdvd1lTSTQ3UFFWN2lVeG1pWHVpYm5GdjV4bmtNZkxnN0drQUpsRmluNDV5czdPUEpTWlU5NXlQNXk3WURWUjlhVTZLcDFmUE54el8zQnVFNDVWNldLcEVfbTFkd2dfSzNicTV0QzI4OXI5Z1YzaHExRjlwa0MxZEtyR3Y2SVVGcDNFNXdJREwyZV8xTmtkNThmQ2xqUW5UUUJ4bDR6RWUwLUUzRWNHUQ?oc=5",
-      "summary": "SON DAKİKA | Emekliye Merkez Bankası hesabı: İşte 3 farklı refah payı senaryosu... Sabah",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-14 05:50 UTC"
-    },
-    {
       "title": "Merkez Bankası enflasyon beklentisini yükseltti - Gazete Oksijen",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGNseElWeDBESE1XN25BR2JJcW1mT1h5WW5FeG16bjdMU0Q2RHZGMFZhVm5QUHNrM04tdkV4WGplV0pkQm51WHk0UkNqUnVnYUFaNlVmU3A3RzFuWHZDMTlkVVZ6MEtoTzdMQzVoNVJLRVZUWWZRa3lyTVJvdmxfX1hXUng1bFFPZXRBczBvSWJOUQ?oc=5",
@@ -693,15 +711,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 23:40 UTC"
-    },
-    {
-      "title": "Mekke Anlaşması Resmi Gazete'de yayımlanarak yürürlüğe girdi",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f98/live/93599450-d8f3-11f1-a701-fddedf244c16.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cm3elqk438e2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Anlaşması, TBMM Genel Kurulu'nda kabul edilmesinin ardından 14 Kasım'da Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-13 22:59 UTC"
     },
     {
       "title": "Türkiye Cumhuriyet Merkez Bankası, 2027 ve 2028 enflasyon tahminlerini yükseltti - Şarkul Avsat Türkçe",
@@ -765,24 +774,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-13 19:53 UTC"
-    },
-    {
-      "title": "ABD-Çin Ticaret Kurulu ilk resmi toplantısını yaptı",
-      "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794599593/3794646/jpg/320x180",
-      "link": "https://www.bloomberght.com/abd-cin-ticaret-kurulu-ilk-resmi-toplantisini-yapti-3794646",
-      "summary": "ABD Ticaret Temsilciliği, ABD Hazine Bakanlığı ve Çinli muhataplarının katılımıyla ABD-Çin Ticaret Kurulu'nun ilk resmî toplantısının yapıldığını duyurdu.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-13 19:52 UTC"
-    },
-    {
-      "title": "Suudi Arabistan'dan Bombardier'e 12 jet siparişi",
-      "image": "https://geoim.bloomberght.com/l/2026/11/13/ver1794599136/3794645/jpg/320x180",
-      "link": "https://www.bloomberght.com/suudi-arabistan-dan-bombardier-e-12-jet-siparisi-3794645",
-      "summary": "Kanadalı uçak üreticisi Bombardier, Suudi Arabistan merkezli The Helicopter Company'nin (THC) yaklaşık 568 milyon dolarlık 12 iş jeti sipariş ettiğini duyurdu.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-13 19:44 UTC"
     },
     {
       "title": "Nvidia'daki seks skandalı Beyaz Saray üzerinde nasıl baskı oluşturuyor?",
@@ -873,6 +864,15 @@
       "source": "Google News - Piyasalar",
       "category": "Piyasalar",
       "published_at": "2026-11-13 15:42 UTC"
+    },
+    {
+      "title": "Hedef yine tutmadı: Merkez Bankası bir kez daha enflasyon tahminini yükseltti - DW.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVoxS2JyaHBaQXc0MXVadlZuTGtfamdOQ0ZKck9fbXhSSjQ4TVdfSG04SWVmM3RDa05IME1iZmI5eXZOZ04zS1VOcFUzUEVBTERCUDByZG5wcmpVYXVvcmg0MXZZY0hvVUtoSGxEY2lFNVVWd01xUU9QLU1rYXlEQWV1b0hzeTEwVGs0Rkx1aU1jbzBtV2xxUENvUUxfbTJQZWNDb0JGTm1oUkd3ZzZxVnlDRDlFNDNDaXRJeXlR0gG-AUFVX3lxTFA4aEd5NUlOcTFiZ3hQcFlQMks0cnFHbjh6TU1GSmROVklaWWVEdjFGcHZqNjlMLTdaQ0N6ZkNNMXI3RU53Ym14Q0pVNG9aWEpTd3JWZXA2YUlUTjUzYWpYY3NodUNmZXVDTDhiUS01ZWw3NDd1Yks4RXBrdURSWDAybWkzbDBzMzh2Y0JUa3JkQ1VMUFBaTFJ2TWMwMU5Hd1RKNFB0VWZhMEhhRG1FNnBtSFRHaDRYRTdMa0x1bkE?oc=5",
+      "summary": "Hedef yine tutmadı: Merkez Bankası bir kez daha enflasyon tahminini yükseltti DW.com",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-13 15:03 UTC"
     },
     {
       "title": "Trump hükümetinin COP31'e katılmaması iklim diplomasisi için ne anlama geliyor?",
