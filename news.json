@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 18:20 UTC",
+  "updated_at": "2026-11-16 19:28 UTC",
   "items": [
     {
       "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
@@ -8,7 +8,88 @@
       "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-16 18:06 UTC"
+      "published_at": "2026-11-16 19:16 UTC"
+    },
+    {
+      "title": "Kanada Merkez Bankası'nda Macklem dönemi Haziran 2027'de sona erecek",
+      "image": "https://geoim.bloomberght.com/l/2026/11/16/ver1794856321/3794791/jpg/320x180",
+      "link": "https://www.bloomberght.com/kanada-merkez-bankasi-nda-macklem-donemi-haziran-2027-de-sona-erecek-3794791",
+      "summary": "Kanada Merkez Bankası Başkanı Tiff Macklem, yedi yıllık görev süresinin dolacağı Haziran 2027'de görevinden ayrılacağını açıkladı. Banka, yeni başkanı belirlemek için bir komite kuracağını ve sürecin 2027 baharında tamamlanmasını beklediğini bildirdi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-16 19:11 UTC"
+    },
+    {
+      "title": "Fed Başkanı Warsh, yapay zekanın ekonomi üzerindeki etkisinin önemini vurguladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/fed-baskani-warsh-yapay-zekanin-ekonomi-uzerindeki-etkisinin-onemini-vurguladi/4127063",
+      "summary": "ABD Merkez Bankası (Fed) Başkanı Kevin Warsh, yapay zekanın yaygın biçimde benimsenmesinin ekonomi üzerinde çok önemli etkisi olacağını ve para politikası açısından önemli sonuçlar doğuracağını kabul etmenin bankanın sorumluluğu olduğunu belirtti.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-16 19:06 UTC"
+    },
+    {
+      "title": "Bakan Fidan, Türkiye'nin Kafkaslar, Avrupa ve Orta Asya bağlantısallığındaki merkezi rolünü vurguladı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-turkiyenin-kafkaslar-avrupa-ve-orta-asya-baglantisalligindaki-merkezi-rolunu-vurguladi/4127062",
+      "summary": "Bakan Fidan, bağlantısallık konusunda Türkiye'nin Avrupa, Karadeniz, Kafkaslar ve Orta Asya için ortak bir konum olarak ön plana çıktığına işaret ederek, \"Türkiye'nin buradaki merkezi rolü, herkes tarafından tabii ki takdir ediliyor.\" dedi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-16 19:04 UTC"
+    },
+    {
+      "title": "Bakan Fidan: Türkiye'nin merkezi rolü, herkes tarafından takdir ediliyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-turkiyenin-merkezi-rolu-herkes-tarafindan-takdir-ediliyor-963454.html",
+      "summary": "Dışişleri Bakanı Fidan, bağlantısallık konusunda Türkiye'nin Avrupa, Karadeniz, Kafkaslar ve Orta Asya için ortak bir konum olarak ön plana çıktığına işaret ederek, \"Türkiye'nin buradaki merkezi rolü, herkes tarafından tabii ki takdir ediliyor. Bizim role uygun sorumluluk alarak hem çözümler teklif etmemiz hem de ona öncülük etmemiz gerekiyor\" dedi",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-16 19:00 UTC"
+    },
+    {
+      "title": "İstanbul'daki kara para aklama soruşturmasında 9 kişi tutuklandı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-kara-para-aklama-sorusturmasinda-9-kisi-tutuklandi-963453.html",
+      "summary": "İstanbulda Sarıgül ailesi üyelerinin de aralarında bulunduğu kara para soruşturmasında adliyeye sevk edilen 9 şüpheli tutuklandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-16 18:50 UTC"
+    },
+    {
+      "title": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
+      "image": "",
+      "link": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
+      "summary": "He embraced his Muslim identity, put Gaza on the ballot and showed Democrats a different way forward.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-16 18:38 UTC"
+    },
+    {
+      "title": "Trump, Huang'ın Nvidia'ya dönmesine karşı olmadığını söyledi",
+      "image": "https://geoim.bloomberght.com/l/2026/11/16/ver1794854122/3794789/jpg/320x180",
+      "link": "https://www.bloomberght.com/trump-huang-in-nvidia-ya-donmesine-karsi-olmadigini-soyledi-3794789",
+      "summary": "ABD Başkanı Donald Trump, 12 Kasım'da istifa eden Jensen Huang'ın yeniden Nvidia CEO'su olmasına karşı olmadığını söyledi. Trump, Huang'ın dönüşüne ilişkin soruya \"Benim için sorun olmaz\" yanıtını verdi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-16 18:34 UTC"
+    },
+    {
+      "title": "Suriye Merkez Bankası, 16 Yıl Aradan Sonra Yeni Bir Bankanın Kuruluşuna Onay Verdi - سانا",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fVl9sdVNnZjRBX2VMclRSRjdkYTk3UE9xcThjYlZ1N1h0Q1dZTjZBOXo1TmVFX2pNUHBWM29pNllPRWtDVTFlODloWQ?oc=5",
+      "summary": "Suriye Merkez Bankası, 16 Yıl Aradan Sonra Yeni Bir Bankanın Kuruluşuna Onay Verdi سانا",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-16 18:23 UTC"
+    },
+    {
+      "title": "British actor Robert Pattinson named as new James Bond",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
+      "summary": "The actor called the studio's decision a 'dream come true'.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-16 18:13 UTC"
     },
     {
       "title": "Ankara'da bazı mahallelerde su kesintisi uygulanacak",
@@ -56,6 +137,15 @@
       "published_at": "2026-11-16 17:49 UTC"
     },
     {
+      "title": "OpenAI Araştırması: Bilim İnsanları Uçtan Uca Yapay Zekâ Araştırmasını Nadiren Talep Ediyor - Unite.AI",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDRyOEVKTjVFbFNJamVQSnR6eFVBS1gzbEdQc3Y1dnRnN2pRYmdmXzdnXzQ0eHBOVVFyMW4tUmttQWNBU2N4NUppREYwOGxwSHBQeGZIRkhaWnV6cnRkLXdITDdUSklOZm1JQk5WUld4eVhmMG90VERZVmx6UU90NmlqNDlGcjdxendCV1oxNEotUzF6UkVV?oc=5",
+      "summary": "OpenAI Araştırması: Bilim İnsanları Uçtan Uca Yapay Zekâ Araştırmasını Nadiren Talep Ediyor Unite.AI",
+      "source": "Google News - Teknoloji",
+      "category": "Teknoloji ve Bilim",
+      "published_at": "2026-11-16 17:43 UTC"
+    },
+    {
       "title": "Menzil Cemaati'nde neler oluyor, Uşak ve Manisa'daki protestoların arkasında ne var?",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca91/live/cf8f8000-e1be-11f1-a339-49d4d3ed4c86.png",
       "link": "https://www.bbc.com/turkce/articles/cq1430xx0p02o?at_medium=RSS&at_campaign=rss",
@@ -74,13 +164,22 @@
       "published_at": "2026-11-16 17:26 UTC"
     },
     {
-      "title": "Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role",
+      "title": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
       "image": "",
       "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
       "summary": "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-16 17:24 UTC"
+    },
+    {
+      "title": "Fed Başkanı Warsh'tan açıklamalar - Bloomberght",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsWklHWkNjNzRiZVpQZTN0TE5zNkRaYUphbTE2cGkxU2s0OTZxUk1LcFlNR0FpOFZHZGFpbUhaNU9NakRqQ3B1d2FjcnlhNS1NemsyVFBmVEh3VFZDaVRYS2owSVQ5RG1XTEU3WGpQMnFtZEdHMlR2SA?oc=5",
+      "summary": "Fed Başkanı Warsh'tan açıklamalar Bloomberght",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-16 17:18 UTC"
     },
     {
       "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
@@ -110,10 +209,10 @@
       "published_at": "2026-11-16 17:15 UTC"
     },
     {
-      "title": "Fed Başkanı Warsh'tan açıklamalar",
+      "title": "Warsh, yapay zekanın ekonomiye etkisine ilişkin üç senaryoyu değerlendirdi",
       "image": "https://geoim.bloomberght.com/l/2026/11/16/ver1794849145/3794788/jpg/320x180",
-      "link": "https://www.bloomberght.com/fed-baskani-warsh-tan-aciklamalar-3794788",
-      "summary": "ABD Merkez Bankası (Fed) Başkanı Kevin Warsh, San Francisco Fed'in ev sahipliğinde düzenlenen verimlilik ve istihdam konferansında konuşuyor.",
+      "link": "https://www.bloomberght.com/warsh-yapay-zekanin-ekonomiye-etkisine-iliskin-uc-senaryoyu-degerlendirdi-3794788",
+      "summary": "Fed Başkanı Kevin Warsh, yapay zekanın büyüme, istihdam ve finans piyasaları üzerindeki etkilerine ilişkin üç senaryo ortaya koydu.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-16 17:11 UTC"
@@ -209,15 +308,6 @@
       "published_at": "2026-11-16 16:39 UTC"
     },
     {
-      "title": "Piyasalarda gün sonu notları - Borsa Gundem",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GYlZZb0doeEtHTFNmdDJfM1U5OEtralJuZmRUYUZpOVBfTjZlSlNUQThIU2xGcjdVZnU4ZHh3SFd3RF9nVkd1enA0aGZLYlJpN0FIRFp2ZGtfekZFZFR1dzlkaktFbzJzZ2lIaFNYa0s?oc=5",
-      "summary": "Piyasalarda gün sonu notları Borsa Gundem",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-16 16:38 UTC"
-    },
-    {
       "title": "Türkiye İklim Okulu'ndaki panellerde iklim değişikliğine karşı eğitimde iyi uygulama örnekleri ele alındı",
       "image": "",
       "link": "https://www.aa.com.tr/tr/gundem/turkiye-iklim-okulundaki-panellerde-iklim-degisikligine-karsi-egitimde-iyi-uygulama-ornekleri-ele-alindi/4126964",
@@ -270,6 +360,15 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-16 16:27 UTC"
+    },
+    {
+      "title": "COP31'de Yapay Zeka Destekli Temiz Teknolojiler Girişimi Lansmanı yapıldı",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-yapay-zeka-destekli-temiz-teknolojiler-girisimi-lansmani-yapildi/4126954",
+      "summary": "Antalya'daki Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Yapay Zeka Destekli Temiz Teknolojiler Girişimi Lansmanı düzenlendi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-16 16:25 UTC"
     },
     {
       "title": "Çelik: Fon meselesinde ihmali, kusuru ve kastı olanlar muhakkak surette hesap verecek",
@@ -326,15 +425,6 @@
       "published_at": "2026-11-16 15:54 UTC"
     },
     {
-      "title": "Türkiye urges global support for Antalya wildfire action plan at COP31 climate conference in Türkiye - Anadolu Ajansı",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRWdTRExRR1hZb3VnT2RqSTAtaVZxZ0hVQUtTU3A4amZoVTZlRG9QUmh4UlVNNTVDRFB3R1dzSjJXQnVRbTlwVElCUTdXekNaOFdDQzFheXZPel9UY0k2QktUdXBCdjh6RFVubFoyVzFuZlVCZi0xcmt1ODcwOHJ2NV9raU5Cb2E2MS1tWTlmNi1pTzVuMV9YSTNsRzNKOU85ZkNzR3YzRkdOdklrSTlaYXFGX3dMY1prT2xDNWlrazAwbzcwamcyTWl1ckdETVNPQ0ZiTjdR?oc=5",
-      "summary": "Türkiye urges global support for Antalya wildfire action plan at COP31 climate conference in Türkiye Anadolu Ajansı",
-      "source": "Google News - Küresel Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-11-16 15:53 UTC"
-    },
-    {
       "title": "Çin, APEC Zirvesi'nde bölgesel serbest ticaret anlaşmasını ilerletme arayışında",
       "image": "",
       "link": "https://www.aa.com.tr/tr/ekonomi/cin-apec-zirvesinde-bolgesel-serbest-ticaret-anlasmasini-ilerletme-arayisinda/4126938",
@@ -342,24 +432,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-16 15:51 UTC"
-    },
-    {
-      "title": "ABD, gelişmiş yapay zeka çiplerine uzaktan erişimi engellemeye yönelik düzenleme yayımladı",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/abd-gelismis-yapay-zeka-ciplerine-uzaktan-erisimi-engellemeye-yonelik-duzenleme-yayimladi-/4126935",
-      "summary": "ABD Ticaret Bakanlığı, gelişmiş yapay zeka çiplerine ve sunucularına uzaktan erişim yoluyla mevcut ihracat kısıtlamalarının aşılmasını önlemek amacıyla düzenleme yaptı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-16 15:50 UTC"
-    },
-    {
-      "title": "Almanya'da vatandaşların dijital kamu hesaplarına yönelik büyük ölçekli siber saldırı girişimi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/almanyada-vatandaslarin-dijital-kamu-hesaplarina-yonelik-buyuk-olcekli-siber-saldiri-girisimi/4126933",
-      "summary": "Almanya'da bilgisayar korsanları, federal hükümetin vatandaşlara dijital kamu hizmetleri sunduğu merkezi kimlik doğrulama sistemi \"BundID\" hesaplarına yönelik büyük ölçekli siber saldırı girişiminde bulundu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-16 15:48 UTC"
     },
     {
       "title": "COP31'de 'Sıfır Atık' damgası",
@@ -470,13 +542,13 @@
       "published_at": "2026-11-16 14:58 UTC"
     },
     {
-      "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
+      "title": "Avrupa Komisyonu onay verdi: Commerzbank İtalyan UniCredit'e satılıyor - DW.com",
       "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss",
-      "summary": "Ukraine's military has been relying on the internet service since December 2024 to intercept Russian drones.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-16 14:58 UTC"
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDk1VFFBRmJNdnBsZktpeVloREhmZVZERkU2eGRBWDF1M1dVRW1DZUtaLUZ1bjNrbmUwSkNfWUtRVnRKTHUxdGlfcDVtdGpFQ1pCbDZyTFNPRHcxaXp5aVp5bEtjWkY0LTVhZEc0ZjlzLTRSelB3NGpuZG5feTJPVmdZLUVmT1BXZ3ZhOWRFcG9WTnhzMHU3dEVzUWtwT2p4NGNBcWVxbFBHY2d1VnRMNm5TWnJCclp4VFFiLThkLTJuMzNWVDV0QlZ3LXg3WUHSAc8BQVVfeXFMUEt6NElvUWVPMExmY0xKa0NZaGd4WlE4eDNzRTQteGhIU3FZUzUzZU5sM29ZMGl4TG1QZE9nTTRXdjJGOE9UakFTYWg5WWU3YUdTa1B5cWxqcGNqdElodGNTSHFLcnVMMU9ualN5ZGlDNklILU5Zakdzanp5bFdrUHN5cFdXVkswUUplV0drMGNZTzRoMXhkQng0SFdGTnFXOWhUdGZOcS0wYW5zS1hxVlo0RDFpNXVIOXhLcVFhRFJQVzExaklZd25mZWR5ZGlN?oc=5",
+      "summary": "Avrupa Komisyonu onay verdi: Commerzbank İtalyan UniCredit'e satılıyor DW.com",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-16 14:51 UTC"
     },
     {
       "title": "Beyoğlu Belediye Başkanvekili Sefer Karaahmetoğlu CHP'den istifa etti",
@@ -486,15 +558,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-16 14:51 UTC"
-    },
-    {
-      "title": "Avrupa Komisyonu onay verdi: Commerzbank İtalyan UniCredit'e satılıyor - DW.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDk1VFFBRmJNdnBsZktpeVloREhmZVZERkU2eGRBWDF1M1dVRW1DZUtaLUZ1bjNrbmUwSkNfWUtRVnRKTHUxdGlfcDVtdGpFQ1pCbDZyTFNPRHcxaXp5aVp5bEtjWkY0LTVhZEc0ZjlzLTRSelB3NGpuZG5feTJPVmdZLUVmT1BXZ3ZhOWRFcG9WTnhzMHU3dEVzUWtwT2p4NGNBcWVxbFBHY2d1VnRMNm5TWnJCclp4VFFiLThkLTJuMzNWVDV0QlZ3LXg3WUHSAc8BQVVfeXFMUEt6NElvUWVPMExmY0xKa0NZaGd4WlE4eDNzRTQteGhIU3FZUzUzZU5sM29ZMGl4TG1QZE9nTTRXdjJGOE9UakFTYWg5WWU3YUdTa1B5cWxqcGNqdElodGNTSHFLcnVMMU9ualN5ZGlDNklILU5Zakdzanp5bFdrUHN5cFdXVkswUUplV0drMGNZTzRoMXhkQng0SFdGTnFXOWhUdGZOcS0wYW5zS1hxVlo0RDFpNXVIOXhLcVFhRFJQVzExaklZd25mZWR5ZGlN?oc=5",
-      "summary": "Avrupa Komisyonu onay verdi: Commerzbank İtalyan UniCredit'e satılıyor DW.com",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-16 14:50 UTC"
     },
     {
       "title": "İşgalci İsrail, 2026'da Batı Şeria'da 100'den fazla yasa dışı yerleşim birimi ve çiftlik kurdu",
@@ -533,15 +596,6 @@
       "published_at": "2026-11-16 14:40 UTC"
     },
     {
-      "title": "Infantino made things worse at FIFA than Blatter, says Jurgen Klopp",
-      "image": "",
-      "link": "https://www.aljazeera.com/sports/2026/11/16/infantino-made-things-worse-at-fifa-than-blatter-says-jurgen-klopp?traffic_source=rss",
-      "summary": "The Germany coach believes anyone who replaces the FIFA president should care deeply about the future of football.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-16 14:36 UTC"
-    },
-    {
       "title": "Katil İsrail'in Gazze'ye düzenlediği saldırılarda son 24 saatte 3 kişi hayatını kaybetti",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-duzenledigi-saldirilarda-son-24-saatte-3-kisi-hayatini-kaybetti-963443.html",
@@ -549,15 +603,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-16 14:34 UTC"
-    },
-    {
-      "title": "COP31'de \"Yarını Tasarlayanlar\" paneli düzenlendi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-yarini-tasarlayanlar-paneli-duzenlendi/4126868",
-      "summary": "Sanayi ve Teknoloji Bakan Yardımcısı Kasım Gönüllü, Türkiye'nin 2053 net sıfır emisyon hedefi doğrultusunda sanayide yeşil dönüşüm yatırımlarını hızlandırdıklarını bildirdi.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-16 14:32 UTC"
     },
     {
       "title": "Beyoğlu Belediyesi Başkanvekili CHP'den istifa etti",
@@ -650,24 +695,6 @@
       "published_at": "2026-11-16 13:40 UTC"
     },
     {
-      "title": "Brüksel'de farelerle mücadele için gelincik ve köpek kullanılıyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/brukselde-farelerle-mucadele-icin-gelincik-ve-kopek-kullaniliyor-963437.html",
-      "summary": "Belçika'nın başkenti Brüksel'de fare sorununa çözüm bulmak amacıyla gelincik ve köpeklerin kullanıldığı pilot uygulamanın ilk çalışmasında 97 fare itlaf edildi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-16 13:35 UTC"
-    },
-    {
-      "title": "İletişim Başkanı Duran: İsrail'in yalan makinesine karşı amansız bir mücadele verdik",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-israilin-yalan-makinesine-karsi-amansiz-bir-mucadele-verdik-963438.html",
-      "summary": "İletişim Başkanı Burhanettin Duran, \"İsrail yönetiminin gerçeklerle yüzleşmek yerine Sayın Cumhurbaşkanı'mızı hedef alması, içine düştüğü acziyetin çok açık bir göstergesidir\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-16 13:33 UTC"
-    },
-    {
       "title": "Avrupa Merkez Bankası'ndan uyarı. \"Yapay zeka balonu\" patlıyor mu? - NTV Haber",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON204aGRvQjktUEZ3WC1tUmdnSkdnTVl0Q0E0VjFQa3FYMnJaaFMzWGt6ckhIWE5HSjB6WUJvTFVWOGVKWmV6cm5ZcDdFTzZtSnFTd1Q5SjgyU1UtTHk0bjB1UXJKa3g3ekJpZEZjX05PNUVKU1piVnFYemNtV0xteTVIa2xSTXFodkwzZzIxb2ZuSDkxSFlGVFFWeExaT3PSAaQBQVVfeXFMUFVCRm5CZzRMbHoySTN0WnhxcWcxNm1YT0NiZVdacmsyVjByb25ORldpaFpEVlpKN3UxM1ZxY3pTc2hfM01nS2pCYlA4Y1JKM2NYQV8yckRLcDItX21sRUdxbWM5Vl9RQmRPRDlIQmJSMU83SDJ2dG10dFVRWTNlbG93SnhwZ2Zlck1NUUdSTnRraThiZGRDNWdPaWFKU0lFdXBHSG4?oc=5",
@@ -720,24 +747,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-11-16 13:14 UTC"
-    },
-    {
-      "title": "Vokskrant: Knot'un AMB başkanlığı yarışından çekilmesi bekleniyor",
-      "image": "https://geoim.bloomberght.com/l/2026/11/16/ver1794834422/3794761/jpg/320x180",
-      "link": "https://www.bloomberght.com/vokskrant-knotun-amb-baskanligi-yarisindan-cekilmesi-bekleniyor-3794761",
-      "summary": "Hollanda'da yayımlanan De Volkskrant gazetesi, Klaas Knot'un bu hafta Avrupa Merkez Bankası (AMB) başkanlığı yarışından çekilmesinin beklendiğini bildirdi.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-16 13:06 UTC"
-    },
-    {
-      "title": "Apple yapay zeka destekli sağlık uygulaması başlattı",
-      "image": "https://geoim.bloomberght.com/l/2026/11/16/ver1794836477/3794760/jpg/320x180",
-      "link": "https://www.bloomberght.com/apple-yapay-zeka-destekli-saglik-uygulamasi-baslatti-3794760",
-      "summary": "Apple, sağlıkla ilgili sorularını yapay zekâ aracılığıyla yanıtlayan yeni bir sağlık uygulaması kullanıma sundu. Apple Health AI Usage Study adlı araştırma kapsamında geliştirilen uygulama, kişisel sağlık verilerini tıbbi araştırmalarla bir araya getirerek kullanıcılara özel yanıtlar sunuyor.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-16 13:01 UTC"
     },
     {
       "title": "Merkez Bankası kurları belli oldu: Dolar 50,39, Euro 55,50 lira - Esgazete",
@@ -873,15 +882,6 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-16 08:56 UTC"
-    },
-    {
-      "title": "Klinik Araştırmalarda Denetlenebilir Yapay Zekâ için SAS ve Posit Araçları Entegre Ediyor - Unite.AI",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUlIdDgxdDN6SnBFbjlDdW10SWVkT2hPMTJucFltcERMUDlJRWlGamprb0RQNFRONnBpTkVRSFNzaXlfYVNpM0gyZmVYVVg0X1dFNHFKZTc0VEtoSE44S3ZWeHJvUXgtcVVpUUh2c1dCcjVFMmh2Vi04aDE0elFvOE81dDJZbG5UN1pQM1ZPYUVxSk1yQU5n?oc=5",
-      "summary": "Klinik Araştırmalarda Denetlenebilir Yapay Zekâ için SAS ve Posit Araçları Entegre Ediyor Unite.AI",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-11-16 08:22 UTC"
     },
     {
       "title": "ABD Merkez Bankası Başkanı’nın Açıklamaları Öncesinde Altın Fiyatları Dengelendi - سانا",
