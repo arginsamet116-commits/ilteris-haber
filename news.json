@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-16 01:54 UTC",
+  "updated_at": "2026-11-16 02:46 UTC",
   "items": [
+    {
+      "title": "Houthis advance in Yemen as government forces move to defend Aden",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+      "summary": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-16 02:22 UTC"
+    },
+    {
+      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-16 01:53 UTC"
+    },
+    {
+      "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
+      "summary": "Pontiff says he supports Indigenous efforts to protect their lands, demands justice for slain environmental defenders.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-16 01:52 UTC"
+    },
     {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
@@ -18,6 +45,15 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-11-16 01:45 UTC"
+    },
+    {
+      "title": "Pope urges end to Amazon deforestation",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss",
+      "summary": "Pope Leo XIV warns deforestation and illegal mining are threatening the Amazon rainforest and the local communities.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-16 01:44 UTC"
     },
     {
       "title": "Çin Merkez Bankası PBOC, USD/CNY referans kurunu önceki 6,7152 seviyesine kıyasla 6,7141 olarak belirledi - FXStreet",
@@ -110,15 +146,6 @@
       "published_at": "2026-11-16 00:04 UTC"
     },
     {
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b00/live/90c0ff50-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-16 00:03 UTC"
-    },
-    {
       "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
       "image": "",
       "link": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
@@ -128,10 +155,10 @@
       "published_at": "2026-11-16 00:01 UTC"
     },
     {
-      "title": "Iran war live: Tehran warns it may strike first before another US attack",
+      "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
       "image": "",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
-      "summary": "Yemeni army says it is 'repositioning' troops away from the Bab al-Mandeb strait and other key coastal areas.",
+      "summary": "The USS Theodore Roosevelt has arrived in the Middle East, while Iran warned it would not simply wait for an attack.",
       "source": "Al Jazeera",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-16 00:00 UTC"
@@ -245,6 +272,15 @@
       "published_at": "2026-11-15 22:02 UTC"
     },
     {
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba3f/live/22cfe9d0-e115-11f1-a7db-d90284d21c62.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-15 22:00 UTC"
+    },
+    {
       "title": "Kasım SED ödemeleri hak sahiplerinin hesaplarına yatırıldı",
       "image": "",
       "link": "https://www.aa.com.tr/tr/gundem/kasim-sed-odemeleri-hak-sahiplerinin-hesaplarina-yatirildi/4126060",
@@ -353,24 +389,6 @@
       "published_at": "2026-11-15 20:54 UTC"
     },
     {
-      "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
-      "summary": "For the first time in more than three years, Gaza’s swimming federation has held a competition.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-15 20:50 UTC"
-    },
-    {
-      "title": "Who can force Israel to implement Gaza ceasefire deal?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
-      "summary": "Storms batter Palestinian territory as Israel restricts entry of aid.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-15 20:37 UTC"
-    },
-    {
       "title": "Nevşehir'de ata çarpan yolcu otobüsünde bir kişi öldü, 2 kişi yaralandı",
       "image": "",
       "link": "https://www.trthaber.com/haber/turkiye/nevsehirde-ata-carpan-yolcu-otobusunde-bir-kisi-oldu-2-kisi-yaralandi-963364.html",
@@ -387,15 +405,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-15 20:35 UTC"
-    },
-    {
-      "title": "Estonia to close border crossings with Russia after alleged arson attack",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
-      "summary": "Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-15 20:31 UTC"
     },
     {
       "title": "Bursa'nın İnegöl ilçesinde 3 ev yandı: 10 kişi dumandan etkilendi",
@@ -639,15 +648,6 @@
       "source": "BBC Türkçe",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-15 13:52 UTC"
-    },
-    {
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-15 13:42 UTC"
     },
     {
       "title": "South Korea's top scorer in tax accountancy exam admits cheating",
