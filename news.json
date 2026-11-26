@@ -1,6 +1,366 @@
 {
-  "updated_at": "2026-11-25 21:54 UTC",
+  "updated_at": "2026-11-26 03:57 UTC",
   "items": [
+    {
+      "title": "Merkez Bankası TL depo alım ihalelerini açtı - Yeni Asır",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYmZtUk9XekFCTTVOOUlRODJuOW5pRmR2M29URzZpS2J5SHpGOHFMX0tIaG1icVJDbF9QOE5hQjZZeVctTDNzSFRocTRRRmxaZUhvZ1ZBTkFta0VpdVVkMlZuSk9XNXd2OVFQQXZESGY5VmxKMUdDR2l1VjlDVFRhYzFIaDFoYUhvdlJGU2RhLWtvcFlVLWc?oc=5",
+      "summary": "Merkez Bankası TL depo alım ihalelerini açtı Yeni Asır",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-26 03:50 UTC"
+    },
+    {
+      "title": "Yılın son MGK toplantısı bugün yapılacak",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/yilin-son-mgk-toplantisi-bugun-yapilacak-964491.html",
+      "summary": "Milli Güvenlik Kurulu, yılın son toplantısı için bugün Beştepede toplanıyor. Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığında gerçekleşecek kritik zirvede, \"Terörsüz Türkiye\" sürecinden Hürmüz Boğazındaki gelişmelere, Libyadan Doğu Akdenize kadar pek çok başlık ele alınacak.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 03:32 UTC"
+    },
+    {
+      "title": "Colombian president taunts arrested supermarket hostage-takers",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+      "summary": "Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 03:23 UTC"
+    },
+    {
+      "title": "Mısır'da tanker yangınında can kaybı 31'e yükseldi",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/misirda-tanker-yangininda-can-kaybi-31e-yukseldi-964489.html",
+      "summary": "Mısır'ın başkenti Kahire'nin batısındaki Giza kentinde petrol yüklü tankerde çıkan yangında yaşamını yitirenlerin sayısı 31'e, yaralananların sayısı ise 21'e çıktı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 03:21 UTC"
+    },
+    {
+      "title": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
+      "image": "",
+      "link": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
+      "summary": "Dario Amodei's remarks come amid predictions that AI may soon match or surpass human intelligence.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 03:20 UTC"
+    },
+    {
+      "title": "Kayseri'de zehir taciri 19 kişi tutuklandı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/turkiye/kayseride-zehir-taciri-19-kisi-tutuklandi-964488.html",
+      "summary": "Kayseri'de düzenlenen uyuşturucu operasyonunda gözaltına alınan 20 zanlıdan 19'u tutuklandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 03:14 UTC"
+    },
+    {
+      "title": "Fransa'da lise eylemlerinde yaklaşık 500 öğrenci yaralandı",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/fransada-lise-eylemlerinde-yaklasik-500-ogrenci-yaralandi-964487.html",
+      "summary": "Fransa Eğitim Bakanı Edouard Geffray, ülkede 2 ayı aşkın süredir devam eden lise eylemlerinde yaklaşık 500 öğrencinin yaralandığını duyurdu.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 03:06 UTC"
+    },
+    {
+      "title": "US announces new tariffs on host of countries including China",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 03:01 UTC"
+    },
+    {
+      "title": "FIFA turns to influencers to promote U17 World Cup",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
+      "summary": "FIFA has enlisted social media influencers to promote the Under-17 World Cup in Qatar.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 03:00 UTC"
+    },
+    {
+      "title": "ABD Merkez Bankası'nın (Fed) faiz artırımlarına devam etme olasılığı fiyatlar üzerinde baskı oluşturduğundan, altın fiyatları sert düşüş gösterdi. - Vietnam.vn",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLW1OVkJ1dUhpcU0xTG5TSWJLOXZfdDMtNG9zTDhtbE9QWk5IcmZRNVlfdDFXN3kwNHAyY1RGT251Yk1LT21BWDhRb2Jkby1ReXhTS3o5UUpONWZtWklfT1FRRk9NUTlyMUxxNzlhXzRFeVNnSkNjaC1iMWRqM2dpekxMRU1pUDI1TVZINVRLb28?oc=5",
+      "summary": "ABD Merkez Bankası'nın (Fed) faiz artırımlarına devam etme olasılığı fiyatlar üzerinde baskı oluşturduğundan, altın fiyatları sert düşüş gösterdi. Vietnam.vn",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-26 02:14 UTC"
+    },
+    {
+      "title": "Güney Kore Merkez Bankası faizi ve büyüme tahminlerini artırdı - Foreks.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNalZKb3FmaDhrbXFoNFlUaEJmWTZaZENCVnF1VlZkeDEtLVduREtJZ0lLS082UVJjdXYyRnhEcEdzUlZvc19SelE3MnFmc240MTR1VUc5aWtHeEY1T3hCQXUwLVFXYmVEb25YUlQ1UXlncjFoaWJ1bWhqMW5QUG93UnkwTjdjSWNqTlpzYW1OVGZFVDRtM05JdHlYckl6RUIzekFiNFJBbU5zQUhhS3FHOWlLQy0xYXMxRnFEQmxPZmFsUFpBS1EyMGlSWVEtdEZyNUhLb3lnbUEzMTg?oc=5",
+      "summary": "Güney Kore Merkez Bankası faizi ve büyüme tahminlerini artırdı Foreks.com",
+      "source": "Google News - Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-26 02:13 UTC"
+    },
+    {
+      "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+      "summary": "North Korean leader warns attempts to deny country's nuclear status will be seen as \"an open declaration of war\".",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 02:03 UTC"
+    },
+    {
+      "title": "Yapay zeka şirketlerinde alarm: En güçlü modeller kamuoyuna açıklanmayabilir - Gazete Oksijen",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGVld2Z1MkdtWmRrc2RtQU1HVGZ2OWRkSVVvdXBxS1JlQzRxaHd5a3JxVWs3Z1ZKaEc4WWZQNTU3aHlYQzlJdVFrems5WkRVTlBpVU8ySkloYVgydTlsMDExSmZpQVVtWjlDNzRkeXRLZ2JNaGF3X0ZRWm1GQzlPSU11XzhpN1kyUzRaTFpqRkVkNjRHaU5weWQzUENhNnF2X1FNa3dlLU02NWQ1N3hUS21ST3A5SjNKSVJlQjZUUVVKWjNpZkE?oc=5",
+      "summary": "Yapay zeka şirketlerinde alarm: En güçlü modeller kamuoyuna açıklanmayabilir Gazete Oksijen",
+      "source": "Google News - Teknoloji",
+      "category": "Teknoloji ve Bilim",
+      "published_at": "2026-11-26 01:41 UTC"
+    },
+    {
+      "title": "Photos: Storms and an El Nino-charged king tide batter California’s coast",
+      "image": "",
+      "link": "https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss",
+      "summary": "Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 01:40 UTC"
+    },
+    {
+      "title": "Ukraine attacks Russian military base, says five planes struck",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
+      "summary": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 01:39 UTC"
+    },
+    {
+      "title": "ICE officers smash car window, pepper spray bystanders",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ice-officers-smash-car-window-pepper-spray-bystanders?traffic_source=rss",
+      "summary": "Masked ICE agents smashed a car window and forcibly opened its door to arrest a man in California.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 01:33 UTC"
+    },
+    {
+      "title": "California warns of flooding as King Tides peak over Thanksgiving",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6396/live/c71ce590-e919-11f1-8383-53f283141713.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+      "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 01:22 UTC"
+    },
+    {
+      "title": "Judges recommend prosecutors end corruption case against Netanyahu",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
+      "summary": "Israeli judges have ruled there is little prospect Benjamin Netanyahu will be convicted of corruption.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 01:08 UTC"
+    },
+    {
+      "title": "Capital for a changing climate: How to change environmental ambition into action - Monocle",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPazF2ZUJqZF84WTMxcWlSUGtaZVdHMmFiLWFGWVEwRDlkT1ZZbzJyUHY2QmRkbGZQRURBcHNHM2IyeXJpV3A4Ui04OXQzalZqNk5fT0JlS2NSdnFhN20tZ3BLUHhBLVo1VmxNcENXQ2FpZHllTzBxNy0zcGd0UWJlUHFmOFc5bTlZX0ljdW93R004TTVZQkNtMGhaZVFjWHZsVDl4WVVhV3lSdExlakUzc0lZcFZaYVBsMVE?oc=5",
+      "summary": "Capital for a changing climate: How to change environmental ambition into action Monocle",
+      "source": "Google News - Küresel Ekonomi",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-26 01:07 UTC"
+    },
+    {
+      "title": "Storms push Macy’s Thanksgiving Day Parade in New York City to Saturday",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss",
+      "summary": "The parade, which marks its 100th edition, got a last-minute rain check ahead of heavy gusts on Thursday.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 00:52 UTC"
+    },
+    {
+      "title": "ISIL blamed for multiple suicide attacks in Syria",
+      "image": "",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
+      "summary": "ISIL suicide attack kills two in an assault on a security post in northeastern Syria.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 00:51 UTC"
+    },
+    {
+      "title": "UKMTO: Dubai açıklarında bir tankerin yakınında patlama meydana geldi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/ukmto-dubai-aciklarinda-bir-tankerin-yakininda-patlama-meydana-geldi/4138122",
+      "summary": "Birleşik Arap Emirlikleri'nin (BAE) Dubai kenti açıklarındaki bir tankerin yakınında patlama meydana geldiği bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 00:42 UTC"
+    },
+    {
+      "title": "Two Syrian security personnel killed in ISIL suicide attack",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
+      "summary": "Syrian forces say the attack in northeastern Syria's city of Hasakah involved four assailants who were all killed.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 00:41 UTC"
+    },
+    {
+      "title": "Dünyaya çarpacak bir asteroitin yönünü değiştirebilir miyiz? İlk denemeden fotoğraflar",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8562/live/1f8d5d00-e8ec-11f1-a094-5fdc692f3e33.jpg",
+      "link": "https://www.bbc.com/turkce/articles/c3grexk47dx9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Dünyayı tehdit eden bir asteroitin yönünü değiştirebiliriz miyiz? Bilim kurgu senaryoları uzun yıllardır bu soruyu işliyor. Şimdi elimizde, bir uzay aracının kasıtlı olarak çaptırılmasının bir asteroitte oluşturduğu etkiye ait fotoğraflar var.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 00:35 UTC"
+    },
+    {
+      "title": "Fon soruşturmasıyla ilgili bakanlar ortak basın toplantısı düzenleyecek",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a368/live/e73e23a0-e92f-11f1-92df-e3d7ab38f72c.jpg",
+      "link": "https://www.bbc.com/turkce/articles/ckedqgjqw1d4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ajanslar, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek'in 26 Kasım perşembe günü fon soruşturmasına ilişkin ortak basın toplantısı düzenleyeceğini duyurdu.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 00:26 UTC"
+    },
+    {
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 00:23 UTC"
+    },
+    {
+      "title": "Has global jihadism failed, or is it simply changing shape?",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae31/live/2d66b8d0-e8d9-11f1-99a1-253766e7ad8b.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 00:22 UTC"
+    },
+    {
+      "title": "Zambia bans protest against push to remove presidential term limits",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss",
+      "summary": "Critics fear the campaign could undermine democratic safeguards as senior opposition figures remain behind bars.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 00:22 UTC"
+    },
+    {
+      "title": "A meeting with Democrats over healthcare? Trump says he’s open to it",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss",
+      "summary": "Experts tell Al Jazeera they are sceptical that Trump would back Medicare for All, a proposal for national healthcare.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 00:18 UTC"
+    },
+    {
+      "title": "Avrupa'nın tartışmalı 'Ruanda'ya sürgün' planı düzensiz göçmenleri nasıl etkileyecek?",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab19/live/448d6030-e8d5-11f1-99b6-a35a62fa4264.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cw05360g5p0ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Göç uzmanları, Almanya'nın da aralarında yer aldığı 5 Avrupa Birliği (AB) üyesi ülkenin istenmeyen göçmenleri Ruanda'ya gönderme planını \"Avrupa demokrasisini zayıflatan\" bir girişim olarak nitelendiriyor. Peki Avrupa hükümetlerinin bu planının arkasında ne yatıyor? Türk vatandaşları da Ruanda'ya gönderilir mi?",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 00:13 UTC"
+    },
+    {
+      "title": "Fenerbahçe Londra'da Shakhtar Donetsk'i tek golle geçti",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6945/live/308ae0c0-e91c-11f1-a150-3b4eded49105.jpg",
+      "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+      "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'ndeki beşinci hafta maçında Ukrayna'nın Shakhtar Donetsk takımıyla Londra'da karşılaştı. Sarı-lacivertliler Arda Turan'ın çalıştırdığı Shakhtar Donetsk'i 56. dakikada Vedat Muriqi'nin kaydettiği golle 1-0 mağlup etti.",
+      "source": "BBC Türkçe",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 00:05 UTC"
+    },
+    {
+      "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
+      "summary": "A blast hits Sanaa after air strikes near the airport, as the Saudi coalition intercepts missiles over Riyadh.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-26 00:00 UTC"
+    },
+    {
+      "title": "Macy's postpones Thanksgiving parade due to weather",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77a3/live/3e055710-e932-11f1-99b6-a35a62fa4264.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-25 23:57 UTC"
+    },
+    {
+      "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+      "image": "",
+      "link": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
+      "summary": "Explosion reported in Sanaa after Saudi air defenses intercept ballistic missiles targeting Riyadh.",
+      "source": "Al Jazeera",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-25 23:33 UTC"
+    },
+    {
+      "title": "İşgalci İsrail'in ateşkese rağmen Gazze'de düzenlediği saldırıda 3 Filistinli hayatını kaybetti",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-ateskese-ragmen-gazzede-duzenledigi-saldirida-3-filistinli-hayatini-kaybetti-964486.html",
+      "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin kuzeyinde düzenlediği hava saldırısında 3 Filistinli yaşamını yitirdi, 2 kişi de yaralandı.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-25 23:22 UTC"
+    },
+    {
+      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32bb/live/4d5bc080-e920-11f1-9108-c5b270b0703d.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-25 23:18 UTC"
+    },
+    {
+      "title": "Mısır'daki tanker yangınında ölenlerin sayısı 31'e, yaralananların sayısı 21'e yükseldi",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/misirdaki-tanker-yangininda-olenlerin-sayisi-31e-yaralananlarin-sayisi-21e-yukseldi/4138115",
+      "summary": "Mısır'ın başkenti Kahire'nin batısındaki Giza kentinde petrol yüklü tankerde çıkan yangında yaşamını yitirenlerin sayısının 31'e, yaralananların sayısının ise 21'e çıktığı bildirildi.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-25 23:17 UTC"
+    },
+    {
+      "title": "İsrail'in ateşkese rağmen Gazze'de düzenlediği saldırıda 3 Filistinli hayatını kaybetti",
+      "image": "",
+      "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzede-duzenledigi-saldirida-3-filistinli-hayatini-kaybetti/4138114",
+      "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin kuzeyinde düzenlediği hava saldırısında 3 Filistinli yaşamını yitirdi, 2 kişi de yaralandı.",
+      "source": "Anadolu Ajansı",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-25 23:00 UTC"
+    },
+    {
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "source": "BBC World",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-25 22:18 UTC"
+    },
+    {
+      "title": "Anthropic CEO'su Amodei: İnsan kontrolü, yapay zekaya devredilmemeli",
+      "image": "https://geoim.bloomberght.com/l/2026/11/26/ver1795644057/3795700/jpg/320x180",
+      "link": "https://www.bloomberght.com/anthropic-ceo-su-amodei-insan-kontrolu-yapay-zekaya-devredilmemeli-3795700",
+      "summary": "Yapay zekanın sorumsuz bir şekilde geliştirilmesi durumunda insan kontrolünün tehlikeye girebileceği yönündeki açıklamalara Anthropic CEO'su Dario Amodei'den yorum gecikmedi. Amodei, \"Verimlilik veya güvenlik uğruna meşruiyetten ya da kendi kaderini tayin etme hakkından asla ödün vermemeliyiz\" dedi. Dario Amodei yapay zekanın istihdam üzerindeki olumsuz etkisini sınırlamak adına bazı modellerin kısıtlanabileceği görüşünü dile getirdi.",
+      "source": "Bloomberg HT",
+      "category": "Ekonomi ve Finans",
+      "published_at": "2026-11-25 21:57 UTC"
+    },
     {
       "title": "North Korea expels Swiss diplomat in sanctions row",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg",
@@ -9,6 +369,15 @@
       "source": "BBC World",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-25 21:51 UTC"
+    },
+    {
+      "title": "Fenerbahçe Londra'dan 3 puanla dönüyor",
+      "image": "",
+      "link": "https://www.trthaber.com/haber/gundem/fenerbahce-londradan-3-puanla-donuyor-964485.html",
+      "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 5. haftasında deplasmanda karşılaştığı Ukrayna temsilcisi Shakhtar Donetsk'i 10 mağlup etti.",
+      "source": "TRT Haber",
+      "category": "Dünya ve Diplomasi",
+      "published_at": "2026-11-25 21:50 UTC"
     },
     {
       "title": "US stocks fall further as fears over AI intensify",
@@ -20,10 +389,10 @@
       "published_at": "2026-11-25 21:43 UTC"
     },
     {
-      "title": "SPK'dan girişim sermayesi yatırımcılarına finansal eşik düzenlemesi",
+      "title": "SPK'dan girişim sermayesinde nitelikli yatırımcı istisnası",
       "image": "https://geoim.bloomberght.com/l/2026/11/26/ver1795642757/3795699/jpg/320x180",
-      "link": "https://www.bloomberght.com/spk-dan-girisim-sermayesi-yatirimcilarina-finansal-esik-duzenlemesi-3795699",
-      "summary": "SPK, girişim sermayesi yatırım yükümlülüğü bulunan şirketler ile belirli mevcut taahhütlerini yerine getirecek yatırımcıların eski finansal eşiklerden yararlanmasına izin verdi.",
+      "link": "https://www.bloomberght.com/spk-dan-girisim-sermayesinde-nitelikli-yatirimci-istisnasi-3795699",
+      "summary": "SPK, girişim sermayesi yatırım yükümlülüğü bulunan şirketler ile belirli mevcut kaynak taahhütlerini yerine getirecek yatırımcılar için nitelikli yatırımcı şartlarına istisna getirdi. Bu kapsamda, yalnızca ilgili yükümlülük ve taahhütler için eski finansal eşikler uygulanacak.",
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-25 21:38 UTC"
@@ -65,15 +434,6 @@
       "published_at": "2026-11-25 21:30 UTC"
     },
     {
-      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49ab/live/4933ad90-e913-11f1-a094-5fdc692f3e33.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 21:25 UTC"
-    },
-    {
       "title": "Resmi Gazete'de bugün (26.11.2026)",
       "image": "https://geoim.bloomberght.com/l/2026/11/26/ver1795641033/3795698/jpg/320x180",
       "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-26112026-3795698",
@@ -81,15 +441,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-25 21:09 UTC"
-    },
-    {
-      "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
-      "summary": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 21:03 UTC"
     },
     {
       "title": "ABD'nin New Jersey eyaletinde yaklaşan fırtına nedeniyle \"olağanüstü hal\" ilan edildi",
@@ -101,22 +452,13 @@
       "published_at": "2026-11-25 20:59 UTC"
     },
     {
-      "title": "US Education Department probes Virginia schools after sexual abuse scandal",
+      "title": "Fenerbahçe, Şampiyonlar Ligi'nde Shakhtar Donetsk'i tek golle geçti",
       "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
-      "summary": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
-      "source": "Al Jazeera",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-sampiyonlar-liginde-shakhtar-donetski-tek-golle-gecti/4138081",
+      "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında Ukrayna'nın Shakhtar Donetsk ekibiyle İngiltere'nin başkenti Londra'da karşılaşan Fenerbahçe, Muric'in golüyle rakibini 1-0 yenerek puanını 8'e yükseltti.",
+      "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 20:52 UTC"
-    },
-    {
-      "title": "Fed'in Bej Kitabı ABD'de büyüme ve fiyat artışının sürdüğüne işaret etti - Anadolu Ajansı",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTTA3d0lXYmZXMFp2ZGR6OGZ3amRocUl3T2gwRHV0ZTZFNnVTVlB6SXRCUEdhTkl4SGdfM0VabVVYTnZXOGdOcG1kTnYxbTFrd0lPWTNPOTJZYV80NWtGRWdrZzgxblJ2U19ka2hEalY1OUZITnBSc2NRNTRKcllhY3RiWFRWQ0NyaUFyaU5FOU9XdVBhLTVucHpfSFQxXy1RZUpZQ3dTWk9QYkt5RXJnaQ?oc=5",
-      "summary": "Fed'in Bej Kitabı ABD'de büyüme ve fiyat artışının sürdüğüne işaret etti Anadolu Ajansı",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-25 20:48 UTC"
+      "published_at": "2026-11-25 20:57 UTC"
     },
     {
       "title": "Fed'in Bej Kitabı ABD'de büyüme ve fiyat artışının sürdüğüne işaret etti",
@@ -126,15 +468,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-25 20:46 UTC"
-    },
-    {
-      "title": "Baby Aliyah steals the show during Australian Senate debate",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
-      "summary": "Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 20:42 UTC"
     },
     {
       "title": "İstanbul Valisi Gül'den sokakta kalan vatandaşların 112'ye bildirilmesi çağrısı",
@@ -173,24 +506,6 @@
       "published_at": "2026-11-25 20:30 UTC"
     },
     {
-      "title": "What’s behind Europe’s protests?",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss",
-      "summary": "Increase in protests and industrial disputes across EU and UK.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 20:30 UTC"
-    },
-    {
-      "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
-      "summary": "The judges' recommendations came as Israel's longest-serving prime minister fights for his political survival.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 20:29 UTC"
-    },
-    {
       "title": "İstanbul Valisi Gül'den sokakta kalanlar için çağrı",
       "image": "",
       "link": "https://www.trthaber.com/haber/turkiye/istanbul-valisi-gulden-sokakta-kalanlar-icin-cagri-964482.html",
@@ -207,15 +522,6 @@
       "source": "TRT Haber",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-25 20:17 UTC"
-    },
-    {
-      "title": "Migrant wrongly deported by Trump leaves US for Spain",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/migrant-wrongly-deported-by-trump-leaves-us-for-spain?traffic_source=rss",
-      "summary": "Kilmar Abrego Garcia has arrived in Spain with his wife after a 20-month legal battle with the Trump administration.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 20:14 UTC"
     },
     {
       "title": "Suriye'nin Haseke kentinde bomba yüklü motosiklet patladı",
@@ -245,15 +551,6 @@
       "published_at": "2026-11-25 20:11 UTC"
     },
     {
-      "title": "Fenerbahçe, Londra'da Shakhtar Donetsk deplasmanında",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f04/live/cc6ad220-e8ea-11f1-8808-1d4222955d7e.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
-      "summary": "Fenerbahçe, Şampiyonlar Ligi'ndeki beşinci hafta maçında bu akşam Ukrayna'nın Shaktar Donetsk takımıyla karşılaşıyor.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 20:08 UTC"
-    },
-    {
       "title": "BM: Somali'de insani yardım planının yalnızca yüzde 36'sı finanse edilmiş durumda",
       "image": "",
       "link": "https://www.trthaber.com/haber/dunya/bm-somalide-insani-yardim-planinin-yalnizca-yuzde-36si-finanse-edilmis-durumda-964479.html",
@@ -281,15 +578,6 @@
       "published_at": "2026-11-25 20:01 UTC"
     },
     {
-      "title": "Elderly man with Alzheimer’s rescued after 11 days in Amazon jungle",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_man-with-alzheimers-rescued-after-11-days-in-amazon-251126?traffic_source=rss",
-      "summary": "A 74-year-old man with Alzheimer's has been found alive after missing for 11 days in Brazil's Amazon rainforest.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 19:57 UTC"
-    },
-    {
       "title": "ABD Ukrayna’ya 622 milyon dolarlık F-16 bakım ve destek ekipmanı satışını onayladı",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/abd-ukrayna-ya-622-milyon-dolarlik-f-16-bakim-ve-destek-ekipmani-satisini-onayladi/4138031",
@@ -297,15 +585,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-25 19:56 UTC"
-    },
-    {
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 19:54 UTC"
     },
     {
       "title": "İstanbul'a kar ne zaman yağacak?",
@@ -353,24 +632,6 @@
       "published_at": "2026-11-25 19:43 UTC"
     },
     {
-      "title": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
-      "summary": "Army hails Iowa's lead azide disposal operation as some experts warn of potentially hidden toxins.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 19:41 UTC"
-    },
-    {
-      "title": "Dozens killed in Egypt vehicle fire",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_dozens-killed-in-egypt-vehicle-fire-251126?traffic_source=rss",
-      "summary": "At least 30 have been ⁠killed and ⁠15 injured when a vehicle carrying ‌petroleum products caught fire in Egypt.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 19:41 UTC"
-    },
-    {
       "title": "Berlin'de Filistin'e destek gösterisi düzenlendi",
       "image": "",
       "link": "https://www.aa.com.tr/tr/dunya/berlinde-filistine-destek-gosterisi-duzenlendi/4137952",
@@ -378,96 +639,6 @@
       "source": "Anadolu Ajansı",
       "category": "Dünya ve Diplomasi",
       "published_at": "2026-11-25 19:29 UTC"
-    },
-    {
-      "title": "Fed'in Bej Kitap raporu: Ilımlı büyüme sürdü, enflasyon yüksek seyrini korudu - Ekonomim",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNck5DWDlpUVZDOE1Kc0d0dy1ncUN3NmxQVkhkV1JJUDlxR3Z6THpodW1CUTFrWnJFSllYWlJDQkNyX21GcWRvMmlOd0JQMTk1blJaTlN0dkpWUDRWQ2VBSUhJVGprSVdja3JBS1JnNmY3cHZBdl9nd2ZSMXIzbmFqbk1hbURWTE1pT04waVNtRURtUWwxRWY2MmxXR1J1OGNkWk1TcnJBclc0ZE5zSEVobDdyVWpSNU5GVk1hNy14ZkVSd3ZVblBMMA?oc=5",
-      "summary": "Fed'in Bej Kitap raporu: Ilımlı büyüme sürdü, enflasyon yüksek seyrini korudu Ekonomim",
-      "source": "Google News - Ekonomi",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-25 19:27 UTC"
-    },
-    {
-      "title": "Bellingham’s wondergoal sparks Zidane comparisons",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
-      "summary": "Jude Bellingham’s spectacular goal in Real Madrid’s 5-1 thrashing of PSV has prompted comparisons with club legend.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 19:27 UTC"
-    },
-    {
-      "title": "Fransa'nın güneyinde sağanak hayatı olumsuz etkiledi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/fransanin-guneyinde-saganak-hayati-olumsuz-etkiledi/4137934",
-      "summary": "Fransa'nın güneyindeki Var ilinde sağanak nedeniyle yollar ve binalar sular altında kaldı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 19:20 UTC"
-    },
-    {
-      "title": "Ukrainian laser downs Russian jet-powered drone in world first",
-      "image": "",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
-      "summary": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 19:16 UTC"
-    },
-    {
-      "title": "Almanya'nın Trier Katolik Piskoposluğu'nda yaklaşık 800 çocuk ve gencin cinsel istismara uğradığı belirlendi",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/almanyanin-trier-katolik-piskoposlugunda-yaklasik-800-cocuk-ve-gencin-cinsel-istismara-ugradigi-belirlendi/4137928",
-      "summary": "Almanya'da Trier Katolik Piskoposluğu'nda 1946-2021 döneminde yaklaşık 800 çocuk ve gencin, rahipler ve din görevlilerinin cinsel istismarına maruz kaldığı ortaya çıktı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 19:15 UTC"
-    },
-    {
-      "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
-      "summary": "Disruptions at Yemen's largest seaport could exacerbate hardships for millions of Yemenis, aid experts warn.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 19:15 UTC"
-    },
-    {
-      "title": "UK military ‘moving aircraft to hangars in case of drone attacks’",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss",
-      "summary": "Experts say the move is a 'logical response' if there is intelligence suggesting a likely drone threat.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 19:15 UTC"
-    },
-    {
-      "title": "US grants SpaceX approval for 1 million space data centres",
-      "image": "",
-      "link": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
-      "summary": "Elon Musk hails FCC's approval of SpaceX's Starmind project as 'a great asset to America and the world.'",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 19:13 UTC"
-    },
-    {
-      "title": "Mısır'da yakıt tankerinde çıkan yangında 30 kişi hayatını kaybetti",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/dunya/misirda-yakit-tankerinde-cikan-yanginda-30-kisi-hayatini-kaybetti/4137919",
-      "summary": "Mısır'ın başkenti Kahire'nin batısındaki Giza kentinde petrol ürünleri taşıyan bir tankerde nedeni henüz belirlenemeyen şekilde çıkan yangında ilk belirlemelere göre 30 kişi yaşamını yitirdi, 15 kişi yaralandı.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 19:04 UTC"
-    },
-    {
-      "title": "World reacts to Trump’s new tariffs as US stocks tumble",
-      "image": "",
-      "link": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss",
-      "summary": "The new levies come after an eight-month investigation launched by the United States Trade Representative.",
-      "source": "Al Jazeera",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 18:59 UTC"
     },
     {
       "title": "ABD öncülüğündeki konsorsiyum, Lukoil International'ı satın alıyor",
@@ -479,15 +650,6 @@
       "published_at": "2026-11-25 18:57 UTC"
     },
     {
-      "title": "Mısır'da yakıt tankerinde çıkan yangında 30 kişi hayatını kaybetti",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/misirda-yakit-tankerinde-cikan-yanginda-30-kisi-hayatini-kaybetti-964474.html",
-      "summary": "Mısır'ın başkenti Kahire'nin batısındaki Giza kentinde petrol ürünleri taşıyan bir tankerde nedeni henüz belirlenemeyen şekilde çıkan yangında ilk belirlemelere göre 30 kişi yaşamını yitirdi, 15 kişi yaralandı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 18:50 UTC"
-    },
-    {
       "title": "Anayasa Mahkemesi Ekrem İmamoğlu'nun tutukluluğunu değerlendirecek",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1fed/live/63daf890-e901-11f1-b9b5-17bef7133655.jpg",
       "link": "https://www.bbc.com/turkce/articles/ckedqgw8xp2jo?at_medium=RSS&at_campaign=rss",
@@ -497,24 +659,6 @@
       "published_at": "2026-11-25 18:45 UTC"
     },
     {
-      "title": "Muhabirler Derneği'nin 2026 ödülleri sahiplerini buldu",
-      "image": "",
-      "link": "https://www.aa.com.tr/tr/gundem/muhabirler-derneginin-2026-odulleri-sahiplerini-buldu/4137910",
-      "summary": "Muhabirler Derneğinin 2026 ödülleri, İçişleri Bakanı Mustafa Çiftçi'nin katılımıyla Ankara'da düzenlenen törenle sahiplerini buldu.",
-      "source": "Anadolu Ajansı",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 18:42 UTC"
-    },
-    {
-      "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-      "summary": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 18:41 UTC"
-    },
-    {
       "title": "SpaceX'in uzayda veri merkezi projesine onay",
       "image": "https://geoim.bloomberght.com/l/2026/11/25/ver1795631672/3795683/jpg/320x180",
       "link": "https://www.bloomberght.com/spacex-in-uzayda-veri-merkezi-projesine-onay-3795683",
@@ -522,33 +666,6 @@
       "source": "Bloomberg HT",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-25 18:33 UTC"
-    },
-    {
-      "title": "Yemen ordusu: 654 operasyonda 109 Husi etkisiz hale getirildi",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/yemen-ordusu-654-operasyonda-109-husi-etkisiz-hale-getirildi-964473.html",
-      "summary": "Yemen ordusu, İran destekli Husilere yönelik düzenlediği 654 operasyonda 109 Husiyi etkisiz hale getirdiklerini ve 76 askeri aracı imha ettiklerini açıkladı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 18:30 UTC"
-    },
-    {
-      "title": "İletişim Başkanı Duran'dan Suudi Arabistan'a saldırıya tepki",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-suudi-arabistana-saldiriya-tepki-964472.html",
-      "summary": "İletişim Başkanı Burhanettin Duran, \"Husiler tarafından Suudi Arabistanın başkenti Riyadda bulunan Kral Abdullah Finans Merkezine yönelik yapılan saldırıyı şiddetle kınıyor, yaralılara acil şifalar diliyorum.\" dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 18:20 UTC"
-    },
-    {
-      "title": "Trump seçmenlerinin yüzde 78'i İsrail'e desteğin azaltılmasını istiyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/trump-secmenlerinin-yuzde-78i-israile-destegin-azaltilmasini-istiyor-964471.html",
-      "summary": "ABD'de yapılan anket, 2024 başkanlık seçimlerinde Donald Trump'a oy veren ancak 2026 ara seçimlerinde sandığa gitmeyen seçmenlerin yüzde 78'inin, Washington yönetiminin İsrail'e verdiği desteğin azaltılmasını istediğini ortaya çıkardı.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 18:13 UTC"
     },
     {
       "title": "HSK kararnamesiyle 957 hakim ve savcının görev yeri değişti",
@@ -587,15 +704,6 @@
       "published_at": "2026-11-25 17:30 UTC"
     },
     {
-      "title": "Arakçi: İsrail, yönelttiği her suçlamayla aslında kendi suçunu itiraf ediyor",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/dunya/arakci-israil-yonelttigi-her-suclamayla-aslinda-kendi-sucunu-itiraf-ediyor-964470.html",
-      "summary": "İran Dışişleri Bakanı Abbas Arakçi, İsrail Savunma Bakanı Yisrael Katz'ın ülkesini kimyasal silah üretmeye çalışmakla suçlamasına tepki göstererek, 'İsrail, yönelttiği her suçlamayla aslında kendi suçunu itiraf ediyor.' dedi.",
-      "source": "TRT Haber",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 17:17 UTC"
-    },
-    {
       "title": "Hassett: Enflasyon hedefin biraz üzerinde olabilir ama hızlanmıyor",
       "image": "https://geoim.bloomberght.com/l/2026/11/25/ver1795626621/3795680/jpg/320x180",
       "link": "https://www.bloomberght.com/hassett-enflasyon-hedefin-biraz-uzerinde-olabilir-ama-hizlanmiyor-3795680",
@@ -614,13 +722,13 @@
       "published_at": "2026-11-25 16:43 UTC"
     },
     {
-      "title": "Bakan Çiftçi: Kadına yönelen her türlü şiddet, insan haysiyetine yönelik bir saldırıdır",
-      "image": "",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-kadina-yonelen-her-turlu-siddet-insan-haysiyetine-yonelik-bir-saldiridir-964469.html",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Kadına yönelen her türlü şiddet, insan haysiyetine, toplumsal vicdanımıza ve medeniyet değerlerimize yönelik bir saldırıdır.\" ifadesini kullandı.",
-      "source": "TRT Haber",
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "source": "BBC World",
       "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 16:43 UTC"
+      "published_at": "2026-11-25 16:42 UTC"
     },
     {
       "title": "Borsa İstanbul'da sert düşüş! BIST 100 günü yüzde 2,83 kayıpla tamamladı - Sanayi Gazetesi",
@@ -632,13 +740,13 @@
       "published_at": "2026-11-25 16:36 UTC"
     },
     {
-      "title": "US announces new tariffs on host of countries including China",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 16:21 UTC"
+      "title": "Piyasalarda gün sonu notları - Borsa Gundem",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Vc3d0RjBubkMzeFdkSTk4ZWppb3JvUDJxbU1XVUMwN1dLR2Mzb2g0dWdGN1pNRWw2aHY2c1MxX1NyWnBmNE5pV3N3NWp4U0xDMTROZlp5RnlpRWlKYWc2Z0lmWEhJY3NxRFRuc1lXUDM?oc=5",
+      "summary": "Piyasalarda gün sonu notları Borsa Gundem",
+      "source": "Google News - Piyasalar",
+      "category": "Piyasalar",
+      "published_at": "2026-11-25 16:20 UTC"
     },
     {
       "title": "Özgür Özel yeni MYK'sını belirledi: Hangi tercihler öne çıktı?",
@@ -695,13 +803,13 @@
       "published_at": "2026-11-25 15:43 UTC"
     },
     {
-      "title": "Canadian astronaut welcomes baby girl from space station",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b2/live/aed9cc20-e8e5-11f1-a3b9-79c60ec9ab33.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 15:41 UTC"
+      "title": "Space Exploration Technologies hissesi neden düşüyor? - Investing.com Türkiye",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnc0a0tma09SeVp0emlLOWZWVFhwWmxIeWc0eUhGVlRMQk5ZZ2dpbU5ESDBDM0tmVWdmdml5MjFybV9NdXpXcmlUcVJoVFJJZzcyejdtc0kxOUdzMDkza1ZRUkNEV1B4cjdLSXRLWnVyUzQyWlFzWnpEb2pYdEUyMC1FbzlPMmVMcUlXbDhjS1IwRXRTSENBMWlpNDhaWjkwVVBLbWNkTGtzWGE0YnpRVE1aRQ?oc=5",
+      "summary": "Space Exploration Technologies hissesi neden düşüyor? Investing.com Türkiye",
+      "source": "Google News - Küresel Teknoloji",
+      "category": "Teknoloji ve Bilim",
+      "published_at": "2026-11-25 15:28 UTC"
     },
     {
       "title": "ABD'de yeni konut satışları bu yılın en yüksek seviyesine ulaştı",
@@ -720,24 +828,6 @@
       "source": "Google News - Ekonomi",
       "category": "Ekonomi ve Finans",
       "published_at": "2026-11-25 15:20 UTC"
-    },
-    {
-      "title": "Space Exploration Technologies hissesi neden düşüyor? - Investing.com Türkiye",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnc0a0tma09SeVp0emlLOWZWVFhwWmxIeWc0eUhGVlRMQk5ZZ2dpbU5ESDBDM0tmVWdmdml5MjFybV9NdXpXcmlUcVJoVFJJZzcyejdtc0kxOUdzMDkza1ZRUkNEV1B4cjdLSXRLWnVyUzQyWlFzWnpEb2pYdEUyMC1FbzlPMmVMcUlXbDhjS1IwRXRTSENBMWlpNDhaWjkwVVBLbWNkTGtzWGE0YnpRVE1aRQ?oc=5",
-      "summary": "Space Exploration Technologies hissesi neden düşüyor? Investing.com Türkiye",
-      "source": "Google News - Küresel Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-11-25 15:06 UTC"
-    },
-    {
-      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 14:46 UTC"
     },
     {
       "title": "Libya ordusu komutanı Halife Hafter'in Türkiye ziyareti neden önemli?",
@@ -776,24 +866,6 @@
       "published_at": "2026-11-25 14:06 UTC"
     },
     {
-      "title": "ABD'de işsizlik maaşı başvuruları düştü",
-      "image": "https://geoim.bloomberght.com/l/2026/11/25/ver1795614618/3795659/jpg/320x180",
-      "link": "https://www.bloomberght.com/abd-de-issizlik-maasi-basvurulari-dustu-3795659",
-      "summary": "ABD'de ilk kez işsizlik maaşına başvuranların sayısı, 21 Kasım ile biten haftada 189 bine düşerek piyasa beklentilerinin altında gerçekleşti.",
-      "source": "Bloomberg HT",
-      "category": "Ekonomi ve Finans",
-      "published_at": "2026-11-25 13:49 UTC"
-    },
-    {
-      "title": "İngiltere'de gençler ve yetişkinlere cinsellik araştırması ne sonuçlar verdi?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c04/live/270d0cc0-e8b4-11f1-99a1-253766e7ad8b.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c6lykxd4knmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Büyük Britanya'yı oluşturan İngiltere, İskoçya ve Galler'de yapılan büyük bir araştırmaya göre özellikle genç ve genç yetişkin Britanyalılar, geçmiş nesillere kıyasla daha az cinsel ilişkiye giriyor veya tamamen uzak duruyor.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 13:34 UTC"
-    },
-    {
       "title": "Altın fiyatlarında sert düşüş! 15 ay sonra bir ilk yaşandı - bursa tv",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUh3ajNPMmpwNUpqMnRMZ0NoMURpQzlTUFcxeHpjS3pDWmhQZ3JLNTZUT1JMd1lIaUhaZm5USTR2YjBCcDUycGtfWXdRU1NQdWptZ2pRX2dfOTBtSmM2dnhKUFBxVG93a2E0dkhMWDdRNkY1R3Jmem1WMFdidmh0dXRUV0VVejBlMS14cA?oc=5",
@@ -821,15 +893,6 @@
       "published_at": "2026-11-25 12:16 UTC"
     },
     {
-      "title": "Irak başbakanının petrol sahaları kararı sonrası Erbil-Bağdat gerilimi",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eff4/live/d08e3280-e8e9-11f1-8808-1d4222955d7e.jpg",
-      "link": "https://www.bbc.com/turkce/articles/cmzx9wg64dxlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Irak'ta Bağdat yönetiminin petrol kaçakçılığını önleme amacıyla Irak Kürdistan Bölgesel Yönetimi (IKBY) denetimindeki sınır kapıları ve bazı petrol sahalarını kontrolüne alacağını açıklaması, Erbil yönetimi ile ilişkileri gerdi.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 12:09 UTC"
-    },
-    {
       "title": "EpochGeo Anlaşması, BlackSky’ye Savunma Verilerini Birleştirmek İçin Yapay Zekâ Araçları Sağlıyor - Unite.AI",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbk5NZjN3bUJ4aUFGX1F5aHZ3dzRfM3d0OEFxaGh0OUhKZTZSMzB0NEpsMnlCRzRwNkxLQ0FaTU1KelNHTFRsSkJweEZLSEJrMkpxcGkxcUhNdWFaZnZpUDlMLUsyUnc4Q2pfa01VVGQ5eERIMTlIdnJIeUFfUXlpNkc5WklZemduWTdFbWJRRQ?oc=5",
@@ -837,69 +900,6 @@
       "source": "Google News - Teknoloji",
       "category": "Teknoloji ve Bilim",
       "published_at": "2026-11-25 11:20 UTC"
-    },
-    {
-      "title": "Borsa İstanbul’da endeks 14,76 puan düştü - Kent Gazetesi",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBieEsyQU8wQXRmU2VDY040dXdLMldONmhIZThiSHhfd3hrUTV2aDVDSVUzQnUxaHBjdHFvU04taV9uaU0xLUJzSFpPNG5XYjR6SlU3QUMtdW16Rk1TTV9aX2lGbGxPbW44ZHlqTUhnR09qSWcxcmR5NA?oc=5",
-      "summary": "Borsa İstanbul’da endeks 14,76 puan düştü Kent Gazetesi",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-25 11:16 UTC"
-    },
-    {
-      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 10:52 UTC"
-    },
-    {
-      "title": "Protesters call on Israel to free Palestinian student held without charge",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3883/live/d69e8c10-e8b7-11f1-a094-5fdc692f3e33.jpg",
-      "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
-      "source": "BBC World",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 10:03 UTC"
-    },
-    {
-      "title": "Danıştay, İmamoğlu'nun diploma iptali kararını neye dayandırdı?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d064/live/7b6e9b70-f86f-11f0-9796-05e6aeca39b2.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c338535pvm2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tutuklanarak İstanbul Büyükşehir Belediye (İBB) Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu'nun diploma iptaline karşı Danıştay'a yaptığı temyiz başvurusu reddedildi",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 09:48 UTC"
-    },
-    {
-      "title": "Yapay Zekâ Ajanlarında Güvenlik Sorumluluğu Belirsizleşiyor - ÇözümPark",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWHRCOU83aHNGWHp3c3JHWXI2TXpUWXpXeUZCSzhJQWJZTnNlRVpGYk5OcTIweTNxbkg2aFFxRTBnal9FNGpzZTFaQ0p0WmwwN3JaRkRGOEZCNDF3U3Bab0x0cUZqX25tbGVIek9kU1dGejhXcWJBb1YtZjEzcS14b1RXLXpfM3ZkcXJqbEExYw?oc=5",
-      "summary": "Yapay Zekâ Ajanlarında Güvenlik Sorumluluğu Belirsizleşiyor ÇözümPark",
-      "source": "Google News - Teknoloji",
-      "category": "Teknoloji ve Bilim",
-      "published_at": "2026-11-25 09:27 UTC"
-    },
-    {
-      "title": "Piyasalarda kritik dönemeç: Dr. Nuri Sevgen borsa, altın ve dolar için rotayı çizdi - Ekonomim",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb3NTSDR3cmdnOHl4X29RQnhpdk9nYjl1M1ZRaUpPbmNWNVBEc3BlaUpKVkl0T1piRkhaMm1wN1psN1dYcU81WWIweUV4N0IzdlVja1Vza2p6RnJFcU9QNUVLN2dEa1JiZXkyMVV2OGU1cm5JY0J0Z3VKRTZOamNHbHVVY3ljR0piT1NZMkN4TldvdjZkWDVrVDE1OWZwNnJmUVVUTXl3R0pyY2lJaTItTENaQUNYSWpVX05QWE5DdmIxWkRHWUE?oc=5",
-      "summary": "Piyasalarda kritik dönemeç: Dr. Nuri Sevgen borsa, altın ve dolar için rotayı çizdi Ekonomim",
-      "source": "Google News - Piyasalar",
-      "category": "Piyasalar",
-      "published_at": "2026-11-25 09:05 UTC"
-    },
-    {
-      "title": "Çözüm sürecinde gözler MGK'ya çevrildi: Teyit kararı ne zaman çıkacak?",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8596/live/91d2c960-e8ae-11f1-99b6-a35a62fa4264.jpg",
-      "link": "https://www.bbc.com/turkce/articles/c63rg9vy987qo?at_medium=RSS&at_campaign=rss",
-      "summary": "İktidarın \"Terörsüz Türkiye\" olarak adlandırdığı süreçte, PKK'nın silah bıraktığının teyidi konusunda gözler 26 Kasım Perşembe günü yapılması beklenen Milli Güvenlik Kurulu (MGK) toplantısına çevrildi.",
-      "source": "BBC Türkçe",
-      "category": "Dünya ve Diplomasi",
-      "published_at": "2026-11-25 09:02 UTC"
     }
   ]
 }
